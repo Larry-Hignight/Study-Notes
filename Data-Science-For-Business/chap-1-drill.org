@@ -1,0 +1,161 @@
+Data Science for Business
+by Foster Provost and Tom Fawcett
+Published by O’Reilly Media, Inc.
+
+* Chapter 1. Introduction: Data-Analytic Thinking
+** The Ubiquity of Data Opportunities :drill:
+The terms “data science” and “data mining” often are used interchangeably,
+and the former has taken a life of its own as various individuals and
+organizations try to capitalize on the current hype surrounding it. At
+a high level, [data science] is a set of fundamental principles that guide
+the extraction of knowledge from data. [Data mining] is the extraction of
+knowledge from data, via technologies that incorporate these principles.
+
+As a term, “data science” often is applied more [broadly] than the
+traditional use of “data mining,” but data mining techniques provide
+some of the clearest illustrations of the [principles] of data science.
+
+** Example: Hurricane Frances :drill:
+From a New York Times story from 2004:
+Executives at [Wal-Mart] decided that the hurricane offered a great
+opportunity for one of their newest data-driven weapons … predictive
+technology.  They came up with forecasts based on what had happened
+when Hurricane Charley struck several weeks earlier.
+
+Their goal was to identify unusual local demand for products:  ‘We didn’t
+know in the past that strawberry [Pop-Tarts] increase in sales, like seven
+times their normal sales rate, ahead of a hurricane.'
+
+** Example: Predicting Customer Churn :drill:
+Customers switching from one company to another is called [churn], and it is
+expensive all around: one company must spend on incentives to attract a
+customer while another company loses revenue when the customer departs.
+
+** Data Science, Engineering, and Data-Driven Decision Making :drill:
+[Data-driven decision-making] (DDD) refers to the practice of basing 
+decisions on the analysis of data, rather than purely on intuition.
+
+*** DDD Continued
+The benefits of data-driven decision-making have been demonstrated
+conclusively.  Economist Erik Brynjolfsson and his colleagues from
+MIT and Penn’s Wharton School conducted a study of how DDD affects firm
+performance (Brynjolfsson, Hitt, & Kim, 2011). They developed a measure
+of DDD that rates firms as to how strongly they use data to make decisions
+across the company. They show that statistically, the more data-driven a
+firm is, the more productive it is—even controlling for a wide range of
+possible confounding factors. And the differences are not small. One
+standard deviation higher on the DDD scale is associated with a 4%–6%
+increase in productivity. DDD also is correlated with higher return on
+assets, return on equity, asset utilization, and market value, and the
+relationship seems to be causal.
+
+*** Drill  :drill:
+The sort of decisions we will be interested in in this book mainly
+fall into two types: (1) decisions for which [“discoveries”] need to be
+made within data, and (2) decisions that [repeat], especially at massive
+scale, and so decision-making can benefit from even small increases
+in decision-making [accuracy] based on data analysis.
+
+The Walmart hurricane discovery is an example of [type 1];  Churn is an
+example of [type 2].
+
+*** Target  :drill:
+In 2012, [Target] was in the news for creating a model to predict when
+customers were expecting a baby. By making such predictions, they would
+gain an advantage by making offers to soon to be parents before their
+competitors. [Target] analyzed historical data on customers who later were
+revealed to have been pregnant and were able to extract information that
+could predict which consumers were pregnant.
+
+*** Drill  :drill:
+[Predictive models] abstract away most of the complexity of the world,
+focusing on a particular set of indicators that correlate with a [quantity
+of interest] (eg who will churn, who will purchase, who is pregnant).
+
+*** Drill  :drill:
+Business decisions are increasingly being made [automatically] by computers.
+
+*** Drill  :drill:
+Different industries have adopted automatic decision-making at different
+rates. The [finance] and [telecommunications] industries were early adopters.
+In the 1990s, automated decision-making changed the banking and consumer
+credit industries dramatically as massive-scale systems for managing
+data-driven [fraud] control decisions.
+
+*** Drill  :drill:
+As retail systems were increasingly computerized, merchandising decisions
+were automated. Famous examples include [Harrah's] casinos reward programs
+and the automated recommendations of Amazon and Netflix.
+
+** Data and Data Science Capability as a Strategic Asset :drill:
+The prior sections suggest one of the fundamental principles of data
+science: data, and the capability to extract useful [knowledge] from data
+should be regarded as key [strategic assets].
+
+*** Signet  :drill:
+When Signet began randomly offering terms to customers for [data] acquisition
+the number of bad accounts soared.  Signet went from an industry-leading
+“charge-off” rate (2.9% of balances went unpaid) to almost 6% charge
+offs. Losses continued for a few years while the data scientists
+worked to build [predictive models] from the data, evaluate them, and deploy
+them to improve profit. Eventually, Signet’s credit card operation turned
+around and became so profitable that it was spun off to form [Capital One].
+
+*** Harrah's  :drill:
+[Harrah’s casinos] famously invested in gathering and mining data on
+gamblers, and moved itself from a small player in the casino business
+in the mid-1990s to the acquisition of [Caesar’s Entertainment] in 2005
+to become the world’s largest gambling company
+
+** Data-Analytic Thinking  :drill:
+Analyzing case studies such as the churn problem improves our ability
+to approach problems “data-analytically.” Promoting such a perspective
+is a primary goal of this book. When faced with a business problem,
+you should be able to assess whether and how [data] can improve performance.
+We will discuss a set of fundamental concepts and principles that
+facilitate careful thinking. We will develop frameworks to structure
+the analysis so that it can be done [systematically].
+
+The consulting firm McKinsey and Company estimates that “there will
+be a [shortage] of talent necessary for organizations to take advantage
+of big data. By 2018, the United States alone could face a [shortage] of
+140,000 to 190,000 people with deep analytical skills as well as 1.5
+million managers and analysts with the know-how to use the analysis of
+big data to make effective decisions.”
+
+** Data Mining and Data Science, Revisited  :drill:
+The [Cross Industry Standard Process for Data Mining], abbreviated 
+[CRISP-DM] provides a framework for extracting useful knowledge from 
+data to solve business problem using reasonably well-defined stages.
+
+*** Drill  :drill: 
+The [Cross Industry Standard Process for Data Mining], abbreviated
+CRISP-DM provides a [framework] for extracting useful [knowledge] from 
+[data] to solve business problem using reasonably well-defined [stages].
+
+*** Overfitting  :drill:
+If you look too hard at a set of data, you will find something
+but it might not generalize beyond the data you’re looking at. This
+is referred to as [overfitting] a dataset.
+
+*** Overfitting  :drill:
+The need to [detect] and [avoid] overfitting is one of the most important
+concepts to grasp when applying data mining to real problems.
+
+*** Overfitting  :drill:
+The need to detect and avoid overfitting is one of the most important
+concepts to grasp when applying data mining to real problems.
+
+The need to detect and avoid [overfitting] is one of the most important
+concepts to grasp when applying data mining to real problems.
+
+** Summary  :drill:
+This book is about the extraction of useful information and knowledge
+from large volumes of data, in order to improve business [decesion-making].
+As the massive collection of [data] has spread through just about every
+industry sector and business unit, so have the opportunities for mining
+the data.  Underlying the extensive body of techniques for mining data
+is a much smaller set of fundamental concepts compromising data science.
+These concepts are general and encapsulate much of the essence of
+data mining and business analytics.
+

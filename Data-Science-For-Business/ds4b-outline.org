@@ -1,0 +1,2282 @@
+Data Science for Business
+by Foster Provost and Tom Fawcett
+Published by O’Reilly Media, Inc.
+
+* Preface
+** Deliberately avoided an algorithm-centered approach
+** Relatively small set of fundamental concepts / principles
+** Concepts / Principles that...
+** Underlie techniques for extracting useful knowledge from data
+** Serve as the foundation for well-known data mining algorithms
+** Underlie the analysis of data-centered business problems
+** Creation and evaluation of data science solutions
+** Concepts:  Similarity, Lift,
+** Mathematical details are relegated to optional “starred” sections
+** Two web pages for this book w/ errata, examples, additional info:
+*** Publisher’s page at http://oreil.ly/data-science
+*** Authors’ page at http://www.data-science-for-biz.com
+
+* Chapter 1. Introduction: Data-Analytic Thinking
+** The Ubiquity of Data Opportunities :drill:
+The terms “data science” and “data mining” often are used interchangeably,
+and the former has taken a life of its own as various individuals and
+organizations try to capitalize on the current hype surrounding it. At
+a high level, [data science] is a set of fundamental principles that guide
+the extraction of knowledge from data. [Data mining] is the extraction of
+knowledge from data, via technologies that incorporate these principles.
+
+As a term, “data science” often is applied more [broadly] than the
+traditional use of “data mining,” but data mining techniques provide
+some of the clearest illustrations of the [principles] of data science.
+
+** Example: Hurricane Frances :drill:
+From a New York Times story from 2004:
+Executives at [Wal-Mart] decided that the hurricane offered a great
+opportunity for one of their newest data-driven weapons … predictive
+technology.  They came up with forecasts based on what had happened
+when Hurricane Charley struck several weeks earlier.
+
+Their goal was to identify unusual local demand for products:  ‘We didn’t
+know in the past that strawberry [Pop-Tarts] increase in sales, like seven
+times their normal sales rate, ahead of a hurricane.'
+
+** Example: Predicting Customer Churn :drill:
+Customers switching from one company to another is called [churn], and it is
+expensive all around: one company must spend on incentives to attract a
+customer while another company loses revenue when the customer departs.
+
+** Data Science, Engineering, and Data-Driven Decision Making :drill:
+[Data-driven decision-making] (DDD) refers to the practice of basing 
+decisions on the analysis of data, rather than purely on intuition.
+
+*** DDD Continued
+The benefits of data-driven decision-making have been demonstrated
+conclusively.  Economist Erik Brynjolfsson and his colleagues from
+MIT and Penn’s Wharton School conducted a study of how DDD affects firm
+performance (Brynjolfsson, Hitt, & Kim, 2011). They developed a measure
+of DDD that rates firms as to how strongly they use data to make decisions
+across the company. They show that statistically, the more data-driven a
+firm is, the more productive it is—even controlling for a wide range of
+possible confounding factors. And the differences are not small. One
+standard deviation higher on the DDD scale is associated with a 4%–6%
+increase in productivity. DDD also is correlated with higher return on
+assets, return on equity, asset utilization, and market value, and the
+relationship seems to be causal.
+
+*** Drill  :drill:
+The sort of decisions we will be interested in in this book mainly
+fall into two types: (1) decisions for which [“discoveries”] need to be
+made within data, and (2) decisions that [repeat], especially at massive
+scale, and so decision-making can benefit from even small increases
+in decision-making [accuracy] based on data analysis.
+
+The Walmart hurricane discovery is an example of [type 1];  Churn is an
+example of [type 2].
+
+*** Target  :drill:
+In 2012, [Target] was in the news for creating a model to predict when
+customers were expecting a baby. By making such predictions, they would
+gain an advantage by making offers to soon to be parents before their
+competitors. [Target] analyzed historical data on customers who later were
+revealed to have been pregnant and were able to extract information that
+could predict which consumers were pregnant.
+
+*** Drill  :drill:
+[Predictive models] abstract away most of the complexity of the world,
+focusing on a particular set of indicators that correlate with a [quantity
+of interest] (eg who will churn, who will purchase, who is pregnant).
+
+*** Drill  :drill:
+Business decisions are increasingly being made [automatically] by computers.
+
+*** Drill  :drill:
+Different industries have adopted automatic decision-making at different
+rates. The [finance] and [telecommunications] industries were early adopters.
+In the 1990s, automated decision-making changed the banking and consumer
+credit industries dramatically as massive-scale systems for managing
+data-driven [fraud] control decisions.
+
+*** Drill  :drill:
+As retail systems were increasingly computerized, merchandising decisions
+were automated. Famous examples include [Harrah's] casinos reward programs
+and the automated recommendations of Amazon and Netflix.
+
+** Data and Data Science Capability as a Strategic Asset :drill:
+The prior sections suggest one of the fundamental principles of data
+science: data, and the capability to extract useful [knowledge] from data
+should be regarded as key [strategic assets].
+
+*** Signet  :drill:
+When Signet began randomly offering terms to customers for [data] acquisition
+the number of bad accounts soared.  Signet went from an industry-leading
+“charge-off” rate (2.9% of balances went unpaid) to almost 6% charge
+offs. Losses continued for a few years while the data scientists
+worked to build [predictive models] from the data, evaluate them, and deploy
+them to improve profit. Eventually, Signet’s credit card operation turned
+around and became so profitable that it was spun off to form [Capital One].
+
+*** Harrah's  :drill:
+[Harrah’s casinos] famously invested in gathering and mining data on
+gamblers, and moved itself from a small player in the casino business
+in the mid-1990s to the acquisition of [Caesar’s Entertainment] in 2005
+to become the world’s largest gambling company
+
+** Data-Analytic Thinking  :drill:
+Analyzing case studies such as the churn problem improves our ability
+to approach problems “data-analytically.” Promoting such a perspective
+is a primary goal of this book. When faced with a business problem,
+you should be able to assess whether and how [data] can improve performance.
+We will discuss a set of fundamental concepts and principles that
+facilitate careful thinking. We will develop frameworks to structure
+the analysis so that it can be done [systematically].
+
+The consulting firm McKinsey and Company estimates that “there will
+be a [shortage] of talent necessary for organizations to take advantage
+of big data. By 2018, the United States alone could face a [shortage] of
+140,000 to 190,000 people with deep analytical skills as well as 1.5
+million managers and analysts with the know-how to use the analysis of
+big data to make effective decisions.”
+
+** Data Mining and Data Science, Revisited  :drill:
+The [Cross Industry Standard Process for Data Mining], abbreviated 
+[CRISP-DM] provides a framework for extracting useful knowledge from 
+data to solve business problem using reasonably well-defined stages.
+
+*** Drill  :drill: 
+The [Cross Industry Standard Process for Data Mining], abbreviated
+CRISP-DM provides a [framework] for extracting useful [knowledge] from 
+[data] to solve business problem using reasonably well-defined [stages].
+
+*** Overfitting  :drill:
+If you look too hard at a set of data, you will find something
+but it might not generalize beyond the data you’re looking at. This
+is referred to as [overfitting] a dataset.
+
+*** Overfitting  :drill:
+The need to [detect] and [avoid] overfitting is one of the most important
+concepts to grasp when applying data mining to real problems.
+
+*** Overfitting  :drill:
+The need to detect and avoid overfitting is one of the most important
+concepts to grasp when applying data mining to real problems.
+
+The need to detect and avoid [overfitting] is one of the most important
+concepts to grasp when applying data mining to real problems.
+
+** Summary  :drill:
+This book is about the extraction of useful information and knowledge
+from large volumes of data, in order to improve business [decesion-making].
+As the massive collection of [data] has spread through just about every
+industry sector and business unit, so have the opportunities for mining
+the data.  Underlying the extensive body of techniques for mining data
+is a much smaller set of fundamental concepts compromising data science.
+These concepts are general and encapsulate much of the essence of
+data mining and business analytics.
+
+* Chapter 2. Business Problems and Data Science Solutions
+** From Business Problems to Data Mining Tasks  :drill:
+A critical skill in data science is the ability to [decompose] a data-
+analytics problem into pieces such that each piece matches a known
+task for which tools are available. Recognizing [familiar] problems and
+their solutions avoids wasting time and resources reinventing the wheel.
+
+Despite the large number of specific data mining algorithms developed over
+the years, there are only a handful of fundamentally different types of
+tasks these algorithms address. It is worth defining these tasks clearly.
+
+*** TODO Table - Unfinished
+
+| Task                                            | Desc |
+|-------------------------------------------------+------|
+| Classification and class probability estimation |      |
+| Regression (“value estimation”)                 |      |
+| Similarity                                      |      |
+| Similarity Matching                             |      |
+| Clustering                                      |      |
+| Co-occurance Grouping                           |      |
+| Profiling                                       |      |
+| Link Prediction                                 |      |
+| Data Reduction                                  |      |
+| Causal Modeling                                 |      |
+
+*** Drill  :drill:
+[Classification] and [class probability estimation] attempt to predict,
+for each individual in a population, which of a (small) set of [classes]
+this individual belongs to. Usually the [classes] are mutually exclusive.
+
+*** Drill  :drill:
+[Classification] and [class probability estimation] attempt to [predict],
+for each individual in a population, which of a (small) set of classes
+this individual belongs to. Usually the classes are [mutually exclusive].
+
+*** Drill  :drill:
+An example classification question:  “Among all the customers which
+are likely to respond to a given offer?” In this example the [two]
+classes could be called ["will respond"] and ["will not" respond].
+
+*** Drill  :drill:
+A closely related task is scoring or class [probability estimation]. 
+A scoring model applied to an individual produces, instead
+of a class prediction, a score representing the [probability] (or some
+other quantification of likelihood) that that individual belongs to
+each class. In our customer response scenario, a scoring model would
+be able to evaluate each individual customer and produce a score of
+how likely each is to respond to the offer.
+
+*** Drill  :drill:
+Regression (or “value estimation”) attempts to [estimate] or predict, for 
+each individual, the [numerical] value of some variable for that individual.
+
+An example regression question would be: “How [much] will a given customer
+use the service?” The property (variable) to be predicted here is
+service usage, and a model could be generated by looking at other,
+similar individuals in the population and their historical usage.
+
+*** Drill  :drill:
+Informally, [classification] predicts whether something will happen, whereas
+[regression] predicts how much something will happen.
+
+*** Drill  :drill:
+Similarity matching attempts to identify [similar] individuals based
+on data known about them.
+
+*** Drill  :drill:
+[Similarity matching] is the basis for one of the most popular methods
+for making product recommendations (finding people who are similar
+to you in terms of the products they have liked or have purchased)
+
+*** Drill  :drill:
+[Clustering] attempts to group individuals in a population together by
+their similarity, but not driven by any specific [purpose]. An example
+[clustering] question would be: “Do our customers form natural groups
+or segments?”
+
+*** Drill  :drill:
+[Co-occurrence grouping] (also known as frequent itemset mining, association
+rule discovery, and market-[basket] analysis) attempts to find associations
+between entities based on transactions involving them. An example [co-
+occurrence] question would be: What items are commonly purchased together?
+
+*** Drill  :drill:
+[Clustering] looks at similarity between objects based on the objects’
+[attributes], while [co-occurrence grouping] considers similarity of objects
+based on their appearing together in transactions.
+
+*** Drill  :drill:
+Co-occurrence of products in purchases is a common type of grouping
+known as [market-basket analysis].
+
+*** Drill  :drill:
+Profiling (also known as [behavior] description) attempts to characterize
+the typical [behavior] of an individual, group, or population.
+
+*** Drill  :drill:
+[Profiling] is often used to establish behavioral norms for [anomaly]
+detection applications such as [fraud] detection and monitoring for 
+[intrusions] to computer systems.
+
+*** Drill  :drill:
+[Link prediction] attempts to predict connections between data items,
+usually by suggesting that a [link] should exist, and possibly also
+estimating the strength of the [link]. [Link prediction] is common in social
+networking systems.
+
+*** Drill  :drill:
+Link prediction can also estimate the [strength] of a link. We search
+for links that do not exist between customers and movies, but that
+we predict should [exist] and should be [strong].  These links form the
+basis for [recommendations].
+
+*** Drill  :drill:
+[Data reduction] attempts to take a large set of data and replace it
+with a smaller set of data that contains much of the important [information]
+in the larger set. The smaller dataset may be easier to deal with or
+to process. Moreover, the smaller dataset may [better reveal information].
+
+*** Drill  :drill:
+[Causal modeling] attempts to help us understand what events or actions
+actually influence others. For example, did the advertisements influence
+consumers to purchase? Or did the predictive models simply do a good
+job of identifying those consumers who would have purchased anyway?
+
+*** Drill  :drill:
+Techniques for causal modeling include those involving a substantial
+investment in data, such as [randomized] controlled experiments (eg,
+so-called [“A/B tests”]), as well as sophisticated methods for drawing 
+causal conclusions from [observational] data.
+
+** Supervised Versus Unsupervised Methods  :drill:
+The terms supervised and unsupervised were inherited from the field
+of [machine learning]. Metaphorically, a teacher “supervises” the learner
+by carefully providing [target] information along with a set of examples.
+An [unsupervised] learning task might involve the same set of examples but
+would not include the [target] information. The learner would be given
+no information about the [purpose] of the learning, but would be left
+to form its own conclusions about what the examples have in common.
+
+*** Drill  :drill:
+Technically, another condition must be met for supervised data mining:
+there must be [data on the target]. It is not enough that the [target]
+information exist in principle; it must also exist in the [data].
+
+*** Drill  :drill:
+[Supervised] tasks require different techniques than unsupervised tasks do,
+and the results often are much more [useful]. A supervised technique is
+given a [specific purpose] for the grouping—predicting the target.
+[Clustering], an unsupervised task, produces [groupings] based on
+similarities, but there is no guarantee that these similarities
+are [meaningful] or will be useful for any particular [purpose].
+
+*** Drill  :drill:
+Acquiring data on the [target] often is a key data science [investment].
+The value for the target variable for an individual is often called
+the individual’s [label], emphasizing that often (not always) one
+must incur expense to actively [label] the [data]. 
+
+*** Drill  :drill:
+Classification, regression, and causal modeling generally are solved 
+with [supervised] methods.  Similarity matching, link prediction, and 
+data reduction could be [either]. Clustering, co-occurrence grouping, and
+profiling generally are [unsupervised]. The fundamental principles of
+data mining that we will present underlie all these types of technique.
+
+*** Drill  :drill:
+[Classification], [regression], and [causal modeling] generally are solved 
+with supervised methods.  
+
+*** Drill  :drill:
+[Similarity matching], [link prediction], and [data reduction] can be
+solved with either supervised or [unsupervised] methods. 
+
+*** Drill  :drill:
+[Clustering], [co-occurrence grouping], and [profiling] generally use
+unsupervised methods.
+
+*** Drill  :drill:
+Classification, regression, and causal modeling generally are solved 
+with [supervised] methods.  
+
+*** Drill  :drill:
+Similarity matching, link prediction, and data reduction can be
+solved with [either supervised or unsupervised] methods. 
+
+*** Drill  :drill:
+Clustering, co-occurrence grouping, and profiling generally use
+[unsupervised methods].
+
+*** Drill  :drill:
+Two main subclasses of [supervised learning], classification and regression,
+are distinguished by the type of target. Regression involves a [numeric] 
+target while classification involves a [categorical (often binary)] target.
+
+*** Drill  :drill:
+Two main subclasses of supervised learning, [classification] and [regression],
+are distinguished by the type of target. [Regression] involves a numeric 
+target while [classification] involves a categorical (often binary) target.
+
+*** Drill  :drill:
+For business applications we often want a [numerical prediction] over a 
+[categorical target]. In the churn example, a basic yes/no prediction of 
+whether a customer is likely to continue to subscribe to the service 
+may not be sufficient; we want to model the [probability] that the customer 
+will continue. This is still considered [classification] modeling rather 
+than [regression] because the underlying target is [categorical]. Where 
+necessary for clarity, this is called [“class probability estimation.”]
+
+*** Drill  :drill:
+A vital part in the early stages of the data mining process is (i) to 
+decide whether the line of attack will be [supervised] or [unsupervised], 
+and (ii) if [supervised], to produce a precise definition of a [target]
+variable. This variable must be a specific [quantity] that will be the 
+focus of the data mining.
+
+** The Data Mining Process
+*** Drill  :drill:
+Data science is a [craft].  As with many mature crafts, there is a
+ well-understood [process] that places a structure on the problem, 
+allowing reasonable [consistency], [repeatability], and [objectiveness].
+
+*** Drill  :drill:
+A useful codification of the data mining process is given by the
+ [Cross Industry Standard Process for Data Mining] (CRISP-DM).
+
+*** Drill  :drill:
+A useful codification of the data mining process is [CRISP-DM] (abbv).
+
+*** TODO - Add illustration Figure 2-2.1 Figure 2-2. 
+
+*** CRISP-DM Table  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide2cloze
+:END:
+
+The CRISP-DM process includes the following stages:
+
+1. [Business Understanding]
+2. [Data Understanding]
+3. [Data Preparation]
+4. [Modeling]
+5. [Evaluation]
+6. [Deployment]
+
+*** About the CRISP data mining process  :drill:
+:PROPERTIES:
+:DRILL_CARD_TYPE: hide2cloze
+:END:
+
+This process diagram makes explicit the fact that [iteration] is the rule 
+rather than the exception. Going through the process once without having 
+solved the problem is, generally speaking, not a [failure]. Often the 
+entire process is an [exploration] of the data, and after the first 
+[iteration] the data science team [knows much more].  The next iteration 
+can be much more [well-informed]. 
+
+** Business Understanding  :drill:
+Initially, it is vital to understand the problem to be solved. 
+This may seem obvious, but business projects seldom come pre-packaged 
+as clear and unambiguous data mining problems.  Often, [recasting] the 
+problem and [designing] a solution is an [iterative] process of [discovery].
+
+*** Drill  :drill: 
+The [Business Understanding] stage represents a part of the craft
+where the analysts’ creativity plays a large role. Data science 
+has some things to say, as we will describe, but often the key 
+to a great success is a creative problem formulation by some analyst 
+regarding how to cast the [business] problem as one or more [data 
+science] problems. High-level knowledge of the [fundamentals] helps 
+creative business analysts see novel formulations.
+
+** Data Understanding  :drill:
+A critical part of the [data understanding] phase is estimating 
+the [costs] and [benefits] of each [data source] and deciding 
+whether further [investment] is merited.
+
+*** Credit card fraud  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide2cloze
+  :END:
+Data mining has been used extensively for fraud detection, and 
+many fraud detection problems involve classic [supervised] data 
+mining tasks. Fraudulent charges are usually caught—if not initially 
+by the [company], then later by the [customer] when account activity 
+is reviewed. Nearly all fraud is [identified] and reliably 
+[labeled], since the legitimate customer and the person perpetrating 
+the fraud are different people and have opposite goals. Thus credit 
+card transactions have reliable [labels] (fraud and legitimate) that 
+may serve as targets for a [supervised] technique. 
+
+*** Medicare fraud  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide2cloze
+  :END:
+Those who commit [Medicare] fraud are a subset of the legitimate 
+users; there is no separate disinterested party who will declare 
+exactly what the “correct” charges should be. Consequently the 
+Medicare billing data have no reliable [target] variable indicating 
+fraud, and a [supervised] learning approach that could work for 
+credit card fraud is not applicable. Such a problem usually requires 
+[unsupervised] approaches such as [profiling], [clustering], [anomaly 
+detection], and [co-occurrence grouping].
+
+** Data Preparation  :drill:
+Typical examples of data [preparation] are converting data to tabular 
+format, removing or [inferring missing] values, and converting data 
+to different [types]. Some data mining techniques are designed for 
+[symbolic] and [categorical] data, while others handle only [numeric] 
+values. In addition, numerical values must often be [normalized] 
+or [scaled] so that they are comparable. 
+
+*** Leaks  :drill:
+One very general and important concern during data preparation 
+is to beware of [“leaks”] (Kaufman et al. 2012). A [leak] is a situation 
+where a [variable] collected in historical data gives information 
+on the [target] variable — information that appears in historical 
+data but is not actually available when the decision has to be made. 
+
+** Modeling  :drill:
+The output of the [modeling] stage is some sort of [model] or pattern 
+capturing regularities in the data.
+
+** Evaluation  :drill:
+The purpose of the [evaluation] stage is to assess the data mining 
+results rigorously and to gain confidence that they are valid 
+and reliable before moving on. If we look hard enough at any dataset 
+we will find [patterns], but they may not survive careful scrutiny. 
+
+*** Evaluation State and Business Goals  :drill:
+Equally important, the evaluation stage also serves to help ensure 
+that the model satisfies the original [business] goals. Recall 
+that the primary goal of data science for business is to support
+[decision making], and that we started the process by focusing 
+on the business problem we would like to solve.
+
+*** Drill  :drill:
+To facilitate such qualitative assessment, the data scientist 
+must think about the comprehensibility of the model to [stakeholders] 
+(not just to the [data scientists]). And if the model itself is not 
+comprehensible (e.g., maybe the model is a very complex mathematical 
+formula), how can the data scientists work to make the behavior 
+of the model be comprehensible.
+
+*** Evaluation framework  :drill:
+A comprehensive evaluation [framework] is important because 
+getting detailed information on the [performance] of a deployed 
+model may be difficult or impossible.
+
+*** A/B Testing  :drill:
+In our churn example, if we have decided from laboratory tests that
+a data mined model will give us better churn reduction, we may want 
+to move on to an [“in vivo”] evaluation, in which a live system 
+randomly applies the model to some customers while keeping other 
+customers as a [control group].
+
+** Deployment  :drill:
+In the [deployment] stage the results of data mining, and increasingly 
+the data mining techniques themselves, are put into real use in order 
+to realize some return on investment.
+
+*** Deploying data mining models  :drill:
+Increasingly, the data mining techniques themselves are deployed. 
+For example, for targeting online advertisements, systems are 
+deployed that automatically build (and test) [models] in [production] 
+when a new advertising campaign is presented.
+
+*** Deploying data mining models  :drill:
+Two main reasons for deploying the data mining system itself rather than 
+the models produced by a data mining system are (i) the world may [change
+faster] than the data science team can adapt, as with fraud and intrusion 
+detection, and (ii) a business has too many [modeling] tasks for their 
+data science team to manually curate each [model] individually. 
+
+*** Deploying into production  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show2cloze
+  :END:
+It may be best to deploy the data mining phase into production. In doing 
+so, it is critical to [instrument] the system to alert the data science
+team of any seeming [anomalies] and to provide [fail-safe] operation.
+
+** Implications for Managing the Data Science Team  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide2cloze
+  :END:
+Data mining is an [exploratory] undertaking closer to [research and 
+development] than it is to [engineering]. The [CRISP] cycle is based 
+around [exploration]; it iterates on approaches and strategy rather 
+than on [software designs]. Outcomes are far less [certain], and the 
+results of a given step may change the understanding of the problem. 
+
+** Software skills versus analytics skills  :drill:
+In analytics, it’s important for individuals to be able to formulate 
+problems well, to [prototype] solutions quickly, to make good [assumptions] 
+in the face of ill-structured problems, to design [experiments]
+that represent good [investments], and to analyze results.
+
+** Other Analytics Techniques and Technologies
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show2cloze
+  :END:
+To this end, we present six groups of related analytic techniques. 
+Where appropriate we draw comparisons and contrasts with data mining. 
+The main difference is that data mining focuses on the [automated] 
+search for [knowledge], [patterns], or [regularities] from [data].
+
+*** Statistics  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show2cloze
+  :END:
+Often we want to calculate [summary statistics] [conditionally] on one 
+or more [subsets] of the [population] (e.g., “Does the churn rate differ 
+between male and female customers?”
+
+*** Database Querying  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show2cloze
+  :END:
+A [query] is a specific request for a [subset] of data or for [statistics] 
+about data, formulated in a technical language and posed to a [database] 
+system.  
+
+*** Other Analytics Techniques and Technologies  :drill:
+[On-line Analytical Processing] (OLAP) provides an easy-to-use GUI 
+to query large data collections, for the purpose of facilitating 
+data exploration. The idea of [“on-line” processing] is that it 
+is done in realtime, so analysts and decision makers can find 
+answers to their queries quickly and efficiently. Unlike the [“ad 
+hoc”] querying enabled by tools like SQL, for OLAP the dimensions 
+of analysis must be pre-programmed into the OLAP system. 
+
+**** Drill  :drill:
+OLAP systems are designed to facilitate manual or visual exploration 
+of the data by analysts. OLAP performs no modeling or automatic 
+[pattern finding]. As an additional contrast, unlike with OLAP, [data 
+mining] tools generally can incorporate new dimensions of analysis 
+easily as part of the exploration. OLAP tools can be a useful 
+[complement] to data mining tools for discovery from business data.
+
+*** Data Warehousing  :drill:
+[Data warehouses] collect and coalesce data from across an enterprise, 
+often from multiple transaction-processing systems, each with 
+its own database.
+
+**** Drill  :drill:
+Data [warehousing] may be seen as a facilitating technology of data 
+mining. It is not always necessary, as most data mining does not 
+access a [data warehouse], but firms that decide to invest in [data 
+warehouses] often can apply data mining more broadly and more deeply 
+in the organization.
+
+*** Regression Analysis  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide2cloze
+  :END:
+This book will focus on different issues than usually encountered 
+in a regression analysis book or class. Here we are less interested 
+in explaining a particular [dataset] as we are in extracting [patterns] 
+that will [generalize] to other data, and for the purpose of improving 
+some business process. Typically, this will involve [estimating] or 
+[predicting] values for cases that are not in the analyzed data set. 
+
+**** Explanatory Models vs Predictive Modeling  :drill:
+The topic of explanatory modeling versus predictive modeling can elicit 
+deep-felt debate, which goes well beyond our focus. What is important 
+is to realize that there is considerable overlap in the [techniques] used,
+but that the lessons learned from [explanatory] modeling do not all apply 
+to [predictive] modeling. A reader with some background in regression 
+analysis may encounter new and even seemingly contradictory lessons.
+
+*** Machine Learning and Data Mining  :drill:
+The collection of methods for extracting [predictive] models from 
+data, now known as [machine learning] methods, were developed in 
+several fields contemporaneously, most notably [Machine Learning], 
+Applied Statistics, and Pattern Recognition.
+
+**** Drill  :drill: 
+Machine Learning as a field of study arose as a subfield of [Artificial 
+Intelligence], which was concerned with methods for improving the 
+knowledge or performance of an intelligent [agent] over time, in response 
+to the [agent’s] experience in the world. 
+
+**** Drill  :drill: 
+[Machine Learning] as a field of study arose as a subfield of AI.
+
+**** Drill  :drill:
+The field of Data Mining (or [KDD]: [Knowledge Discovery and Data Mining]) 
+started as an offshoot of [Machine Learning], and they remain closely 
+linked. Both fields are concerned with the [analysis] of data to find 
+useful or informative [patterns]. Indeed, the areas are so closely related 
+that researchers commonly participate in both communities.
+
+**** Drill :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide2cloze
+  :END:
+Because [Machine Learning] is concerned with many types of performance
+improvement, it includes subfields such as [robotics] and [computer vision]
+that are not part of [KDD]. It also is concerned with issues of agency
+and cognition, how will an intelligent agent use learned knowledge to
+reason and act in an environment, which are not concerns of [Data Mining].
+
+**** Drill  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: hide2cloze
+  :END:
+Historically, KDD spun off from Machine Learning as a research 
+field focused on concerns raised by examining [real-world] applications, 
+and a decade and a half later the KDD community remains more concerned 
+with applications than Machine Learning is. As such, research 
+focused on [commercial] applications and [business] issues of data 
+analysis tends to gravitate toward the [KDD] community rather than 
+to [Machine Learning]. [KDD] also tends to be more concerned with 
+the entire process of data analytics: data preparation, model 
+learning, evaluation, and so on.
+
+* Chapter 3. Introduction to Predictive Modeling: From Correlation to Supervised Segmentation
+** Fundamental concepts: Identifying informative attributes; Segmenting data by progressive attribute selection
+** Exemplary techniques: Finding correlations; Attribute/variable selection; Tree induction
+
+*** Supervised segmentation  :drill:
+We begin by thinking of predictive modeling as supervised segmentation:
+How can we segment the population into groups that differ from each other 
+with respect to some quantity of [interest].  In particular, how can we 
+segment the [population] with respect to something that we would like
+to predict or [estimate]. 
+
+*** Informative variables  :drill:
+In the process of discussing supervised segmentation, we introduce
+one of the fundamental ideas of data mining: finding or selecting important,
+informative [variables] or [“attributes”] of the entities described by
+the data. What exactly it means to be informative varies among applications,
+but generally, [information] is a quantity that reduces [uncertainty].
+
+*** Drill  :drill:
+A key to [supervised] data mining is that we have some [target] quantity
+we would like to [predict] or to otherwise understand better. 
+
+*** Drill  :drill:
+We would like to find knowable [attributes] that [correlate] with the 
+target of [interest], that reduce our [uncertainty] in it. Just finding 
+these correlated variables may provide important insight into the business problem.
+
+Finding informative attributes also is useful to help us deal with increasingly larger
+databases and data streams. Datasets that are too large pose computational problems
+for analytic techniques, especially when the analyst does not have access to high-
+performance computers. One tried-and-true method for analyzing very large datasets
+is first to select a subset of the data to analyze. Selecting informative attributes provides
+an “intelligent” method for selecting an informative subset of the data. In addition,
+attribute selection prior to data-driven modeling can increase the accuracy of the mod‐
+eling, for reasons we will discuss in Chapter 5.
+
+*** TODO Include Fig 3-1  :drill:
+Data mining terminology for a supervised classification problem. The
+problem is supervised because it has a [target attribute] and some 
+“training” data where we know the value for the [target attribute]. 
+It is a classification (rather than regression) problem because the 
+target is a [category] (yes or no) rather than a [number].
+
+*** Drill  :drill:
+Finding informative attributes also is the basis for a widely used 
+predictive modeling technique called [tree induction].
+
+*** Drill  :drill:
+[Tree induction] incorporates the idea of supervised segmentation in an 
+elegant manner, repeatedly selecting informative attributes. 
+
+** Models, Induction, and Prediction  :drill:
+Generally speaking, a [model] is a simplified representation of reality 
+created to serve a purpose. For example, a map is a [model] of the 
+physical world.
+
+*** Model terminology  :drill:
+A model is a simplified [representation] of reality created to serve a 
+[purpose]. For example, a [map] is a model of the physical world.
+
+*** Predictive models  :drill:
+In data science, a predictive model is a formula for estimating the
+unknown value of interest: the [target]. The formula could be [mathematical],
+or it could be a [logical statement] such as a rule (often it is both).
+
+** Terminology: Prediction  :drill:
+In common usage, [prediction] means to forecast a future event. In data
+science, [prediction] generally means to [estimate] an unknown value. This 
+value could be something in the future (in common usage, [prediction]),
+but it could also be something in the present or in the past. 
+
+*** Descriptive Modeling  :drill:
+Predictive models are intended to be used to [estimate] an unknown 
+value. This is in contrast to [descriptive] modeling, where the primary 
+purpose of the model is not to [estimate] a value but instead to gain 
+insight into the underlying phenomenon or process.
+
+*** Supervised Learning  :drill:
+[Supervised learning] is model creation where the model describes a 
+relationship between a set of selected variables (attributes or features)
+and a predefined variable called the [target] variable. The model estimates 
+the value of the [target] variable as a function (possibly a probabilistic 
+function) of the features.  
+
+*** Terminology:  Instance  :drill:
+An [instance] or [example] represents a fact or a data point, in this case 
+a historical customer who had been given credit. This is also called 
+a [row] in database or spreadsheet terminology.
+
+*** Terminology:  Instance  :drill:
+An instance is described by a set of attributes (fields, columns, variables,
+or features). An instance is also sometimes called a [feature vector], 
+because it can be represented as a fixed-length ordered collection 
+([vector]) of feature values.
+
+** Many Names for the Same Things  :drill:
+There are several different names for the same things: 
+We typically will refer to a [dataset], whose form usually is the same 
+as a [table] of a database or a [worksheet] of a spreadsheet. 
+
+** Many Names for the Same Things  :drill:
+A dataset contains a set of examples or [instances]. An [instance] also 
+is referred to as a [row] of a database table or sometimes a [case] in 
+statistics.
+
+** Many Names for the Same Things  :drill:
+The features (table columns) have many different names as 
+well. Statisticians speak of [independent variables] or [predictors] as 
+the attributes supplied as input. In operations research you may also 
+hear [explanatory variable]. The target variable, whose values are to 
+be predicted, is commonly called the [dependent variable] in statistics. 
+
+*** Terminology:  Induction  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show1cloze
+  :END:
+The creation of models from data is known as model [induction], which 
+is a term from philosophy that refers to generalizing from [specific] 
+cases to [general] rules (or laws, or truths). 
+
+*** Terminology:  Induction  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show1cloze
+  :END:
+The procedure that creates the model from the data is called the induction 
+[algorithm] or [learner]. Most inductive procedures have variants that 
+induce models both for [classification] and for [regression]. 
+
+** Terminology: Induction and deduction  :drill:
+Induction can be contrasted with [deduction], which starts with [general] 
+rules and [specific] facts, and creates other [specific] facts from them.
+
+*** Drill  :drill:
+The input data for the induction algorithm, used for inducing the model, 
+are called the [training] data.  They are [labeled] data because the 
+value for the [target] variable is known.
+
+** Supervised Segmentation  :drill:
+An intuitive way of thinking about extracting patterns from data in a 
+supervised manner is to try to [segment] the population into [subgroups] 
+that have different values for the target variable (and within the 
+[subgroup] the instances have similar values for the target variable).  
+
+** Selecting Informative Attributes  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show1cloze
+  :END:
+Technically, we would like the resulting groups to be as [pure] as 
+possible. By [pure] we mean [homogeneous] with respect to the target 
+variable. If every member of a group has the same [value] for the target, 
+then the group is [pure]. If there is at least one member of the group 
+that has a different value for the target variable than the rest of 
+the group, then the group is [impure].
+
+*** Complications when splitting attributes into groups
+Technically, there are several complications:
+1. Attributes rarely split a group perfectly. Even if one subgroup 
+happens to be pure,the other may not.
+2. In the prior example, the condition body-color=gray only splits 
+off one single datapoint into the pure subset. Is this better than 
+another split that does not produce any pure subset, but reduces the 
+impurity more broadly?
+3. Not all attributes are binary; many attributes have three or more 
+distinct values. We must take into account that one attribute can split 
+into two groups while another might split into three groups, or seven. 
+4. Some attributes take on numeric values (continuous or integer).
+
+*** Information gain  :drill:
+Fortunately, for classification problems we can address all the issues 
+by creating a formula that evaluates how well each attribute splits 
+a set of examples into segments, with respect to a chosen target variable. 
+Such a formula is based on a purity measure. The most common splitting 
+criterion is called [information gain], and it is based on a purity measure 
+called [entropy]. Both concepts were invented by one of the pioneers 
+of [information theory], [Claude Shannon], in his seminal work in the field.
+
+*** Entropy  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show1cloze
+  :END:
+[Entropy] is a measure of [disorder] that can be applied to a set and 
+tells us how [mixed (impure)] the segment is with respect to these 
+properties of interest.  For example, a mixed up segment with lots 
+of write-offs and lots of non-write-offs would have [high entropy].
+
+*** Entropy formula  :drill:
+More technically, entropy is defined as:
+
+entropy = [-( p1 log (p1) + p2 log (p2) + ⋯ )]
+
+Each pi is the [probability] of property i within the set, ranging from 
+pi = [1] when all members of the set have property i, and pi = [0] when 
+no members of the set have property i. 
+
+The … simply indicates that there may be more than just two properties 
+
+For the technically minded, the logarithm is generally taken as base [2].
+
+*** TODO Entropy conceptual Fig 3-3
+Entropy measures the general disorder of the set: 
+ranging from [zero] at minimum disorder, when all members are the same,
+to [one] at maximal disorder, when the properties are equally mixed. 
+Note: [An upside down parabola]
+
+*** Entropy conceptual
+A set composed of a single item has an entropy measure of [0].
+This is the [minimum] entropy possible.
+
+*** Entropy conceptual
+A set with the same number of two distinct items has [maximum] entropy.
+The entropy measure would equal [1] in this case.
+
+*** Entropy conceptual
+A set composed of n distinct items has an entropy measure of [-log(1/n,2)].
+This is an example of maximum [disorder or entropy].
+
+*** Information Gain  :drill:
+Entropy is only part of the story. We would like to measure how informative 
+an attribute is with respect to our target: how much [gain] in information 
+it gives us about the value of the target variable. An attribute 
+segments a set of instances into several subsets. Entropy only tells 
+us how impure [one] individual subset is. Fortunately, with entropy to 
+measure how [disordered] any set is, we can define [information gain (IG)]
+to measure how much an attribute improves (ie decreases) entropy over 
+the whole segmentation it creates. 
+
+**** Drill - Information Gain  :drill:
+Strictly speaking, [information gain] measures the change in [entropy] 
+due to any amount of new information being added.
+
+*** Information Gain (Equation 3-2)
+The definition of information gain (IG) is: 
+IG(parent, children) = f(parent) - ( p(c1) × f(c1) + p(c2) × f(c2) + ⋯ )
+
+Where f is the entropy function
+
+Entropy for each child (ci) is weighted by the proportion of instances 
+belonging to that child, p(ci). This addresses directly our concern 
+from above that splitting off a single example, and noticing that 
+that set is pure, may not be as good as splitting the parent set 
+into two nice large, relatively pure subsets, even if neither is pure.
+
+**** Information Gain w/ numeric variables  :drill: 
+With regards to information gain, [numeric] variables can be [discretized]
+by choosing a split point (or many split points) and then treating the
+result as a [categorical] attribute. For example, income could be 
+divided into two or more ranges. Information gain can be applied to
+evaluate the segmentation created by this [discretization] of the 
+[numeric] attribute. We still are left with the question of how to
+choose the split point(s). Conceptually, we can try all reasonable split
+points, and choose the one that gives the highest [information gain].
+
+*** Numeric target variables  :drill:
+Finally, what about supervised segmentations for _regression problems_, 
+problems with a [numeric] target variable? Looking at reducing the 
+impurity of the child subsets still makes intuitive sense, but information 
+gain is not the right measure, because entropy-based [information 
+gain] is based on the distribution of the properties in the segmentation. 
+
+*** Numeric target variables  :drill:
+Instead, we want a measure of the purity of the numeric (target) values 
+in the subsets. A natural measure of impurity for numeric values is
+[variance]. If the set has all the same values for the numeric target 
+variable, then the set is [pure] and the [variance] is zero.  If the 
+numeric target values in the set are very different, then the set will have 
+high [variance]. We can create a similar notion to information gain 
+by looking at reductions in [variance] between parent and children. 
+The process proceeds in direct analogy to the derivation for information 
+gain above. To create the best segmentation w/ a numeric target, we might
+choose the one that produces the best weighted average [variance] reduction.
+
+** Example: Attribute Selection with Information Gain  :drill:
+Information gain can be used for all of the following:
+- find the most [informative] attribute for [estimating] the target variable
+- [rank] a set of attributes by their informativeness
+- reduce the [size of the data] to be analyzed
+
+*** Entropy graph  :drill:
+An [entropy graph] can illustrate entropy reduction graphically. It is
+a two-dimensional description of the entire dataset’s entropy as it is
+divided by the different [attributes]. On the x axis is the [proportion 
+of the dataset] (0 to 1), and on the y axis is the [entropy] (also 0 to 1) 
+of a given piece of the data. The amount of [shaded area] in each graph 
+represents the amount of [entropy] in the dataset when it is divided by 
+some chosen attribute. Our goal of having the lowest entropy corresponds 
+to having as little [shaded area] as possible. 
+
+** Supervised Segmentation with Tree-Structured Models
+** Visualizing Segmentations
+** Trees as Sets of Rules
+** Probability Estimation
+** Example: Addressing the Churn Problem with Tree Induction
+** Summary
+
+* Chapter 4. Fitting a Model to Data
+** Fundamental concepts: Finding “optimal” model parameters based on data; Choosing the goal for data mining; Objective functions; Loss functions
+** Exemplary techniques: Linear regression; Logistic regression; Support-vector machines.
+** Classification via Mathematical Functions
+** Linear Discriminant Functions
+** Optimizing an Objective Function
+** An Example of Mining a Linear Discriminant from Data
+** Linear Discriminant Functions for Scoring and Ranking Instances
+** Support Vector Machines, Briefly
+** Regression via Mathematical Functions
+** Class Probability Estimation and Logistic “Regression
+** Logistic Regression: Some Technical Details
+** Example: Logistic Regression versus Tree Induction
+** Nonlinear Functions, Support Vector Machines, and Neural Networks
+** Summary
+
+* Chapter 5. Overfitting and Its Avoidance
+** Fundamental concepts: Generalization; Fitting and overfitting; Complexity control.
+** Exemplary techniques: Cross-validation; Attribute selection; Tree pruning;
+** Regularization
+** Generalization
+** Overfitting
+** Overfitting Examined
+** Holdout Data and Fitting Graphs
+** Overfitting in Tree Induction
+** Overfitting in Mathematical Functions
+** Example: Overfitting Linear Functions
+** Example: Why Is Overfitting Bad?
+** From Holdout Evaluation to Cross-Validation
+** The Churn Dataset Revisited
+** Learning Curves
+** Overfitting Avoidance and Complexity Control
+** Avoiding Overfitting with Tree Induction
+** A General Method for Avoiding Overfitting
+** Avoiding Overfitting for Parameter Optimization
+** Summary
+
+* Chapter 6. Similarity, Neighbors, and Clusters
+** Fundamental concepts: Calculating similarity of objects described by data; Using similarity for prediction; Clustering as similarity-based segmentation
+** Exemplary techniques: Searching for similar entities; Nearest neighbor methods;
+** Clustering methods; Distance metrics for calculating similarity
+** Similarity and Distance
+** Nearest-Neighbor Reasoning
+** Example: Whiskey Analytics
+** Nearest Neighbors for Predictive Modeling
+** How Many Neighbors and How Much Influence
+** Geometric Interpretation, Overfitting, and Complexity Control
+** Issues with Nearest-Neighbor Methods
+** Some Important Technical Details Relating to Similarities and Neighbors
+** Heterogeneous Attributes
+** Other Distance Functions
+** Combining Functions: Calculating Scores from Neighbors
+** Clustering
+** Example: Whiskey Analytics Revisited
+** Hierarchical Clustering
+** Nearest Neighbors Revisited: Clustering Around Centroids
+** Example: Clustering Business News Stories
+** Understanding the Results of Clustering
+** Using Supervised Learning to Generate Cluster Descriptions
+** Stepping Back: Solving a Business Problem Versus Data Exploration
+** Summary
+
+* Chapter 7. Decision Analytic Thinking I: What Is a Good Model?
+** Fundamental concepts: Careful consideration of what is desired from data science results; Expected value as a key evaluation framework; Consideration of appropriate comparative baselines
+** Exemplary techniques: Various evaluation metrics; Estimating costs and benefits;
+** Calculating expected profit; Creating baseline methods for comparison
+** Evaluating Classifiers
+** Plain Accuracy and Its Problems
+** The Confusion Matrix
+** Problems with Unbalanced Classes
+** Problems with Unequal Costs and Benefits
+** Generalizing Beyond Classification
+** A Key Analytical Framework: Expected Value
+** Using Expected Value to Frame Classifier Use
+** Using Expected Value to Frame Classifier Evaluation
+** Evaluation, Baseline Performance, and Implications for Investments in Data
+** Summary
+
+* Chapter 8. Visualizing Model Performance
+** Fundamental concepts: Visualization of model performance under various kinds of uncertainty; Further consideration of what is desired from data mining results
+** Exemplary techniques: Profit curves; Cumulative response curves; Lift curves; ROC curves
+** Ranking Instead of Classifying
+** Profit Curves
+** ROC Graphs and Curves
+** The Area Under the ROC Curve (AUC Cumulative Response and Lift Curves)
+** Example: Performance Analytics for Churn Modeling
+** Summary
+
+* Chapter 9. Evidence and Probabilities
+** Fundamental concepts: Explicit evidence combination with Bayes’ Rule; Probabilistic reasoning via assumptions of conditional independence
+** Exemplary techniques: Naive Bayes classification; Evidence lift.
+** Example: Targeting Online Consumers With Advertisements
+** Combining Evidence Probabilistically
+** Joint Probability and Independence
+** Bayes’ Rule
+** Applying Bayes’ Rule to Data Science
+** Conditional Independence and Naive Bayes
+** Advantages and Disadvantages of Naive Bayes
+** A Model of Evidence “Lift
+** Example: Evidence Lifts from Facebook “Likes
+** Evidence in Action: Targeting Consumers with Ads
+** Summary
+
+* Chapter 10. Representing and Mining Text
+** Fundamental concepts: The importance of constructing mining-friendly data representations; Representation of text for data mining
+** Exemplary techniques: Bag of words representation; TFIDF calculation; N-grams;
+** Stemming; Named entity extraction; Topic models
+** Why Text Is Important
+** Why Text Is Difficult
+** Representation
+** Bag of Words
+** Term Frequency
+** Measuring Sparseness: Inverse Document Frequency
+** Combining Them: TFIDF
+** Example: Jazz Musicians
+** The Relationship of IDF to Entropy
+** Beyond Bag of Words
+** N-gram Sequences
+** Named Entity Extraction
+** Topic Models
+** Example: Mining News Stories to Predict Stock Price Movement
+** The Task
+** The Data
+** Data Preprocessing
+** Results
+** Summary
+
+* Chapter 11. Decision Analytic Thinking II: Toward Analytical Engineering
+** Fundamental concept: Solving business problems with data science starts with analytical engineering: designing an analytical solution, based on the data, tools, and techniques available
+** Exemplary technique: Expected value as a framework for data science solution design.
+** Targeting the Best Prospects for a Charity Mailing
+** The Expected Value Framework: Decomposing the Business Problem and
+** Recomposing the Solution Pieces
+** A Brief Digression on Selection Bias
+** Our Churn Example Revisited with Even More Sophistication
+** The Expected Value Framework: Structuring a More Complicated Business Problem                                                                    281
+** Assessing the Influence of the Incentive
+** From an Expected Value Decomposition to a Data Science Solution
+** Summary
+
+* Chapter 12. Other Data Science Tasks and Techniques
+** Fundamental concepts: Our fundamental concepts as the basis of many common data science techniques; The importance of familiarity with the building blocks of data science
+** Exemplary techniques: Association and co-occurrences; Behavior profiling; Link
+** prediction; Data reduction; Latent information mining; Movie recommendation; Bias-
+** Chapter variance decomposition of error; Ensembles of models; Causal reasoning from data
+** Co-occurrences and Associations: Finding Items That Go Together                     290
+** Measuring Surprise: Lift and Leverage
+** Example: Beer and Lottery Tickets
+** Associations Among Facebook Likes
+** Profiling: Finding Typical Behavior
+** Link Prediction and Social Recommendation
+** Data Reduction, Latent Information, and Movie Recommendation
+** Bias, Variance, and Ensemble Methods
+** Data-Driven Causal Explanation and a Viral Marketing Example
+** Summary
+
+* Chapter 13. Data Science and Business Strategy
+** Fundamental concepts: Our principles as the basis of success for a data-driven business; Acquiring and sustaining competitive advantage via data science; The importance of careful curation of data science capability.
+** Thinking Data-Analytically, Redux
+** Achieving Competitive Advantage with Data Science
+** Sustaining Competitive Advantage with Data Science
+** Formidable Historical Advantage
+** Unique Intellectual Property
+** Unique Intangible Collateral Assets
+** Superior Data Scientists
+** Superior Data Science Management
+** Attracting and Nurturing Data Scientists and Their Teams
+** Examine Data Science Case Studies
+** Be Ready to Accept Creative Ideas from Any Source
+** Be Ready to Evaluate Proposals for Data Science Projects
+** Example Data Mining Proposal
+** Flaws in the Big Red Proposal
+** A Firm’s Data Science Maturity
+
+* Chapter 14. Conclusion
+** The Fundamental Concepts of Data Science
+** Applying Our Fundamental Concepts to a New Problem: Mining Mobile Device Data                                                                                                              334
+** Changing the Way We Think about Solutions to Business Problems
+** What Data Can’t Do: Humans in the Loop, Revisited
+** Privacy, Ethics, and Mining Data About Individuals
+** Is There More to Data Science
+** Final Example: From Crowd-Sourcing to Cloud-Sourcing
+** Final Words
+** A. Proposal Review Guide
+** B. Another Sample Proposal
+
+ZZZ
+
+** Supervised Segmentation with Tree-Structured Models  :drill:
+Selecting the single variable that gives the most information 
+gain creates a very simple segmentation. A [multivariate] (multiple 
+attribute) supervised segmentation is produced by selecting multple 
+attributes with each attribute providing some [information gain].
+
+*** Multivariate Induction Tree  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show1cloze
+  :END:
+A multivariate segmentation of the data takes the form of an [upside down]
+tree with the [root] at the top. Each interior node in the tree contains 
+a [test of an attribute], with each branch from the node representing 
+a [distinct value], or [range of values], of the attribute. The tree 
+creates a segmentation of the data: each leaf corresponds to a [segment], 
+and the attributes and values along the path give the characteristics 
+of the segment. The tree is a [supervised] segmentation, because each 
+leaf contains a value for the [target] variable. Such a tree is called 
+a [classification tree] or more loosely a [decision tree].
+
+
+Classification 
+trees often are used as predictive models, “tree structured models.” In
+use, when presented with an example for which we do not know its classification, we
+can predict its classification by finding the corresponding segment and using the class
+value at the leaf. Mechanically, one would start at the root node and descend through
+the interior nodes, choosing branches based on the specific attribute values in the ex‐
+ample. The nonleaf nodes are often referred to as “decision nodes,” because when de‐
+scending through the tree, at each node one uses the values of the attribute to make a
+decision about which branch to follow. Following these branches ultimately leads to a
+final decision about what class to predict: eventually a terminal node is reached, which
+gives a class prediction. In a tree, no two parents share descendants and there are no
+cycles; the branches always “point downwards” so that every example always ends up at
+a leaf node with some specific class determination.
+
+
+
+
+Consider how we would use the classification tree in Figure 3-10 to classify an example
+of the person named Claudio from Figure 3-1. The values of Claudio’s attributes are
+Balance=115K, Employed=No, and Age=40. We begin at the root node that tests Em‐
+ployed. Since the value is No we take the right branch. The next test is Balance. The value
+of Balance is 115K, which is greater than 50K so we take a right branch again to a node
+that tests Age. The value is 40 so we take the left branch. This brings us to a leaf node
+specifying class=Not Write-off, representing a prediction that Claudio will not default.
+Another way of saying this is that we have classified Claudio into a segment defined by
+(Employed=No, Balance=115K, Age<45) whose classification is Not Write -off.
+
+Figure 3-10. A simple classification tree.
+Classification trees are one sort of tree-structured model. As we will see later, in business
+applications often we want to predict the probability of membership in the class (e.g.,
+the probability of churn or the probability of write-off), rather than the class itself. In
+this case, the leaves of the probability estimation tree would contain these probabilities
+rather than a simple value. If the target variable is numeric, the leaves of the regression
+tree contain numeric values. However, the basic idea is the same for all.
+Trees provide a model that can represent exactly the sort of supervised segmentation
+we often want, and we know how to use such a model to predict values for new cases
+(in “use”). However, we still have not addressed how to create such a model from the
+data. We turn to that now.
+
+There are many techniques to induce a supervised segmentation from a dataset. One of
+the most popular is to create a tree-structured model (tree induction). These techniques
+are popular because tree models are easy to understand, and because the induction
+procedures are elegant (simple to describe) and easy to use. They are robust to many
+common data problems and are relatively efficient. Most data mining packages include
+some type of tree induction technique.
+How do we create a classification tree from data? Combining the ideas introduced above,
+the goal of the tree is to provide a supervised segmentation, more specifically, to par‐
+tition the instances, based on their attributes, into subgroups that have similar values
+
+Figure 3-11. First partitioning: splitting on body shape (rectangular versus oval).
+for their target variables. We would like for each “leaf” segment to contain instances
+that tend to belong to the same class.
+
+To illustrate the process of classification tree induction, consider the very simple ex‐
+ample set shown previously in Figure 3-2.
+
+Tree induction takes a divide-and-conquer approach, starting with the whole dataset
+and applying variable selection to try to create the “purest” subgroups possible using
+the attributes. In the example, one way is to separate people based on their body type:
+rectangular versus oval. This creates the two groups shown in Figure 3-11. How good
+is this partitioning? The rectangular-body people on the left are mostly Yes, with a single
+No person, so it is mostly pure. The oval-body group on the right has mostly No people,
+but two Yes people. This step is simply a direct application of the attribute selection
+ideas presented above. Let’s consider this “split” to be the one that yields the largest
+information gain.
+
+Looking at Figure 3-11, we can now see the elegance of tree induction, and why it
+resonates well with so many people. The left and right subgroups are simply smaller
+versions of the problem with which we initially were faced! We can simply take each
+data subset and recursively apply attribute selection to find the best attribute to partition
+it. So in our example, we recursively consider the oval-body group (Figure 3-12). To
+split this group again we now consider another attribute: head shape. This splits the
+group in two on the right side of the figure. How good is this partitioning? Each new
+group has a single target label: four (square heads) of No, and two (round heads) of
+
+Figure 3-13. Third partitioning: the rectangular body people subgrouped by body color.
+Yes. These groups are “maximally pure” with respect to class labels and there is no need
+to split them further.
+Figure 3-12. Second partitioning: the oval body people sub-grouped by head type.
+
+We still have not done anything with the rectangular body group on the left side of
+Figure 3-11, so let’s consider how to split them. There are five Yes people and one No
+person. There are two attributes we could split upon: head shape (square or round), and
+body color (white or gray). Either of these would work, so we arbitrarily choose body
+color. This produces the groupings in Figure 3-13. These are pure groups (all of one
+type) so we are finished. The classification tree corresponding to these groupings is
+shown in Figure 3-14.
+
+In summary, the procedure of classification tree induction is a recursive process of
+divide and conquer, where the goal at each step is to select an attribute to partition the
+current group into subgroups that are as pure as possible with respect to the target
+variable. We perform this partitioning recursively, splitting further and further until we
+are done. We choose the attributes to split upon by testing all of them and selecting
+whichever yields the purest subgroups. When are we done? (In other words, when do
+we stop recursing?) It should be clear that we would stop when the nodes are pure, or
+when we run out of variables to split on. But we may want to stop earlier; we will return
+to this question in Chapter 5.
+
+Visualizing Segmentations
+Continuing with the metaphor of predictive model building as supervised segmentation,
+it is instructive to visualize exactly how a classification tree partitions the instance space.
+The instance space is simply the space described by the data features. A common form
+of instance space visualization is a scatterplot on some pair of features, used to compare
+one variable against another to detect correlations and relationships.
+Though data may contain dozens or hundreds of variables, it is only really possible to
+visualize segmentations in two or three dimensions at once. Still, visualizing models in
+instance space in a few dimensions is useful for understanding the different types of
+models because it provides insights that apply to higher dimensional spaces as well. It
+may be difficult to compare very different families of models just by examining their
+form (e.g., a mathematical formula versus a set of rules) or the algorithms that generate
+them. Often it is easier to compare them based on how they partition the instance space.
+For example, Figure 3-15 shows a simple classification tree next to a two-dimensional
+graph of the instance space: Balance on the x axis and Age on the y axis. The root node
+of the classification tree tests Balance against a threshold of 50K. In the graph, this
+corresponds to a vertical line at 50K on the x axis splitting the plane into Balance<50K
+and Balance≥50K. At the left of this line lie the instances whose Balance values are less
+than 50K; there are 13 examples of class Write-off (black dot) and 2 examples of class
+non-Write-off (plus sign) in this region.
+On the right branch out of the root node are instances with Balance≥50K. The next
+node in the classification tree tests the Age attribute against the threshold 45. In the
+
+Figure 3-14. The classification tree resulting from the splits done in Figure 3-11 to
+Figure 3-13.
+
+graph this corresponds to the horizontal dotted line at Age=45. It appears only on the
+right side of the graph because this partition only applies to examples with Balance≥50.
+The Age decision node assigns to its left branch instances with Age<45, corresponding
+to the lower right segment of the graph, representing: (Balance≥50K AND Age<45).
+Notice that each internal (decision) node corresponds to a split of the instance space.
+Each leaf node corresponds to an unsplit region of the space (a segment of the popu‐
+lation). Whenever we follow a path in the tree out of a decision node we are restricting
+attention to one of the two (or more) subregions defined by the split. As we descend
+through a classification tree we consider progressively more focused subregions of the
+instance space.
+
+Decision lines and hyperplanes
+The lines separating the regions are known as decision lines (in two
+dimensions) or more generally decision surfaces or decision bound‐
+aries. Each node of a classification tree tests a single variable against a
+fixed value so the decision boundary corresponding to it will always
+be perpendicular to the axis representing this variable. In two dimen‐
+sions, the line will be either horizontal or vertical. If the data had three
+variables the instance space would be three-dimensional and each
+boundary surface imposed by a classification tree would be a two-
+dimensional plane. In higher dimensions, since each node of a classi‐
+fication tree tests one variable it may be thought of as “fixing” that one
+dimension of a decision boundary; therefore, for a problem of n vari‐
+ables, each node of a classification tree imposes an (n–1)-
+dimensional “hyperplane” decision boundary on the instance space.
+You will often see the term hyperplane used in data mining literature
+to refer to the general separating surface, whatever it may be. Don’t be
+intimidated by this terminology. You can always just think of it as a
+generalization of a line or a plane.
+Other decision surfaces are possible, as we shall see later.
+
+Figure 3-15. A classification tree and the partitions it imposes in instance space. The
+black dots correspond to instances of the class Write-off, the plus signs correspond to
+instances of class non-Write-off. The shading shows how the tree leaves correspond to
+segments of the population in instance space.
+
+Trees as Sets of Rules
+Before moving on from the interpretation of classification trees, we should mention
+their interpretation as logical statements. Consider again the tree shown at the top of
+Figure 3-15. You classify a new unseen instance by starting at the root node and following
+the attribute tests downward until you reach a leaf node, which specifies the instance’s
+predicted class. If we trace down a single path from the root node to a leaf, collecting
+the conditions as we go, we generate a rule. Each rule consists of the attribute tests along
+the path connected with AND. Starting at the root node and choosing the left branches
+of the tree, we get the rule:
+IF (Balance < 50K) AND (Age < 50) THEN Class=Write-off
+We can do this for every possible path to a leaf node. From this tree we get three more
+rules:
+IF (Balance < 50K) AND (Age ≥ 50) THEN Class=No Write-off
+IF (Balance ≥ 50K) AND (Age < 45) THEN Class=Write-off
+IF (Balance ≥ 50K) AND (Age < 45) THEN Class=No Write-off
+The classification tree is equivalent to this rule set. If these rules look repetitive, that’s
+because they are: the tree gathers common rule prefixes together toward the top of the
+tree. Every classification tree can be expressed as a set of rules this way. Whether the
+tree or the rule set is more intelligible is a matter of opinion; in this simple example,
+both are fairly easy to understand. As the model becomes larger, some people will prefer
+the tree or the rule set.
+
+Probability Estimation
+In many decision-making problems, we would like a more informative prediction than
+just a classification. For example, in our churn-prediction problem, rather than simply
+predicting whether a person will leave the company within 90 days of contract expira‐
+tion, we would much rather have an estimate of the probability that he will leave the
+company within that time. Such estimates can be used for many purposes. We will
+discuss some of these in detail in later chapters, but briefly: you might then rank pros‐
+pects by their probability of leaving, and then allocate a limited incentive budget to the
+highest probability instances. Alternatively, you may want to allocate your incentive
+budget to the instances with the highest expected loss, for which you’ll need (an estimate
+of) the probability of churn. Once you have such probability estimates you can use them
+in a more sophisticated decision-making process than these simple examples, as we’ll
+describe in later chapters.
+
+There is another, even more insidious problem with models that give simple classifica‐
+tions, rather than estimates of class membership probability. Consider the problem of
+estimating credit default. Under normal circumstances, for just about any segment of
+the population to which we would be considering giving credit, the probability of write-
+off will be very small, far less than 0.5. In this case, when we build a model to estimate
+the classification (write-off or not), we’d have to say that for each segment, the members
+are likely not to default, and they will all get the same classification (not write-off). For
+example, in a naively built tree model every leaf will be labeled “not write-off.” This turns
+out to be a frustrating experience for new data miners: after all that work, the model
+really just says that no one is likely to default? This does not mean that the model is
+useless. It may be that the different segments indeed have very different probabilities of
+write-off, they just all are less than 0.5. If instead we use these probabilities for assigning
+credit, we may be able reduce our risk substantially.
+
+So, in the context of supervised segmentation, we would like each segment (leaf of a tree
+model) to be assigned an estimate of the probability of membership in the different
+classes. Figure 3-15 more generally shows a “probability estimation tree” model for our
+simple write-off prediction example, giving not only a prediction of the class but also
+the estimate of the probability of membership in the class.6
+
+Fortunately, the tree induction ideas we have discussed so far can easily produce prob‐
+ability estimation trees instead of simple classification trees.7 Recall that the tree induc‐
+tion procedure subdivides the instance space into regions of class purity (low entropy).
+If we are satisfied to assign the same class probability to every member of the segment
+corresponding to a tree leaf, we can use instance counts at each leaf to compute a class
+probability estimate. For example, if a leaf contains n positive instances and m negative
+instances, the probability of any new instance being positive may be estimated as n/(n
++m). This is called a frequency-based estimate of class membership probability.
+At this point you may spot a problem with estimating class membership probabilities
+this way: we may be overly optimistic about the probability of class membership for
+segments with very small numbers of instances. At the extreme, if a leaf happens to have
+only a single instance, should we be willing to say that there is a 100% probability that
+members of that segment will have the class that this one instance happens to have?
+6. We often deal with binary classification problems, such as write-off or not, or churn or not. In these cases it
+is typical just to report the probability of membership in one chosen class p(c), because the other is just 1 – p(c).
+7. Often these are still called classification trees, even if the decision maker intends to use the probability esti‐
+mates rather than the simple classifications.
+
+This phenomenon is one example of a fundamental issue in data science (“overfitting”),
+to which we devote a chapter later in the book. For completeness, let’s quickly discuss
+one easy way to address this problem of small samples for tree-based class probability
+estimation. Instead of simply computing the frequency, we would often use a “smooth‐
+ed” version of the frequency-based estimate, known as the Laplace correction, the pur‐
+pose of which is to moderate the influence of leaves with only a few instances. The
+equation for binary class probability estimation becomes:
+n + 1
+p(c) = n + m + 2
+where n is the number of examples in the leaf belonging to class c, and m is the number
+of examples not belonging to class c.
+
+Let’s walk through an example with and without the Laplace correction. A leaf node
+with two positive instances and no negative instances would produce the same
+frequency-based estimate (p = 1) as a leaf node with 20 positive instances and no neg‐
+atives. However, the first leaf node has much less evidence and may be extreme only
+due to there being so few instances. Its estimate should be tempered by this considera‐
+tion. The Laplace equation smooths its estimate down to p = 0.75 to reflect this uncer‐
+tainty; the Laplace correction has much less effect on the leaf with 20 instances (p ≈
+0.95). As the number of instances increases, the Laplace equation converges to the
+frequency-based estimate. Figure 3-16 shows the effect of Laplace correction on several
+class ratios as the number of instances increases (2/3, 4/5, and 1/1). For each ratio the
+solid horizontal line shows the uncorrected (constant) estimate, while the
+corresponding dashed line shows the estimate with the Laplace correction applied. The
+uncorrected line is the asymptote of the Laplace correction as the number of instances
+goes to infinity.
+
+Example: Addressing the Churn Problem with Tree
+Induction
+Now that we have a basic data mining technique for predictive modeling, let’s consider
+the churn problem again. How could we use tree induction to help solve it?
+For this example, we have a historical data set of 20,000 customers. At the point of
+collecting the data, each customer either had stayed with the company or had left
+(churned). Each customer is described by the variables listed in Table 3-2.
+
+Figure 3-16. The effect of Laplace smoothing on probability estimation for several in‐
+stance ratios.
+Table 3-2. Attributes for the cellular phone churn-prediction problem
+Variable
+Explanation
+COLLEGE
+Is the customer college educated?
+INCOME
+Annual income
+OVERAGE
+Average overcharges per month
+LEFTOVER
+Average number of leftover minutes per month
+HOUSE
+Estimated value of dwelling (from census tract)
+HANDSET_PRICE
+Cost of phone
+LONG_CALLS_PER_MONTH Average number of long calls (15 mins or over) per month
+AVERAGE_CALL_DURATION Average duration of a call
+REPORTED_SATISFACTION
+Reported level of satisfaction
+REPORTED_USAGE_LEVEL
+Self-reported usage level
+LEAVE (Target variable)
+Did the customer stay or leave (churn)?
+
+These variables comprise basic demographic and usage information available from the
+customer’s application and account. We want to use these data with our tree induction
+technique to predict which new customers are going to churn.
+Before starting to build a classification tree with these variables, it is worth asking, How
+good are each of these variables individually? For this we measure the information gain
+of each attribute, as discussed earlier. Specifically, we apply Equation 3-2 to each variable
+independently over the entire set of instances, to see what each gains us.
+The results are in Figure 3-17, with a table listing the exact values. As you can see, the
+first three variables, the house value, the number of leftover minutes, and the number
+of long calls per month, have a higher information gain than the rest.8 Perhaps sur‐
+prisingly, neither the amount the phone is used nor the reported degree of satisfaction
+seems, in and of itself, to be very predictive of churning.
+
+Applying a classification tree algorithm to the data, we get the tree shown in
+Figure 3-18. The highest information gain feature (HOUSE) according to Figure 3-17
+is at the root of the tree. This is to be expected since it will always be chosen first. The
+second best feature, OVERAGE, also appears high in the tree. However, the order in
+which features are chosen for the tree doesn’t exactly correspond to their ranking in
+Figure 3-17. Why is this?
+
+The answer is that the table ranks each feature by how good it is independently, evaluated
+separately on the entire population of instances. Nodes in a classification tree depend
+on the instances above them in the tree. Therefore, except for the root node, features in
+a classification tree are not evaluated on the entire set of instances. The information
+gain of a feature depends on the set of instances against which it is evaluated, so the
+ranking of features for some internal node may not be the same as the global ranking.
+We have not yet discussed how we decide to stop building the tree. The dataset has
+20,000 examples yet the tree clearly doesn’t have 20,000 leaf nodes. Can’t we just keep
+selecting more attributes to split upon, building the tree downwards until we’ve ex‐
+hausted the data? The answer is yes, we can, but we should stop long before the model
+becomes that complex. This issue ties in closely with model generality and overfitting,
+whose discussion we defer to Chapter 5.
+
+8. Note that the information gains for the attributes in this churn data set are much smaller than those shown
+previously for the mushroom data set.
+
+Figure 3-17. Churn attributes from Table 3-2 ranked by information gain.
+
+Figure 3-18. Classification tree learned from the cellular phone churn data.
+Consider a final issue with this dataset. After building a tree model from the data, we
+measured its accuracy against the data to see how good of a model it is. Specifically, we
+used a training set consisting half of people who churned and the other half who did
+not; after learning a classification tree from this, we applied the tree to the dataset to see
+how many of the examples it could classify correctly. The tree achieved 73% accuracy
+on its decisions. This raises two questions:
+1. First, do you trust this number? If we applied the tree to another sample of 20,000
+people from the same dataset, do you think we’d still get about 73% accuracy?
+2. If you do trust the number, does it mean this model is good? In other words, is a
+model with 73% accuracy worth using?
+
+We will revisit these questions in Chapter 7 and Chapter 8, which delve into issues of
+model evaluation.
+
+Summary
+In this chapter, we introduced basic concepts of predictive modeling, one of the main
+tasks of data science, in which a model is built that can estimate the value of a target
+variable for a new unseen example. In the process, we introduced one of data science’s
+fundamental notions: finding and selecting informative attributes. Selecting informa‐
+tive attributes can be a useful data mining procedure in and of itself. Given a large
+collection of data, we now can find those variables that correlate with or give us infor‐
+mation about another variable of interest. For example, if we gather historical data on
+which customers have or have not left the company (churned) shortly after their con‐
+tracts expire, attribute selection can find demographic or account-oriented variables
+that provide information about the likelihood of customers churning. One basic meas‐
+ure of attribute information is called information gain, which is based on a purity meas‐
+ure called entropy; another is variance reduction.
+
+Selecting informative attributes forms the basis of a common modeling technique called
+tree induction. Tree induction recursively finds informative attributes for subsets of the
+data. In so doing it segments the space of instances into similar regions. The partitioning
+is “supervised” in that it tries to find segments that give increasingly precise information
+about the quantity to be predicted, the target. The resulting tree-structured model par‐
+titions the space of all possible instances into a set of segments with different predicted
+values for the target. For example, when the target is a binary “class” variable such as
+churn versus not churn, or write-off versus not write-off, each leaf of the tree corre‐
+sponds to a population segment with a different estimated probability of class
+membership.
+
+As an exercise, think about what would be different in building a tree-
+structured model for regression rather than for classification. What
+would need to be changed from what you’ve learned about classifica‐
+tion tree induction?
+
+Historically, tree induction has been a very popular data mining procedure because it
+is easy to understand, easy to implement, and computationally inexpensive. Research
+on tree induction goes back at least to the 1950s and 1960s. Some of the earliest popular
+tree induction systems include CHAID (Chi-squared Automatic Interaction Detection)
+(Kass, 1980) and CART (Classification and Regression Trees) (Breiman, Friedman,
+Olshen, & Stone, 1984), which are still widely used. C4.5 and C5.0 are also very popular
+tree induction algorithms, which have a notable lineage (Quinlan, 1986, 1993). J48 is a
+reimplementation of C4.5 in the Weka package (Witten & Frank, 2000; Hall et al., 2001).
+
+In practice, tree-structured models work remarkably well, though they may not be the
+most accurate model one can produce from a particular data set. In many cases, espe‐
+cially early in the application of data mining, it is important that models be understood
+and explained easily. This can be useful not just for the data science team but for com‐
+municating results to stakeholders not knowledgeable about data mining.
+
+CHAPTER 4
+
+Fitting a Model to Data
+Fundamental concepts: Finding “optimal” model parameters based on data; Choosing
+the goal for data mining; Objective functions; Loss functions.
+
+Exemplary techniques: Linear regression; Logistic regression; Support-vector machines.
+As we have seen, predictive modeling involves finding a model of the target variable in
+terms of other descriptive attributes. In Chapter 3, we constructed a supervised seg‐
+mentation model by recursively finding informative attributes on ever-more-precise
+subsets of the set of all instances, or from the geometric perspective, ever-more-precise
+subregions of the instance space. From the data we produced both the structure of the
+model (the particular tree model that resulted from the tree induction) and the numeric
+“parameters” of the model (the probability estimates at the leaf nodes).
+
+An alternative method for learning a predictive model from a dataset is to start by
+specifying the structure of the model with certain numeric parameters left unspecified.
+Then the data mining calculates the best parameter values given a particular set of
+training data. A very common case is where the structure of the model is a parameterized
+mathematical function or equation of a set of numeric attributes. The attributes used in
+the model could be chosen based on domain knowledge regarding which attributes
+ought to be informative in predicting the target variable, or they could be chosen based
+on other data mining techniques, such as the attribute selection procedures introduced
+in Chapter 3. The data miner specifies the form of the model and the attributes; the goal
+of the data mining is to tune the parameters so that the model fits the data as well as
+possible. This general approach is called parameter learning or parametric modeling.
+In certain fields of statistics and econometrics, the bare model with
+unspecified parameters is called “the model.” We will clarify that this
+is the structure of the model, which still needs to have its parameters
+specified to be useful.
+
+Many data mining procedures fall within this general framework. We will illustrate with
+some of the most common, all of which are based on linear models. If you’ve taken a
+statistics course, you’re probably already familiar with one linear modeling technique:
+linear regression. We will see the same differences in models that we’ve seen already,
+such as the differences in task between classification, class probability estimation, and
+regression. As examples we will present some common techniques used for predicting
+(estimating) unknown numeric values, unknown binary values (such as whether a
+document or web page is relevant to a query), as well as likelihoods of events, such as
+default on credit, response to an offer, fraud on an account, and so on.
+
+We also will explicitly discuss something that we skirted in Chapter 3: what exactly do
+we mean when we say a model fits the data well? This is the crux of the fundamental
+concept of this chapter, fitting a model to data by finding “optimal” model parameters
+, and is a notion that will resurface in later chapters. Because of its fundamental con‐
+cepts, this chapter is more mathematically focused than the rest. We will keep the math
+to a minimum, and encourage the less mathematical reader to proceed boldly.
+
+Sidebar: Simplifying Assumptions in This Chapter
+The point of this chapter is to introduce and explain parametric modeling. To keep the
+discussion focused, and to avoid excessive footnotes, we’ve made some simplifying as‐
+sumptions:
+
+• First, for classification and class probability estimation we will consider only binary
+classes: the models predict events that either take place or do not, such as responding
+to an offer, leaving the company, being defrauded, etc. The methods here can all be
+generalized to work with multiple (nonbinary) classes, but the generalization com‐
+plicates the description unnecessarily.
+
+• Second, because we’re dealing with equations, this chapter assumes all attributes
+are numeric. There are techniques for converting categorical (symbolic) attributes
+into numerical values for use with these equations.
+
+• Finally, we ignore the need to normalize numeric measurements to a common scale.
+Attributes such as Age and Income have vastly different ranges and they are usually
+normalized to a common scale to help with model interpretability, as well as other
+things (to be discussed later).
+
+We ignore these complications in this chapter. However, dealing with them is ultimately
+important and often necessary regardless of the data mining technique.
+
+Figure 4-1. A dataset split by a classification tree with four leaf nodes.
+Classification via Mathematical Functions
+
+Recall the instance-space view of tree models from Chapter 3. One such diagram is
+replicated in Figure 4-1. It shows the space broken up into regions by horizontal and
+vertical decision boundaries that partition the instance space into similar regions. Ex‐
+amples in each region should have similar values for the target variable. In the last
+chapter we saw how the entropy measure gives us a way of measuring homogeneity so
+we can choose such boundaries.
+
+A main purpose of creating homogeneous regions is so that we can predict the target
+variable of a new, unseen instance by determining which segment it falls into. For ex‐
+ample, in Figure 4-1, if a new customer falls into the lower-left segment, we can conclude
+that the target value is very likely to be “•”. Similarly, if it falls into the upper-right
+segment, we can predict its value as “+”.
+The instance-space view is helpful because if we take away the axis-parallel boundaries
+(see Figure 4-2) we can see that there clearly are other, possibly better, ways to partition
+
+Figure 4-2. The raw data points of Figure 4-1, without decision lines.
+the space. For example, we can separate the instances almost perfectly (by class) if we
+are allowed to introduce a boundary that is still a straight line, but is not perpendicular
+to the axes (Figure 4-3).
+
+Figure 4-3. The dataset of Figure 4-2 with a single linear split.
+This is called a linear classifier and is essentially a weighted sum of the values for the
+various attributes, as we will describe next.
+
+Linear Discriminant Functions
+Our goal is going to be to fit our model to the data, and to do so it is quite helpful to
+represent the model mathematically. You may recall that the equation of a line in two
+dimensions is y = mx + b, where m is the slope of the line and b is the y intercept (the y
+value when x = 0). The line in Figure 4-3 can be expressed in this form (with Balance
+in thousands) as:
+Age = ( - 1.5) × Balance + 60
+
+We would classify an instance x as a + if it is above the line, and as a • if it is below the
+line. Rearranging this mathematically leads to the function that is the basis of all the
+techniques discussed in this chapter. First, for this example form the classification
+solution is shown in Equation 4-1.
+
+Equation 4-1. Classification function
+class(�) = { + if1.0 × Age - 1.5 × Balance + 60 > 0
+• if 1.0 × Age - 1.5 × Balance + 60 ≤ 0
+
+This is called a linear discriminant because it discriminates between the classes, and the
+function of the decision boundary is a linear combination, a weighted sum, of the
+attributes. In the two dimensions of our example, the linear combination corresponds
+to a line. In three dimensions, the decision boundary is a plane, and in higher dimen‐
+sions it is a hyperplane (see Decision lines and hyperplanes in “Visualizing Segmenta‐
+tions” on page 67). For our purposes, the important thing is that we can express the
+model as a weighted sum of the attribute values.
+
+Thus, this linear model is a different sort of multivariate supervised segmentation. Our
+goal with supervised segmentation still is to separate the data into regions with different
+values of the target variable. The difference is that the method for taking multiple at‐
+tributes into account is to create a mathematical function of them.
+In “Trees as Sets of Rules” on page 71 we showed how a classification tree corresponds
+to a rule set, a logical classification model of the data. A linear discriminant function
+is a numeric classification model. For example, consider our feature vector x, with the
+individual component features being xi. A linear model then can be written as follows
+in Equation 4-2.
+Equation 4-2. A general linear model
+f (�) = w0 + w1x1 + w2x2 + ⋯
+
+Figure 4-4. A basic instance space in two dimensions containing points of two classes.
+The concrete example from Equation 4-1 can be written in this form:
+f (�) = 60 + 1.0 × Age - 1.5 × Balance
+
+To use this model as a linear discriminant, for a given instance represented by a feature
+vector x, we check whether f(x) is positive or negative. As discussed above, in the two-
+dimensional case, this corresponds to seeing whether the instance x falls above or below
+the line.
+
+Linear functions are one of the workhorses of data science; now we finally come to the
+data mining. We now have a parameterized model: the weights of the linear function
+(wi) are the parameters.1 The data mining is going to “fit” this parameterized model to
+a particular dataset, meaning specifically, to find a good set of weights on the features.
+After learning, these weights are often loosely interpreted as importance indicators of
+the features. Roughly, the larger the magnitude of a feature’s weight, the more important
+that feature is for classifying the target (recalling the assumptions discussed earlier). By
+the same token, if a feature’s weight is near zero the corresponding feature can usually
+be ignored or discarded. For now, we are interested in a set of weights that discriminate
+the training data well and predict as accurately as possible the value of the target variable
+for cases where we don’t know it.
+
+1. In order that the line need not go through the origin, it is typical to include the weight w0, which is the
+intercept.
+
+Figure 4-5. Many different possible linear boundaries can separate the two groups of
+points of Figure 4-4.
+
+Unfortunately, it’s not trivial to choose the “best” line to separate the classes. Let’s con‐
+sider a simple case, illustrated in Figure 4-4. Here the training data can indeed be sep‐
+arated by class using a linear discriminant. However, as shown in Figure 4-5, there
+actually are many different linear discriminants that can separate the classes perfectly.
+They have very different slopes and intercepts, and each represents a different model
+of the data. In fact, there are infinitely many lines (models) that classify this training set
+perfectly. Which should we pick?
+
+Optimizing an Objective Function
+This brings us to one of the most important fundamental ideas in data mining, one
+that surprisingly is often overlooked even by data scientists themselves: we need to ask,
+what should be our goal or objective in choosing the parameters? In our case, this would
+allow us to answer the question: what weights should we choose? Our general procedure
+will be to define an objective function that represents our goal, and can be calculated for
+a particular set of weights and a particular set of data. We will then find the optimal
+value for the weights by maximizing or minimizing the objective function. What can
+easily be overlooked is that these weights are “best” only if we believe that the objective
+function truly represents what we want to achieve, or practically speaking, is the best
+proxy we can come up with. We will return to this later in the book.
+Unfortunately, creating an objective function that matches the true goal of the data
+mining is usually impossible, so data scientists often choose based on faith2 and expe‐
+2. And sometimes it can be surprisingly hard for them to admit it.
+
+rience. Several choices have been shown to be remarkably effective. One of these choices
+creates the so-called “support vector machine,” about which we will say a few words
+after presenting a concrete example with a simpler objective function. After that, we
+will briefly discuss linear models for regression, rather than classification, and end with
+one of the most useful data mining techniques of all: logistic regression. Its name is
+something of a misnomer, logistic regression doesn’t really do what we call regression,
+which is the estimation of a numeric target value. Logistic regression applies linear
+models to class probability estimation, which is particularly useful for many applica‐
+tions.
+
+Linear regression, logistic regression, and support vector machines are all very similar
+instances of our basic fundamental technique: fitting a (linear) model to data. The key
+difference is that each uses a different objective function.
+An Example of Mining a Linear Discriminant from Data
+To illustrate linear discriminant functions, we use an adaptation of the Iris dataset taken
+from the UCI Dataset Repository (Bache & Lichman, 2013). This is an old and fairly
+simple dataset representing various types of iris, a genus of flowering plant. The original
+dataset includes three species of irises represented with four attributes, and the data
+mining problem is to classify each instance as belonging to one of the three species based
+on the attributes.
+
+Figure 4-6. Two parts of a flower. Width measurements of these are used in the Iris da‐
+taset.
+
+For this illustration we’ll use just two species of irises, Iris Setosa and Iris Versicolor. The
+dataset describes a collection of flowers of these two species, each described with two
+measurements: the Petal width and the Sepal width (Figure 4-6). The flower dataset is
+plotted in Figure 4-7, with these two attributes on the x and y axis, respectively. Each
+instance is one flower and corresponds to one dot on the graph. The filled dots are of
+the species Iris Setosa and the circles are instances of the species Iris Versicolor.
+Figure 4-7. A dataset and two learned linear classifiers.
+
+Two different separation lines are shown in the figure, one generated by logistic regres‐
+sion and the second by another linear method, a support vector machine (which will
+be described shortly). Note that the data comprise two fairly distinct clumps, with a few
+outliers. Logistic regression separates the two classes completely: all the Iris Versicolor
+examples are to the left of its line and all the Iris Setosa to the right. The Support vector
+machine line is almost midway between the clumps, though it misclassifies the starred
+point at (3, 1). Which separator do you think is better? In Chapter 5, we will get into
+details of why these separators are different and why one might be preferable to the
+other. For now it’s enough just to notice that the methods produce different boundaries
+because they’re optimizing different functions.
+
+Linear Discriminant Functions for Scoring and Ranking Instances
+In many applications, we don’t simply want a yes or no prediction of whether an instance
+belongs to the class, but we want some notion of which examples are more or less likely
+to belong to the class. For example, which consumers are most likely to respond to this
+offer? Which customers are most likely to leave when their contracts expire? One option
+is to build a model that produces an estimate of class membership probability, as we did
+with tree induction for class probability estimation in Chapter 3. We can do this with
+linear models as well, and will treat this in detail below when we introduce logistic
+regression.
+
+In other applications, we do not need a precise probability estimate. We simply need a
+score that will rank cases by the likelihood of belonging to one class or the other. For
+example, for targeted marketing we may have a limited budget for targeting prospective
+customers. We would like to have a list of consumers ranked by their predicted likeli‐
+hood of responding positively to our offer. We don’t necessarily need to be able to es‐
+timate the exact probability of response accurately, as long as the list is ranked reasonably
+well, and the consumers at the top of the list are the ones most likely to respond.
+Linear discriminant functions can give us such a ranking for free. Look at Figure 4-4,
+and consider the + instances to be responders and • instances to be nonresponders.
+Assume we are presented with a new instance x for which we do not yet know the class
+(i.e., we have not yet made an offer to x). In which portion of the instance space would
+we like x to fall in order to expect the highest likelihood of response? Where would we
+be most certain that x would not respond? Where would we be most uncertain?
+Many people suspect that right near the decision boundary we would be most uncertain
+about a class (and see the discussion below on the “margin”). Far away from the decision
+boundary, on the + side would be where we would expect the highest likelihood of
+response. In the equation of the separating boundary, given above in Equation 4-2, f(x)
+will be zero when x is sitting on the decision boundary (technically, x in that case is one
+of the points of the line or hyperplane). f(x) will be relatively small when x is near the
+boundary. And f(x) will be large (and positive) when x is far from the boundary in the
++ direction. Thus f(x) itself, the output of the linear discriminant function, gives an
+intuitively satisfying ranking of the instances by their (estimated) likelihood of belong‐
+ing to the class of interest.
+
+Support Vector Machines, Briefly
+If you’re even on the periphery of the world of data science these days, you eventually
+will run into the support vector machine or “SVM.” This is a notion that can strike fear
+into the hearts even of people quite knowledgeable in data science. Not only is the name
+itself opaque, but the method often is imbued with the sort of magic that derives from
+perceived effectiveness without understanding.
+
+Fortunately, we now have the concepts necessary to understand support vector ma‐
+chines. In short, support vector machines are linear discriminants. For many business
+users interacting with data scientists, that will be sufficient. Nevertheless, let’s look at
+SVMs a little more carefully; if we can get through some minor details, the procedure
+for fitting the linear discriminant is intuitively satisfying.
+
+As with linear discriminants generally, SVMs classify instances based on a linear func‐
+tion of the features, described above in Equation 4-2.
+
+You may also hear of nonlinear support vector machines. Oversimpli‐
+fying slightly, a nonlinear SVM uses different features (that are func‐
+tions of the original features), so that the linear discriminant with the
+new features is a nonlinear discriminant with the original features.
+
+So, as we’ve discussed, the crucial question becomes: what is the objective function that
+is used to fit an SVM to data? For now we will skip the mathematical details in order to
+gain an intuitive understanding. There are two main ideas.
+
+Recall Figure 4-5 showing the infinitude of different possible linear discriminants that
+would separate the classes, and recall that choosing an objective function for fitting the
+data amounts to choosing which of these lines is the best. SVMs choose based on a
+simple, elegant idea: instead of thinking about separating with a line, first fit the fattest
+bar between the classes. This is shown by the parallel dashed lines in Figure 4-8.
+The SVM’s objective function incorporates the idea that a wider bar is better. Then once
+the widest bar is found, the linear discriminant will be the center line through the bar
+(the solid middle line in Figure 4-8). The distance between the dashed parallel lines is
+called the margin around the linear discriminant, and thus the objective is to maximize
+the margin.
+
+Figure 4-8. The points of Figure 4-2 and the maximal margin classifier.
+The idea of maximizing the margin is intuitively satisfying for the following reason. The
+training dataset is just a sample from some population. In predictive modeling, we are
+interested in predicting the target for instances that we have not yet seen. These instances
+will be scattered about. Hopefully they will be distributed similarly to the training data,
+but they will in fact be different points. In particular, some of the positive examples will
+likely fall closer to the discriminant boundary than any positive example we have yet
+seen. All else being equal, the same applies to the negative examples. In other words,
+they may fall in the margin. The margin-maximizing boundary gives the maximal lee‐
+way for classifying such points. Specifically, by choosing the SVM decision boundary,
+in order for a new instance to be misclassified, one would have to place it further into
+the margin than with any other linear discriminant. (Or, of course, completely on the
+wrong side of the margin bar altogether.)
+
+The second important idea of SVMs lies in how they handle points falling on the wrong
+side of the discrimination boundary. The original example of Figure 4-2 shows a situa‐
+tion in which a single line cannot perfectly separate the data into classes. This is true of
+most data from complex real-world applications, some data points will inevitably be
+misclassified by the model. This does not pose a problem for the general notion of linear
+discriminants, as their classifications don’t necessarily have to be correct for all points.
+However, when fitting the linear function to the data we cannot simply ask which of all
+the lines that separate the data perfectly should we choose. There may be no such perfect
+separating line!
+
+Once again, the support-vector machine’s solution is intuitively satisfying. Skipping the
+math, the idea is as follows. In the objective function that measures how well a particular
+model fits the training points, we will simply penalize a training point for being on the
+wrong side of the decision boundary. In the case where the data indeed are linearly
+separable, we incur no penalty and simply maximize the margin. If the data are not
+linearly separable, the best fit is some balance between a fat margin and a low total error
+penalty. The penalty for a misclassified point is proportional to the distance from the
+decision boundary, so if possible the SVM will make only “small” errors. Technically,
+this error function is known as hinge loss (see “Sidebar: Loss functions” on page 94 and
+Figure 4-9).
+
+Figure 4-9. Two loss functions illustrated. The x axis shows the distance from the deci‐
+sion boundary. The y axis shows the loss incurred by a negative instance as a function
+of its distance from the decision boundary. (The case of a positive instance is symmet‐
+ric.) If the negative instance is on the negative side of the boundary, there is no loss. If it
+is on the positive (wrong) side of the boundary, the different loss functions penalize it
+differently. (See “Sidebar: Loss functions” on page 94.)
+
+Regression via Mathematical Functions
+The previous chapter introduced the fundamental notion of selecting informative vari‐
+ables. We showed that this notion applies to classification, to regression, and to class
+probability estimation. Here too, this chapter’s basic notion of fitting linear functions
+to data applies to classification, regression, and to class probability estimation. Let’s now
+discuss regression briefly.3
+Sidebar: Loss functions
+
+The term “loss” is used across data science as a general term for error penalty. A loss
+function determines how much penalty should be assigned to an instance based on the
+error in the model’s predicted value, in our present context, based on its distance from
+the separation boundary. Several loss functions are commonly used (two are shown in
+Figure 4-9). In the figure, the horizontal axis is the distance from the separating bound‐
+ary. Errors have positive distances from the separator in Figure 4-9, while correct clas‐
+sifications have negative distances (the choice is arbitrary in this diagram).
+Support vector machines use hinge loss, so called because the loss graph looks like a
+hinge. Hinge loss incurs no penalty for an example that is not on the wrong side of the
+margin. The hinge loss only becomes positive when an example is on the wrong side of
+the boundary and beyond the margin. Loss then increases linearly with the example’s
+distance from the margin, thereby penalizing points more the farther they are from the
+separating boundary.
+
+Zero-one loss, as its name implies, assigns a loss of zero for a correct decision and one
+for an incorrect decision.
+
+For contrast, consider a different sort of loss function. Squared error specifies a loss
+proportional to the square of the distance from the boundary. Squared error loss usually
+is used for numeric value prediction (regression), rather than classification. The squar‐
+ing of the error has the effect of greatly penalizing predictions that are grossly wrong.
+For classification, this would apply large penalties to points far over on the “wrong side”
+of the separating boundary. Unfortunately, using squared error for classification also
+penalizes points far on the correct side of the decision boundary. For most business
+problems, choosing squared-error loss for classification or class-probability estimation
+thus would violate our principle of thinking carefully about whether the loss function
+3. There is an immense literature on linear regression for descriptive analysis of data, and we encourage the
+reader to delve into it. In this book, we treat linear regression simply as one of many modeling techniques.
+Our treatment does differ from what you are likely to have learned about regression analysis, because we
+focus on linear regression for making predictions. Other authors have discussed in detail the differences
+between descriptive modeling and predictive modeling (Shmueli, 2010).
+
+is aligned with the business goal. (Hinge-like versions of squared error have been created
+because of this misalignment [Rosset & Zhu, 2007].)
+
+We have already discussed most of what we need for linear regression. The linear re‐
+gression model structure is exactly the same as for the linear discriminant function
+Equation 4-2:
+f (�) = w0 + w1x1 + w2x2 + ⋯
+So, following our general framework for thinking about parametric modeling, we need
+to decide on the objective function we will use to optimize the model’s fit to the data.
+There are many possibilities. Each different linear regression modeling procedure uses
+one particular choice (and the data scientist should think carefully about whether it is
+appropriate for the problem).
+
+The most common (“standard”) linear regression procedure makes a powerful and
+convenient choice. Recall that for regression problems the target variable is numeric.
+The linear function estimates this numeric target value using Equation 4-2, and of course
+the training data have the actual target value. Therefore, an intuitive notion of the fit of
+the model is: how far away are the estimated values from the true values on the training
+data? In other words, how big is the error of the fitted model? Presumably we’d like to
+minimize this error. For a particular training dataset, we could compute this error for
+each individual data point and sum up the results. Then the model that fits the data best
+would be the model with the minimum sum of errors on the training data. And that is
+exactly what regression procedures do.
+
+You might notice that we really have not actually specified the objective function, be‐
+cause there are many ways to compute the error between an estimated value and an
+actual value. The method that is most natural is to simply subtract one from the other
+(and take the absolute value). So if I predict 10 and the actual value is 12 or 8, I make
+an error of 2. This is called absolute error, and we could then minimize the sum of
+absolute errors or equivalently the mean of the absolute errors across the training data.
+This makes a lot of sense, but it is not what standard linear regression procedures do.
+Standard linear regression procedures instead minimize the sum or mean of the squares
+of these errors, which gives the procedure its common name “least squares” regression.
+So why do so many people use least squares regression without much thought to alter‐
+natives? The short answer is convenience. It is the technique we learn in basic statistics
+classes (and beyond). It is available to us to use in various software packages. Originally,
+the least squared error function was introduced by the famous 18th century mathema‐
+tician Carl Friedrich Gauss, and there are certain theoretical arguments for its use (re‐
+lating to the normal or “Gaussian” distribution). Often, more importantly, it turns out
+
+that squared error is particularly convenient mathematically.4 This was helpful in the
+days before computers. From a data science perspective, the convenience extends to
+theoretical analyses, including a clean decomposition of model error into different
+sources. More pragmatically, analysts often claim to prefer squared error because it
+strongly penalizes very large errors. Whether the quadratic penalty is actually appro‐
+priate is specific to each application. (Why not take the fourth power of the errors, and
+penalize large errors even more strongly?)
+
+Importantly, any choice for the objective function has both advantages and drawbacks.
+For least squares regression a serious drawback is that it is very sensitive to the data:
+erroneous or otherwise outlying data points can severely skew the resultant linear func‐
+tion. For some business applications, we may not have the resources to spend as much
+time on manual massaging of the data as we would in other applications. At the extreme,
+for systems that build and apply models totally automatically, the modeling needs to be
+much more robust than when doing a detailed regression analysis “by hand.” Therefore,
+for the former application we may want to use a more robust modeling procedure (e.g.,
+use as the objective function absolute error instead of squared error). An important
+thing to remember is that once we see linear regression simply as an instance of fitting
+a (linear) model to data, we see that we have to choose the objective function to optimize
+, and we should do so with the ultimate business application in mind.
+
+Class Probability Estimation and Logistic “Regression”
+As mentioned earlier, for many applications we would like to estimate the probability
+that a new instance belongs to the class of interest. In many cases, we would like to use
+the estimated probability in a decision-making context that includes other factors such
+as costs and benefits. For example, predictive modeling from large consumer data is
+used widely in fraud detection across many industries, especially banking, telecommu‐
+nications, and online commerce. A linear discriminant could be used to identify ac‐
+counts or transactions as likely to have been defrauded. The director of the fraud control
+operation may want the analysts to focus not simply on the cases most likely to be fraud,
+but on the cases where the most money is at stake, that is, accounts where the company’s
+monetary loss is expected to be the highest. For this we need to estimate the actual
+probability of fraud. (Chapter 7 will discuss in detail the use of expected value to frame
+business problems.)
+
+Fortunately, within this same framework for fitting linear models to data, by choosing
+a different objective function we can produce a model designed to give accurate esti‐
+mates of class probability. The most common procedure by which we do this is called
+logistic regression.
+
+4. Gauss agreed with objections to the arbitrariness of this choice.
+
+What exactly is an accurate estimate of class membership probability
+is a subject of debate beyond the scope of this book. Roughly, we would
+like (i) the probability estimates to be well calibrated, meaning that if
+you take 100 cases whose class membership probability is estimated to
+be 0.2, then about 20 of them will actually belong to the class. We would
+also like (ii) the probability estimates to be discriminative, in that if
+possible they give meaningfully different probability estimates to dif‐
+ferent examples. The latter condition keeps us from simply giving the
+“base rate” (the overall prevalence in the population) as the predic‐
+tion for every example. Say 0.5% of accounts overall are fraudulent.
+Without condition (ii) we could simply predict the same 0.5% proba‐
+bility for each account; those estimates would be well calibrated, but
+not discriminative at all.
+
+To understand logistic regression, it is instructive to first consider: exactly what is the problem with simply using our basic linear model (Equation 4-2) to estimate the class probability? As we discussed, an instance being further from the separating boundary intuitively ought to lead to a higher probability of being in one class or the other, and the output of the linear function, f(x), gives the distance from the separating boundary. However, this also shows the problem: f(x) ranges from –∞ to ∞, and a probability should range from zero to one.
+
+So let’s take a brief stroll down a garden path and ask how else we might cast our distance from the separator, f(x), in terms of the likelihood of class membership. Is there another representation of the likelihood of an event that we use in everyday life? If we could come up with one that ranges from –∞ to ∞, then we might model this other notion of likelihood with our linear equation.
+
+One very useful notion of the likelihood of an event is the odds. The odds of an event is the ratio of the probability of the event occurring to the probability of the event not occurring. So, for example, if the event has an 80% probability of occurrence, the odds are 80:20 or 4:1. And if the linear function were to give us the odds, a little algebra would tell us the probability of occurrence. Let’s look at a more detailed example. Table 4-1 shows the odds corresponding to various probabilities.
+
+Table 4-1. Probabilities and the corresponding odds.
+Probability Corresponding odds
+0.5
+50:50 or 1
+0.9
+90:10 or 9
+0.999
+999:1 or 999
+0.01
+1:99 or 0.0101
+0.001
+1:999 or 0.001001
+
+Looking at the range of the odds in Table 4-1, we can see that it still is not quite right as an interpretation of the distance from the separating boundary. Again, the distance from the boundary is between –∞ and ∞, but as we can see from the example, the odds range from 0 to ∞. Nonetheless, we can solve our garden-path problem simply by taking the logarithm of the odds (called the “log-odds”), since for any number in the range 0 to ∞ its log will be between –∞ to ∞. These are shown in Table 4-2.
+Table 4-2. Probabilities, odds, and the corresponding log-odds.
+Probability Odds
+Log-odds
+0.5
+50:50 or 1
+0
+0.9
+90:10 or 9
+2.19
+0.999
+999:1 or 999
+6.9
+0.01
+1:99 or 0.0101
+–4.6
+0.001
+1:999 or 0.001001 –6.9
+
+So if we only cared about modeling some notion of likelihood, rather than the class membership probability specifically, we could model the log-odds with f(x). Lo and behold, our garden path has taken us directly back to our main topic. This is exactly a logistic regression model: the same linear function f(x) that we’ve examined throughout the chapter is used as a measure of the log-odds of the “event” of interest. More specifically, f(x) is the model’s estimation of the log-odds that x belongs to the positive class. For example, the model might estimate the log-odds that a customer described by feature vector x will leave the company when her contract expires. Moreover, with a little algebra we can translate these log-odds into the probability of class membership. This is a little more technical than most of the book, so we’ve relegated it to a special “technical details” subsection (next), which also discusses what exactly is the objective function that is optimized to fit a logistic regression to the data. You can read that section in detail or just skim it. The most important points are:
+• For probability estimation, logistic regression uses the same linear model as do our linear discriminants for classification and linear regression for estimating numeric target values.
+
+• The output of the logistic regression model is interpreted as the log-odds of class membership.
+
+• These log-odds can be translated directly into the probability of class membership. Therefore, logistic regression often is thought of simply as a model for the probability of class membership. You have undoubtedly dealt with logistic regression models many times without even knowing it. They are used widely to estimate quantities like the probability of default on credit, the probability of response to an offer, the probability of fraud on an account, the probability that a document is relevant to a topic, and so on.
+
+After the technical details section, we will compare the linear models we’ve developed in this chapter with the tree-structured models we developed in Chapter 3. Note: Logistic regression is a misnomer
+
+Above we mentioned that the name logistic regression is a misnomer under the modern use of data science terminology. Recall that the distinction between classification and regression is whether the value for the target variable is categorical or numeric. For logistic regression, the model produces a numeric estimate (the estimation of the log-odds). However, the values of the target variable in the data are categorical. Debating this point is rather academic. What is important to understand is what logistic regression is doing. It is estimating the log-odds or, more loosely, the probability of class membership (a numeric quantity) over a categorical class. So we consider it to be a class probability estimation model and not a regression model, despite its name.
+
+* Logistic Regression: Some Technical Details
+Since logistic regression is used so widely, and is not as intuitive as linear regression, let’s examine a few of the technical details. You may skip this subsection without it affecting your understanding of the rest of the book.
+
+So, technically, what is the bottom line for the logistic regression model? Let’s use p+(�) to represent the model’s estimate of the probability of class membership of a data item represented by feature vector x.5 Recall that the class + is whatever is the (binary) event that we are modeling: responding to an offer, leaving the company after contract expiration, being defrauded, etc. The estimated probability of the event not occurring is therefore 1 - p+(�).
+
+5. Often technical treatments use the “hat” notation, p̂, to differentiate the model’s estimate of the probability of class membership from the actual probability of class membership. We will not use the hat, but the technically savvy reader should keep that in mind.
+
+Equation 4-3. Log-odds linear function
+log ( p+(�) )
+1 - p
+= f (�) = w0 + w1x1 + w2x2 + ⋯
++(�)
+Thus, Equation 4-3 specifies that for a particular data item, described by feature-vector x, the log-odds of the class is equal to our linear function, f(x). Since often we actually want the estimated probability of class membership, not the log-odds, we can solve for p+(�) in Equation 4-3. This yields the not-so-pretty quantity in Equation 4-4.
+
+Equation 4-4. The logistic function
+1
+p+(�) = 1 + e-f (�)
+Although the quantity in Equation 4-4 is not very pretty, by plotting it in a particular way we can see that it matches exactly our intuitive notion that we would like there to be relative certainty in the estimations of class membership far from the decision boundary, and uncertainty near the decision boundary.
+Figure 4-10. Logistic regression’s estimate of class probability as a function of f(x), (i.e., the distance from the separating boundary). This curve is called a “sigmoid” curve because of its “S” shape, which squeezes the probabilities into their correct range (between zero and one).
+
+Figure 4-10 plots the estimated probability p+(�) (vertical axis) as a function of the distance from the decision boundary (horizontal axis). The figure shows that at the decision boundary (at distance x = 0), the probability is 0.5 (a coin toss). The probability varies approximately linearly near to the decision boundary, but then approaches certainty farther away. Part of the “fitting” of the model to the data includes determining the slope of the almost-linear part, and thereby how quickly we are certain of the class as we move away from the boundary.
+
+The other main technical point that we omitted in our main discussion above is: what then is the objective function we use to fit the logistic regression model to the data? Recall that the training data have binary values of the target variable. The model can be applied to the training data to produce estimates that each of the training data points belongs to the target class. What would we want? Ideally, any positive example x+ would have p+(�+) = 1 and any negative example x• would have p+(�•) = 0. Unfortunately, with real-world data it is unlikely that we will be able to estimate these probabilities perfectly (consider the task of estimating that a consumer described by demographic variables would respond to a particular offer). Nevertheless, we still would like p+(�+) to be as close as possible to one and p+(�•) to be as close as possible to zero. This leads us to the standard objective function for fitting a logistic regression model to data. Consider the following function computing the “likelihood” that a particular labeled example belongs to the correct class, given a set of parameters w that produces class probability estimates p+(�):
+g(�, �) = { p+(�) if � is a +
+1 - p+(�) if � is a •
+
+The g function gives the model’s estimated probability of seeing x’s actual class given x’s features. Now consider summing the g values across all the examples in a labeled dataset. And do that for different parameterized models, in our case, different sets of weights (w) for the logistic regression. The model (set of weights) that gives the highest sum is the model that gives the highest “likelihood” to the data, the “maximum likelihood” model. The maximum likelihood model “on average” gives the highest probabilities to the positive examples and the lowest probabilities to the negative examples. Class Labels and Probabilities
+One may be tempted to think that the target variable is a representation of the probability of class membership, and the observed values of the target variable in the training data simply report probabilities of p(x) = 1 for cases that are observed to be in the class and p(x) = 0 for instances that are observed not to be in the class. However, this is not generally consistent with how logistic regression models are used. Take an application to targeted marketing for example. For a consumer c, our model may estimate the probability of responding to the offer to be p(c responds) = 0.02. In the data, we see that the person indeed does respond. That does not mean that this consumer’s probability of responding actually was 1.0, nor that the model incurred a large error on this example. The consumer’s probability may indeed have been around p(c responds) = 0.02, which actually is a high probability of response for many campaigns, and the consumer just happened to respond this time.
+
+A more satisfying way to think about it is that the training data comprise a set of statistical “draws” from the underlying probabilities, rather than representing the underlying probabilities themselves. The logistic regression procedure then tries to estimate the probabilities (the probability distribution over the instance space) with a linear-log- odds model, based on the observed data on the result of the draws from the distribution.
+
+Example: Logistic Regression versus Tree Induction
+Though classification trees and linear classifiers both use linear decision boundaries,
+there are two important differences between them:
+
+1. A classification tree uses decision boundaries that are perpendicular to the instance- space axes (see Figure 4-1), whereas the linear classifier can use decision boundaries of any direction or orientation (see Figure 4-3). This is a direct consequence of the fact that classification trees select a single attribute at a time whereas linear classifiers use a weighted combination of all attributes.
+
+2. A classification tree is a “piecewise” classifier that segments the instance space recursively when it has to, using a divide-and-conquer approach. In principle, a classification tree can cut up the instance space arbitrarily finely into very small regions (though we will see reasons to avoid that in Chapter 5). A linear classifier places a single decision surface through the entire space. It has great freedom in the orientation of the surface, but it is limited to a single division into two segments. This is a direct consequence of there being a single (linear) equation that uses all of the variables, and must fit the entire data space.
+
+It is usually not easy to determine in advance which of these characteristics are a better match to a given dataset. You likely will not know what the best decision boundary will look like. So practically speaking, what are the consequences of these differences? When applied to a business problem, there is a difference in the comprehensibility of the models to stakeholders with different backgrounds. For example, what exactly a logistic regression model is doing can be quite understandable to people with a strong background in statistics, and very difficult to understand for those who do not. A decision tree, if it is not too large, may be considerably more understandable to someone without a strong statistics or mathematics background.
+
+Why is this important? For many business problems, the data science team does not have the ultimate say in which models are used or implemented. Often there is at least one manager who must “sign off” on the use of a model in practice, and in many cases a set of stakeholders need to be satisfied with the model. For example, to put in place a new model to dispatch technicians to repair problems after customer calls to the telephone company, managers from operations support, customer service, and technical development all need to be satisfied that the new model will do more good than harm , since for this problem no model is perfect.
+
+Let’s try logistic regression on a simple but realistic dataset, the Wisconsin Breast Cancer Dataset. As with the Mushroom dataset from the previous chapter, this is another popular dataset from the the machine learning dataset repository at the University of California at Irvine.
+
+Each example describes characteristics of a cell nuclei image, which has been labeled as either benign or malignant (cancerous), based on an expert’s diagnosis of the cells. A sample cell image is shown in Figure 4-11.
+
+Figure 4-11. One of the cell images from which the Wisconsin Breast Cancer dataset was derived. (Image courtesy of Nick Street and Bill Wolberg.) From each image 10 fundamental characteristics were extracted, listed in Table 4-3.
+
+Table 4-3. The attributes of the Wisconsin Breast Cancer dataset.
+Attribute name
+Description
+RADIUS
+Mean of distances from center to points on the perimeter
+TEXTURE
+Standard deviation of grayscale values
+PERIMETER
+Perimeter of the mass
+AREA
+Area of the mass
+SMOOTHNESS
+Local variation in radius lengths
+COMPACTNESS
+Computed as: perimeter2/area – 1.0
+CONCAVITY
+Severity of concave portions of the contour
+CONCAVE POINTS
+Number of concave portions of the contour
+SYMMETRY
+A measure of the nucleii’s symmetry
+FRACTAL DIMENSION 'Coastline approximation' – 1.0
+DIAGNOSIS (Target)
+Diagnosis of cell sample: malignant or benign
+These were “computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.” From each of these basic characteristics, three values were computed: the mean (_mean), standard error (_SE), and “worst” or largest (mean of the three largest values, _worst). This resulted in 30 measured attributes in the dataset. There are 357 benign images and 212 malignant images.
+Table 4-4. Linear equation learned by logistic regression on the Wisconsin Breast Cancer dataset (see text and Table 4-3 for a description of the attributes).
+Attribute
+Weight (learned parameter)
+SMOOTHNESS_worst 22.3
+CONCAVE_mean
+19.47
+CONCAVE_worst
+11.68
+SYMMETRY_worst
+4.99
+CONCAVITY_worst
+2.86
+CONCAVITY_mean
+2.34
+RADIUS_worst
+0.25
+TEXTURE_worst
+0.13
+AREA_SE
+0.06
+TEXTURE_mean
+0.03
+TEXTURE_SE
+–0.29
+COMPACTNESS_mean –7.1
+COMPACTNESS_SE
+–27.87
+w0 (intercept)
+–17.7
+
+Table 4-4 shows the linear model learned by logistic regression to predict benign versus malignant for this dataset. Specifically, it shows the nonzero weights ordered from highest to lowest.
+
+The performance of this model is quite good, it makes only six mistakes on the entire dataset, yielding an accuracy of about 98.9% (the percentage of the instances that the model classifies correctly). For comparison, a classification tree was learned from the same dataset (using Weka’s J48 implementation). The resulting tree is shown in Figure 4-13. The tree has 25 nodes altogether, with 13 leaf nodes. Recall that this means that the tree model partitions the instances into 13 segments. The classification tree’s accuracy is 99.1%, slightly higher than that of logistic regression.
+
+The intent of this experiment is only to illustrate the results of two different methods on a dataset, but it is worth digressing briefly to think about these performance results. First, an accuracy figure like 98.9% sounds like a very good result. Is it? We see many such accuracy numbers thrown around in the data mining literature, but evaluating classifiers on real-world problems like cancer diagnosis is often difficult and complex. We discuss evaluation in detail in Chapter 7 and Chapter 8.
+
+Second, consider the two performance results here: 98.9% versus 99.1%. Since the classification tree gives slightly higher accuracy, we might be tempted to conclude that it’s the better model. Should we believe this? This difference is caused by only a single additional error out of the 569 examples. Furthermore, the accuracy numbers were derived by evaluating each model on the same set of examples it was built from. How confident should we be in this evaluation? Chapter 5, Chapter 7, and Chapter 8 discuss guidelines and pitfalls of model evaluation.
+
+Nonlinear Functions, Support Vector Machines, and Neural Networks
+So far this chapter has focused on the numeric functions most commonly used in data science: linear models. This set of models includes a wide variety of different techniques. In addition, in Figure 4-12 we show that such linear functions can actually represent nonlinear models, if we include more complex features in the functions. In this example, we used the Iris dataset from “An Example of Mining a Linear Discriminant from Data” on page 88 and added a squared term to the input data: Sepal width2. The resulting model is a curved line (a parabola) in the original feature space. Sepal width2. We also added a single data point to the original dataset, an Iris Versicolor example added at (4,0.7), shown starred.
+
+Nonlinear Functions, Support Vector Machines, and Neural Networks  |  105
+www.it-ebooks.info
+
+Figure 4-12. The Iris dataset with a nonlinear feature. In this figure, logistic regression and support vector machine, both linear models, are provided an additional feature, Sepal width2, which allows both the freedom to create more complex, nonlinear models (boundaries), as shown.
+Our fundamental concept is much more general than just the application of fitting linear functions. Of course, we could specify arbitrarily complex numeric functions and fit their parameters to the data. The two most common families of techniques that are based on fitting the parameters of complex, nonlinear functions are nonlinear support- vector machines and neural networks.
+
+One can think of nonlinear support vector machines as essentially a systematic way of implementing the “trick” we just discussed of adding more complex terms and fitting a linear function to them. Support vector machines have a so-called “kernel function” that maps the original features to some other feature space. Then a linear model is fit to this new feature space, just as in our simple example in Figure 4-12. Generalizing this, one could implement a nonlinear support vector machine with a “polynomial kernel,” which essentially means it would consider “higher-order” combinations of the original features (e.g., squared features, products of features). A data scientist would become familiar with the different alternatives for kernel functions (linear, polynomial, and others).
+
+Neural networks also implement complex nonlinear numeric functions, based on the fundamental concepts of this chapter. Neural networks offer an intriguing twist. One can think of a neural network as a “stack” of models. On the bottom of the stack are the original features. From these features are learned a variety of relatively simple models. Let’s say these are logistic regressions. Then, each subsequent layer in the stack applies a simple model (let’s say, another logistic regression) to the outputs of the next layer down. So in a two-layer stack, we would learn a set of logistic regressions from the original features, and then learn a logistic regression using as features the outputs of the first set of logistic regressions. We could think of this very roughly as first creating a set of “experts” in different facets of the problem (the first-layer models), and then learning how to weight the opinions of these different experts (the second-layer model).6 The idea of neural networks gets even more intriguing. We might ask: if we are learning those lower-layer logistic regressions, the different experts, what would be the target variable for each? While some practitioners build stacked models where the lower- layer experts are built to represent specific things using specific target variables (e.g., Perlich et al., 2013), more generally with neural networks target labels for training are provided only for the final layer (the actual target variable). So how are the lower-layer logistic regressions trained? We can understand by returning to the fundamental concept of this chapter. The stack of models can be represented by one big parameterized numeric function. The paramenters now are the coefficients of all the models, taken together. So once we have decided on an objective function representing what we want to optimize (e.g., the fit to the training data, based on some fitting function), we can then apply an optimization procedure to find the best parameters to this very complex numeric function. When we’re done, we have the parameters to all the models, and thereby have learned the “best” set of lower-level experts and also the best way to combine them, all simultaneously.
+
+Note: Neural networks are useful for many tasks
+
+This section describes neural networks for classification and regression. The field of neural networks is broad and deep, with a long history. Neural networks have found wide application throughout data mining. They are commonly used for many other tasks mentioned in Chapter 2, such as clustering, time series analysis, profiling, and so on.
+
+6. Compare this with the notion of ensemble methods described in Chapter 12.
+
+So, given how cool that sounds, why wouldn’t we want to do that all the time? The tradeoff is that as we increase the amount of flexibility we have to fit the data, we increase the chance that we fit the data too well. The model can fit details of its particular training set rather than finding patterns or models that apply more generally. Specifically, we really want models that apply to other data drawn from the same population or application. This concern is not specific to neural networks, but is very general. It is one of the most important concepts in data science, and it is the subject of the next chapter.
+
+Summary
+This chapter introduced a second type of predictive modeling technique called function
+fitting or parametric modeling. In this case the model is a partially specified equation: a numeric function of the data attributes, with some unspecified numeric parameters. The task of the data mining procedure is to “fit” the model to the data by finding the best set of parameters, in some sense of “best.”
+
+There are many varieties of function fitting techniques, but most use the same linear model structure: a simple weighted sum of the attribute values. The parameters to be fit by the data mining are the weights on the attributes. Linear modeling techniques include linear discriminants such as support-vector machines, logistic regression, and traditional linear regression. Conceptually the key difference between these techniques is their answer to a key issue, What exactly do we mean by best fitting the data? The goodness of fit is described by an “objective function,” and each technique uses a different function. The resulting techniques may be quite different.
+
+We now have seen two very different sorts of data modeling, tree induction and function fitting, and have compared them (in “Example: Logistic Regression versus Tree Induction” on page 102). We have also introduced two criteria by which models can be evaluated: the predictive performance of a model and its intelligibility. It is often advantageous to build different sorts of models from a dataset to gain insight.
+
+This chapter focused on the fundamental concept of optimizing a model’s fit to data. However, doing this leads to the most important fundamental problem with data mining , if you look hard enough, you will find structure in a dataset, even if it’s just there by chance. This tendency is known as overfitting. Recognizing and avoiding overfitting is an important general topic in data science; and we devote the entire next chapter to it.
+
+Figure 4-13. Decision tree learned from the Wisconsin Breast Cancer dataset.
+
+
+CHAPTER 5
+Overfitting and Its Avoidance
+Fundamental concepts: Generalization; Fitting and overfitting; Complexity control.
+Exemplary techniques: Cross-validation; Attribute selection; Tree pruning; Regulariza‐
+tion.
+
+One of the most important fundamental notions of data science is that of overfitting and generalization. If we allow ourselves enough flexibility in searching for patterns in a particular dataset, we will find patterns. Unfortunately, these “patterns” may be just chance occurrences in the data. As discussed previously, we are interested in patterns that generalize, that predict well for instances that we have not yet observed. Finding chance occurrences in data that look like interesting patterns, but which do not generalize, is called overfitting the data.
+
+Generalization
+Consider the following (extreme) example. You’re a manager at MegaTelCo, responsible for reducing customer churn. I run a data mining consulting group. You give my data science team a set of historical data on customers who have stayed with the company and customers who have departed within six months of contract expiration. My job is to build a model to distinguish customers who are likely to churn based on some features, as we’ve discussed previously. I mine the data and build a model. I give you back the code for the model, to implement in your company’s churn-reduction system. Of course you are interested in whether my model is any good, so you ask your technical team to check the performance of the model on the historical data. You understand that historical performance is no guarantee of future success, but your experience tells you that churn patterns remain relatively stable, except for major changes to the industry (such as the introduction of the iPhone), and you know of no such major changes since these data were collected. So, the tech team runs the historical dataset through the model. Your technical lead reports back that this data science team is amazing. The model is 100% accurate. It does not make a single mistake, identifying correctly all the churners as well as the nonchurners.
+
+You’re experienced enough not to be comfortable with that answer. You’ve had experts looking at churn behavior for a long time, and if there really were 100% accurate indicators, you figure you would be doing better than you currently are. Maybe this is just a lucky fluke?
+
+It was not a lucky fluke. Our data science team can do that every time. Here is how we built the model. We stored the feature vector for each customer who has churned in a database table. Let’s call that Tc. Then, in use, when the model is presented with a customer to determine the likelihood of churning, it takes the customer’s feature vector, looks her up in Tc, and reports “100% likelihood of churning” if she is in Tc and “0% likelihood of churning” if she is not in Tc. So, when the tech team applies our model to the historical dataset, the model predicts perfectly.1
+
+Call this simple approach a table model. It memorizes the training data and performs no generalization. What is the problem with this? Consider how we’ll use the model in practice. When a previously unseen customer’s contract is about to expire, we’ll want to apply the model. Of course, this customer was not part of the historical dataset, so the lookup will fail since there will be no exact match, and the model will predict “0% likelihood of churning” for this customer. In fact, the model will predict this for every customer (not in the training data). A model that looked perfect would be completely useless in practice!
+
+This may seem like an absurd scenario. In reality, no one would throw raw customer data into a table and claim it was a “predictive model” of anything. But it is important to think about why this is a bad idea, because it fails for the same reason other, more realistic data mining efforts may fail. It is an extreme example of two related fundamental concepts of data science: generalization and overfitting. Generalization is the property of a model or modeling process, whereby the model applies to data that were not used to build the model. In this example, the model does not generalize at all beyond the data that were used to build it. It is tailored, or “fit,” perfectly to the training data. In fact, it is “overfit.”
+
+This is the important point. Every dataset is a finite sample of a population, in this case, the population of phone customers. We want models to apply not just to the exact training set but to the general population from which the training data came. We may worry that the training data were not representative of the true population, but that is not the problem here. The data were representative, but the data mining did not create a model that generalized beyond the training data.
+
+1. Technically, this is not necessarily true: there may be two customers with the same feature vector description, one of whom churns and the other does not. We can ignore that possibility for the sake of this example. For example, we can assume that the unique customer ID is one of the features.
