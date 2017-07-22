@@ -1,0 +1,62 @@
+* question  :drill:
+One function can contain other functions, which is called [composition]
+
+Example:  f(x)=x^2+1+3x
+
+* question  :drill:
+One function can be comprised of [multiple nested functions], 
+which is called composition. 
+
+Example:  f(x)=e^(x^2)
+
+* How can you tell whether a function is even, odd, or neither?  :drill:
+Substitute -x for x. Simplify. 
+If f(-x) equals f(x), it's [even]. 
+If f(-x) equals -f(x), it's [odd]. 
+Else it's [neither].
+
+* How can you tell whether a function is even, odd, or neither?  :drill:
+Substitute -x for x. Simplify. 
+If f(-x) equals f(x), it's [even]. 
+
+* How can you tell whether a function is even, odd, or neither?  :drill:
+Substitute -x for x. Simplify. 
+If f(-x) equals -f(x), it's [odd]. 
+
+*  :drill:
+How can you tell if a function is even?
+Substitute -x for x. Simplify. 
+If f(-x) equals [f(x)], it's even. 
+If f(-x) equals [-f(x)], it's odd. 
+Else it's [neither].
+
+* What are the 2 types of polynomial functions?  :drill:
+[Quadratic] and [cubic].
+
+* What are the 2 types of power functions?  :drill:
+[Root] and [reciprocal]
+
+* What are the 4 types of transcendental functions?  :drill:
+[Trigonometric], [Inverse trigonometric], [exponential], [logarithmic].
+
+* Be as specific as possible when classifying functions.
+** What should be specified when classifying a function as algebraic? :drill:
+[The degree].
+
+** What is the format of the terms of a polynomial equation?  :drill:
+[cx^n]
+
+* What are rational functions?
+The [ratio of two polynomials].
+
+* question  :drill:
+As an [independent] variable, x is free to [vary], 
+but y is [determined] by x, so it is [dependent].
+
+* What are the 3 steps to equation modeling?
+
+1. List all relevant [information]
+2. Draw the [problem]
+3. Build the [equation] that models the two as you eliminate items 
+   from the list of relevant information
+
