@@ -17,7 +17,7 @@ Published by O’Reilly Media, Inc.
 *** Authors’ page at http://www.data-science-for-biz.com
 
 * Chapter 1. Introduction: Data-Analytic Thinking
-** The Ubiquity of Data Opportunities :drill:
+** The Ubiquity of Data Opportunities  :drill:
 The terms “data science” and “data mining” often are used interchangeably,
 and the former has taken a life of its own as various individuals and
 organizations try to capitalize on the current hype surrounding it. At
@@ -29,7 +29,7 @@ As a term, “data science” often is applied more [broadly] than the
 traditional use of “data mining,” but data mining techniques provide
 some of the clearest illustrations of the [principles] of data science.
 
-** Example: Hurricane Frances :drill:
+** Example: Hurricane Frances  :drill:
 From a New York Times story from 2004:
 Executives at [Wal-Mart] decided that the hurricane offered a great
 opportunity for one of their newest data-driven weapons … predictive
@@ -40,12 +40,12 @@ Their goal was to identify unusual local demand for products:  ‘We didn’t
 know in the past that strawberry [Pop-Tarts] increase in sales, like seven
 times their normal sales rate, ahead of a hurricane.'
 
-** Example: Predicting Customer Churn :drill:
+** Example: Predicting Customer Churn  :drill:
 Customers switching from one company to another is called [churn], and it is
 expensive all around: one company must spend on incentives to attract a
 customer while another company loses revenue when the customer departs.
 
-** Data Science, Engineering, and Data-Driven Decision Making :drill:
+** Data Science, Engineering, and Data-Driven Decision Making  :drill:
 [Data-driven decision-making] (DDD) refers to the practice of basing
 decisions on the analysis of data, rather than purely on intuition.
 
@@ -101,7 +101,7 @@ As retail systems were increasingly computerized, merchandising decisions
 were automated. Famous examples include [Harrah's] casinos reward programs
 and the automated recommendations of Amazon and Netflix.
 
-** Data and Data Science Capability as a Strategic Asset :drill:
+** Data and Data Science Capability as a Strategic Asset  :drill:
 The prior sections suggest one of the fundamental principles of data
 science: data, and the capability to extract useful [knowledge] from data
 should be regarded as key [strategic assets].
@@ -1018,19 +1018,19 @@ rather than a simple value. If the target variable is numeric,
 the leaves of the [regression] tree contain numeric values.
 
 
-*** Question  ːdrillː
+*** Drill  ːdrillː
 There are many techniques to [induce] a supervised segmentation from
 a dataset. One of the most popular is to create a tree-structured
 model ([tree] [induction]). These techniques are popular because tree
 models are [easy] to understand, [robust] to many common data problems
 and are [relatively] efficient.
 
-*** Question  ːdrillː
+*** Drill  ːdrillː
 Tree induction takes a [divide-and-conquer] approach (type of algorithm),
 starting with the whole dataset and applying variable selection to
 try to create the [purest] subgroups possible using the attributes.
 
-*** Question  ːdrillː
+*** Drill  ːdrillː
 In summary, the procedure of classification tree induction is a [recursive]
 process of divide and [conquer], where the goal at each step is to select
 an [attribute] to partition the current group into subgroups that are
@@ -1044,11 +1044,11 @@ by the data features. A common form of [instance space] visualization
 is a scatterplot on some pair of features, used to compare one variable
 against another to detect correlations and relationships.
 
-*** Question   ːdrillː
+*** Drill   ːdrillː
 A classification tree [partitions] the instance space; The space described
 by the [data features].
 
-*** Question  ːdrillː
+*** Drill  ːdrillː
 ɪn a classification tree, each internal node corresponds to a [split]
 of the instance space. Each leaf node corresponds to an [unsplit region]
 of the space (a segment of the population). Whenever we follow a
@@ -1064,7 +1064,7 @@ be [perpendicular] to the axis representing this variable. In 2-dimensions,
 the line will be either horizontal or vertical.
 
 **** Boundary Surfaces  ːdrillː
-If the data had three variables the instance space would be ʒ-dimensional
+If the data had three variables the instance space would be 3-dimensional
 and each boundary surface imposed by a classification tree would
 be a 2-dimensional plane.
 
@@ -1073,24 +1073,24 @@ In higher dimensions, for a problem of n variables, each node of a
 classification tree imposes an [(n–1)] dimensional hyperplane decision
 [boundary] on the [instance] space.
 
-** Trees as Sets of Rules
+** Trees as Sets of Rules  :drill:
 Given a decision tree, if we trace down a single path from the root node to
 a leaf, collecting the conditions as we go, we generate a [rule]. Each rule
 consists of the attribute [tests] along the [path] connected with the
 logical conjugate [AND]. The tree is equivalent to this [rule set].
 
-** Probability Estimation
+** Probability Estimation  :drill:
 In many decision-making problems, we would like a more informative
 prediction than just a classification. For example, in our churn-prediction
 problem, rather than simply predicting whether a person will leave
 the company within 90 days of contract expiration, we would much
 rather have an estimate of the [probability] that he will leave the company.
 
-*** Question   ːdrillː
-ɪn a [probability estimation tree] model each leaf is assigned an estimate
+*** Drill  ːdrillː
+In a [probability estimation tree] model each leaf is assigned an estimate
 of the probability of membership in the different classes.
 
-*** Question  ːdrillː
+*** Drill  ːdrillː
 We can use instance counts at each leaf to compute a class probability
 estimate. For example, if a leaf contains n positive instances and
 m negative instances, the probability of any new instance being positive
@@ -1100,13 +1100,13 @@ a problem with estimating class membership probabilities this way:
 we may be overly optimistic about the probability of class membership
 for segments with [very small numbers of instances].
 
-*** Question  ːdrillː
+*** Drill  ːdrillː
 ɪf a leaf in a class probability estimation tree happens to have only 
 a single instance, should we be willing to say that there is a 100% 
 probability that members of that segment will have the class that this 
 one instance happens to have? [No]. This is an example of [overfitting].
 
-*** ʟaplace Correction  ːdrillː
+*** Laplace Correction  ːdrillː
 One easy way to address the problem of small samples for tree-based 
 class probability estimation, instead of simply computing the frequency, 
 use a [smoothed] version of the frequency-based estimate, known as the 
@@ -1119,7 +1119,7 @@ p(c) = (n + 1) / (n + m + 2)
 where n is the number of examples in the leaf [belonging] to class c,
 and m is the number of examples [not belonging] to class c.
 
-*** ʟaplace Correction example  ːdrillː
+*** Laplace correction example  ːdrillː
 Let’s walk through an example with and without the Laplace correction. 
 A leaf node with two positive instances and no negative instances would 
 produce the same frequency-based estimate as a leaf node with 20 
@@ -1132,27 +1132,27 @@ with 20 instances (p ≈ 0.95). As the number of instances [increases],
 the Laplace equation converges to the [frequency-based] estimate. 
 
 ** Summary
-*** Question  ːdrillː
+*** Drill  ːdrillː
 One of data science’s fundamental notions: finding and selecting 
 informative attributes. Selecting [informative] attributes.
 
-*** Question  ːdrill
+*** Drill  ːdrill
 One basic measure of attribute information is called [information gain], 
 which is based on a purity measure called [entropy]; another is [variance] 
 reduction. 
 
-*** Question  ːdrillː
+*** Drill  ːdrillː
 Selecting informative attributes forms the basis of a common modeling 
 technique called [tree induction] which [recursively] finds informative 
 attributes for subsets of the data. In so doing it [segments] the space 
 of instances into similar regions. 
 
-*** Question  ːdrillː
+*** Drill  ːdrillː
 The partitioning is [supervised] in that it tries to find segments 
 that give increasingly precise information about the quantity to be 
 predicted, the [target].
 
-*** Tree ɪnduction - History  ːdrillː
+*** Tree Induction - History  ːdrillː
 Research on tree induction goes back at least to the [1950s] and [1960s]. 
 Some of the earliest popular tree induction systems includeː
 CHAID (Chi-squared Automatic Interaction Detection) (Kass, 1980)
