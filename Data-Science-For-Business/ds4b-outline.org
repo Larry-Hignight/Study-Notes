@@ -46,7 +46,7 @@ expensive all around: one company must spend on incentives to attract a
 customer while another company loses revenue when the customer departs.
 
 ** Data Science, Engineering, and Data-Driven Decision Making :drill:
-[Data-driven decision-making] (DDD) refers to the practice of basing 
+[Data-driven decision-making] (DDD) refers to the practice of basing
 decisions on the analysis of data, rather than purely on intuition.
 
 *** DDD Continued
@@ -138,13 +138,13 @@ million managers and analysts with the know-how to use the analysis of
 big data to make effective decisions.”
 
 ** Data Mining and Data Science, Revisited  :drill:
-The [Cross Industry Standard Process for Data Mining], abbreviated 
-[CRISP-DM] provides a framework for extracting useful knowledge from 
+The [Cross Industry Standard Process for Data Mining], abbreviated
+[CRISP-DM] provides a framework for extracting useful knowledge from
 data to solve business problem using reasonably well-defined stages.
 
-*** Drill  :drill: 
+*** Drill  :drill:
 The [Cross Industry Standard Process for Data Mining], abbreviated
-CRISP-DM provides a [framework] for extracting useful [knowledge] from 
+CRISP-DM provides a [framework] for extracting useful [knowledge] from
 [data] to solve business problem using reasonably well-defined [stages].
 
 *** Overfitting  :drill:
@@ -215,7 +215,7 @@ are likely to respond to a given offer?” In this example the [two]
 classes could be called ["will respond"] and ["will not" respond].
 
 *** Drill  :drill:
-A closely related task is scoring or class [probability estimation]. 
+A closely related task is scoring or class [probability estimation].
 A scoring model applied to an individual produces, instead
 of a class prediction, a score representing the [probability] (or some
 other quantification of likelihood) that that individual belongs to
@@ -224,7 +224,7 @@ be able to evaluate each individual customer and produce a score of
 how likely each is to respond to the offer.
 
 *** Drill  :drill:
-Regression (or “value estimation”) attempts to [estimate] or predict, for 
+Regression (or “value estimation”) attempts to [estimate] or predict, for
 each individual, the [numerical] value of some variable for that individual.
 
 An example regression question would be: “How [much] will a given customer
@@ -272,7 +272,7 @@ the typical [behavior] of an individual, group, or population.
 
 *** Drill  :drill:
 [Profiling] is often used to establish behavioral norms for [anomaly]
-detection applications such as [fraud] detection and monitoring for 
+detection applications such as [fraud] detection and monitoring for
 [intrusions] to computer systems.
 
 *** Drill  :drill:
@@ -302,7 +302,7 @@ job of identifying those consumers who would have purchased anyway?
 *** Drill  :drill:
 Techniques for causal modeling include those involving a substantial
 investment in data, such as [randomized] controlled experiments (eg,
-so-called [“A/B tests”]), as well as sophisticated methods for drawing 
+so-called [“A/B tests”]), as well as sophisticated methods for drawing
 causal conclusions from [observational] data.
 
 ** Supervised Versus Unsupervised Methods  :drill:
@@ -331,34 +331,34 @@ are [meaningful] or will be useful for any particular [purpose].
 Acquiring data on the [target] often is a key data science [investment].
 The value for the target variable for an individual is often called
 the individual’s [label], emphasizing that often (not always) one
-must incur expense to actively [label] the [data]. 
+must incur expense to actively [label] the [data].
 
 *** Drill  :drill:
-Classification, regression, and causal modeling generally are solved 
-with [supervised] methods.  Similarity matching, link prediction, and 
+Classification, regression, and causal modeling generally are solved
+with [supervised] methods.  Similarity matching, link prediction, and
 data reduction could be [either]. Clustering, co-occurrence grouping, and
 profiling generally are [unsupervised]. The fundamental principles of
 data mining that we will present underlie all these types of technique.
 
 *** Drill  :drill:
-[Classification], [regression], and [causal modeling] generally are solved 
-with supervised methods.  
+[Classification], [regression], and [causal modeling] generally are solved
+with supervised methods.
 
 *** Drill  :drill:
 [Similarity matching], [link prediction], and [data reduction] can be
-solved with either supervised or [unsupervised] methods. 
+solved with either supervised or [unsupervised] methods.
 
 *** Drill  :drill:
 [Clustering], [co-occurrence grouping], and [profiling] generally use
 unsupervised methods.
 
 *** Drill  :drill:
-Classification, regression, and causal modeling generally are solved 
-with [supervised] methods.  
+Classification, regression, and causal modeling generally are solved
+with [supervised] methods.
 
 *** Drill  :drill:
 Similarity matching, link prediction, and data reduction can be
-solved with [either supervised or unsupervised] methods. 
+solved with [either supervised or unsupervised] methods.
 
 *** Drill  :drill:
 Clustering, co-occurrence grouping, and profiling generally use
@@ -366,34 +366,34 @@ Clustering, co-occurrence grouping, and profiling generally use
 
 *** Drill  :drill:
 Two main subclasses of [supervised learning], classification and regression,
-are distinguished by the type of target. Regression involves a [numeric] 
+are distinguished by the type of target. Regression involves a [numeric]
 target while classification involves a [categorical (often binary)] target.
 
 *** Drill  :drill:
 Two main subclasses of supervised learning, [classification] and [regression],
-are distinguished by the type of target. [Regression] involves a numeric 
+are distinguished by the type of target. [Regression] involves a numeric
 target while [classification] involves a categorical (often binary) target.
 
 *** Drill  :drill:
-For business applications we often want a [numerical prediction] over a 
-[categorical target]. In the churn example, a basic yes/no prediction of 
-whether a customer is likely to continue to subscribe to the service 
-may not be sufficient; we want to model the [probability] that the customer 
-will continue. This is still considered [classification] modeling rather 
-than [regression] because the underlying target is [categorical]. Where 
+For business applications we often want a [numerical prediction] over a
+[categorical target]. In the churn example, a basic yes/no prediction of
+whether a customer is likely to continue to subscribe to the service
+may not be sufficient; we want to model the [probability] that the customer
+will continue. This is still considered [classification] modeling rather
+than [regression] because the underlying target is [categorical]. Where
 necessary for clarity, this is called [“class probability estimation.”]
 
 *** Drill  :drill:
-A vital part in the early stages of the data mining process is (i) to 
-decide whether the line of attack will be [supervised] or [unsupervised], 
+A vital part in the early stages of the data mining process is (i) to
+decide whether the line of attack will be [supervised] or [unsupervised],
 and (ii) if [supervised], to produce a precise definition of a [target]
-variable. This variable must be a specific [quantity] that will be the 
+variable. This variable must be a specific [quantity] that will be the
 focus of the data mining.
 
 ** The Data Mining Process
 *** Drill  :drill:
 Data science is a [craft].  As with many mature crafts, there is a
- well-understood [process] that places a structure on the problem, 
+ well-understood [process] that places a structure on the problem,
 allowing reasonable [consistency], [repeatability], and [objectiveness].
 
 *** Drill  :drill:
@@ -403,7 +403,7 @@ A useful codification of the data mining process is given by the
 *** Drill  :drill:
 A useful codification of the data mining process is [CRISP-DM] (abbv).
 
-*** TODO - Add illustration Figure 2-2.1 Figure 2-2. 
+*** TODO - Add illustration Figure 2-2.1 Figure 2-2.
 
 *** CRISP-DM Table  :drill:
 :PROPERTIES:
@@ -424,135 +424,135 @@ The CRISP-DM process includes the following stages:
 :DRILL_CARD_TYPE: hide2cloze
 :END:
 
-This process diagram makes explicit the fact that [iteration] is the rule 
-rather than the exception. Going through the process once without having 
-solved the problem is, generally speaking, not a [failure]. Often the 
-entire process is an [exploration] of the data, and after the first 
-[iteration] the data science team [knows much more].  The next iteration 
-can be much more [well-informed]. 
+This process diagram makes explicit the fact that [iteration] is the rule
+rather than the exception. Going through the process once without having
+solved the problem is, generally speaking, not a [failure]. Often the
+entire process is an [exploration] of the data, and after the first
+[iteration] the data science team [knows much more].  The next iteration
+can be much more [well-informed].
 
 ** Business Understanding  :drill:
-Initially, it is vital to understand the problem to be solved. 
-This may seem obvious, but business projects seldom come pre-packaged 
-as clear and unambiguous data mining problems.  Often, [recasting] the 
+Initially, it is vital to understand the problem to be solved.
+This may seem obvious, but business projects seldom come pre-packaged
+as clear and unambiguous data mining problems.  Often, [recasting] the
 problem and [designing] a solution is an [iterative] process of [discovery].
 
-*** Drill  :drill: 
+*** Drill  :drill:
 The [Business Understanding] stage represents a part of the craft
-where the analysts’ creativity plays a large role. Data science 
-has some things to say, as we will describe, but often the key 
-to a great success is a creative problem formulation by some analyst 
-regarding how to cast the [business] problem as one or more [data 
-science] problems. High-level knowledge of the [fundamentals] helps 
+where the analysts’ creativity plays a large role. Data science
+has some things to say, as we will describe, but often the key
+to a great success is a creative problem formulation by some analyst
+regarding how to cast the [business] problem as one or more [data
+science] problems. High-level knowledge of the [fundamentals] helps
 creative business analysts see novel formulations.
 
 ** Data Understanding  :drill:
-A critical part of the [data understanding] phase is estimating 
-the [costs] and [benefits] of each [data source] and deciding 
+A critical part of the [data understanding] phase is estimating
+the [costs] and [benefits] of each [data source] and deciding
 whether further [investment] is merited.
 
 *** Credit card fraud  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide2cloze
   :END:
-Data mining has been used extensively for fraud detection, and 
-many fraud detection problems involve classic [supervised] data 
-mining tasks. Fraudulent charges are usually caught—if not initially 
-by the [company], then later by the [customer] when account activity 
-is reviewed. Nearly all fraud is [identified] and reliably 
-[labeled], since the legitimate customer and the person perpetrating 
-the fraud are different people and have opposite goals. Thus credit 
-card transactions have reliable [labels] (fraud and legitimate) that 
-may serve as targets for a [supervised] technique. 
+Data mining has been used extensively for fraud detection, and
+many fraud detection problems involve classic [supervised] data
+mining tasks. Fraudulent charges are usually caught—if not initially
+by the [company], then later by the [customer] when account activity
+is reviewed. Nearly all fraud is [identified] and reliably
+[labeled], since the legitimate customer and the person perpetrating
+the fraud are different people and have opposite goals. Thus credit
+card transactions have reliable [labels] (fraud and legitimate) that
+may serve as targets for a [supervised] technique.
 
 *** Medicare fraud  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide2cloze
   :END:
-Those who commit [Medicare] fraud are a subset of the legitimate 
-users; there is no separate disinterested party who will declare 
-exactly what the “correct” charges should be. Consequently the 
-Medicare billing data have no reliable [target] variable indicating 
-fraud, and a [supervised] learning approach that could work for 
-credit card fraud is not applicable. Such a problem usually requires 
-[unsupervised] approaches such as [profiling], [clustering], [anomaly 
+Those who commit [Medicare] fraud are a subset of the legitimate
+users; there is no separate disinterested party who will declare
+exactly what the “correct” charges should be. Consequently the
+Medicare billing data have no reliable [target] variable indicating
+fraud, and a [supervised] learning approach that could work for
+credit card fraud is not applicable. Such a problem usually requires
+[unsupervised] approaches such as [profiling], [clustering], [anomaly
 detection], and [co-occurrence grouping].
 
 ** Data Preparation  :drill:
-Typical examples of data [preparation] are converting data to tabular 
-format, removing or [inferring missing] values, and converting data 
-to different [types]. Some data mining techniques are designed for 
-[symbolic] and [categorical] data, while others handle only [numeric] 
-values. In addition, numerical values must often be [normalized] 
-or [scaled] so that they are comparable. 
+Typical examples of data [preparation] are converting data to tabular
+format, removing or [inferring missing] values, and converting data
+to different [types]. Some data mining techniques are designed for
+[symbolic] and [categorical] data, while others handle only [numeric]
+values. In addition, numerical values must often be [normalized]
+or [scaled] so that they are comparable.
 
 *** Leaks  :drill:
-One very general and important concern during data preparation 
-is to beware of [“leaks”] (Kaufman et al. 2012). A [leak] is a situation 
-where a [variable] collected in historical data gives information 
-on the [target] variable — information that appears in historical 
-data but is not actually available when the decision has to be made. 
+One very general and important concern during data preparation
+is to beware of [“leaks”] (Kaufman et al. 2012). A [leak] is a situation
+where a [variable] collected in historical data gives information
+on the [target] variable — information that appears in historical
+data but is not actually available when the decision has to be made.
 
 ** Modeling  :drill:
-The output of the [modeling] stage is some sort of [model] or pattern 
+The output of the [modeling] stage is some sort of [model] or pattern
 capturing regularities in the data.
 
 ** Evaluation  :drill:
-The purpose of the [evaluation] stage is to assess the data mining 
-results rigorously and to gain confidence that they are valid 
-and reliable before moving on. If we look hard enough at any dataset 
-we will find [patterns], but they may not survive careful scrutiny. 
+The purpose of the [evaluation] stage is to assess the data mining
+results rigorously and to gain confidence that they are valid
+and reliable before moving on. If we look hard enough at any dataset
+we will find [patterns], but they may not survive careful scrutiny.
 
 *** Evaluation State and Business Goals  :drill:
-Equally important, the evaluation stage also serves to help ensure 
-that the model satisfies the original [business] goals. Recall 
+Equally important, the evaluation stage also serves to help ensure
+that the model satisfies the original [business] goals. Recall
 that the primary goal of data science for business is to support
-[decision making], and that we started the process by focusing 
+[decision making], and that we started the process by focusing
 on the business problem we would like to solve.
 
 *** Drill  :drill:
-To facilitate such qualitative assessment, the data scientist 
-must think about the comprehensibility of the model to [stakeholders] 
-(not just to the [data scientists]). And if the model itself is not 
-comprehensible (e.g., maybe the model is a very complex mathematical 
-formula), how can the data scientists work to make the behavior 
+To facilitate such qualitative assessment, the data scientist
+must think about the comprehensibility of the model to [stakeholders]
+(not just to the [data scientists]). And if the model itself is not
+comprehensible (e.g., maybe the model is a very complex mathematical
+formula), how can the data scientists work to make the behavior
 of the model be comprehensible.
 
 *** Evaluation framework  :drill:
-A comprehensive evaluation [framework] is important because 
-getting detailed information on the [performance] of a deployed 
+A comprehensive evaluation [framework] is important because
+getting detailed information on the [performance] of a deployed
 model may be difficult or impossible.
 
 *** A/B Testing  :drill:
 In our churn example, if we have decided from laboratory tests that
-a data mined model will give us better churn reduction, we may want 
-to move on to an [“in vivo”] evaluation, in which a live system 
-randomly applies the model to some customers while keeping other 
+a data mined model will give us better churn reduction, we may want
+to move on to an [“in vivo”] evaluation, in which a live system
+randomly applies the model to some customers while keeping other
 customers as a [control group].
 
 ** Deployment  :drill:
-In the [deployment] stage the results of data mining, and increasingly 
-the data mining techniques themselves, are put into real use in order 
+In the [deployment] stage the results of data mining, and increasingly
+the data mining techniques themselves, are put into real use in order
 to realize some return on investment.
 
 *** Deploying data mining models  :drill:
-Increasingly, the data mining techniques themselves are deployed. 
-For example, for targeting online advertisements, systems are 
-deployed that automatically build (and test) [models] in [production] 
+Increasingly, the data mining techniques themselves are deployed.
+For example, for targeting online advertisements, systems are
+deployed that automatically build (and test) [models] in [production]
 when a new advertising campaign is presented.
 
 *** Deploying data mining models  :drill:
-Two main reasons for deploying the data mining system itself rather than 
+Two main reasons for deploying the data mining system itself rather than
 the models produced by a data mining system are (i) the world may [change
-faster] than the data science team can adapt, as with fraud and intrusion 
-detection, and (ii) a business has too many [modeling] tasks for their 
-data science team to manually curate each [model] individually. 
+faster] than the data science team can adapt, as with fraud and intrusion
+detection, and (ii) a business has too many [modeling] tasks for their
+data science team to manually curate each [model] individually.
 
 *** Deploying into production  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: show2cloze
   :END:
-It may be best to deploy the data mining phase into production. In doing 
+It may be best to deploy the data mining phase into production. In doing
 so, it is critical to [instrument] the system to alert the data science
 team of any seeming [anomalies] and to provide [fail-safe] operation.
 
@@ -560,15 +560,15 @@ team of any seeming [anomalies] and to provide [fail-safe] operation.
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide2cloze
   :END:
-Data mining is an [exploratory] undertaking closer to [research and 
-development] than it is to [engineering]. The [CRISP] cycle is based 
-around [exploration]; it iterates on approaches and strategy rather 
-than on [software designs]. Outcomes are far less [certain], and the 
-results of a given step may change the understanding of the problem. 
+Data mining is an [exploratory] undertaking closer to [research and
+development] than it is to [engineering]. The [CRISP] cycle is based
+around [exploration]; it iterates on approaches and strategy rather
+than on [software designs]. Outcomes are far less [certain], and the
+results of a given step may change the understanding of the problem.
 
 ** Software skills versus analytics skills  :drill:
-In analytics, it’s important for individuals to be able to formulate 
-problems well, to [prototype] solutions quickly, to make good [assumptions] 
+In analytics, it’s important for individuals to be able to formulate
+problems well, to [prototype] solutions quickly, to make good [assumptions]
 in the face of ill-structured problems, to design [experiments]
 that represent good [investments], and to analyze results.
 
@@ -576,95 +576,95 @@ that represent good [investments], and to analyze results.
   :PROPERTIES:
   :DRILL_CARD_TYPE: show2cloze
   :END:
-To this end, we present six groups of related analytic techniques. 
-Where appropriate we draw comparisons and contrasts with data mining. 
-The main difference is that data mining focuses on the [automated] 
+To this end, we present six groups of related analytic techniques.
+Where appropriate we draw comparisons and contrasts with data mining.
+The main difference is that data mining focuses on the [automated]
 search for [knowledge], [patterns], or [regularities] from [data].
 
 *** Statistics  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: show2cloze
   :END:
-Often we want to calculate [summary statistics] [conditionally] on one 
-or more [subsets] of the [population] (e.g., “Does the churn rate differ 
+Often we want to calculate [summary statistics] [conditionally] on one
+or more [subsets] of the [population] (e.g., “Does the churn rate differ
 between male and female customers?”
 
 *** Database Querying  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: show2cloze
   :END:
-A [query] is a specific request for a [subset] of data or for [statistics] 
-about data, formulated in a technical language and posed to a [database] 
-system.  
+A [query] is a specific request for a [subset] of data or for [statistics]
+about data, formulated in a technical language and posed to a [database]
+system.
 
 *** Other Analytics Techniques and Technologies  :drill:
-[On-line Analytical Processing] (OLAP) provides an easy-to-use GUI 
-to query large data collections, for the purpose of facilitating 
-data exploration. The idea of [“on-line” processing] is that it 
-is done in realtime, so analysts and decision makers can find 
-answers to their queries quickly and efficiently. Unlike the [“ad 
-hoc”] querying enabled by tools like SQL, for OLAP the dimensions 
-of analysis must be pre-programmed into the OLAP system. 
+[On-line Analytical Processing] (OLAP) provides an easy-to-use GUI
+to query large data collections, for the purpose of facilitating
+data exploration. The idea of [“on-line” processing] is that it
+is done in realtime, so analysts and decision makers can find
+answers to their queries quickly and efficiently. Unlike the [“ad
+hoc”] querying enabled by tools like SQL, for OLAP the dimensions
+of analysis must be pre-programmed into the OLAP system.
 
 **** Drill  :drill:
-OLAP systems are designed to facilitate manual or visual exploration 
-of the data by analysts. OLAP performs no modeling or automatic 
-[pattern finding]. As an additional contrast, unlike with OLAP, [data 
-mining] tools generally can incorporate new dimensions of analysis 
-easily as part of the exploration. OLAP tools can be a useful 
+OLAP systems are designed to facilitate manual or visual exploration
+of the data by analysts. OLAP performs no modeling or automatic
+[pattern finding]. As an additional contrast, unlike with OLAP, [data
+mining] tools generally can incorporate new dimensions of analysis
+easily as part of the exploration. OLAP tools can be a useful
 [complement] to data mining tools for discovery from business data.
 
 *** Data Warehousing  :drill:
-[Data warehouses] collect and coalesce data from across an enterprise, 
-often from multiple transaction-processing systems, each with 
+[Data warehouses] collect and coalesce data from across an enterprise,
+often from multiple transaction-processing systems, each with
 its own database.
 
 **** Drill  :drill:
-Data [warehousing] may be seen as a facilitating technology of data 
-mining. It is not always necessary, as most data mining does not 
-access a [data warehouse], but firms that decide to invest in [data 
-warehouses] often can apply data mining more broadly and more deeply 
+Data [warehousing] may be seen as a facilitating technology of data
+mining. It is not always necessary, as most data mining does not
+access a [data warehouse], but firms that decide to invest in [data
+warehouses] often can apply data mining more broadly and more deeply
 in the organization.
 
 *** Regression Analysis  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide2cloze
   :END:
-This book will focus on different issues than usually encountered 
-in a regression analysis book or class. Here we are less interested 
-in explaining a particular [dataset] as we are in extracting [patterns] 
-that will [generalize] to other data, and for the purpose of improving 
-some business process. Typically, this will involve [estimating] or 
-[predicting] values for cases that are not in the analyzed data set. 
+This book will focus on different issues than usually encountered
+in a regression analysis book or class. Here we are less interested
+in explaining a particular [dataset] as we are in extracting [patterns]
+that will [generalize] to other data, and for the purpose of improving
+some business process. Typically, this will involve [estimating] or
+[predicting] values for cases that are not in the analyzed data set.
 
 **** Explanatory Models vs Predictive Modeling  :drill:
-The topic of explanatory modeling versus predictive modeling can elicit 
-deep-felt debate, which goes well beyond our focus. What is important 
+The topic of explanatory modeling versus predictive modeling can elicit
+deep-felt debate, which goes well beyond our focus. What is important
 is to realize that there is considerable overlap in the [techniques] used,
-but that the lessons learned from [explanatory] modeling do not all apply 
-to [predictive] modeling. A reader with some background in regression 
+but that the lessons learned from [explanatory] modeling do not all apply
+to [predictive] modeling. A reader with some background in regression
 analysis may encounter new and even seemingly contradictory lessons.
 
 *** Machine Learning and Data Mining  :drill:
-The collection of methods for extracting [predictive] models from 
-data, now known as [machine learning] methods, were developed in 
-several fields contemporaneously, most notably [Machine Learning], 
+The collection of methods for extracting [predictive] models from
+data, now known as [machine learning] methods, were developed in
+several fields contemporaneously, most notably [Machine Learning],
 Applied Statistics, and Pattern Recognition.
 
-**** Drill  :drill: 
-Machine Learning as a field of study arose as a subfield of [Artificial 
-Intelligence], which was concerned with methods for improving the 
-knowledge or performance of an intelligent [agent] over time, in response 
-to the [agent’s] experience in the world. 
+**** Drill  :drill:
+Machine Learning as a field of study arose as a subfield of [Artificial
+Intelligence], which was concerned with methods for improving the
+knowledge or performance of an intelligent [agent] over time, in response
+to the [agent’s] experience in the world.
 
-**** Drill  :drill: 
+**** Drill  :drill:
 [Machine Learning] as a field of study arose as a subfield of AI.
 
 **** Drill  :drill:
-The field of Data Mining (or [KDD]: [Knowledge Discovery and Data Mining]) 
-started as an offshoot of [Machine Learning], and they remain closely 
-linked. Both fields are concerned with the [analysis] of data to find 
-useful or informative [patterns]. Indeed, the areas are so closely related 
+The field of Data Mining (or [KDD]: [Knowledge Discovery and Data Mining])
+started as an offshoot of [Machine Learning], and they remain closely
+linked. Both fields are concerned with the [analysis] of data to find
+useful or informative [patterns]. Indeed, the areas are so closely related
 that researchers commonly participate in both communities.
 
 **** Drill :drill:
@@ -681,14 +681,14 @@ reason and act in an environment, which are not concerns of [Data Mining].
   :PROPERTIES:
   :DRILL_CARD_TYPE: hide2cloze
   :END:
-Historically, KDD spun off from Machine Learning as a research 
-field focused on concerns raised by examining [real-world] applications, 
-and a decade and a half later the KDD community remains more concerned 
-with applications than Machine Learning is. As such, research 
-focused on [commercial] applications and [business] issues of data 
-analysis tends to gravitate toward the [KDD] community rather than 
-to [Machine Learning]. [KDD] also tends to be more concerned with 
-the entire process of data analytics: data preparation, model 
+Historically, KDD spun off from Machine Learning as a research
+field focused on concerns raised by examining [real-world] applications,
+and a decade and a half later the KDD community remains more concerned
+with applications than Machine Learning is. As such, research
+focused on [commercial] applications and [business] issues of data
+analysis tends to gravitate toward the [KDD] community rather than
+to [Machine Learning]. [KDD] also tends to be more concerned with
+the entire process of data analytics: data preparation, model
 learning, evaluation, and so on.
 
 * Chapter 3. Introduction to Predictive Modeling: From Correlation to Supervised Segmentation
@@ -697,10 +697,10 @@ learning, evaluation, and so on.
 
 *** Supervised segmentation  :drill:
 We begin by thinking of predictive modeling as supervised segmentation:
-How can we segment the population into groups that differ from each other 
-with respect to some quantity of [interest].  In particular, how can we 
+How can we segment the population into groups that differ from each other
+with respect to some quantity of [interest].  In particular, how can we
 segment the [population] with respect to something that we would like
-to predict or [estimate]. 
+to predict or [estimate].
 
 *** Informative variables  :drill:
 In the process of discussing supervised segmentation, we introduce
@@ -711,11 +711,11 @@ but generally, [information] is a quantity that reduces [uncertainty].
 
 *** Drill  :drill:
 A key to [supervised] data mining is that we have some [target] quantity
-we would like to [predict] or to otherwise understand better. 
+we would like to [predict] or to otherwise understand better.
 
 *** Drill  :drill:
-We would like to find knowable [attributes] that [correlate] with the 
-target of [interest], that reduce our [uncertainty] in it. Just finding 
+We would like to find knowable [attributes] that [correlate] with the
+target of [interest], that reduce our [uncertainty] in it. Just finding
 these correlated variables may provide important insight into the business problem.
 
 Finding informative attributes also is useful to help us deal with increasingly larger
@@ -729,26 +729,26 @@ eling, for reasons we will discuss in Chapter 5.
 
 *** TODO Include Fig 3-1  :drill:
 Data mining terminology for a supervised classification problem. The
-problem is supervised because it has a [target attribute] and some 
-“training” data where we know the value for the [target attribute]. 
-It is a classification (rather than regression) problem because the 
+problem is supervised because it has a [target attribute] and some
+“training” data where we know the value for the [target attribute].
+It is a classification (rather than regression) problem because the
 target is a [category] (yes or no) rather than a [number].
 
 *** Drill  :drill:
-Finding informative attributes also is the basis for a widely used 
+Finding informative attributes also is the basis for a widely used
 predictive modeling technique called [tree induction].
 
 *** Drill  :drill:
-[Tree induction] incorporates the idea of supervised segmentation in an 
-elegant manner, repeatedly selecting informative attributes. 
+[Tree induction] incorporates the idea of supervised segmentation in an
+elegant manner, repeatedly selecting informative attributes.
 
 ** Models, Induction, and Prediction  :drill:
-Generally speaking, a [model] is a simplified representation of reality 
-created to serve a purpose. For example, a map is a [model] of the 
+Generally speaking, a [model] is a simplified representation of reality
+created to serve a purpose. For example, a map is a [model] of the
 physical world.
 
 *** Model terminology  :drill:
-A model is a simplified [representation] of reality created to serve a 
+A model is a simplified [representation] of reality created to serve a
 [purpose]. For example, a [map] is a model of the physical world.
 
 *** Predictive models  :drill:
@@ -758,122 +758,122 @@ or it could be a [logical statement] such as a rule (often it is both).
 
 ** Terminology: Prediction  :drill:
 In common usage, [prediction] means to forecast a future event. In data
-science, [prediction] generally means to [estimate] an unknown value. This 
+science, [prediction] generally means to [estimate] an unknown value. This
 value could be something in the future (in common usage, [prediction]),
-but it could also be something in the present or in the past. 
+but it could also be something in the present or in the past.
 
 *** Descriptive Modeling  :drill:
-Predictive models are intended to be used to [estimate] an unknown 
-value. This is in contrast to [descriptive] modeling, where the primary 
-purpose of the model is not to [estimate] a value but instead to gain 
+Predictive models are intended to be used to [estimate] an unknown
+value. This is in contrast to [descriptive] modeling, where the primary
+purpose of the model is not to [estimate] a value but instead to gain
 insight into the underlying phenomenon or process.
 
 *** Supervised Learning  :drill:
-[Supervised learning] is model creation where the model describes a 
+[Supervised learning] is model creation where the model describes a
 relationship between a set of selected variables (attributes or features)
-and a predefined variable called the [target] variable. The model estimates 
-the value of the [target] variable as a function (possibly a probabilistic 
-function) of the features.  
+and a predefined variable called the [target] variable. The model estimates
+the value of the [target] variable as a function (possibly a probabilistic
+function) of the features.
 
 *** Terminology:  Instance  :drill:
-An [instance] or [example] represents a fact or a data point, in this case 
-a historical customer who had been given credit. This is also called 
+An [instance] or [example] represents a fact or a data point, in this case
+a historical customer who had been given credit. This is also called
 a [row] in database or spreadsheet terminology.
 
 *** Terminology:  Instance  :drill:
 An instance is described by a set of attributes (fields, columns, variables,
-or features). An instance is also sometimes called a [feature vector], 
-because it can be represented as a fixed-length ordered collection 
+or features). An instance is also sometimes called a [feature vector],
+because it can be represented as a fixed-length ordered collection
 ([vector]) of feature values.
 
 ** Many Names for the Same Things  :drill:
-There are several different names for the same things: 
-We typically will refer to a [dataset], whose form usually is the same 
-as a [table] of a database or a [worksheet] of a spreadsheet. 
+There are several different names for the same things:
+We typically will refer to a [dataset], whose form usually is the same
+as a [table] of a database or a [worksheet] of a spreadsheet.
 
 ** Many Names for the Same Things  :drill:
-A dataset contains a set of examples or [instances]. An [instance] also 
-is referred to as a [row] of a database table or sometimes a [case] in 
+A dataset contains a set of examples or [instances]. An [instance] also
+is referred to as a [row] of a database table or sometimes a [case] in
 statistics.
 
 ** Many Names for the Same Things  :drill:
-The features (table columns) have many different names as 
-well. Statisticians speak of [independent variables] or [predictors] as 
-the attributes supplied as input. In operations research you may also 
-hear [explanatory variable]. The target variable, whose values are to 
-be predicted, is commonly called the [dependent variable] in statistics. 
+The features (table columns) have many different names as
+well. Statisticians speak of [independent variables] or [predictors] as
+the attributes supplied as input. In operations research you may also
+hear [explanatory variable]. The target variable, whose values are to
+be predicted, is commonly called the [dependent variable] in statistics.
 
 *** Terminology:  Induction  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: show1cloze
   :END:
-The creation of models from data is known as model [induction], which 
-is a term from philosophy that refers to generalizing from [specific] 
-cases to [general] rules (or laws, or truths). 
+The creation of models from data is known as model [induction], which
+is a term from philosophy that refers to generalizing from [specific]
+cases to [general] rules (or laws, or truths).
 
 *** Terminology:  Induction  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: show1cloze
   :END:
-The procedure that creates the model from the data is called the induction 
-[algorithm] or [learner]. Most inductive procedures have variants that 
-induce models both for [classification] and for [regression]. 
+The procedure that creates the model from the data is called the induction
+[algorithm] or [learner]. Most inductive procedures have variants that
+induce models both for [classification] and for [regression].
 
 ** Terminology: Induction and deduction  :drill:
-Induction can be contrasted with [deduction], which starts with [general] 
+Induction can be contrasted with [deduction], which starts with [general]
 rules and [specific] facts, and creates other [specific] facts from them.
 
 *** Drill  :drill:
-The input data for the induction algorithm, used for inducing the model, 
-are called the [training] data.  They are [labeled] data because the 
+The input data for the induction algorithm, used for inducing the model,
+are called the [training] data.  They are [labeled] data because the
 value for the [target] variable is known.
 
 ** Supervised Segmentation  :drill:
-An intuitive way of thinking about extracting patterns from data in a 
-supervised manner is to try to [segment] the population into [subgroups] 
-that have different values for the target variable (and within the 
-[subgroup] the instances have similar values for the target variable).  
+An intuitive way of thinking about extracting patterns from data in a
+supervised manner is to try to [segment] the population into [subgroups]
+that have different values for the target variable (and within the
+[subgroup] the instances have similar values for the target variable).
 
 ** Selecting Informative Attributes  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: show1cloze
   :END:
-Technically, we would like the resulting groups to be as [pure] as 
-possible. By [pure] we mean [homogeneous] with respect to the target 
-variable. If every member of a group has the same [value] for the target, 
-then the group is [pure]. If there is at least one member of the group 
-that has a different value for the target variable than the rest of 
+Technically, we would like the resulting groups to be as [pure] as
+possible. By [pure] we mean [homogeneous] with respect to the target
+variable. If every member of a group has the same [value] for the target,
+then the group is [pure]. If there is at least one member of the group
+that has a different value for the target variable than the rest of
 the group, then the group is [impure].
 
 *** Complications when splitting attributes into groups
 Technically, there are several complications:
-1. Attributes rarely split a group perfectly. Even if one subgroup 
+1. Attributes rarely split a group perfectly. Even if one subgroup
 happens to be pure,the other may not.
-2. In the prior example, the condition body-color=gray only splits 
-off one single datapoint into the pure subset. Is this better than 
-another split that does not produce any pure subset, but reduces the 
+2. In the prior example, the condition body-color=gray only splits
+off one single datapoint into the pure subset. Is this better than
+another split that does not produce any pure subset, but reduces the
 impurity more broadly?
-3. Not all attributes are binary; many attributes have three or more 
-distinct values. We must take into account that one attribute can split 
-into two groups while another might split into three groups, or seven. 
+3. Not all attributes are binary; many attributes have three or more
+distinct values. We must take into account that one attribute can split
+into two groups while another might split into three groups, or seven.
 4. Some attributes take on numeric values (continuous or integer).
 
 *** Information gain  :drill:
-Fortunately, for classification problems we can address all the issues 
-by creating a formula that evaluates how well each attribute splits 
-a set of examples into segments, with respect to a chosen target variable. 
-Such a formula is based on a purity measure. The most common splitting 
-criterion is called [information gain], and it is based on a purity measure 
-called [entropy]. Both concepts were invented by one of the pioneers 
+Fortunately, for classification problems we can address all the issues
+by creating a formula that evaluates how well each attribute splits
+a set of examples into segments, with respect to a chosen target variable.
+Such a formula is based on a purity measure. The most common splitting
+criterion is called [information gain], and it is based on a purity measure
+called [entropy]. Both concepts were invented by one of the pioneers
 of [information theory], [Claude Shannon], in his seminal work in the field.
 
 *** Entropy  :drill:
   :PROPERTIES:
   :DRILL_CARD_TYPE: show1cloze
   :END:
-[Entropy] is a measure of [disorder] that can be applied to a set and 
-tells us how [mixed (impure)] the segment is with respect to these 
-properties of interest.  For example, a mixed up segment with lots 
+[Entropy] is a measure of [disorder] that can be applied to a set and
+tells us how [mixed (impure)] the segment is with respect to these
+properties of interest.  For example, a mixed up segment with lots
 of write-offs and lots of non-write-offs would have [high entropy].
 
 *** Entropy formula  :drill:
@@ -881,18 +881,18 @@ More technically, entropy is defined as:
 
 entropy = [-( p1 log (p1) + p2 log (p2) + ⋯ )]
 
-Each pi is the [probability] of property i within the set, ranging from 
-pi = [1] when all members of the set have property i, and pi = [0] when 
-no members of the set have property i. 
+Each pi is the [probability] of property i within the set, ranging from
+pi = [1] when all members of the set have property i, and pi = [0] when
+no members of the set have property i.
 
-The … simply indicates that there may be more than just two properties 
+The … simply indicates that there may be more than just two properties
 
 For the technically minded, the logarithm is generally taken as base [2].
 
 *** TODO Entropy conceptual Fig 3-3
-Entropy measures the general disorder of the set: 
+Entropy measures the general disorder of the set:
 ranging from [zero] at minimum disorder, when all members are the same,
-to [one] at maximal disorder, when the properties are equally mixed. 
+to [one] at maximal disorder, when the properties are equally mixed.
 Note: [An upside down parabola]
 
 *** Entropy conceptual
@@ -908,57 +908,57 @@ A set composed of n distinct items has an entropy measure of [-log(1/n,2)].
 This is an example of maximum [disorder or entropy].
 
 *** Information Gain  :drill:
-Entropy is only part of the story. We would like to measure how informative 
-an attribute is with respect to our target: how much [gain] in information 
-it gives us about the value of the target variable. An attribute 
-segments a set of instances into several subsets. Entropy only tells 
-us how impure [one] individual subset is. Fortunately, with entropy to 
+Entropy is only part of the story. We would like to measure how informative
+an attribute is with respect to our target: how much [gain] in information
+it gives us about the value of the target variable. An attribute
+segments a set of instances into several subsets. Entropy only tells
+us how impure [one] individual subset is. Fortunately, with entropy to
 measure how [disordered] any set is, we can define [information gain (IG)]
-to measure how much an attribute improves (ie decreases) entropy over 
-the whole segmentation it creates. 
+to measure how much an attribute improves (ie decreases) entropy over
+the whole segmentation it creates.
 
 **** Drill - Information Gain  :drill:
-Strictly speaking, [information gain] measures the change in [entropy] 
+Strictly speaking, [information gain] measures the change in [entropy]
 due to any amount of new information being added.
 
 *** Information Gain (Equation 3-2)
-The definition of information gain (IG) is: 
+The definition of information gain (IG) is:
 IG(parent, children) = f(parent) - ( p(c1) × f(c1) + p(c2) × f(c2) + ⋯ )
 
 Where f is the entropy function
 
-Entropy for each child (ci) is weighted by the proportion of instances 
-belonging to that child, p(ci). This addresses directly our concern 
-from above that splitting off a single example, and noticing that 
-that set is pure, may not be as good as splitting the parent set 
+Entropy for each child (ci) is weighted by the proportion of instances
+belonging to that child, p(ci). This addresses directly our concern
+from above that splitting off a single example, and noticing that
+that set is pure, may not be as good as splitting the parent set
 into two nice large, relatively pure subsets, even if neither is pure.
 
-**** Information Gain w/ numeric variables  :drill: 
+**** Information Gain w/ numeric variables  :drill:
 With regards to information gain, [numeric] variables can be [discretized]
 by choosing a split point (or many split points) and then treating the
-result as a [categorical] attribute. For example, income could be 
+result as a [categorical] attribute. For example, income could be
 divided into two or more ranges. Information gain can be applied to
-evaluate the segmentation created by this [discretization] of the 
+evaluate the segmentation created by this [discretization] of the
 [numeric] attribute. We still are left with the question of how to
 choose the split point(s). Conceptually, we can try all reasonable split
 points, and choose the one that gives the highest [information gain].
 
 *** Numeric target variables  :drill:
-Finally, what about supervised segmentations for _regression problems_, 
-problems with a [numeric] target variable? Looking at reducing the 
-impurity of the child subsets still makes intuitive sense, but information 
-gain is not the right measure, because entropy-based [information 
-gain] is based on the distribution of the properties in the segmentation. 
+Finally, what about supervised segmentations for _regression problems_,
+problems with a [numeric] target variable? Looking at reducing the
+impurity of the child subsets still makes intuitive sense, but information
+gain is not the right measure, because entropy-based [information
+gain] is based on the distribution of the properties in the segmentation.
 
 *** Numeric target variables  :drill:
-Instead, we want a measure of the purity of the numeric (target) values 
+Instead, we want a measure of the purity of the numeric (target) values
 in the subsets. A natural measure of impurity for numeric values is
-[variance]. If the set has all the same values for the numeric target 
-variable, then the set is [pure] and the [variance] is zero.  If the 
-numeric target values in the set are very different, then the set will have 
-high [variance]. We can create a similar notion to information gain 
-by looking at reductions in [variance] between parent and children. 
-The process proceeds in direct analogy to the derivation for information 
+[variance]. If the set has all the same values for the numeric target
+variable, then the set is [pure] and the [variance] is zero.  If the
+numeric target values in the set are very different, then the set will have
+high [variance]. We can create a similar notion to information gain
+by looking at reductions in [variance] between parent and children.
+The process proceeds in direct analogy to the derivation for information
 gain above. To create the best segmentation w/ a numeric target, we might
 choose the one that produces the best weighted average [variance] reduction.
 
@@ -971,19 +971,194 @@ Information gain can be used for all of the following:
 *** Entropy graph  :drill:
 An [entropy graph] can illustrate entropy reduction graphically. It is
 a two-dimensional description of the entire dataset’s entropy as it is
-divided by the different [attributes]. On the x axis is the [proportion 
-of the dataset] (0 to 1), and on the y axis is the [entropy] (also 0 to 1) 
-of a given piece of the data. The amount of [shaded area] in each graph 
-represents the amount of [entropy] in the dataset when it is divided by 
-some chosen attribute. Our goal of having the lowest entropy corresponds 
-to having as little [shaded area] as possible. 
+divided by the different [attributes]. On the x axis is the [proportion
+of the dataset] (0 to 1), and on the y axis is the [entropy] (also 0 to 1)
+of a given piece of the data. The amount of [shaded area] in each graph
+represents the amount of [entropy] in the dataset when it is divided by
+some chosen attribute. Our goal of having the lowest entropy corresponds
+to having as little [shaded area] as possible.
 
-** Supervised Segmentation with Tree-Structured Models
-** Visualizing Segmentations
+** Supervised Segmentation with Tree-Structured Models  :drill:
+Selecting the single variable that gives the most information
+gain creates a very simple segmentation. A [multivariate] (multiple
+attribute) supervised segmentation is produced by selecting multple
+attributes with each attribute providing some [information gain].
+
+*** Multivariate Induction Tree  :drill:
+  :PROPERTIES:
+  :DRILL_CARD_TYPE: show1cloze
+  :END:
+A multivariate segmentation of the data takes the form of an [upside down]
+tree with the [root] at the top. Each interior node in the tree contains
+a [test of an attribute], with each branch from the node representing
+a [distinct] value, or [range] of values, of the [attribute]. The tree
+creates a [segmentation] of the data: each leaf corresponds to a [segment],
+and the attributes and values along the path give the characteristics
+of the segment. The tree is a [supervised] segmentation, because each
+leaf contains a value for the [target] variable. Such a tree is called
+a [classification tree] or more loosely a [decision tree].
+
+*** Question  :drill:
+Classification trees often are used as [predictive] models. In
+use, when presented with an example for which we do not know its
+classification, we can predict its classification by finding the
+corresponding segment and using the class value at the [leaf].
+The nonleaf nodes are often referred to as [“decision nodes”] because
+when descending through the tree, at each node one uses the values
+of the [attribute] to make a decision about which branch to follow.
+Eventually a [terminal] node is reached, which gives a class prediction.
+
+*** Question  ːdrillː
+Classification trees are one sort of tree-structured model. ɪn
+business applications often we want to predict the [probability]
+of membership in the class (e.g., the probability of churn or write-off),
+rather than the [class] itself. In this case, the leaves of the
+probability estimation tree would contain these [probabilities]
+rather than a simple value. If the target variable is numeric,
+the leaves of the [regression] tree contain numeric values.
+
+
+*** Question  ːdrillː
+There are many techniques to [induce] a supervised segmentation from
+a dataset. One of the most popular is to create a tree-structured
+model ([tree] [induction]). These techniques are popular because tree
+models are [easy] to understand, [robust] to many common data problems
+and are [relatively] efficient.
+
+*** Question  ːdrillː
+Tree induction takes a [divide-and-conquer] approach (type of algorithm),
+starting with the whole dataset and applying variable selection to
+try to create the [purest] subgroups possible using the attributes.
+
+*** Question  ːdrillː
+In summary, the procedure of classification tree induction is a [recursive]
+process of divide and [conquer], where the goal at each step is to select
+an [attribute] to partition the current group into subgroups that are
+as [pure] as possible with respect to the [target] variable.
+
+** Visualizing Segmentations  ːdrillː
+Continuing with the metaphor of predictive model building as supervised
+segmentation, it is instructive to visualize exactly how a classification
+tree partitions the [instance space], which is simply the space described
+by the data features. A common form of [instance space] visualization
+is a scatterplot on some pair of features, used to compare one variable
+against another to detect correlations and relationships.
+
+*** Question   ːdrillː
+A classification tree [partitions] the instance space; The space described
+by the [data features].
+
+*** Question  ːdrillː
+ɪn a classification tree, each internal node corresponds to a [split]
+of the instance space. Each leaf node corresponds to an [unsplit region]
+of the space (a segment of the population). Whenever we follow a
+path in the tree out of a decision node we are restricting attention
+to one of the two (or more) [subregions] defined by the split.
+
+*** Decision lines and hyperplanes  ːdrillː
+The lines separating the regions are known as [decision lines] (in two
+dimensions) or more generally decision [surfaces] or decision [boundaries].
+Each node of a classification tree tests a single variable against
+a fixed value so the decision boundary corresponding to it will always
+be [perpendicular] to the axis representing this variable. In 2-dimensions,
+the line will be either horizontal or vertical.
+
+**** Boundary Surfaces  ːdrillː
+If the data had three variables the instance space would be ʒ-dimensional
+and each boundary surface imposed by a classification tree would
+be a 2-dimensional plane.
+
+**** Decision Boundaries and Hyperplanes  ːdrillː
+In higher dimensions, for a problem of n variables, each node of a
+classification tree imposes an [(n–1)] dimensional hyperplane decision
+[boundary] on the [instance] space.
+
 ** Trees as Sets of Rules
+Given a decision tree, if we trace down a single path from the root node to
+a leaf, collecting the conditions as we go, we generate a [rule]. Each rule
+consists of the attribute [tests] along the [path] connected with the
+logical conjugate [AND]. The tree is equivalent to this [rule set].
+
 ** Probability Estimation
-** Example: Addressing the Churn Problem with Tree Induction
+In many decision-making problems, we would like a more informative
+prediction than just a classification. For example, in our churn-prediction
+problem, rather than simply predicting whether a person will leave
+the company within 90 days of contract expiration, we would much
+rather have an estimate of the [probability] that he will leave the company.
+
+*** Question   ːdrillː
+ɪn a [probability estimation tree] model each leaf is assigned an estimate
+of the probability of membership in the different classes.
+
+*** Question  ːdrillː
+We can use instance counts at each leaf to compute a class probability
+estimate. For example, if a leaf contains n positive instances and
+m negative instances, the probability of any new instance being positive
+may be estimated as n / (n + m). This is called a [frequency]-based
+estimate of class membership probability. At this point you may spot
+a problem with estimating class membership probabilities this way:
+we may be overly optimistic about the probability of class membership
+for segments with [very small numbers of instances].
+
+*** Question  ːdrillː
+ɪf a leaf in a class probability estimation tree happens to have only 
+a single instance, should we be willing to say that there is a 100% 
+probability that members of that segment will have the class that this 
+one instance happens to have? [No]. This is an example of [overfitting].
+
+*** ʟaplace Correction  ːdrillː
+One easy way to address the problem of small samples for tree-based 
+class probability estimation, instead of simply computing the frequency, 
+use a [smoothed] version of the frequency-based estimate, known as the 
+[Laplace correction], the purpose of which is to moderate the influence 
+of leaves with only a few instances. The equation for binary class 
+probability estimation becomes: 
+
+p(c) = (n + 1) / (n + m + 2)
+
+where n is the number of examples in the leaf [belonging] to class c,
+and m is the number of examples [not belonging] to class c.
+
+*** ʟaplace Correction example  ːdrillː
+Let’s walk through an example with and without the Laplace correction. 
+A leaf node with two positive instances and no negative instances would 
+produce the same frequency-based estimate as a leaf node with 20 
+positive instances and no negatives. However, the first leaf node 
+has much less evidence and may be extreme only due to there being so 
+few instances. Its estimate should be tempered by this consideration. 
+The Laplace equation smooths its estimate down to p = 0.75 to reflect 
+this uncertainty; the Laplace correction has much less effect on the leaf 
+with 20 instances (p ≈ 0.95). As the number of instances [increases],  
+the Laplace equation converges to the [frequency-based] estimate. 
+
 ** Summary
+*** Question  ːdrillː
+One of data science’s fundamental notions: finding and selecting 
+informative attributes. Selecting [informative] attributes.
+
+*** Question  ːdrill
+One basic measure of attribute information is called [information gain], 
+which is based on a purity measure called [entropy]; another is [variance] 
+reduction. 
+
+*** Question  ːdrillː
+Selecting informative attributes forms the basis of a common modeling 
+technique called [tree induction] which [recursively] finds informative 
+attributes for subsets of the data. In so doing it [segments] the space 
+of instances into similar regions. 
+
+*** Question  ːdrillː
+The partitioning is [supervised] in that it tries to find segments 
+that give increasingly precise information about the quantity to be 
+predicted, the [target].
+
+*** Tree ɪnduction - History  ːdrillː
+Research on tree induction goes back at least to the [1950s] and [1960s]. 
+Some of the earliest popular tree induction systems includeː
+CHAID (Chi-squared Automatic Interaction Detection) (Kass, 1980)
+CART (Classification and Regression Trees) (Breiman et al, 1984)
+C4.5 and C5.0 (Quinlan, 1986, 1993)
+J48 is a reimplementation of C4.5 in the Weka package
 
 * Chapter 4. Fitting a Model to Data
 ** Fundamental concepts: Finding “optimal” model parameters based on data; Choosing the goal for data mining; Objective functions; Loss functions
@@ -1173,421 +1348,7 @@ to having as little [shaded area] as possible.
 
 ZZZ
 
-** Supervised Segmentation with Tree-Structured Models  :drill:
-Selecting the single variable that gives the most information 
-gain creates a very simple segmentation. A [multivariate] (multiple 
-attribute) supervised segmentation is produced by selecting multple 
-attributes with each attribute providing some [information gain].
-
-*** Multivariate Induction Tree  :drill:
-  :PROPERTIES:
-  :DRILL_CARD_TYPE: show1cloze
-  :END:
-A multivariate segmentation of the data takes the form of an [upside down]
-tree with the [root] at the top. Each interior node in the tree contains 
-a [test of an attribute], with each branch from the node representing 
-a [distinct value], or [range of values], of the attribute. The tree 
-creates a segmentation of the data: each leaf corresponds to a [segment], 
-and the attributes and values along the path give the characteristics 
-of the segment. The tree is a [supervised] segmentation, because each 
-leaf contains a value for the [target] variable. Such a tree is called 
-a [classification tree] or more loosely a [decision tree].
-
-
-Classification 
-trees often are used as predictive models, “tree structured models.” In
-use, when presented with an example for which we do not know its classification, we
-can predict its classification by finding the corresponding segment and using the class
-value at the leaf. Mechanically, one would start at the root node and descend through
-the interior nodes, choosing branches based on the specific attribute values in the ex‐
-ample. The nonleaf nodes are often referred to as “decision nodes,” because when de‐
-scending through the tree, at each node one uses the values of the attribute to make a
-decision about which branch to follow. Following these branches ultimately leads to a
-final decision about what class to predict: eventually a terminal node is reached, which
-gives a class prediction. In a tree, no two parents share descendants and there are no
-cycles; the branches always “point downwards” so that every example always ends up at
-a leaf node with some specific class determination.
-
-
-
-
-Consider how we would use the classification tree in Figure 3-10 to classify an example
-of the person named Claudio from Figure 3-1. The values of Claudio’s attributes are
-Balance=115K, Employed=No, and Age=40. We begin at the root node that tests Em‐
-ployed. Since the value is No we take the right branch. The next test is Balance. The value
-of Balance is 115K, which is greater than 50K so we take a right branch again to a node
-that tests Age. The value is 40 so we take the left branch. This brings us to a leaf node
-specifying class=Not Write-off, representing a prediction that Claudio will not default.
-Another way of saying this is that we have classified Claudio into a segment defined by
-(Employed=No, Balance=115K, Age<45) whose classification is Not Write -off.
-
-Figure 3-10. A simple classification tree.
-Classification trees are one sort of tree-structured model. As we will see later, in business
-applications often we want to predict the probability of membership in the class (e.g.,
-the probability of churn or the probability of write-off), rather than the class itself. In
-this case, the leaves of the probability estimation tree would contain these probabilities
-rather than a simple value. If the target variable is numeric, the leaves of the regression
-tree contain numeric values. However, the basic idea is the same for all.
-Trees provide a model that can represent exactly the sort of supervised segmentation
-we often want, and we know how to use such a model to predict values for new cases
-(in “use”). However, we still have not addressed how to create such a model from the
-data. We turn to that now.
-
-There are many techniques to induce a supervised segmentation from a dataset. One of
-the most popular is to create a tree-structured model (tree induction). These techniques
-are popular because tree models are easy to understand, and because the induction
-procedures are elegant (simple to describe) and easy to use. They are robust to many
-common data problems and are relatively efficient. Most data mining packages include
-some type of tree induction technique.
-How do we create a classification tree from data? Combining the ideas introduced above,
-the goal of the tree is to provide a supervised segmentation, more specifically, to par‐
-tition the instances, based on their attributes, into subgroups that have similar values
-
-Figure 3-11. First partitioning: splitting on body shape (rectangular versus oval).
-for their target variables. We would like for each “leaf” segment to contain instances
-that tend to belong to the same class.
-
-To illustrate the process of classification tree induction, consider the very simple ex‐
-ample set shown previously in Figure 3-2.
-
-Tree induction takes a divide-and-conquer approach, starting with the whole dataset
-and applying variable selection to try to create the “purest” subgroups possible using
-the attributes. In the example, one way is to separate people based on their body type:
-rectangular versus oval. This creates the two groups shown in Figure 3-11. How good
-is this partitioning? The rectangular-body people on the left are mostly Yes, with a single
-No person, so it is mostly pure. The oval-body group on the right has mostly No people,
-but two Yes people. This step is simply a direct application of the attribute selection
-ideas presented above. Let’s consider this “split” to be the one that yields the largest
-information gain.
-
-Looking at Figure 3-11, we can now see the elegance of tree induction, and why it
-resonates well with so many people. The left and right subgroups are simply smaller
-versions of the problem with which we initially were faced! We can simply take each
-data subset and recursively apply attribute selection to find the best attribute to partition
-it. So in our example, we recursively consider the oval-body group (Figure 3-12). To
-split this group again we now consider another attribute: head shape. This splits the
-group in two on the right side of the figure. How good is this partitioning? Each new
-group has a single target label: four (square heads) of No, and two (round heads) of
-
-Figure 3-13. Third partitioning: the rectangular body people subgrouped by body color.
-Yes. These groups are “maximally pure” with respect to class labels and there is no need
-to split them further.
-Figure 3-12. Second partitioning: the oval body people sub-grouped by head type.
-
-We still have not done anything with the rectangular body group on the left side of
-Figure 3-11, so let’s consider how to split them. There are five Yes people and one No
-person. There are two attributes we could split upon: head shape (square or round), and
-body color (white or gray). Either of these would work, so we arbitrarily choose body
-color. This produces the groupings in Figure 3-13. These are pure groups (all of one
-type) so we are finished. The classification tree corresponding to these groupings is
-shown in Figure 3-14.
-
-In summary, the procedure of classification tree induction is a recursive process of
-divide and conquer, where the goal at each step is to select an attribute to partition the
-current group into subgroups that are as pure as possible with respect to the target
-variable. We perform this partitioning recursively, splitting further and further until we
-are done. We choose the attributes to split upon by testing all of them and selecting
-whichever yields the purest subgroups. When are we done? (In other words, when do
-we stop recursing?) It should be clear that we would stop when the nodes are pure, or
-when we run out of variables to split on. But we may want to stop earlier; we will return
-to this question in Chapter 5.
-
-Visualizing Segmentations
-Continuing with the metaphor of predictive model building as supervised segmentation,
-it is instructive to visualize exactly how a classification tree partitions the instance space.
-The instance space is simply the space described by the data features. A common form
-of instance space visualization is a scatterplot on some pair of features, used to compare
-one variable against another to detect correlations and relationships.
-Though data may contain dozens or hundreds of variables, it is only really possible to
-visualize segmentations in two or three dimensions at once. Still, visualizing models in
-instance space in a few dimensions is useful for understanding the different types of
-models because it provides insights that apply to higher dimensional spaces as well. It
-may be difficult to compare very different families of models just by examining their
-form (e.g., a mathematical formula versus a set of rules) or the algorithms that generate
-them. Often it is easier to compare them based on how they partition the instance space.
-For example, Figure 3-15 shows a simple classification tree next to a two-dimensional
-graph of the instance space: Balance on the x axis and Age on the y axis. The root node
-of the classification tree tests Balance against a threshold of 50K. In the graph, this
-corresponds to a vertical line at 50K on the x axis splitting the plane into Balance<50K
-and Balance≥50K. At the left of this line lie the instances whose Balance values are less
-than 50K; there are 13 examples of class Write-off (black dot) and 2 examples of class
-non-Write-off (plus sign) in this region.
-On the right branch out of the root node are instances with Balance≥50K. The next
-node in the classification tree tests the Age attribute against the threshold 45. In the
-
-Figure 3-14. The classification tree resulting from the splits done in Figure 3-11 to
-Figure 3-13.
-
-graph this corresponds to the horizontal dotted line at Age=45. It appears only on the
-right side of the graph because this partition only applies to examples with Balance≥50.
-The Age decision node assigns to its left branch instances with Age<45, corresponding
-to the lower right segment of the graph, representing: (Balance≥50K AND Age<45).
-Notice that each internal (decision) node corresponds to a split of the instance space.
-Each leaf node corresponds to an unsplit region of the space (a segment of the popu‐
-lation). Whenever we follow a path in the tree out of a decision node we are restricting
-attention to one of the two (or more) subregions defined by the split. As we descend
-through a classification tree we consider progressively more focused subregions of the
-instance space.
-
-Decision lines and hyperplanes
-The lines separating the regions are known as decision lines (in two
-dimensions) or more generally decision surfaces or decision bound‐
-aries. Each node of a classification tree tests a single variable against a
-fixed value so the decision boundary corresponding to it will always
-be perpendicular to the axis representing this variable. In two dimen‐
-sions, the line will be either horizontal or vertical. If the data had three
-variables the instance space would be three-dimensional and each
-boundary surface imposed by a classification tree would be a two-
-dimensional plane. In higher dimensions, since each node of a classi‐
-fication tree tests one variable it may be thought of as “fixing” that one
-dimension of a decision boundary; therefore, for a problem of n vari‐
-ables, each node of a classification tree imposes an (n–1)-
-dimensional “hyperplane” decision boundary on the instance space.
-You will often see the term hyperplane used in data mining literature
-to refer to the general separating surface, whatever it may be. Don’t be
-intimidated by this terminology. You can always just think of it as a
-generalization of a line or a plane.
-Other decision surfaces are possible, as we shall see later.
-
-Figure 3-15. A classification tree and the partitions it imposes in instance space. The
-black dots correspond to instances of the class Write-off, the plus signs correspond to
-instances of class non-Write-off. The shading shows how the tree leaves correspond to
-segments of the population in instance space.
-
-Trees as Sets of Rules
-Before moving on from the interpretation of classification trees, we should mention
-their interpretation as logical statements. Consider again the tree shown at the top of
-Figure 3-15. You classify a new unseen instance by starting at the root node and following
-the attribute tests downward until you reach a leaf node, which specifies the instance’s
-predicted class. If we trace down a single path from the root node to a leaf, collecting
-the conditions as we go, we generate a rule. Each rule consists of the attribute tests along
-the path connected with AND. Starting at the root node and choosing the left branches
-of the tree, we get the rule:
-IF (Balance < 50K) AND (Age < 50) THEN Class=Write-off
-We can do this for every possible path to a leaf node. From this tree we get three more
-rules:
-IF (Balance < 50K) AND (Age ≥ 50) THEN Class=No Write-off
-IF (Balance ≥ 50K) AND (Age < 45) THEN Class=Write-off
-IF (Balance ≥ 50K) AND (Age < 45) THEN Class=No Write-off
-The classification tree is equivalent to this rule set. If these rules look repetitive, that’s
-because they are: the tree gathers common rule prefixes together toward the top of the
-tree. Every classification tree can be expressed as a set of rules this way. Whether the
-tree or the rule set is more intelligible is a matter of opinion; in this simple example,
-both are fairly easy to understand. As the model becomes larger, some people will prefer
-the tree or the rule set.
-
-Probability Estimation
-In many decision-making problems, we would like a more informative prediction than
-just a classification. For example, in our churn-prediction problem, rather than simply
-predicting whether a person will leave the company within 90 days of contract expira‐
-tion, we would much rather have an estimate of the probability that he will leave the
-company within that time. Such estimates can be used for many purposes. We will
-discuss some of these in detail in later chapters, but briefly: you might then rank pros‐
-pects by their probability of leaving, and then allocate a limited incentive budget to the
-highest probability instances. Alternatively, you may want to allocate your incentive
-budget to the instances with the highest expected loss, for which you’ll need (an estimate
-of) the probability of churn. Once you have such probability estimates you can use them
-in a more sophisticated decision-making process than these simple examples, as we’ll
-describe in later chapters.
-
-There is another, even more insidious problem with models that give simple classifica‐
-tions, rather than estimates of class membership probability. Consider the problem of
-estimating credit default. Under normal circumstances, for just about any segment of
-the population to which we would be considering giving credit, the probability of write-
-off will be very small, far less than 0.5. In this case, when we build a model to estimate
-the classification (write-off or not), we’d have to say that for each segment, the members
-are likely not to default, and they will all get the same classification (not write-off). For
-example, in a naively built tree model every leaf will be labeled “not write-off.” This turns
-out to be a frustrating experience for new data miners: after all that work, the model
-really just says that no one is likely to default? This does not mean that the model is
-useless. It may be that the different segments indeed have very different probabilities of
-write-off, they just all are less than 0.5. If instead we use these probabilities for assigning
-credit, we may be able reduce our risk substantially.
-
-So, in the context of supervised segmentation, we would like each segment (leaf of a tree
-model) to be assigned an estimate of the probability of membership in the different
-classes. Figure 3-15 more generally shows a “probability estimation tree” model for our
-simple write-off prediction example, giving not only a prediction of the class but also
-the estimate of the probability of membership in the class.6
-
-Fortunately, the tree induction ideas we have discussed so far can easily produce prob‐
-ability estimation trees instead of simple classification trees.7 Recall that the tree induc‐
-tion procedure subdivides the instance space into regions of class purity (low entropy).
-If we are satisfied to assign the same class probability to every member of the segment
-corresponding to a tree leaf, we can use instance counts at each leaf to compute a class
-probability estimate. For example, if a leaf contains n positive instances and m negative
-instances, the probability of any new instance being positive may be estimated as n/(n
-+m). This is called a frequency-based estimate of class membership probability.
-At this point you may spot a problem with estimating class membership probabilities
-this way: we may be overly optimistic about the probability of class membership for
-segments with very small numbers of instances. At the extreme, if a leaf happens to have
-only a single instance, should we be willing to say that there is a 100% probability that
-members of that segment will have the class that this one instance happens to have?
-6. We often deal with binary classification problems, such as write-off or not, or churn or not. In these cases it
-is typical just to report the probability of membership in one chosen class p(c), because the other is just 1 – p(c).
-7. Often these are still called classification trees, even if the decision maker intends to use the probability esti‐
-mates rather than the simple classifications.
-
-This phenomenon is one example of a fundamental issue in data science (“overfitting”),
-to which we devote a chapter later in the book. For completeness, let’s quickly discuss
-one easy way to address this problem of small samples for tree-based class probability
-estimation. Instead of simply computing the frequency, we would often use a “smooth‐
-ed” version of the frequency-based estimate, known as the Laplace correction, the pur‐
-pose of which is to moderate the influence of leaves with only a few instances. The
-equation for binary class probability estimation becomes:
-n + 1
-p(c) = n + m + 2
-where n is the number of examples in the leaf belonging to class c, and m is the number
-of examples not belonging to class c.
-
-Let’s walk through an example with and without the Laplace correction. A leaf node
-with two positive instances and no negative instances would produce the same
-frequency-based estimate (p = 1) as a leaf node with 20 positive instances and no neg‐
-atives. However, the first leaf node has much less evidence and may be extreme only
-due to there being so few instances. Its estimate should be tempered by this considera‐
-tion. The Laplace equation smooths its estimate down to p = 0.75 to reflect this uncer‐
-tainty; the Laplace correction has much less effect on the leaf with 20 instances (p ≈
-0.95). As the number of instances increases, the Laplace equation converges to the
-frequency-based estimate. Figure 3-16 shows the effect of Laplace correction on several
-class ratios as the number of instances increases (2/3, 4/5, and 1/1). For each ratio the
-solid horizontal line shows the uncorrected (constant) estimate, while the
-corresponding dashed line shows the estimate with the Laplace correction applied. The
-uncorrected line is the asymptote of the Laplace correction as the number of instances
-goes to infinity.
-
-Example: Addressing the Churn Problem with Tree
-Induction
-Now that we have a basic data mining technique for predictive modeling, let’s consider
-the churn problem again. How could we use tree induction to help solve it?
-For this example, we have a historical data set of 20,000 customers. At the point of
-collecting the data, each customer either had stayed with the company or had left
-(churned). Each customer is described by the variables listed in Table 3-2.
-
-Figure 3-16. The effect of Laplace smoothing on probability estimation for several in‐
-stance ratios.
-Table 3-2. Attributes for the cellular phone churn-prediction problem
-Variable
-Explanation
-COLLEGE
-Is the customer college educated?
-INCOME
-Annual income
-OVERAGE
-Average overcharges per month
-LEFTOVER
-Average number of leftover minutes per month
-HOUSE
-Estimated value of dwelling (from census tract)
-HANDSET_PRICE
-Cost of phone
-LONG_CALLS_PER_MONTH Average number of long calls (15 mins or over) per month
-AVERAGE_CALL_DURATION Average duration of a call
-REPORTED_SATISFACTION
-Reported level of satisfaction
-REPORTED_USAGE_LEVEL
-Self-reported usage level
-LEAVE (Target variable)
-Did the customer stay or leave (churn)?
-
-These variables comprise basic demographic and usage information available from the
-customer’s application and account. We want to use these data with our tree induction
-technique to predict which new customers are going to churn.
-Before starting to build a classification tree with these variables, it is worth asking, How
-good are each of these variables individually? For this we measure the information gain
-of each attribute, as discussed earlier. Specifically, we apply Equation 3-2 to each variable
-independently over the entire set of instances, to see what each gains us.
-The results are in Figure 3-17, with a table listing the exact values. As you can see, the
-first three variables, the house value, the number of leftover minutes, and the number
-of long calls per month, have a higher information gain than the rest.8 Perhaps sur‐
-prisingly, neither the amount the phone is used nor the reported degree of satisfaction
-seems, in and of itself, to be very predictive of churning.
-
-Applying a classification tree algorithm to the data, we get the tree shown in
-Figure 3-18. The highest information gain feature (HOUSE) according to Figure 3-17
-is at the root of the tree. This is to be expected since it will always be chosen first. The
-second best feature, OVERAGE, also appears high in the tree. However, the order in
-which features are chosen for the tree doesn’t exactly correspond to their ranking in
-Figure 3-17. Why is this?
-
-The answer is that the table ranks each feature by how good it is independently, evaluated
-separately on the entire population of instances. Nodes in a classification tree depend
-on the instances above them in the tree. Therefore, except for the root node, features in
-a classification tree are not evaluated on the entire set of instances. The information
-gain of a feature depends on the set of instances against which it is evaluated, so the
-ranking of features for some internal node may not be the same as the global ranking.
-We have not yet discussed how we decide to stop building the tree. The dataset has
-20,000 examples yet the tree clearly doesn’t have 20,000 leaf nodes. Can’t we just keep
-selecting more attributes to split upon, building the tree downwards until we’ve ex‐
-hausted the data? The answer is yes, we can, but we should stop long before the model
-becomes that complex. This issue ties in closely with model generality and overfitting,
-whose discussion we defer to Chapter 5.
-
-8. Note that the information gains for the attributes in this churn data set are much smaller than those shown
-previously for the mushroom data set.
-
-Figure 3-17. Churn attributes from Table 3-2 ranked by information gain.
-
-Figure 3-18. Classification tree learned from the cellular phone churn data.
-Consider a final issue with this dataset. After building a tree model from the data, we
-measured its accuracy against the data to see how good of a model it is. Specifically, we
-used a training set consisting half of people who churned and the other half who did
-not; after learning a classification tree from this, we applied the tree to the dataset to see
-how many of the examples it could classify correctly. The tree achieved 73% accuracy
-on its decisions. This raises two questions:
-1. First, do you trust this number? If we applied the tree to another sample of 20,000
-people from the same dataset, do you think we’d still get about 73% accuracy?
-2. If you do trust the number, does it mean this model is good? In other words, is a
-model with 73% accuracy worth using?
-
-We will revisit these questions in Chapter 7 and Chapter 8, which delve into issues of
-model evaluation.
-
-Summary
-In this chapter, we introduced basic concepts of predictive modeling, one of the main
-tasks of data science, in which a model is built that can estimate the value of a target
-variable for a new unseen example. In the process, we introduced one of data science’s
-fundamental notions: finding and selecting informative attributes. Selecting informa‐
-tive attributes can be a useful data mining procedure in and of itself. Given a large
-collection of data, we now can find those variables that correlate with or give us infor‐
-mation about another variable of interest. For example, if we gather historical data on
-which customers have or have not left the company (churned) shortly after their con‐
-tracts expire, attribute selection can find demographic or account-oriented variables
-that provide information about the likelihood of customers churning. One basic meas‐
-ure of attribute information is called information gain, which is based on a purity meas‐
-ure called entropy; another is variance reduction.
-
-Selecting informative attributes forms the basis of a common modeling technique called
-tree induction. Tree induction recursively finds informative attributes for subsets of the
-data. In so doing it segments the space of instances into similar regions. The partitioning
-is “supervised” in that it tries to find segments that give increasingly precise information
-about the quantity to be predicted, the target. The resulting tree-structured model par‐
-titions the space of all possible instances into a set of segments with different predicted
-values for the target. For example, when the target is a binary “class” variable such as
-churn versus not churn, or write-off versus not write-off, each leaf of the tree corre‐
-sponds to a population segment with a different estimated probability of class
-membership.
-
-As an exercise, think about what would be different in building a tree-
-structured model for regression rather than for classification. What
-would need to be changed from what you’ve learned about classifica‐
-tion tree induction?
-
-Historically, tree induction has been a very popular data mining procedure because it
-is easy to understand, easy to implement, and computationally inexpensive. Research
-on tree induction goes back at least to the 1950s and 1960s. Some of the earliest popular
-tree induction systems include CHAID (Chi-squared Automatic Interaction Detection)
-(Kass, 1980) and CART (Classification and Regression Trees) (Breiman, Friedman,
-Olshen, & Stone, 1984), which are still widely used. C4.5 and C5.0 are also very popular
-tree induction algorithms, which have a notable lineage (Quinlan, 1986, 1993). J48 is a
-reimplementation of C4.5 in the Weka package (Witten & Frank, 2000; Hall et al., 2001).
-
-In practice, tree-structured models work remarkably well, though they may not be the
-most accurate model one can produce from a particular data set. In many cases, espe‐
-cially early in the application of data mining, it is important that models be understood
-and explained easily. This can be useful not just for the data science team but for com‐
-municating results to stakeholders not knowledgeable about data mining.
-
-CHAPTER 4
+** CHAPTER 4
 
 Fitting a Model to Data
 Fundamental concepts: Finding “optimal” model parameters based on data; Choosing
