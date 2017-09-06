@@ -33,10 +33,10 @@ some of the clearest illustrations of the [principles] of data science.
 From a New York Times story from 2004:
 Executives at [Wal-Mart] decided that the hurricane offered a great
 opportunity for one of their newest data-driven weapons … predictive
-technology.  They came up with forecasts based on what had happened
+technology. They came up with forecasts based on what had happened
 when Hurricane Charley struck several weeks earlier.
 
-Their goal was to identify unusual local demand for products:  ‘We didn’t
+Their goal was to identify unusual local demand for products: ‘We didn’t
 know in the past that strawberry [Pop-Tarts] increase in sales, like seven
 times their normal sales rate, ahead of a hurricane.'
 
@@ -51,7 +51,7 @@ decisions on the analysis of data, rather than purely on intuition.
 
 *** DDD Continued
 The benefits of data-driven decision-making have been demonstrated
-conclusively.  Economist Erik Brynjolfsson and his colleagues from
+conclusively. Economist Erik Brynjolfsson and his colleagues from
 MIT and Penn’s Wharton School conducted a study of how DDD affects firm
 performance (Brynjolfsson, Hitt, & Kim, 2011). They developed a measure
 of DDD that rates firms as to how strongly they use data to make decisions
@@ -70,7 +70,7 @@ made within data, and (2) decisions that [repeat], especially at massive
 scale, and so decision-making can benefit from even small increases
 in decision-making [accuracy] based on data analysis.
 
-The Walmart hurricane discovery is an example of [type 1];  Churn is an
+The Walmart hurricane discovery is an example of [type 1]; Churn is an
 example of [type 2].
 
 *** Target  :drill:
@@ -108,7 +108,7 @@ should be regarded as key [strategic assets].
 
 *** Signet  :drill:
 When Signet began randomly offering terms to customers for [data] acquisition
-the number of bad accounts soared.  Signet went from an industry-leading
+the number of bad accounts soared. Signet went from an industry-leading
 “charge-off” rate (2.9% of balances went unpaid) to almost 6% charge
 offs. Losses continued for a few years while the data scientists
 worked to build [predictive models] from the data, evaluate them, and deploy
@@ -168,7 +168,7 @@ This book is about the extraction of useful information and knowledge
 from large volumes of data, in order to improve business [decesion-making].
 As the massive collection of [data] has spread through just about every
 industry sector and business unit, so have the opportunities for mining
-the data.  Underlying the extensive body of techniques for mining data
+the data. Underlying the extensive body of techniques for mining data
 is a much smaller set of fundamental concepts compromising data science.
 These concepts are general and encapsulate much of the essence of
 data mining and business analytics.
@@ -284,7 +284,7 @@ networking systems.
 *** Drill  :drill:
 Link prediction can also estimate the [strength] of a link. We search
 for links that do not exist between customers and movies, but that
-we predict should [exist] and should be [strong].  These links form the
+we predict should [exist] and should be [strong]. These links form the
 basis for [recommendations].
 
 *** Drill  :drill:
@@ -335,7 +335,7 @@ must incur expense to actively [label] the [data].
 
 *** Drill  :drill:
 Classification, regression, and causal modeling generally are solved
-with [supervised] methods.  Similarity matching, link prediction, and
+with [supervised] methods. Similarity matching, link prediction, and
 data reduction could be [either]. Clustering, co-occurrence grouping, and
 profiling generally are [unsupervised]. The fundamental principles of
 data mining that we will present underlie all these types of technique.
@@ -392,7 +392,7 @@ focus of the data mining.
 
 ** The Data Mining Process
 *** Drill  :drill:
-Data science is a [craft].  As with many mature crafts, there is a
+Data science is a [craft]. As with many mature crafts, there is a
  well-understood [process] that places a structure on the problem,
 allowing reasonable [consistency], [repeatability], and [objectiveness].
 
@@ -428,13 +428,13 @@ This process diagram makes explicit the fact that [iteration] is the rule
 rather than the exception. Going through the process once without having
 solved the problem is, generally speaking, not a [failure]. Often the
 entire process is an [exploration] of the data, and after the first
-[iteration] the data science team [knows much more].  The next iteration
+[iteration] the data science team [knows much more]. The next iteration
 can be much more [well-informed].
 
 ** Business Understanding  :drill:
 Initially, it is vital to understand the problem to be solved.
 This may seem obvious, but business projects seldom come pre-packaged
-as clear and unambiguous data mining problems.  Often, [recasting] the
+as clear and unambiguous data mining problems. Often, [recasting] the
 problem and [designing] a solution is an [iterative] process of [discovery].
 
 *** Drill  :drill:
@@ -698,7 +698,7 @@ learning, evaluation, and so on.
 *** Supervised segmentation  :drill:
 We begin by thinking of predictive modeling as supervised segmentation:
 How can we segment the population into groups that differ from each other
-with respect to some quantity of [interest].  In particular, how can we
+with respect to some quantity of [interest]. In particular, how can we
 segment the [population] with respect to something that we would like
 to predict or [estimate].
 
@@ -825,7 +825,7 @@ rules and [specific] facts, and creates other [specific] facts from them.
 
 *** Drill  :drill:
 The input data for the induction algorithm, used for inducing the model,
-are called the [training] data.  They are [labeled] data because the
+are called the [training] data. They are [labeled] data because the
 value for the [target] variable is known.
 
 ** Supervised Segmentation  :drill:
@@ -873,7 +873,7 @@ of [information theory], [Claude Shannon], in his seminal work in the field.
   :END:
 [Entropy] is a measure of [disorder] that can be applied to a set and
 tells us how [mixed (impure)] the segment is with respect to these
-properties of interest.  For example, a mixed up segment with lots
+properties of interest. For example, a mixed up segment with lots
 of write-offs and lots of non-write-offs would have [high entropy].
 
 *** Entropy formula  :drill:
@@ -954,7 +954,7 @@ gain] is based on the distribution of the properties in the segmentation.
 Instead, we want a measure of the purity of the numeric (target) values
 in the subsets. A natural measure of impurity for numeric values is
 [variance]. If the set has all the same values for the numeric target
-variable, then the set is [pure] and the [variance] is zero.  If the
+variable, then the set is [pure] and the [variance] is zero. If the
 numeric target values in the set are very different, then the set will have
 high [variance]. We can create a similar notion to information gain
 by looking at reductions in [variance] between parent and children.
@@ -1181,13 +1181,13 @@ s, such as attribute selection procedures used in Chapter 3.
 The attributes used in the model could be chosen based on domain knowledge
 regarding which attributes ought to be informative in predicting the
 target variable, or they could be chosen based on other data mining
-technique.  The data miner specifies the form of the model and the 
-attributes; the goal of the data mining is to tune the [parameters] 
-so that the model fits the data as well as possible. This general 
-approach is called [parameter learning] or [parametric modeling]. In 
-certain fields of statistics and econometrics, the bare model with 
-unspecified parameters is called “the model.” We will clarify that 
-this is the structure of the model, which still needs to have its 
+technique. The data miner specifies the form of the model and the
+attributes; the goal of the data mining is to tune the [parameters]
+so that the model fits the data as well as possible. This general
+approach is called [parameter learning] or [parametric modeling]. In
+certain fields of statistics and econometrics, the bare model with
+unspecified parameters is called “the model.” We will clarify that
+this is the structure of the model, which still needs to have its
 parameters specified to be useful.
 
 ** Classification via Mathematical Functions  :drill:
@@ -1211,7 +1211,7 @@ of the values for the various attributes.
 
 ** Linear Discriminant Functions  :drill:
 Our goal is going to be to fit our model to the data, and to do so is is
-quite helpful to represent the model mathematically.  We would classify
+quite helpful to represent the model mathematically. We would classify
 an instance x as a + if it is above the line, and as a • if it is below
 the line. Rearranging this mathematically leads to the function that is
 the basis of all the techniques discussed in this chapter.
@@ -1275,7 +1275,7 @@ fitting a [linear model] to data. The key difference is that each
 uses a different [objective function].
 
 ** Linear Discriminant Functions for Scoring and Ranking Instances
-In other applications, we do not need a precise probability estimate.  We
+In other applications, we do not need a precise probability estimate. We
 simply need a score that will [rank] cases by the likelihood of belonging
 to one class or the other. For example, for targeted marketing we may have
 a limited budget for targeting prospective customers. We don’t necessarily
@@ -1288,7 +1288,7 @@ functions can give us such a [ranking] for free.
 In short, support vector machines are linear [discriminants].
 
 *** Drill  :drill:
-SVM stands for [Support Vector Machine];  A type of [linear discriminant].
+SVM stands for [Support Vector Machine]; A type of [linear discriminant].
 
 *** Note - Nonlinear Support Vector Machines  :drill:
 You may also hear of nonlinear support vector machines. Oversimplifying
@@ -1464,7 +1464,7 @@ under the modern use of data science terminology. Recall that the
 distinction between classification and regression is whether the value
 for the target variable is [categorical] or [numeric]. For logistic
 regression, the model produces a [numeric] estimate ([log-odds]). However,
-the  values of the target variable in the data are [categorical].
+the values of the target variable in the data are [categorical].
 
 Debating this point is rather academic. What is important to understand is
 what logistic regression is doing. It is estimating the log-odds or,
@@ -1693,7 +1693,7 @@ performance.
 
 *** Drill  :drill:
 Creating holdout data is like creating a “lab test” of [generalization]
-performance.  We will simulate the use scenario on these holdout data:
+performance. We will simulate the use scenario on these holdout data:
 we will [hide from the model] the actual values for the [target] on the
 holdout data. The model will predict the values. Then we estimate the
 [generalization performance] by comparing the predicted values with the
@@ -1870,7 +1870,7 @@ If training set size changes, you may also expect different generalization
 performance from the resultant model. All else being equal, generalization
 performance of data driven modeling generally improves as [more training
 data become available], up to a point. Plotting generalization performance
-against the amount of training data is called a [learning curve]. 
+against the amount of training data is called a [learning curve].
 
 *** Drill  :drill:
 A learning curve is a plot of the [generalization performance] against
@@ -1892,7 +1892,7 @@ and fitting graphs (or fitting curves). A learning curve shows the
 plotted against the amount of [training] data used. A fitting graph shows
 the [generalization] performance as well as the performance on the training
 data, but plotted against [model complexity]. Fitting graphs generally
-are shown for a fixed amount of training data. 
+are shown for a fixed amount of training data.
 
 *** Drill  :drill:
 A [learning curve] shows the generalization performance: the performance
@@ -1933,7 +1933,7 @@ data. We have seen how this can be detrimental.
 Tree induction commonly uses two techniques to avoid overfitting. These
 strategies are (i) [to stop growing the tree before it gets too complex],
 and (ii) [to grow the tree until it is too large, then “prune” it back,
-reducing its size (and thereby its complexity)].   
+reducing its size (and thereby its complexity)].
 
 *** Drill  :drill:
 Researchers have developed techniques to decide the stopping point
@@ -1949,7 +1949,7 @@ the leaves is to conduct a hypothesis test at every leaf to determine
 whether the observed difference in (say) information gain could have
 been due to chance. If the hypothesis test concludes that it was likely
 not due to chance, then the split is accepted and the tree growing
-continues. 
+continues.
 
 *** Drill  :drill:
 For stopping tree growth, an alternative to setting a fixed size for
@@ -1961,7 +1961,7 @@ due to chance, then the split is accepted and the tree growing continues.
 *** Drill  :drill:
 The second strategy for reducing overfitting is to [prune] an overly
 large tree (ie to cut off leaves and branches, replacing them with
-leaves). 
+leaves).
 
 *** Drill  :drill:
 One general technique for tree pruning is to estimate whether replacing
@@ -1976,7 +1976,7 @@ models built using [just one feature]. After choosing a first feature, SFS
 tests all models that add a second feature to this first chosen feature.
 The best pair is then selected. Next the same procedure is done for
 three, then four, and so on. When adding a feature does not improve
-classification accuracy on the validation data, the SFS process stops. 
+classification accuracy on the validation data, the SFS process stops.
 
 *** Drill  :drill:
 [Sequential backward elimination] of features works by starting with
@@ -1988,7 +1988,7 @@ The general strategy is that instead of just optimizing the fit to
 the data, we optimize some combination of fit and simplicity. Models
 will be better if they fit the data better, but they also will be better
 if they are simpler. This general methodology is called [regularization],
-a term that is heard often in data science discussions.  
+a term that is heard often in data science discussions.
 
 *** Drill  :drill:
 Regularization is the general strategy that instead of just optimizing
@@ -1996,11 +1996,11 @@ the fit to the data, we optimize some combination of [fit] and [simplicity].
 
 *** Drill  :drill:
 Regularization is trying to optimize [a combination of fit to the data
-and simplicity of the model]. 
+and simplicity of the model].
 
 *** Drill  :drill:
 Complexity control via regularization works by adding to this objective
-function a penalty for complexity:  Foreach w max_fit(x, w) - λ · penalty(w)
+function a penalty for complexity: Foreach w max_fit(x, w) - λ · penalty(w)
 
 The [λ] term is simply a weight that determines how much importance the
 optimization procedure should place on the penalty, compared to the data
@@ -2012,7 +2012,7 @@ of the weights], sometimes called the [L2-norm] of w. The reason is
 technical, but basically functions can fit data better if they are
 allowed to have very large positive and negative weights. The [sum of
 the squares of the weights] gives a large penalty when weights have
-large absolute values. 
+large absolute values.
 
 *** Drill  :drill:
 If we incorporate the L2-norm penalty into standard least-squares linear
@@ -2027,7 +2027,7 @@ et al., 2009). More generally, this is called [L1-regularization].
 For reasons that are quite technical, L1-regularization (Lasso) ends
 up [zeroing out] many coefficients. Since these coefficients are the
 multiplicative weights on the features, this effectively performs an
-automatic form of [feature selection]. 
+automatic form of [feature selection].
 
 *** Drill  :drill:
 You may be saying to yourself: all this is well and good, but a lot
@@ -2050,13 +2050,13 @@ Consider the following scenario. You run an investment firm. You started
 randomly chosen from the Russell 2000 index. Your firm invested in
 all 1,000 of these funds, but told no one about them. Now, five years
 later, you look at their performance and liquidate all the funds but
-the best few.  You can “honestly” claim that their 5-year return is
+the best few. You can “honestly” claim that their 5-year return is
 substantially better than the return of the Russell 2000 index.
 
 ** Summary
 *** Drill  :drill:
 Data mining involves a fundamental trade-off between model complexity
-and the possibility of overfitting. 
+and the possibility of overfitting.
 
 *** Drill  :drill:
 An overfit model will not generalize to other data well, even if they
@@ -2072,7 +2072,7 @@ A [fitting graph] has two curves showing the model performance on the
 training and testing data as a function of model complexity.
 
 *** Drill  :drill:
-A fitting curve on testing data usually has an approximate U or 
+A fitting curve on testing data usually has an approximate U or
 inverted-U-shape (depending on whether [error] or [accuracy] is plotted).
 
 *** Drill  :drill:
@@ -2083,7 +2083,7 @@ against the amount of training data used.
 [Cross-validation] specifies a systematic way of splitting up a single
 dataset such that it generates multiple performance measures. These
 values tell the data scientist what average behavior the model yields
-as well as the variation to expect. 
+as well as the variation to expect.
 
 *** Drill  :drill:
 The general method for reining in model complexity to avoid overfitting
@@ -2092,288 +2092,288 @@ is called model [regularization].
 * Chapter 6. Similarity, Neighbors, and Clusters
 
 *** Drill  :drill:
-[Similarity] underlies many data science methods and solutions to 
-business problems. If two things (people, companies, products) are 
+[Similarity] underlies many data science methods and solutions to
+business problems. If two things (people, companies, products) are
 [similar] in some ways they often share other characteristics as well.
 
 *** Drill  :drill:
-Data mining procedures often are based on grouping things by [similarity] 
-or searching for the “right” sort of [similarity]. 
+Data mining procedures often are based on grouping things by [similarity]
+or searching for the “right” sort of [similarity].
 
 *** Drill  :drill:
-Similarity can be used for all of the following:  
+Similarity can be used for all of the following:
 - To [retrieve] similar things directly
 - Used to perform [classification] and [regression].
 - Group similar items into [clusters].
 - To provide [recommendations] of similar products or from similar people.
 
 ** Similarity and Distance  :drill:
-Once an object can be represented as data, we can begin to talk more 
-precisely about the similarity between objects, or alternatively 
-the [distance] between objects. For example, let’s consider the data 
-representation we have used throughout the book so far: represent 
-each object as a feature vector. Then, the closer two objects are 
-in the space defined by the features, the more similar they are. 
+Once an object can be represented as data, we can begin to talk more
+precisely about the similarity between objects, or alternatively
+the [distance] between objects. For example, let’s consider the data
+representation we have used throughout the book so far: represent
+each object as a feature vector. Then, the closer two objects are
+in the space defined by the features, the more similar they are.
 
 *** Euclidean Distance in n - dimensions  :drill:
  d(A, B) = sqrt( (A1 - B1)^2 + (A2 - B2)^2 + ... (An - Bn)^2 )
 
 ** Nearest Neighbors for Predictive Modeling  :drill:
-To use similarity for predictive modeling, the basic procedure is 
-beautifully simple: given a new example whose target variable we 
-want to predict, we scan through all the training examples and choose 
-several that are the most similar to the new example. Then we predict 
+To use similarity for predictive modeling, the basic procedure is
+beautifully simple: given a new example whose target variable we
+want to predict, we scan through all the training examples and choose
+several that are the most similar to the new example. Then we predict
 the new example’s target value, based on the nearest neighbors’ (known)
- target values. How to do that last step needs to be defined; for 
-now, let’s just say that we have some [combining function] (like voting 
-or averaging) operating on the neighbors’ known target values. The 
-[combining function] will give us a prediction. 
+ target values. How to do that last step needs to be defined; for
+now, let’s just say that we have some [combining function] (like voting
+or averaging) operating on the neighbors’ known target values. The
+[combining function] will give us a prediction.
 
 *** Drill  :drill:
 This touches upon an important issue with nearest-neighbor methods:
 [how many neighbors should we use].
 
 ** Probability Estimation
-We’ve made the point that it’s usually important not just to classify 
-a new example but to [estimate its probability] - to assign a score to 
+We’ve made the point that it’s usually important not just to classify
+a new example but to [estimate its probability] - to assign a score to
 it, because a score gives more information than just a Yes/No decision.
 Nearest neighbor classification can be used to do this fairly easily.
 
 ** Regression  :drill:
-Once we can retrieve nearest neighbors, we can use them for any predictive 
-mining task by combining them in different ways. We just saw how 
-to do classification by taking a majority vote of a target. We can 
-do regression in a similar way.  Assume that David’s three  nearest 
-neighbors were again Rachael, John, and Norah. Their respective  incomes 
-are 50, 35, and 40 (in thousands). We then use these values  to generate 
-a prediction for David’s income. We could use the average  (about 
+Once we can retrieve nearest neighbors, we can use them for any predictive
+mining task by combining them in different ways. We just saw how
+to do classification by taking a majority vote of a target. We can
+do regression in a similar way. Assume that David’s three nearest
+neighbors were again Rachael, John, and Norah. Their respective incomes
+are 50, 35, and 40 (in thousands). We then use these values to generate
+a prediction for David’s income. We could use the average (about
 42) or the median (40).
 
 ** How Many Neighbors and How Much Influence?
 
 *** Drill  :drill:
-Nearest  neighbor algorithms are often referred to by the shorthand k-NN,  
+Nearest neighbor algorithms are often referred to by the shorthand k-NN,
 where the k refers to [the number of neighbors used], such as 3-NN.
 
 *** Drill  :drill:
-If we increase  k to the  maximum possible (so that k = n) the [entire 
-dataset] would  be used  for every prediction. Elegantly, this simply 
-predicts the  [average]  over the entire dataset for any example. For 
-classification,  this  would predict the majority class in the entire 
-dataset; for regression, the average of all the target values; for 
-class probability estimation, the “base rate” probability.    
+If we increase k to the maximum possible (so that k = n) the [entire
+dataset] would be used for every prediction. Elegantly, this simply
+predicts the [average] over the entire dataset for any example. For
+classification, this would predict the majority class in the entire
+dataset; for regression, the average of all the target values; for
+class probability estimation, the “base rate” probability.
 
 *** Drill  :drill:
-Nearest-neighbor methods  often use weighted voting or similarity 
-moderated voting such that  each neighbor’s contribution is [scaled 
-by its similarity]. 
+Nearest-neighbor methods often use weighted voting or similarity
+moderated voting such that each neighbor’s contribution is [scaled
+by its similarity].
 
 *** Drill  :drill:
-Nearest-neighbor methods  often use [weighted voting] or [similarity 
-moderated voting] such that  each neighbor’s contribution is scaled 
+Nearest-neighbor methods often use [weighted voting] or [similarity
+moderated voting] such that each neighbor’s contribution is scaled
 by its similarity. The book also refers to this as "weighted scoring".
 
 *** Drill  :drill:
-[Weighted scoring] has a nice consequence in that it reduces the importance 
-of deciding  how many neighbors to use. Because the contribution 
-of each neighbor  is moderated by its distance, the influence of 
-neighbors naturally  drops off the farther they are from the instance.
- Consequently, when  using [weighted scoring] the exact value of k 
-is much less critical  than with majority voting or unweighted averaging.
+[Weighted scoring] has a nice consequence in that it reduces the importance
+of deciding how many neighbors to use. Because the contribution
+of each neighbor is moderated by its distance, the influence of
+neighbors naturally drops off the farther they are from the instance.
+ Consequently, when using [weighted scoring] the exact value of k
+is much less critical than with majority voting or unweighted averaging.
 
 ** Sidebar: Many names for nearest-neighbor reasoning  :drill:
 As with many things in data mining, different terms exist for nearest-
-neighbor classifiers, in part because similar ideas were pursued 
-independently. Nearest-neighbor classifiers were established long 
-ago in statistics and pattern recognition (Cover & Hart, 1967). The 
-idea of classifying new instances directly by consulting a database 
-(a “memory”) of instances has been termed [instance-based learning] 
+neighbor classifiers, in part because similar ideas were pursued
+independently. Nearest-neighbor classifiers were established long
+ago in statistics and pattern recognition (Cover & Hart, 1967). The
+idea of classifying new instances directly by consulting a database
+(a “memory”) of instances has been termed [instance-based learning]
 (Aha, Kibler, & Albert, 1991) and memory-based learning (Lin & Vitter,
-1994). Because no model is built during “training” and most effort 
-is deferred until instances are retrieved, this general idea is known 
-as [lazy learning] (Aha, 1997). 
+1994). Because no model is built during “training” and most effort
+is deferred until instances are retrieved, this general idea is known
+as [lazy learning] (Aha, 1997).
 
 *** Case-Based Reasoning  :drill:
-A related technique in artificial intelligence is [Case-Based Reasoning] 
+A related technique in artificial intelligence is [Case-Based Reasoning]
 (Kolodner, 1993; Aamodt & Plaza, 1994), abbreviated CBR. Past cases are
-commonly used by doctors and lawyers to reason about new cases, so 
-case-based reasoning has a well-established history in these fields. 
+commonly used by doctors and lawyers to reason about new cases, so
+case-based reasoning has a well-established history in these fields.
 
 *** Case-Based Reasoning  :drill:
-However, there are also significant differences between case-based 
-reasoning and nearest-neighbor methods. Cases in CBR are typically 
-not simple feature vector instances but instead are very detailed 
+However, there are also significant differences between case-based
+reasoning and nearest-neighbor methods. Cases in CBR are typically
+not simple feature vector instances but instead are very detailed
 summaries of an episode, including items such as a patient’s symptoms,
- medical history, diagnosis, treatment, and outcome; or the details 
-of a legal case including plaintiff and defendant arguments, precedents 
-cited, and judgement. Because cases are so detailed, in CBR they 
-are used not just to provide a class label but to provide [diagnostic 
-and planning information] that can be used to deal with the case after 
-it is retrieved. Adapting historical cases to be used in a new situation 
-is usually a complex process that requires significant effort.  
+ medical history, diagnosis, treatment, and outcome; or the details
+of a legal case including plaintiff and defendant arguments, precedents
+cited, and judgement. Because cases are so detailed, in CBR they
+are used not just to provide a class label but to provide [diagnostic
+and planning information] that can be used to deal with the case after
+it is retrieved. Adapting historical cases to be used in a new situation
+is usually a complex process that requires significant effort.
 
-** Geometric Interpretation, Overfitting, and Complexity Control  
-Although  no explicit  boundary is created, there are implicit regions 
-created  by instance  neighborhoods. These regions can be calculated 
-by systematically    probing points in the instance space, determining 
-each point’s  classification, and constructing the boundary where 
-classifications  change.  In the case of the 1-NN classifier, the decision
+** Geometric Interpretation, Overfitting, and Complexity Control
+Although no explicit boundary is created, there are implicit regions
+created by instance neighborhoods. These regions can be calculated
+by systematically  probing points in the instance space, determining
+each point’s classification, and constructing the boundary where
+classifications change. In the case of the 1-NN classifier, the decision
 boundary is formed using the [Voronoi cells] of each element.
 
 *** Drill  :drill:
-Does 1-NN must overfit?  [Yes, very strongly].
+Does 1-NN must overfit? [Yes, very strongly].
 
 The 1-NN [memorizes] the training data.
 
 *** Drill  :drill:
-Thus, in terms of overfitting  and its avoidance, the k in a k-NN 
-classifier is a [complexity] parameter.  At one extreme, we can set 
-k = n and we do not allow much [complexity] at all in our model. As 
-described previously, the n-NN model (ignoring similarity weighting) 
+Thus, in terms of overfitting and its avoidance, the k in a k-NN
+classifier is a [complexity] parameter. At one extreme, we can set
+k = n and we do not allow much [complexity] at all in our model. As
+described previously, the n-NN model (ignoring similarity weighting)
 simply predicts the average value in the dataset for each case.
 
-At the other extreme, we can set k = 1, and we will get an extremely 
-[complex] model, which places complicated boundaries such that every 
+At the other extreme, we can set k = 1, and we will get an extremely
+[complex] model, which places complicated boundaries such that every
 training example will be in a region labeled by its own class.
 
 ** Intelligibility  :drill:
-Intelligibility of nearest-neighbor classifiers is a complex issue.  As 
-mentioned, in some fields such as medicine and law, reasoning 
-about similar historical cases is a natural way of coming to a decision 
-about a new case. In such fields, a nearest-neighbor method may be 
-a good fit. In other areas, the lack of an explicit, interpretable 
-model may pose a problem. There are really two aspects to this issue 
-of intelligibility: the  [justification of a specific decision] and 
-the [intelligibility of an  entire model]. 
+Intelligibility of nearest-neighbor classifiers is a complex issue. As
+mentioned, in some fields such as medicine and law, reasoning
+about similar historical cases is a natural way of coming to a decision
+about a new case. In such fields, a nearest-neighbor method may be
+a good fit. In other areas, the lack of an explicit, interpretable
+model may pose a problem. There are really two aspects to this issue
+of intelligibility: the [justification of a specific decision] and
+the [intelligibility of an entire model].
 
-With k-NN, it usually is easy to describe how a single instance is 
-decided: the set of neighbors participating in the decision can be 
-presented, along with their contributions. 
+With k-NN, it usually is easy to describe how a single instance is
+decided: the set of neighbors participating in the decision can be
+presented, along with their contributions.
 
-On the other hand, a mortgage applicant may not be satisfied with 
-the explanation, “We declined your mortgage application because you 
+On the other hand, a mortgage applicant may not be satisfied with
+the explanation, “We declined your mortgage application because you
 remind us of the Smiths and the Mitchells, who both defaulted.” Indeed,
- some legal regulations restrict the sorts of models that can be 
-used for credit scoring to models for which very simple explanations 
-can be given based on specific, important variables.  For example,
+ some legal regulations restrict the sorts of models that can be
+used for credit scoring to models for which very simple explanations
+can be given based on specific, important variables. For example,
  with a linear model, one may be able to say: “all else being equal,
- if your income had been $20,000 higher you would have been granted 
-this particular mortgage.” 
+ if your income had been $20,000 higher you would have been granted
+this particular mortgage.”
 
 *** Drill  :drill:
-It also is easy to explain how the entire nearest-neighbor model 
-generally decides new cases. The idea of finding the most similar 
-cases and looking at how they were classified, or what value they 
-had, is intuitive to many. What is difficult is to explain more deeply 
-what “knowledge” has been mined from the data. If a stakeholder asks 
-“What did your system learn from the data about my customers? On 
-what basis does it make its decisions?” there may be no easy answer 
+It also is easy to explain how the entire nearest-neighbor model
+generally decides new cases. The idea of finding the most similar
+cases and looking at how they were classified, or what value they
+had, is intuitive to many. What is difficult is to explain more deeply
+what “knowledge” has been mined from the data. If a stakeholder asks
+“What did your system learn from the data about my customers? On
+what basis does it make its decisions?” there may be no easy answer
 because there is no explicit model. Strictly speaking, the nearest-
-neighbor “model” consists of the [entire case set (the database)], the 
-[distance function], and the [combining function]. 
+neighbor “model” consists of the [entire case set (the database)], the
+[distance function], and the [combining function].
 
 *** Drill  :drill:
-In two dimensions  we can visualize this directly as we did in the 
-prior figures. However,  this is not possible when there are many 
-dimensions. The knowledge  embedded in this model is not usually 
-understandable, so if model  [intelligibility] and [justification] are 
-critical, nearest-neighbor  methods should be avoided.   
+In two dimensions we can visualize this directly as we did in the
+prior figures. However, this is not possible when there are many
+dimensions. The knowledge embedded in this model is not usually
+understandable, so if model [intelligibility] and [justification] are
+critical, nearest-neighbor methods should be avoided.
 
 ** Dimensionality and domain knowledge  :drill:
-Nearest-neighbor methods typically take into account all features 
-when calculating the distance between two instances. There is a problem 
-with having too many [attributes], or many that are irrelevant to the 
+Nearest-neighbor methods typically take into account all features
+when calculating the distance between two instances. There is a problem
+with having too many [attributes], or many that are irrelevant to the
 similarity judgment.
 
 *** Drill  :drill:
-Such problems are said to be high-dimensional: They suffer from the 
-so-called [curse of dimensionality]. This poses problems for nearest 
+Such problems are said to be high-dimensional: They suffer from the
+so-called [curse of dimensionality]. This poses problems for nearest
 neighbor methods. Much of the reason and effects are quite technical,
-but roughly, since all of the attributes (dimensions) contribute 
-to the distance calculations, instance similarity can be confused 
-and misled by the presence of too many irrelevant attributes. 
+but roughly, since all of the attributes (dimensions) contribute
+to the distance calculations, instance similarity can be confused
+and misled by the presence of too many irrelevant attributes.
 
 *** Drill  :drill:
 The curse of dimensionality poses problems for [nearest neighbor methods].
 
 *** Drill  :drill:
-There are several ways to fix the problem of  many, possibly irrelevant 
-attributes. One is feature selection, the judicious determination 
-of features that should be included in the data mining model. 
+There are several ways to fix the problem of many, possibly irrelevant
+attributes. One is feature selection, the judicious determination
+of features that should be included in the data mining model.
 
 ** Computational efficiency  :drill:
-One benefit of nearest-neighbor methods is that [training] is very 
-fast because it usually involves only storing the instances. No effort 
+One benefit of nearest-neighbor methods is that [training] is very
+fast because it usually involves only storing the instances. No effort
 is expended in creating a model.
 
 *** Drill  :drill:
-The main computational cost of a nearest neighbor method is borne 
-by the [prediction/classification] step, when the database must 
+The main computational cost of a nearest neighbor method is borne
+by the [prediction/classification] step, when the database must
 be queried to find nearest neighbors of a new instance.
 
 *** Drill  :drill:
-There  are techniques for speeding up neighbor retrievals. Specialized
+There are techniques for speeding up neighbor retrievals. Specialized
 data structures like [kd-trees] and [hashing methods] (Shakhnarovich,
- Darrell, & Indyk, 2005; Papadopoulos & Manolopoulos, 2005) are employed 
-in some commerical database and data mining systems to make nearest 
+ Darrell, & Indyk, 2005; Papadopoulos & Manolopoulos, 2005) are employed
+in some commerical database and data mining systems to make nearest
  neighbor queries more efficient. However, be aware that many small-
-scale and research data mining tools usually do not employ such 
-techniques, and still rely on naive brute-force retrieval. 
+scale and research data mining tools usually do not employ such
+techniques, and still rely on naive brute-force retrieval.
 
 ** Some Important Technical Details Relating to Similarities and Neighbors
 
 *** Heterogeneous Attributes  :drill:
-Up to this point we have been using Euclidean distance, showing that 
-it was easy to calculate. If attributes are numeric and are directly 
-comparable, the distance calculation is indeed straightforward. When 
-examples contain complex, [heterogeneous attributes] things become 
-more complicated. 
+Up to this point we have been using Euclidean distance, showing that
+it was easy to calculate. If attributes are numeric and are directly
+comparable, the distance calculation is indeed straightforward. When
+examples contain complex, [heterogeneous attributes] things become
+more complicated.
 
 ** Other Distance Functions
 
 *** Drill  :drill:
-As noted previously, [Euclidean] distance is probably the most widely 
-used distance metric in data science. It is general, intuitive 
-and computationally very fast. Because it employs the squares of 
-the distances along each individual dimension, it is sometimes called 
+As noted previously, [Euclidean] distance is probably the most widely
+used distance metric in data science. It is general, intuitive
+and computationally very fast. Because it employs the squares of
+the distances along each individual dimension, it is sometimes called
 the [L2]-norm and sometimes represented by || · ||2 (subscript 2).
 
 *** Drill  :drill:
-The [Manhattan distance] or [L1-]norm is the sum of the (unsquared) pairwise 
-distances. This simply sums the differences along the different dimensions 
-between X and Y. It is called [Manhattan] or [taxicab] distance because 
+The [Manhattan distance] or [L1-]norm is the sum of the (unsquared) pairwise
+distances. This simply sums the differences along the different dimensions
+between X and Y. It is called [Manhattan] or [taxicab] distance because
 it represents the total street distance you would have to travel in a city.
 
 *** Drill  :drill:
-Researchers studying the whiskey analytics problem used Jaccard 
+Researchers studying the whiskey analytics problem used Jaccard
 distance which treats the two objects as [sets of characteristics].
-  
+
 *** Drill  :drill:
 [Jaccard distance] treats two objects as sets of characteristics.
 
 *** Drill  :drill:
-Given two objects,  X and Y, the Jaccard distance is the proportion 
-of all the characteristics  (that either has) that are shared by 
-the two. This is appropriate  for problems where the possession of 
-a common characteristic between  two items is important, but the 
-common [absence of a characteristic] is not. For example, in finding 
-similar whiskeys it is significant  if two whiskeys are both peaty,
- but it may not be sig‐ nificant that  they are both not salty. 
+Given two objects, X and Y, the Jaccard distance is the proportion
+of all the characteristics (that either has) that are shared by
+the two. This is appropriate for problems where the possession of
+a common characteristic between two items is important, but the
+common [absence of a characteristic] is not. For example, in finding
+similar whiskeys it is significant if two whiskeys are both peaty,
+ but it may not be sig‐ nificant that they are both not salty.
 
 In set notation, the Jaccard distance metric is...
 dJaccard(X,Y) = [1 - (|X ∩ Y| / |X ∪ Y|)]
 
 *** Drill  :drill:
-[Cosine distance] is often used in text classification to measure the 
-similarity of two documents. 
+[Cosine distance] is often used in text classification to measure the
+similarity of two documents.
 
 *** Drill  :drill:
-Cosine distance is often used in [text classification] to measure the 
-similarity of two [documents]. 
+Cosine distance is often used in [text classification] to measure the
+similarity of two [documents].
 
 *** Drill  :drill:
-Cosine distance is often used in text classification to measure the 
-similarity of two documents. 
+Cosine distance is often used in text classification to measure the
+similarity of two documents.
 
 *** Drill  :drill:
 The information retrieval literature more commonly talks about
@@ -2381,11 +2381,11 @@ cosine [similarity], which is simply the fraction in Equation 6-5.
 Alternatively, it is 1 – cosine distance.
 
 *** Drill  :drill:
-Cosine distance is particularly useful when you want to ignore differences 
-in scale across instances. Technically, when you want to ignore the 
-magnitude of the vectors. As a concrete example, in text classification 
+Cosine distance is particularly useful when you want to ignore differences
+in scale across instances. Technically, when you want to ignore the
+magnitude of the vectors. As a concrete example, in text classification
 you may want to ignore whether one document is much [longer than another],
-and just concentrate on the textual content. 
+and just concentrate on the textual content.
 
 *** Drill  :drill:
 The [edit distance] (or [Levenshtein metric]) are useful for comparing
@@ -2396,51 +2396,51 @@ The edit distance (or Levenshtein metric) are useful for comparing
 [two strings to determine their similarity].
 
 *** Drill  :drill:
-The edit distance, or Levenshtein metric, counts  the minimum number 
-of [edit  operations] required to convert one string  into the other,
-where an  [edit operation] consists of either inserting,  deleting,
-or replacing  a character.
+The edit distance, or Levenshtein metric, counts the minimum number
+of [edit operations] required to convert one string into the other,
+where an [edit operation] consists of either inserting, deleting,
+or replacing a character.
 
 *** Drill  :drill:
-[Edit distance] is also used commonly in biology where it is applied 
+[Edit distance] is also used commonly in biology where it is applied
 to measure the genetic distance between strings of alleles.
 
 *** Drill  :drill:
-[Edit distance] is a common choice when data items consist of strings 
+[Edit distance] is a common choice when data items consist of strings
 or sequences where order is very important.
 
 ** Clustering  :drill:
-Why, in talking about supervised  segmentation, do we always use 
-the modifier “supervised”? In other  applications we may want to 
-find groups of objects, for example groups  of customers, but not 
+Why, in talking about supervised segmentation, do we always use
+the modifier “supervised”? In other applications we may want to
+find groups of objects, for example groups of customers, but not
 driven by some prespecified [target] characteristic.
 
-The idea of finding natural groupings in the data is called 
-[unsupervised segmentation], or more simply [clustering].     
+The idea of finding natural groupings in the data is called
+[unsupervised segmentation], or more simply [clustering].
 
 *** Drill  :drill:
-[Clustering] is another application of our fundamental notion of 
-[similarity]. The basic idea is that we want to find groups of 
-objects, where the objects within groups are similar, but the 
+[Clustering] is another application of our fundamental notion of
+[similarity]. The basic idea is that we want to find groups of
+objects, where the objects within groups are similar, but the
 objects in different groups are not so similar.
 
 *** Drill  :drill:
-[Supervised] modeling involves discovering patterns to predict the 
-value of a specified target variable, based on data where we know 
-the values of the target variable. [Unsupervised] modeling does not 
-focus on a target variable. Instead it looks for other sorts of 
+[Supervised] modeling involves discovering patterns to predict the
+value of a specified target variable, based on data where we know
+the values of the target variable. [Unsupervised] modeling does not
+focus on a target variable. Instead it looks for other sorts of
 [regularities] in a set of data.
 
 *** Drill  :drill:
-Why might we want to take a step further and find clusters of similar 
-whiskeys? One reason we might want to find clusters of whiskeys is 
-simply to [understand the problem better]. This is an example of 
-[exploratory data analysis], to which data-rich businesses should 
-continually devote some energy and resources, as such [exploration] 
-can lead to useful and profitable discoveries. 
+Why might we want to take a step further and find clusters of similar
+whiskeys? One reason we might want to find clusters of whiskeys is
+simply to [understand the problem better]. This is an example of
+[exploratory data analysis], to which data-rich businesses should
+continually devote some energy and resources, as such [exploration]
+can lead to useful and profitable discoveries.
 
 *** Drill  :drill:
-We will present the two main sorts of clustering, illustrating the 
+We will present the two main sorts of clustering, illustrating the
 concept of similarity in action.
 
 1. [Hierarchical Clustering]
@@ -2450,49 +2450,49 @@ concept of similarity in action.
 
 *** Drill  :drill:
 This diagram shows the key aspects of what is called [hierarchical]
-clustering. It is a clustering because it groups the points by their 
-similarity. Notice that the only overlap between clusters is when 
-one cluster contains other clusters. Because of this structure, the 
-circles actually represent a [hierarchy] of clusterings. The most general 
-(highest-level) clustering is just the single cluster that contains 
-[everything]. The lowest-level clustering is when we remove all the 
-circles, and the [points themselves] are trivial clusters. 
+clustering. It is a clustering because it groups the points by their
+similarity. Notice that the only overlap between clusters is when
+one cluster contains other clusters. Because of this structure, the
+circles actually represent a [hierarchy] of clusterings. The most general
+(highest-level) clustering is just the single cluster that contains
+[everything]. The lowest-level clustering is when we remove all the
+circles, and the [points themselves] are trivial clusters.
 
 *** Drill  :drill:
 A [dendrogram] shows explicitly the hierarchy of the clusters.
- 
+
 *** Drill  :drill:
 A dendrogram shows explicitly the [hierarchy] of the clusters.
- 
+
 *** Drill  :drill:
-[Hierarchical clustering] doesn’t just create “a clustering,” or a 
-single set of groups of objects. It creates a collection of ways 
+[Hierarchical clustering] doesn’t just create “a clustering,” or a
+single set of groups of objects. It creates a collection of ways
 to group the points.
 
 *** Drill  :drill:
-An advantage of [hierarchical clustering] is that it allows the data 
-analyst to see the groupings, the “landscape” of data similarity, before 
-deciding on the number of clusters to extract. As shown by the 
-horizontal dashed lines, the diagram can be cut across at any point 
-to give any desired number of clusters. 
+An advantage of [hierarchical clustering] is that it allows the data
+analyst to see the groupings, the “landscape” of data similarity, before
+deciding on the number of clusters to extract. As shown by the
+horizontal dashed lines, the diagram can be cut across at any point
+to give any desired number of clusters.
 
 *** Drill  :drill:
-An advantage of hierarchical clustering is that it allows the data 
-analyst to see the [groupings], the “landscape” of data similarity, before 
+An advantage of hierarchical clustering is that it allows the data
+analyst to see the [groupings], the “landscape” of data similarity, before
 deciding on the [number of clusters to extract].
 
 *** Drill  :drill:
-Hierarchical clusterings generally are formed by starting [with each 
-node as its own cluster]. Then clusters are merged iteratively until 
-only a [single cluster remains]. 
+Hierarchical clusterings generally are formed by starting [with each
+node as its own cluster]. Then clusters are merged iteratively until
+only a [single cluster remains].
 
 *** Drill  :drill:
-So far we have  discussed distance between instances. For hierarchical 
-clustering, we need a distance function between clusters, considering 
-individual instances to be the smallest clusters. This is sometimes 
-called the [linkage function]. So, for example, the [linkage function] 
-could be “the Euclidean distance between the closest points in each 
-of the clusters,” which would apply to any two clusters.   
+So far we have discussed distance between instances. For hierarchical
+clustering, we need a distance function between clusters, considering
+individual instances to be the smallest clusters. This is sometimes
+called the [linkage function]. So, for example, the [linkage function]
+could be “the Euclidean distance between the closest points in each
+of the clusters,” which would apply to any two clusters.
 
 *** Drill  :drill:
 Two things can usually be noticed in a dendrogram. Because the y axis
@@ -2500,150 +2500,150 @@ represents the distance between clusters, the dendrogram can give an
 idea of [where natural clusters may occur].
 
 *** Drill  :drill:
-Whenever a single point merges  high up in a dendrogram, this is 
-an indication that it seems different  from the rest, which we might 
-call an [outlier], and want to investigate it. 
+Whenever a single point merges high up in a dendrogram, this is
+an indication that it seems different from the rest, which we might
+call an [outlier], and want to investigate it.
 
 *** Drill  :drill:
-One of the best  known uses of hierarchical clustering is in the 
-[Tree of Life] (Sugden et al., 2003; Pennisi, 2003), a hierarchical 
-phylogenetic chart of [all life on earth]. This chart is based on a 
-hierarchical clustering of [RNA sequences]. 
+One of the best known uses of hierarchical clustering is in the
+[Tree of Life] (Sugden et al., 2003; Pennisi, 2003), a hierarchical
+phylogenetic chart of [all life on earth]. This chart is based on a
+hierarchical clustering of [RNA sequences].
 
 *** Drill  :drill:
-Large hierarchical trees are often displayed [radially] to conserve 
+Large hierarchical trees are often displayed [radially] to conserve
 space, as is done here.
 
 ** Nearest Neighbors Revisited: Clustering Around Centroids  :drill:
-Hierarchical clustering focuses on the similarities between the individual 
-instances and how similarities [link] them together. A different way 
+Hierarchical clustering focuses on the similarities between the individual
+instances and how similarities [link] them together. A different way
 of thinking about clustering data is to focus on the clusters themselves:
-the groups of instances. The most common method for focusing on the 
-clusters themselves is to represent each cluster by its [cluster 
-center], or [centroid]. 
+the groups of instances. The most common method for focusing on the
+clusters themselves is to represent each cluster by its [cluster
+center], or [centroid].
 
 *** Drill  :drill:
-The most popular centroid-based clustering algorithm is called [k-means 
+The most popular centroid-based clustering algorithm is called [k-means
 clustering].
 
 *** Drill  :drill:
-The most popular [centroid-based] clustering algorithm is called k-means 
-clustering  (MacQueen, 1967; Lloyd, 1982; MacKay, 2003), and the main
-idea behind it deserves some discussion as k-means clustering is 
-mentioned frequently  in data science. In k-means the “means” are 
-the [centroids], represented  by the [arithmetic means (averages)] of 
+The most popular [centroid-based] clustering algorithm is called k-means
+clustering (MacQueen, 1967; Lloyd, 1982; MacKay, 2003), and the main
+idea behind it deserves some discussion as k-means clustering is
+mentioned frequently in data science. In k-means the “means” are
+the [centroids], represented by the [arithmetic means (averages)] of
 the values along each dimension for the instances in the cluster.
 
 *** Drill  :drill:
-Unlike hierarchical clustering, k-means starts with the analyst [specifying 
-the desired number of clusters k]. If k=3, the k-means clustering 
-method returns three cluster centroids when the algorithm terminates, 
-plus information on which of the data points belongs to each cluster.  
+Unlike hierarchical clustering, k-means starts with the analyst [specifying
+the desired number of clusters k]. If k=3, the k-means clustering
+method returns three cluster centroids when the algorithm terminates,
+plus information on which of the data points belongs to each cluster.
 This is sometimes referred to as [nearest-neighbor clustering].
 
 *** Drill  :drill:
-There is no guarantee that a single run of the k-means algorithm 
-will result in a good clustering. The result of a single clustering 
-run will find a [local optimum]. This  will be dependent upon the 
-initial centroid locations. For this reason, k-means is usually 
+There is no guarantee that a single run of the k-means algorithm
+will result in a good clustering. The result of a single clustering
+run will find a [local optimum]. This will be dependent upon the
+initial centroid locations. For this reason, k-means is usually
 run many times, starting with different random centroids each time.
 
 *** Drill  :drill:
-A clusters’  distortion, which is the [sum of the squared  differences 
-between  each data point and its corresponding centroid]. The clustering 
-with the [lowest] distortion value  can be deemed the  best clustering.
+A clusters’ distortion, which is the [sum of the squared differences
+between each data point and its corresponding centroid]. The clustering
+with the [lowest] distortion value can be deemed the best clustering.
 
 *** Drill  :drill:
-Even with multiple runs [k-means] is generally relatively fast, because 
-it only computes the distances between each data point and the cluster 
-centers on each interation. [Hierarchical clustering] is generally 
-slower, as it needs to know the distances between all pairs of clusters 
+Even with multiple runs [k-means] is generally relatively fast, because
+it only computes the distances between each data point and the cluster
+centers on each interation. [Hierarchical clustering] is generally
+slower, as it needs to know the distances between all pairs of clusters
 on each iteration, which at the start is all pairs of data points.
 
 *** Drill  :drill:
-A common concern with centroid algorithms such as k-means is [how 
-to determine a good value for k]. One answer is simply to experiment 
+A common concern with centroid algorithms such as k-means is [how
+to determine a good value for k]. One answer is simply to experiment
 with different [k values] and see which ones generate good results.
-Since k-means is often used for exploratory data mining, the analyst 
-must examine the clustering results anyway to determine whether the 
+Since k-means is often used for exploratory data mining, the analyst
+must examine the clustering results anyway to determine whether the
 clusters make sense.
 
 *** Drill  :drill:
-A common concern with centroid algorithms such as k-means is how 
-to determine a good value for k. For a more objective measure, the 
-analyst can experiment with increasing values of k and graph [various 
-metrics (sometimes obliquely called indices) of the quality of the 
-resulting] clusterings. As k increases  the quality metrics should 
-eventually [stabilize] or [plateau], either  bottoming out if the metric 
+A common concern with centroid algorithms such as k-means is how
+to determine a good value for k. For a more objective measure, the
+analyst can experiment with increasing values of k and graph [various
+metrics (sometimes obliquely called indices) of the quality of the
+resulting] clusterings. As k increases the quality metrics should
+eventually [stabilize] or [plateau], either bottoming out if the metric
 is to be minimized or topping out if maximized.
 
 *** Drill  :drill:
 There is an old cliché in statistics: Correlation is not causation,
-meaning that just because two things co-occur doesn’t mean that 
-one causes another. A similar caveat in clustering could be: [Syntactic 
-similarity is not semantic similarity]. Just because two things, 
-particularly text passages, have common surface characteristics doesn’t 
-mean they’ re necessarily related semantically. We shouldn’t expect 
-every cluster  to be meaningful and interesting. 
+meaning that just because two things co-occur doesn’t mean that
+one causes another. A similar caveat in clustering could be: [Syntactic
+similarity is not semantic similarity]. Just because two things,
+particularly text passages, have common surface characteristics doesn’t
+mean they’ re necessarily related semantically. We shouldn’t expect
+every cluster to be meaningful and interesting.
 
 *** Drill  :drill:
-Clustering  is often  a useful tool to uncover [structure] in our data 
-that we  did not foresee.  
+Clustering is often a useful tool to uncover [structure] in our data
+that we did not foresee.
 
 *** Drill  :drill:
 An [exemplar] member can be used to provide context to cluster analysis.
-Here it is the “best of its class” whiskey, taken from  Jackson (1989)
-(this additional information was not provided to the clustering 
-algorithm). Alternatively, it could be the best known or highest-selling 
-whiskey in the cluster. These techniques could  be especially useful 
-when there are massive numbers of instances  in each cluster, so randomly 
-sampling some may not be as telling  as carefully selecting [exemplars]. 
+Here it is the “best of its class” whiskey, taken from Jackson (1989)
+(this additional information was not provided to the clustering
+algorithm). Alternatively, it could be the best known or highest-selling
+whiskey in the cluster. These techniques could be especially useful
+when there are massive numbers of instances in each cluster, so randomly
+sampling some may not be as telling as carefully selecting [exemplars].
 
 *** Drill  :drill:
-In contrast, unsupervised problems often are much more [exploratory] 
-(than supervised problems).   We should not let our desire  to be 
-concrete and precise  keep us from making important discoveries  from 
-data. But there is  a trade-off. The tradeoff is that for problems 
-where we did not achieve  a precise formulation of the problem in 
-the early stages of the data  mining process, we have to spend more 
-time later in the process in  the [Evaluation] stage. For clustering,
-specifically, it often is difficult  even to understand what (if 
-anything) the clustering reveals. Even  when the clustering does 
-seem to reveal interesting information, it  often is not clear how 
+In contrast, unsupervised problems often are much more [exploratory]
+(than supervised problems). We should not let our desire to be
+concrete and precise keep us from making important discoveries from
+data. But there is a trade-off. The tradeoff is that for problems
+where we did not achieve a precise formulation of the problem in
+the early stages of the data mining process, we have to spend more
+time later in the process in the [Evaluation] stage. For clustering,
+specifically, it often is difficult even to understand what (if
+anything) the clustering reveals. Even when the clustering does
+seem to reveal interesting information, it often is not clear how
 to use that to make better decisions.
 
 ** Summary
 
 *** Drill  :drill:
-The fundamental concept of [similarity] between data items occurs 
-throughout  data mining. There are a wide  variety of  uses of [similarity] 
-ranging from finding similar entities  (or objects)  based on their 
-data descriptions, to predictive modeling,  to clustering  entities.
+The fundamental concept of [similarity] between data items occurs
+throughout data mining. There are a wide variety of uses of [similarity]
+ranging from finding similar entities (or objects) based on their
+data descriptions, to predictive modeling, to clustering entities.
 
 *** Drill  :drill:
-A very common proxy for the similarity of two entities is the [distance] 
-between them in the [instance] space defined by their feature vector 
-representation. 
+A very common proxy for the similarity of two entities is the [distance]
+between them in the [instance] space defined by their feature vector
+representation.
 
 *** Drill  :drill:
-A family of  methods, [nearest-neighbor] methods, perform  prediction 
-tasks by calculating explicitly the similarity between  a new example 
-and a set of training examples (with known values for  the target).  
+A family of methods, [nearest-neighbor] methods, perform prediction
+tasks by calculating explicitly the similarity between a new example
+and a set of training examples (with known values for the target).
 
 *** Drill  :drill:
 Once we can retrieve a set of nearest neighbors (most similar examples)
 we can use these for various data mining tasks: [classification],
-[regression] and [instance scoring]. 
+[regression] and [instance scoring].
 
 *** Drill  :drill:
-The same fundamental concept, [similarity], also underlies the most 
+The same fundamental concept, [similarity], also underlies the most
 common methods for unsupervised data mining: [clustering].
 
 *** Drill  :drill:
-When exploring data, especially with unsupervised methods, we  usually 
-end up spending less time at the outset in the business understanding 
-phase of the data mining process, but more time in the evaluation 
-stage, and in iterating around the cycle. 
+When exploring data, especially with unsupervised methods, we usually
+end up spending less time at the outset in the business understanding
+phase of the data mining process, but more time in the evaluation
+stage, and in iterating around the cycle.
 
 
 * Chapter 7. Decision Analytic Thinking I: What Is a Good Model?
