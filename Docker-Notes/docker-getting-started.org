@@ -1,0 +1,368 @@
+* Get Started, Part 1: Orientation and setup
+
+** A brief explanation of images and containers  :drill:
+An [image] is a lightweight, stand-alone, executable package that includes everything needed to run a
+piece of software, including the code, a runtime, libraries, environment variables, and config files.
+
+** A brief explanation of containers  :drill:
+A [container] is a runtime instance of an [image] — what the [image] becomes in memory when actually
+executed. It runs completely isolated from the host environment by default, only accessing host files
+and ports if configured to do so.
+
+** A brief explanation of containers and VMs  :drill:
+Containers run apps natively on the [host] machine’s kernel. They have better performance characteristics
+than [virtual machines] that only get virtual access to host resources through a [hypervisor]. Containers can
+get native access, each one running in a discrete [process], taking no more memory than any other executable.
+
+** Virtual machine stack example  :drill:
+Virtual machines run [guest] operating systems — note the OS layer in each box. This is resource intensive,
+and the resulting disk image and application state is an entanglement of OS settings, system-installed
+dependencies, OS security patches, and other easy-to-lose, hard-to-replicate ephemera.
+
+** Container stack example  :drill:
+The only information that needs to be in a container image is the executable and its package dependencies,
+which never need to be installed on the [host system]. These processes run like [native] processes.
+
+** Define a Container  :drill:
+The [Dockerfile] defines what goes on in the environment inside your container. Access to resources like
+networking interfaces and disk drives is virtualized inside this environment, which is isolated from the rest
+of your system, so you have to map ports to the outside world, and be specific about what files you
+want to “copy in” to that environment. However, after doing that, you can expect that the build of
+your app defined in this Dockerfile will behave exactly the same wherever it runs.
+
+* Get Started, Part 3: Containers
+
+** Dockerfile Syntax Questions  :drill:
+Dockerfile instruction to use an official Python runtime as a parent image (version 2.7-slim):
+[FROM python:2.7-slim]
+
+** Dockerfile Syntax Questions  :drill:
+Dockerfile instruction to set the working directory to /app
+[WORKDIR /app]
+
+** Dockerfile Syntax Questions  :drill:
+Dockerfile instruction to copy the current directory contents into the container at /app
+[ADD . /app]
+
+** Dockerfile Syntax Questions  :drill:
+Dockerfile instruction to install any needed packages specified in requirements.txt using pip
+[RUN pip install -r requirements.txt]
+
+** Dockerfile Syntax Questions  :drill:
+Dockerfile instruction to make port 80 available to the world outside this container
+[EXPOSE 80]
+
+** Dockerfile Syntax Questions  :drill:
+Dockerfile instruction to define an environment variable named World
+[ENV NAME World]
+
+** Dockerfile Syntax Questions  :drill:
+Dockerfile instruction to run app.py when the container launches
+[CMD \["python", "app.py"\]]
+
+** Build Command Syntax  :drill:
+Now run the build command. This creates a Docker image, which we’re going to tag using -t so it has
+a friendly name (ie friendlyhello):  [docker build -t friendlyhello .]
+Where is your built image? [It’s in your machine’s local Docker image registry:]
+
+** How do you see Docker images on your machine?  :drill:
+[docker images]
+
+** View running Docker containers  :drill:
+[docker ps]
+
+** Stop a running Docker container  :drill:
+[docker stop 1fa4ab2cf395]
+
+** Docker Registries  :drill:
+A registry is a collection of [repositories], and a [repository] is a collection of [images] — sort of like
+a GitHub repository, except the code is already built. An account on a [registry] can create many
+[repositories]. The docker CLI uses Docker’s public registry by default.
+
+** Command to login to a Docker registry  :drill:
+[docker login]
+
+** Tag the image  :drill:
+The notation for associating a local image with a repository on a registry is [username/repository:tag]
+The tag is optional, but recommended, since it is the mechanism that registries use to give Docker
+images a version.
+
+To tag an image with your username, repository, and tag names so that the image will upload to your
+desired destination. The syntax of the command is:  [docker tag image username/repository:tag]
+
+** List Docker images  :drill:
+Run [docker images] to see your newly tagged image. (You can also use [docker image ls].)
+
+** Publish the image
+Upload your tagged image to the repository:
+[docker push username/repository:tag]
+
+** Pull and run the image from the remote repository  :drill:
+From now on, you can use docker run and run your app on any machine with this command:
+[docker run -p 4000:80 username/repository:tag]
+
+If the image isn’t available locally on the machine, Docker will [pull it from the repository].
+
+** Docker Cheatsheet  :drill:
+docker build -t imagename .                 [ Create image using this directory's Dockerfile ]
+docker run -p 4000:80 imagename             [ Run "imagename" mapping port 4000 to 80 ]
+docker run -d -p 4000:80 imagename          [ Same thing, but in detached mode ]
+docker images -a                            [ Show all images on this machine ]
+
+** Docker Cheatsheet  :drill:
+docker ps                                   [ See a list of all running containers ]
+docker ps -a                                [ See a list of all containers, even the ones not running ]
+docker stop <hash>                          [ Gracefully stop the specified container ]
+docker kill <hash>                          [ Force shutdown of the specified container ]
+
+** Docker Cheatsheet  :drill:
+docker rm <hash>                            [ Remove the specified container from this machine ]
+docker rm $(docker ps -a -q)             // [ Remove all containers from this machine ]
+docker rmi <imagename>                      [ Remove the specified image from this machine ]
+docker rmi $(docker images -q)           // [ Remove all images from this machine ]
+
+** Docker Cheatsheet  :drill:
+docker login                                [ Log in this CLI session using your Docker credentials ]
+docker tag <image> username/repository:tag  [ Tag <image> for upload to registry ]
+docker push username/repository:tag         [ Upload tagged image to registry ]
+docker run username/repository:tag          [ Run image from a registry ]
+
+** Docker Command Cheat Sheet  :drill:
+[docker build -t imagename .]                 # Create image using this directory's Dockerfile
+
+** Docker Command Cheat Sheet  :drill:
+[docker run -p 4000:80 imagename]             # Run "imagename" mapping port 4000 to 80
+
+** Docker Command Cheat Sheet  :drill:
+[docker run -d -p 4000:80 imagename]          # Run mapping port 4000 to 80 in detached mode
+
+** Docker Command Cheat Sheet  :drill:
+[docker ps]                                   # See a list of all running containers
+
+** Docker Command Cheat Sheet  :drill:
+[docker stop <hash>]                          # Gracefully stop the specified container
+
+** Docker Command Cheat Sheet  :drill:
+[docker ps -a]                                # See a list of all containers, even the ones not running
+
+** Docker Command Cheat Sheet  :drill:
+[docker kill <hash>]                          # Force shutdown of the specified container
+
+** Docker Command Cheat Sheet  :drill:
+[docker rm <hash>]                            # Remove the specified container from this machine
+
+** Docker Command Cheat Sheet  :drill:
+[docker rm $(docker ps -a -q) // ]            # Remove all containers from this machine
+
+** Docker Command Cheat Sheet  :drill:
+[docker images -a]                            # Show all images on this machine
+
+** Docker Command Cheat Sheet  :drill:
+[docker rmi <imagename>]                      # Remove the specified image from this machine
+
+** Docker Command Cheat Sheet  :drill:
+[docker rmi $(docker images -q) // ]          # Remove all images from this machine
+
+** Docker Command Cheat Sheet  :drill:
+[docker login]                                # Log in this CLI session using your Docker credentials
+
+** Docker Command Cheat Sheet  :drill:
+[docker tag <image> username/repository:tag]  # Tag <image> for upload to registry
+
+** Docker Command Cheat Sheet  :drill:
+[docker push username/repository:tag]         # Upload tagged image to registry
+
+** Docker Command Cheat Sheet  :drill:
+[docker run username/repository:tag]          # Run image from a registry
+
+
+* Get Started, Part 3: Services
+
+** About services  :drill:
+Services are really just “containers in production.” A service only runs one [image],
+but it codifies the way that image runs — what ports it should use, how many replicas of
+the container should run so the service has the capacity it needs, and so on.
+Scaling a service changes the number of container instances running that piece of
+software, assigning more computing resources to the service in the process.
+
+** The docker-compose.yml file  :drill:
+A docker-compose.yml file is a YAML file that defines how [Docker containers should behave in production].
+
+** Compose filename  :drill:
+The Compose file name [can be anything you want to make it logically meaningful to you].
+
+** Run your new load-balanced app  :drill:
+Before we can use the docker stack deploy command we’ll first run: [docker swarm init]
+
+If you don’t run docker swarm init you’ll get an error that [“this node is not a swarm manager.”]
+
+To run the app:  [docker stack deploy -c my-docker-compose.yml my-app-name
+
+** To list Docker compose containers  :drill:
+To see a list of the 5 containers you just launched: [docker stack ps my-app-name]
+
+** Scale the app (Live)  :drill:
+You can scale the app by changing the replicas value in docker-compose.yml, saving the
+change, and re-running the docker stack deploy command:
+
+docker stack deploy -c docker-compose.yml getstartedlab
+Docker will do an [in-place update, no need to tear the stack down first or kill any containers].
+
+** Take down the app  :drill:
+Take the app down:  [docker stack rm my-app-name]
+This removes the app, but our one-node swarm is still up and running as shown by [docker node ls].
+
+** Take down the swarm  :drill:
+Take down a swarm with the command:  [docker swarm leave --force .]
+
+
+** Docker Stack Commands  :drill:
+docker stack ls                                 # [List all running applications on this Docker host]
+docker stack deploy -c <composefile> <appname>  # [Run the specified Compose file]
+docker stack services <appname>                 # [List the services associated with an app]
+docker stack ps <appname>                       # [List the running containers associated with an app]
+docker stack rm <appname>                       # [Tear down an application]
+
+** Docker Stack Commands  :drill:
+[docker stack ls]                                  # List all running applications on this Docker host
+
+** Docker Stack Commands  :drill:
+[docker stack deploy -c <composefile> <appname>]   # Run the specified Compose file
+
+** Docker Stack Commands  :drill:
+[docker stack services <appname>]                  # List the services associated with an app
+
+** Docker Stack Commands  :drill:
+[docker stack ps <appname>]                        # List the running containers associated with an app
+
+** Docker Stack Commands  :drill:
+[docker stack rm <appname>]                        # Tear down an application
+
+* Get Started, Part 4: Swarms
+
+** Clusters  :drill:
+Here in part 4, you deploy this application onto a cluster, running it on multiple machines.
+Multi-container, multi-machine applications are made possible by joining multiple machines
+into a “Dockerized” cluster called a [swarm].
+
+** Understanding Swarm clusters  :drill:
+A [swarm] is a group of machines that are running Docker and joined into a [cluster]. After
+that has happened, you continue to run the Docker commands you’re used to, but now they
+are executed on a cluster by a swarm manager. The machines in a swarm can be physical
+or virtual. After joining a swarm, they are referred to as [nodes].
+
+** Swarm Management  :drill:
+[Swarm managers] are the only machines in a swarm that can execute your commands, or authorize
+other machines to join the swarm as workers. Workers are just there to provide capacity
+and do not have the authority to tell any other machine what it can and cannot do.
+
+** Swarm Mode  :drill:
+Enabling swarm mode instantly makes the current machine a [swarm manager]. From then on,
+Docker will run the commands you execute on the swarm you’re managing, rather than just
+on the [current machine].
+
+** Set up your swarm  :drill:
+A swarm is made up of multiple nodes, which can be either physical or virtual machines.
+The basic concept is simple enough: run [docker swarm init] to enable swarm mode and make
+your current machine a swarm manager, then run [docker swarm join] on other machines to
+have them join the swarm as workers.
+
+** Adding workers to a swarm  :drill:
+To add a worker to this swarm, run the following command:
+[docker swarm join --token <token> <ip>:<port>]
+Got an error about needing to use --advertise-addr?
+
+** Ingress Network  :drill:
+Nodes in a swarm participate in an ingress routing mesh. This ensures that a service deployed
+at a certain port within your swarm [always has that port reserved to itself], no matter
+what node is actually running the container.
+
+** Swarm Ports
+Keep in mind that in order to use the ingress network in the swarm, you need to have the
+following ports open between the swarm nodes before you enable swarm mode:
+Port [7946 TCP/UDP] for container network discovery.
+Port [4789 UDP] for the container ingress network.
+
+** Iterating and scaling your app  :drill:
+Scale the app by changing the [docker-compose.yml file].
+Change the app behavior by [editing code].
+Run [docker stack deploy] again to deploy these changes.
+Join any machine, physical or virtual, to this swarm, using the same [docker swarm join] command
+Just run [docker stack deploy] afterwards, and your app will take advantage of the new resources.
+
+** Swarm Cleanup  :drill:
+You can tear down the stack with [docker stack rm].
+
+** Swarm Cheat Sheet  :drill:
+Nodes in swarms can be either [managers] or [workers].
+
+** Launching VMs w/ Docker Machine  :drill:
+docker-machine create --driver virtualbox myvm1                             # [Create a VM (Mac, Win7, Linux)]
+docker-machine create -d hyperv --hyperv-virtual-switch "myswitch" myvm1    # [Create a VM Win10]
+
+** Docker Machine Commands  :drill:
+docker-machine env myvm1                                          # [View basic information about your node]
+docker-machine ssh myvm1 "docker node ls"                         # [List the nodes in your swarm]
+docker-machine ssh myvm1 "docker node inspect <node ID>"          # [Inspect a node]
+docker-machine ssh myvm1 "docker swarm join-token -q worker"      # [View join token]
+docker-machine ssh myvm1                                          # [Open an SSH session with the VM; type "exit" to end]
+docker-machine ssh myvm2 "docker swarm leave"                     # [Make the worker leave the swarm]
+docker-machine ssh myvm1 "docker swarm leave -f"                  # [Make master leave, kill swarm]
+docker-machine start myvm1                                        # [Start a VM that is currently not running]
+docker-machine stop $(docker-machine ls -q)                       # [Stop all running VMs]
+docker-machine rm $(docker-machine ls -q)                         # [Delete all VMs and their disk images]
+docker-machine scp docker-compose.yml myvm1:~                     # [Copy file to node's home dir]
+docker-machine ssh myvm1 "docker stack deploy -c <file> <app>"    # [Deploy an app]
+
+* Get Started, Part 5: Stacks
+
+** Add a visualizer service  :drill:
+To add a free visualizer service that lets us look at how our swarm is scheduling containers:
+Open up [docker-compose.yml] in an editor and the following:
+
+version: "3"
+services:
+  web:
+    ...
+  visualizer:
+    image: dockersamples/visualizer:stable
+    ports:
+      - "8080:8080"
+    ...
+
+** Persist the data  :drill:
+version: "3"
+services:
+  web:
+    ...
+  visualizer:
+    ...
+  redis:
+    image: redis            [Image to deploy]
+    ports:
+      - "6379:6379"         [Maps host port 6379 to container port 6379]
+    volumes:
+      - ./data:/data        [Maps host ./data directory to /data in the container]
+    deploy:
+      placement:
+        constraints: \[node.role == manager\]  [Forces the container to run on the swarm manager]
+    networks:
+      - webnet
+networks:
+  webnet:
+
+* Get Started, Part 6: Deploy your app (to the cloud)
+
+** Docker in Production  :drill:
+If you’re okay with using Docker Community Edition in production, you can use
+[Docker Cloud] to help manage your app on popular service providers such as Amazon
+Web Services, DigitalOcean, and Microsoft Azure.
+
+** To set up and deploy  :drill:
+Connect Docker Cloud with your preferred provider, granting Docker Cloud permission
+to automatically [provision and “Dockerize”] VMs for you.  Use Docker Cloud to
+create your computing resources and create your swarm.
+
+** AWS Specific - Enable/Disable Cloudwatch for container logging
+When enabled, Docker sends [container logs] to Amazon Cloudwatch, as described in
+the Docker for AWS topic on [Logging].

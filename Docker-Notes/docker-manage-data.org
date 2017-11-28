@@ -1,0 +1,333 @@
+* Manage data in Docker
+
+** Persisting data  :drill:
+It is possible to store data within the writable layer of a container, but there 
+are some downsides:
+- The data won’t [persist] when that container is no longer running
+- It can be difficult to [get the data out of the container] if another process needs it.
+- A container’s writable layer is tightly coupled to the [host] machine.
+- Reduces [performance] as compared to using data volumes 
+-- which write directly to the host [filesystem] instead of the [union] filesystem.
+
+** Writing into a container  :drill:
+Writing into a container’s writable layer requires a storage driver to manage the
+filesystem. The storage driver provides a [union] filesystem, using the Linux kernel.
+
+** Mounting data into a container  :drill:
+Docker offers [three] different ways to mount data into a container from the 
+Docker host: [volumes], [bind mounts], or [tmpfs volumes]. When in doubt, [volumes] 
+are almost always the right choice.
+
+** Choose the right type of mount  :drill:
+No matter which type of mount you choose to use, the data looks the same from 
+within the container. It is exposed as either a directory or an individual file 
+in the container’s filesystem.
+
+An easy way to visualize the difference among volumes, bind mounts, and tmpfs 
+mounts is to think about [where the data lives on the Docker host].
+
+** Where data is located on the host  :drill:
+Volumes are stored [in a part of the host filesystem which is managed by Docker 
+(/var/lib/docker/volumes/ on Linux)]. Non-Docker processes should not modify this 
+part of the filesystem. Volumes are the best way to persist data in Docker.
+
+** Where data is located on the host  :drill:
+[Volumes] are stored in a part of the host filesystem which is managed by Docker 
+(/var/lib/docker/volumes/ on Linux). Non-Docker processes should not modify this 
+part of the filesystem. [Volumes] are the best way to persist data in Docker.
+
+** Where data is located on the host  :drill:
+Bind mounts may be stored [anywhere on the host system]. They may even be important 
+system files or directories. Non-Docker processes on the Docker host or a Docker 
+container can [modify them at any time].
+
+** Where data is located on the host  :drill:
+[Bind mounts] may be stored anywhere on the host system. They may even be important 
+system files or directories. Non-Docker processes on the Docker host or a Docker 
+container can modify them at any time.
+
+** Where data is located on the host  :drill:
+tmpfs mounts are stored in the host [system’s memory only], and are never [written 
+to the host system’s filesystem].
+
+** Where data is located on the host  :drill:
+[tmpfs mounts] are stored in the host system’s memory only, and are never written 
+to the host system’s filesystem.
+
+** Remote volumes  :drill:
+Volumes also support the use of [volume drivers], which allow you to store your 
+data on remote hosts or cloud providers, among other possibilities.
+
+** Bind mounts  :drill:  
+Available since the early days of Docker. Bind mounts have limited
+functionality compared to volumes. When you use a bind mount, a [file] or [directory] 
+on the host machine is mounted into a [container]. The file or directory is referenced 
+by its [full path] on the host machine. The file or directory does not need to exist 
+on the Docker host already. It is created on demand if it does not yet exist. 
+Bind mounts are very [performant], but they rely on the host machine’s filesystem 
+having a specific directory structure available. If you are developing new Docker 
+applications, consider using named volumes instead. You can’t use Docker CLI commands 
+to directly manage bind mounts.
+
+** Bind mounts secruity  :drill:
+Warning: One side effect of using bind mounts, for better or for worse, is that 
+you can change the host filesystem via processes running in a container, including 
+[creating, modifying, or deleting] important system files or directories. This is 
+a powerful ability which can have security implications, including impacting non-Docker 
+processes on the host system.
+
+** tmpfs mounts  :drill: 
+A tmpfs mount [is not] persisted on disk, either on the Docker host
+or within a container. It can be used by a container during the [lifetime] of the 
+container, to store non-persistent state or sensitive information. For instance, 
+internally, swarm services use tmpfs mounts to mount secrets into a service’s containers.
+
+** Mounting files  :drill:
+Bind mounts and volumes can both mounted into containers using the [-v] or [--volume] 
+flag, but the syntax for each is slightly different. For tmpfs mounts, you can 
+use the [--tmpfs] flag. However, in Docker 17.06 and higher, we recommend using 
+the [--mount] flag for both containers and services, for bind mounts, volumes, or 
+tmpfs mounts, as the syntax is more clear.
+
+** Use cases for volumes  :drill:
+- [Sharing data] among multiple running containers. 
+- If you don’t explicitly create it, a volume is [created] the first time it is mounted into a container. 
+- When that container stops or is removed, the volume [still exists]. 
+- Multiple containers can [mount the same volume simultaneously], either read-write or read-only. 
+- Volumes are only removed when you explicitly remove them.
+- When the Docker host is not guaranteed to have a given [directory or file structure]. 
+- Volumes help you [decouple] the configuration of the Docker host from the container runtime.
+- When you want to store your container’s data on a [remote] host or a [cloud provider], rather than locally.
+- When you need to be able to back up, restore, or migrate data from one Docker host to another
+
+** Good use cases for bind mounts  :drill:
+In general, you should use volumes where possible. Bind mounts are appropriate 
+for the following types of use case:
+- Sharing [configuration] files from the host machine to containers. This is how Docker 
+provides DNS resolution to containers by default, by mounting /etc/resolv.conf 
+from the host machine into each container.
+- Sharing [source code] or [build artifacts] between a development environment on the 
+Docker host and a container. For instance, you may mount a Maven target/ directory 
+into a container, and each time you build the Maven project on the Docker host, 
+the container gets access to the rebuilt artifacts.
+
+** Good use cases for tmpfs mounts  :drill:
+tmpfs mounts are best used for cases when you do not want the data to persist 
+either on the host machine or within the container. This may be for security reasons 
+or to protect the performance of the container when your application needs to 
+write a large volume of non-persistent state data.
+
+* Use volumes
+
+** Prefer volumes  :drill:
+Volumes are the preferred mechanism for [persisting data] generated by and used 
+by Docker containers. While [bind mounts] are dependent on the directory structure 
+of the host machine, [volumes] are completely managed by Docker. 
+
+** Advantages of volumes  :drill:
+Volumes have several advantages over bind mounts:
+- Volumes are easier to [back up] or [migrate] than bind mounts.
+- You can manage volumes using Docker [CLI] commands or the Docker [API].
+- Volumes work on both [Linux] and [Windows] containers.
+- Volumes can be more safely [shared] among multiple containers.
+- Volume [drivers] allow you to store volumes on remote hosts or cloud providers, 
+to encrypt the contents of volumes, or to add other functionality.
+- A new volume’s contents can be [pre-populated] by a container.
+- In addition, volumes are often a better choice than persisting data in a container’s 
+writable layer, because using a volume does not increase the [size] of containers 
+using it, and the volume’s contents exist outside the [lifecycle] of a given container.
+
+** Choosing the -v or –mount flag  :drill:
+Originally, the -v or --volume flag was used for [standalone] containers and the 
+--mount flag was used for [swarm] services. However, starting with Docker 17.06, 
+you can also use --mount with [standalone containers]. 
+
+** Choosing the -v or –mount flag  :drill:
+In general, --mount is more [explicit] and [verbose]. The biggest difference is that 
+the -v syntax combines all the options together in one field, while the --mount 
+syntax separates them. Here is a comparison of the syntax for each flag.
+
+** Volume flag syntax  :drill:
+-v or --volume: Consists of [three] fields, separated by [colon characters (:)].
+The fields must be in the correct [order]
+The first field is the [name] of the volume, and is unique on a given host machine. 
+For anonymous volumes, the first field is [omitted].
+The 2nd field is the path where the file or directory will be mounted in the container.
+The third field (optional) is a comma-separated list of options, such as ro.
+
+** Mount flag syntax  :drill:
+--mount: Consists of multiple [key-value pairs], separated by [commas] and each 
+consisting of a [<key>=<value>] tuple.
+The order of the keys is not significant
+The _type_ of the mount, which can be bind, volume, or tmpfs.
+The _source_ of the mount. For named volumes, this is the name of the volume.
+The _destination_ value is the path where the [file or directory] will be 
+mounted in the container. May be specified as [destination, dst, or target].
+
+** Differences between -v and --mount behavior  :drill:
+As opposed to bind mounts, [all options] for volumes are available for both --mount and -v flags.
+
+** Create and manage volumes  :drill:
+Unlike a bind mount, you can [create] and [manage] volumes outside the scope of 
+any container.  Personal Note - I assume this means that a bind mount can only 
+be created when issuing a docker run command.  Also, if you start a container 
+with a volume that does not yet exist, Docker creates the volume for you.
+
+** Docker volume commands  :drill:
+Create a volume:    $ docker volume create my-vol
+List volumes:       $ docker volume ls
+Inspect a volume:   $ docker volume inspect my-vol
+Remove a volume:    $ docker volume rm my-vol
+
+** Start a container with a volume  :drill:
+The following example mounts the volume myvol2 into /app/ in the container.
+
+$ docker run -d -it --name devtest --mount [source=myvol2,target=/app] nginx:latest
+
+** Inspecting a mount  :drill:
+Use the command:  [$ docker inspect <container-name>] 
+Look for mount information in the Mounts section:
+
+"Mounts": [
+    {
+        "Type": "volume",
+        "Name": "myvol2",
+        "Source": "/var/lib/docker/volumes/myvol2/_data",
+        "Destination": "/app",
+        "Driver": "local",
+        "Mode": "",
+        "RW": true,
+        "Propagation": ""
+    }
+],
+
+** Stop the container and remove the volume  :drill:
+Stop the container and remove the volume:
+$ docker container stop devtest
+$ docker container rm devtest
+$ docker [volume rm] myvol2
+
+** Syntax differences for services  :drill:
+The docker service create command does not support the [-v or --volume] flag. When 
+mounting a volume into a service’s containers, you must use the [--mount] flag.
+
+** Populating a volume using a container  :drill:
+If you start a container which creates a new volume, as above, and the container 
+has files or directories in the directory to be mounted (such as /app/ above), 
+the directory’s contents will be [copied into the volume]. The container will then 
+[mount and use the volume], and other containers which use the volume will [also 
+have access to the pre-populated content].
+
+** Use a read-only volume  :drill:
+This example mounts the directory as a read-only volume:
+$ docker run -d -it --name=nginxtest \
+  --mount [source=nginx-vol,destination=/usr/share/nginx/html,readonly] nginx:latest
+
+* Use bind mounts
+
+** Bind mounts vs volumes  :drill:
+Bind mounts have been around since the early days of Docker. Bind mounts have 
+limited functionality compared to volumes. When you use a bind mount, a [file] or 
+[directory] on the [host machine] is mounted into a [container]. 
+
+** Bind mounts vs volumes  :drill:
+When using bind mounts, a file or directory is referenced by its [full or relative 
+path] on the host machine. By contrast, when you use a volume, a new directory 
+is [created within Docker’s storage directory] on the host machine, and Docker 
+[manages that directory’s contents].
+
+** Differences between -v and --mount behavior  :drill:
+Because the -v and --volume flags have been a part of Docker for a long time, 
+their behavior cannot be changed. This means that there is one behavior that is 
+different between -v and --mount.
+
+If you use -v or --volume to bind-mount a file or directory that does not yet 
+exist on the Docker host, -v will [create the endpoint for you. It is always created 
+as a directory.]
+
+If you use --mount to bind-mount a file or directory that does not yet exist on 
+the Docker host, Docker [does not automatically create it for you, but generates an error.]
+
+** Mounting into a non-empty directory on the container  :drill:
+If you bind-mount into a non-empty directory on the container, the directory’s 
+existing contents will be [obscured] by the bind mount. This can be beneficial, 
+such as when you want to [test a new version of your application without building 
+a new image]. However, it can also be surprising and this behavior differs from 
+that of docker volumes.
+
+Bind propagation refers to whether or not mounts created within a given bind-mount 
+or named volume can be propagated to replicas of that mount. Consider a mount 
+point /mnt, which is also mounted on /tmp. The propagation settings control whether 
+a mount on /tmp/a would also be available on /mnt/a. Each propagation setting 
+has a recursive counterpoint. In the case of recursion, consider that /tmp/a is 
+also mounted as /foo. The propagation settings control whether /mnt/a and/or /tmp/a would exist.
+
+Propagation setting	Description
+shared	Sub-mounts of the original mount are exposed to replica mounts, and sub-mounts of replica mounts are also propagated to the original mount.
+slave	similar to a shared mount, but only in one direction. If the original mount exposes a sub-mount, the replica mount can see it. However, if the replica mount exposes a sub-mount, the original mount cannot see it.
+private	The mount is private. Sub-mounts within it are not exposed to replica mounts, and sub-mounts of replica mounts are not exposed to the original mount.
+rshared	The same as shared, but the propagation also extends to and from mount points nested within any of the original or replica mount points.
+rslave	The same as slave, but the propagation also extends to and from mount points nested within any of the original or replica mount points.
+rprivate	The default. The same as private, meaning that no mount points anywhere within the original or replica mount points propagate in either direction.
+Before you can set bind propagation on a mount point, the host filesystem needs to already support bind propagation.
+
+For more information about bind propagation, see the Linux kernel documentation for shared subtree.
+
+The following example mounts the target/ directory into the container twice, and the second mount sets both the ro option and the rslave bind propagation option.
+
+The --mount and -v examples have the same result.
+
+--mount
+-v
+$ docker run -d \
+  -it \
+  --name devtest \
+  --mount type=bind,source="$(pwd)"/target,target=/app \
+  --mount type=bind,source="$(pwd)"/target,target=/app2,readonly,bind-propagation=rslave \
+  nginx:latest
+Now if you create /app/foo/, /app2/foo/ will also exist.
+
+Configure the selinux label
+If you use selinux you can add the z or Z options to modify the selinux label of the host file or directory being mounted into the container. This affects the file or directory on the host machine itself and can have consequences outside of the scope of Docker.
+
+The z option indicates that the bind mount content is shared among multiple containers.
+The Z option indicates that the bind mount content is private and unshared.
+Use extreme caution with these options. Bind-mounting a system directory such as /home or /usr with the Z option will render your host machine inoperable and you may need to relabel the host machine files by hand.
+
+This example sets the z option to specify that multiple containers can share the bind mount’s contents:
+
+It is not possible to modify the selinux label using the --mount flag.
+
+$ docker run -d \
+  -it \
+  --name devtest \
+  -v "$(pwd)"/target:/app:z \
+  nginx:latest
+Configure mount consistency for macOS
+Docker for Mac uses osxfs to propagate directories and files shared from macOS to the Linux VM. This propagation makes these directories and files available to Docker containers running on Docker for Mac.
+
+By default, these shares are fully-consistent, meaning that every time a write happens on the macOS host or through a mount in a container, the changes are flushed to disk so that all participants in the share have a fully-consistent view. Full consistency can severely impact performance in some cases. Docker 17.05 and higher introduce options to tune the consistency setting on a per-mount, per-container basis. The following options are available:
+
+consistent or default: The default setting with full consistency, as described above.
+
+delegated: The container runtime’s view of the mount is authoritative. There may be delays before updates made in a container are visible on the host.
+
+cached: The macOS host’s view of the mount is authoritative. There may be delays before updates made on the host are visible within a container.
+
+These options are completely ignored on all host operating systems except macOS.
+
+The --mount and -v examples have the same result.
+
+--mount
+-v
+$ docker run -d \
+  -it \
+  --name devtest \
+  --mount type=bind,source="$(pwd)"/target,destination=/app,consistency=cached \
+  nginx:latest
+Next steps
+Learn about volumes.
+Learn about tmpfs mounts.
+Learn about storage drivers.
+storage, persistence, data persistence, mounts, bind mounts
+

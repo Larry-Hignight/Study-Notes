@@ -1,0 +1,92 @@
+* Network containers
+
+** Launch a container on the default network  :drill:
+Docker includes support for networking containers through the use of network drivers.
+By default, Docker provides two network drivers for you, the [bridge] and the [overlay]
+drivers. You can also write a network driver plugin so that you can create your
+own drivers but that is an advanced task.
+
+** Default networks  :drill:
+Every installation of the Docker Engine automatically includes three default networks.
+You can list them:
+
+$ [docker network ls]
+
+NETWORK ID          NAME                DRIVER
+18a2866682b8        none                [null]
+c288470c46f6        host                [host]
+7b369448dccb        bridge              [bridge]
+
+** Bridge network  :drill:
+The network named [bridge] is a special network. Unless you tell it otherwise, Docker
+always launches your containers in this network.
+
+** Inspecting a network  :drill:
+Inspecting the network is an easy way to find out the container’s IP address.
+
+$ [docker network inspect bridge]
+
+[
+    {
+        "Name": "bridge",
+        "Id": "f7ab26d71dbd6f557852c7156ae0574bbf62c42f539b50c8ebde0f728a253b6f",
+        "Scope": "local",
+        "Driver": "bridge",
+        "EnableIPv6": false,
+        "IPAM": {
+            "Driver": "default",
+            "Options": null,
+            "Config": [
+                {
+                    "Subnet": "172.17.0.1/16",
+                    "Gateway": "172.17.0.1"
+                }
+            ]
+        },
+        "Internal": false,
+        "Containers": {
+            "3386a527aa08b37ea9232cbcace2d2458d49f44bb05a6b775fba7ddd40d8f92c": {
+                "Name": "networktest",
+                "EndpointID": "647c12443e91faf0fd508b6edfe59c30b642abb60dfab890b4bdccee38750bc1",
+                "MacAddress": "02:42:ac:11:00:02",
+                "IPv4Address": "172.17.0.2/16",
+                "IPv6Address": ""
+            }
+        },
+        "Options": {
+            "com.docker.network.bridge.default_bridge": "true",
+            "com.docker.network.bridge.enable_icc": "true",
+            "com.docker.network.bridge.enable_ip_masquerade": "true",
+            "com.docker.network.bridge.host_binding_ipv4": "0.0.0.0",
+            "com.docker.network.bridge.name": "docker0",
+            "com.docker.network.driver.mtu": "9001"
+        },
+        "Labels": {}
+    }
+]
+
+** Bridge and Overlay networks  :drill:
+Docker Engine natively supports both bridge networks and overlay networks. A bridge
+network is limited to [a single host] running Docker Engine. An overlay network
+can include [multiple hosts] and is a more advanced topic.
+
+** Create a bridge network  :drill:
+$ [docker network create -d bridge my_bridge]
+The [-d] flag tells Docker to use the [bridge driver] for the new network. You could
+have left this flag off as [bridge] is the default value for this flag.
+
+** Interactive shell  :drill:
+Now, open a shell to your running db container:
+$ [docker exec -it db bash]
+
+** Multiple networks  :drill:
+After a bit, use CTRL-C to end the ping and you’ll find the ping failed. That
+is because the two containers are running on different networks. You can fix that.
+Then, use the exit command to close the container.
+
+Docker networking allows you to attach a container to [as many] networks as you
+like. You can also attach an [already running] container. Go ahead and attach your
+running web app to the my_bridge network.
+
+$ [docker network connect my_bridge web]
+bridge3
