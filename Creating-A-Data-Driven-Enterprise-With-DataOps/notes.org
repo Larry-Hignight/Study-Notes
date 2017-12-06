@@ -1,0 +1,74 @@
+* Part I.  Foundations of a Data-Driven Enterprise
+** Introduction
+*** Two ah-ha moments while working at Facebook:
+1. In a data-driven company, people will consume data faster than your data team 
+can provide it.  This is what led to the creation of Hive at Facebook which allowed
+analysts and other people to create their own ad-hoc quries with a SQL-like language.
+Hive brought the power of big data to the people.
+2. The second ah-ha occurred when they realized that people outside of FB wanted Hive.
+
+*** The Emergence of the Data-Driven Organization
+A data-driven organization is one that understands the importance of data.  It possesses
+a culture of using data to make all business decesions.  Not the word _all_.
+
+Why become a data-driven company?  Because it pays off:
+1. The MIT Center for Digital Business surveyed 330 companies and found that the more a
+company identified as being data-driven, the better it performed on objective measures.
+2. The Economist Intelligence Unit showed a clear connection between how a company uses
+data, and it's financial success.
+
+According to a Harvard Review study by McKinsey executives, being a data-driven company
+requires simultaneiously undertaking three interdependent initiatives:
+1. Identify, combine and manage multiple sources of data
+Eliminate data silos while constantly seeking out new sources to inform decesion-making.
+Combine multiple independent sources of data to get better insights.
+2. Build advanced analytics models for predicting and optimizing outcomes
+The most effective approach is to identify a business opportunity then determine how a 
+model can achieve it.  Start with a problem, not the data.
+3. Transform the organization and culture of the company so that data actually produces
+better bsuiness decisions
+Data initiatives need to be in sync with the day-to-day processes and decision-making
+habits of a company, otherwise, they will run the risk of failure.
+
+*** Moving to Self-Service Data Access
+Bottlenecks between the keepers of the data and people who need data must be eliminated.
+
+_Data delayed is data denied._  Users need to be able to get timely data in order to take
+advantage of business opportunities.
+
+A key indicator of "data democratization" is the ratio of administrators to end-users.
+Experience shows that a well-designed data platform should not require more than 1 admin
+for every 20 to 30 end-users.
+
+The data infrastructure must handle both prototype and production projects, which have 
+different goals:  Prototype projects need agility and flexibility whereas production
+projects require stability and predictability.  
+
+*** The Emergence of DataOps
+Gartner's definition of DataOps:
+A hub for collecting and distributing data, with a mandate to provide controlled access
+to systems of record for customer and marketing performance data, while protecting privacy
+usage restrictions and data integrity.
+
+**** Aspirations for a Data-Driven Organization following a DataOps Model
+At the core are executive support, a centralized data infrastructure and democrotized
+data access.  The steps in this model are 1) Processed, 2) Analyzed, 3) Learn 4) Re-Use
+
+Three things driving the DataOps movement are
+1. Data isn't a static thing
+2. Technology is not enough
+3. Greater agility is needed
+
+** Data and Data Infrastructure
+** Data Warehouses Versus Data Lakes: A Primer
+** Building a Data-Driven Organization
+** Putting Together the Infrastructure to Make Data Self-Service
+** Cloud Architecture and Data Infrastructure-as-a-Service
+** Metadata and Big Data
+** A Maturity-Model "Reality Check" for Organizations
+* Part II.  Case Studies
+** LinkedIn: The Road to Data Craftsmanship
+** Uber: Driven to Democratize Data
+** Twitter: When Everything happens in Real-Time
+** Capture All Data, Decide What to Do with It Later: My Experience at eBay
+** A Podcast Interview Transcript
