@@ -137,6 +137,55 @@ in support of better decision-making.
 | Nirvana    | Overcoming the issues in stage 4 | You've overcome all of the data challenges at this stage               |
 
 ** Data Warehouses Versus Data Lakes: A Primer
+
+*** Data Warehouse:  A Definition
+Characteristics:
+1. A central repository for all the data collected by an organization's business systems.
+2. Data is ETL'ed into the data warehouse.
+3. Supports applications for reporting, analytics and data mining on this curated dataset.
+4. The previous generation of data infrastructure centered on this type of technology by
+Teradata, Oracle, Neteeza, Greenplum, Vertica and others.
+
+Problems with the Data Warehouse and ETL:
+1. Analysis of the original data can no longer be performed;  Only the extracted data 
+is stored in the data warehouse.
+2. Only structured data is stored in a data warehouse which means that learning
+algorithms that utilize unstructured data won't be utilized in this environment.
+
+*** What is a Data Lake?
+
+Coined in 2010 by James Dixon, founder and Chief Technology Officer at Pentaho, a 
+_data lake_ is a storage repository that holds a _vast amount_ of _raw data_ in its 
+_native format_ until it is needed.
+
+Advantages of a data lakes over data warehouses:
+1. Cost Effective - There is never the need to throw away any data.
+2. Fast Access - The schema is implicit.  It isn't decided at the time of writing, rather 
+reading, leading to greater organization agility, therefore, it is also faster because 
+the data doesn't need to be curated.
+3. Agility - Data can be stored in structured, semi-structured and unstructured formats.
+4. Flexibility - 
+5. Flexible Analytics - 
+
+| Data Warehouse                   | Category         | Data Lake                                                                                      |
+|----------------------------------+------------------+------------------------------------------------------------------------------------------------|
+| structured, processed            | Data             | structured, semi-structured, unstructured, raw                                                 |
+| schema-on-write                  | Processing       | schema-on-read                                                                                 |
+| expensive for large data volumes | Storage          | designed for low-cost storage                                                                  |
+| less agile, fixed configuration  | Agility          | highly agile, configure and reconfigure as needed                                              |
+| mature                           | Security         | maturing                                                                                       |
+| business professionals           | Users            | data scientists et al.                                                                         |
+| SQL                              | Types of Queries | Multiple types: programmatic access, machine learning, SQL, graph analysis, deep learning, etc |
+| mature                           | Tool Integration | maturing                                                                                       |
+
+*** Is Using Either/Or a Possible Strategy
+
+A common question is whether you need both a data warehouse and data lake to solve big
+data problems.  While both types of systems are borrowing features from the other type,
+typically, both types of systems are currently used.
+
+
+
 ** Building a Data-Driven Organization
 ** Putting Together the Infrastructure to Make Data Self-Service
 ** Cloud Architecture and Data Infrastructure-as-a-Service
