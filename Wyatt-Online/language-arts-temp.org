@@ -1,0 +1,1629 @@
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       c72484e2-1a31-4fdd-8639-d840deaa026c
+   :END:
+If you wanted to bake a cake, you would have to follow a [recipe].
+A [recipe] lists the ingredients and tells you how to mix them. Suppose you didn't follow 
+the [recipe] and put the pan into the oven first. Then you beat the eggs and poured them into the pan.
+
+After that, you mixed the milk and flour and poured it over the eggs. 
+Get the picture? You wouldn't end up with a cake, would you?
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       ea31e90e-4d8c-4957-a58c-35576b85c822
+   :END:
+Writing is much like baking a cake. 
+You must follow the instructions or certain steps if you intend to turn out a suitable product.
+
+Writing is best done when [five] specific steps are followed.
+If you use the five steps of the writing process each time you write, 
+you will eventually produce excellent work.
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       2d6d9c75-e784-4122-be80-e1f1df871c34
+   :END:
+These are the five steps of the writing process:
+1. [Prewrite]
+2. [Rough draft]
+3. Edit
+4. Proofread
+5. Publish
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       29d7f104-865d-46f5-8531-3d6df5730e9d
+   :END:
+These are the five steps of the writing process:
+1. Prewrite
+2. Rough draft
+3. [Edit]
+4. [Proofread]
+5. [Publish]
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       317f7596-dc0f-4aa4-a39c-192adf240338
+   :END:
+In the prewriting step, you decide what your [topic] will be, who your 
+[audience] will be, and what your [purpose] for writing is (to inform, 
+to entertain, to describe, or to persuade).
+
+Next, decide what [form] you will use (narrative, poem, letter, poster, etc.). 
+After you have decided on the form, gather all the information that 
+you can about the topic in order to complete the assignment.
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       1b1228b5-3936-46d0-ac74-e9cc78a867c0
+   :END:
+There are a variety of ways to get the information you need. You can interview 
+people, research, or brainstorm. The important thing is to get information. 
+Take notes. Organize those notes into logical order.
+
+Use an [outline] to help you organize the information so that it is usable. 
+Decide what will come first, second, etc. The better you organize, the 
+better your paper will be.
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       d2aaab0e-df1d-46f5-a631-bd76d447ac15
+   :END:
+The second step is very important. Writing the [rough draft] is not easy, 
+but if you've organized your material well in the first step, it will 
+be much easier. The [outline] will provide a "road map" to follow as you write.
+
+Speak in your own voice. This means to [write as you would talk]. Don't worry 
+about spelling, punctuation, or correct usage. Just get something on paper. 
+Use a pencil. Double space so that you can make corrections later.
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       ef12b8b2-9905-49c7-a791-a5945158b109
+   :END:
+After you have prepared a rough draft, you are ready for the third step, [editing].
+
+Read over your paper several times. Could you have said anything better? 
+Could you be more exact? Would the paper make more sense in a different order?
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       ef302dd8-408c-426e-829a-15eb0a306752
+   :END:
+Even professional writers [edit] and [rewrite] their work several times. If you 
+plan correctly, you should be able to have a little time between the 
+rough draft and the editing session.
+
+Sometimes if you leave your work for awhile and come back to it, you will 
+be able to see much more clearly what you wanted to say. You will also be 
+able to spot errors more easily.
+
+
+** The Writing Process 						      :drill:
+   SCHEDULED: <2018-06-23 Sat>
+   :PROPERTIES:
+   :ID:       82710454-485e-4063-9421-d0252f2c2c23
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-19 Tue 21:07]
+   :END:
+[Proofreading], the next step, can be fun. Make a game of it. Read your paper 
+thoroughly in search of errors in punctuation, spelling, and grammar.
+
+You may have written an excellent paper, but if you fail to [proofread] it thoroughly 
+and correct all errors, you will only get credit for having a mediocre paper.
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       b8751b7c-3cf1-4e3d-923e-2cbc3a96f7c9
+   :END:
+Avoid misusing words. Be sure to remember that subjects must agree with their verbs in number. 
+Be sure to correctly use pronouns and correct verb tense and number.  Don't let all of your 
+hard work result in a low grade because of errors in spelling, punctuation, or grammar.
+
+This step is called [proofreading].
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       fe0f69d9-c2d4-460c-8e40-0df6e6762483
+   :END:
+Practice [proofreading] by correcting the errors in this sentence:
+
+Between you and I, their isn't but four errors in this here sentence.
+Did you find all four errors? Check the next screen to see if your answers were correct.
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       16f9a0a2-d505-407b-b1a0-c2ebfa95ed9a
+   :END:
+Between you and I, their isn't but four errors in this here sentence.
+
+Between is a preposition. [I] can never be the object of a preposition. 
+Change [I] to [me].
+
+Their is a possessive pronoun that does not belong in this sentence. 
+Change [their] to the introductory word [there].
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       0dc98fe2-075d-4b98-96dc-1ea4cd6d5c9a
+   :END:
+Between you and I, their isn't but four errors in this here sentence.
+
+Errors is the [subject] of the sentence. Isn't is an incorrect verb because errors is [plural]. 
+The contraction isn't combined with the negative term but forms a double negative. Change isn't to are.
+
+Never use this with here or that with there. This is very poor grammar.
+
+The corrected sentence is:
+Between you and me, there are but four errors in this sentence.
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       4315b914-3171-4492-820f-7e9418f7f8f0
+   :END:
+After you have carefully proofread your paper, you are ready to [publish]. 
+[Publishing] is simply sharing your work with others. You can [publish] by reading 
+your paper aloud, turning it in for a grade, or submitting it to a newspaper or magazine for publication.
+
+Follow your teacher's instructions when you [publish]. The final copy should come directly from the 
+rough draft that you have reworked and proofread. Your work should be neatly written in blue or black ink or typed.
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       9796708f-fa7d-448c-b3d2-806029da673b
+   :END:
+As a rule of thumb, if you have any errors on your final copy, correct them and then 
+[reprint] or [rewrite]. You don't want your audience to think that details are not important to you.
+
+
+** The Writing Process 						      :drill:
+   :PROPERTIES:
+   :ID:       ed161a2d-e82d-4225-8ead-0aac686f6fa2
+   :END:
+Review the [five] steps of the writing [process] and commit them to memory. They will serve you in any kind of writing.
+
+Who knows? You might become the next John Grisham, Mary Higgins Clark, or Stephen King.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       86f5e621-6c2f-4018-a5b4-b85a31e7930b
+   :END:
+Words are the tools we use to communicate with other people. Used correctly, words 
+express emotion, give instruction, tell an interesting story, or convey a clear meaning.
+
+To use words as effective tools, you must know that all words can be classified into 
+[eight] different categories. These categories are the [eight] parts of speech.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       f3e516af-91c1-4f94-af55-cb42f501d286
+   :END:
+The eight parts of speech are [nouns], [pronouns], [verbs], [adjectives], 
+[adverbs], [prepositions], [conjunctions], and [interjections].
+
+This sentence contains words from all eight parts of speech. Can you identify them?
+Hey! My personal diary is not for your eyes or hers.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       5d47cc34-1c11-42a6-8be2-1a17784b0180
+   :END:
+Hey! My personal diary is not for your eyes or hers.
+
+_Hey_ is an [interjection]. It shows strong feeling.
+
+_My_ is a possessive [pronoun] used as an [adjective]. It takes the place of my name.
+_Personal_ is an [adjective] that tells what kind.
+_Diary_ is a [noun]. It names the book.
+_Is_ is the [verb]. It is a be [verb] and does not show action.
+
+
+** Parts of Speech 						      :drill:
+   SCHEDULED: <2018-06-23 Sat>
+   :PROPERTIES:
+   :ID:       684f14c0-7b2c-4fa6-a507-1c952e2d4d32
+   :DRILL_LAST_INTERVAL: 4.0
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.5
+   :DRILL_LAST_QUALITY: 4
+   :DRILL_LAST_REVIEWED: [2018-06-19 Tue 21:08]
+   :END:
+Hey!  My personal diary is not for your eyes or hers.
+
+_Not_ is always an [adverb] (even if it is contracted to n't).
+_For_ is a [preposition]. It shows the relationship of its objects to the rest of the sentence.
+_Your_ is a possessive [pronoun] used as an [adjective].
+_Eyes_ is a [noun]. It is the first part of the compound object of the preposition.
+_Or_ is a [conjunction]. It connects the two objects of the preposition.
+_Hers_ is also a possessive [pronoun]. It is the second object of the preposition.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       fbd543e7-f79d-4cc2-b10a-04ac4dfba604
+   :END:
+Each part of speech has a special [function].
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       c75484ca-39af-4f27-ba4f-4c7db203b4f2
+   :END:
+[Nouns] name persons, places, things, or ideas.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       70e7c6a7-be40-4c99-b3c5-f2d084d69c1f
+   :END:
+[Pronouns] take the place of nouns.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       c579c15f-0b57-44ed-b6ad-44de86d8b8a9
+   :END:
+[Verbs] show action or state of being.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       42bfee18-9e54-42c3-b417-2a160efca0b5
+   :END:
+[Adjectives] describe or modify nouns or pronouns.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       35426c6c-9cc9-48b1-ada4-0c711589ccf3
+   :END:
+[Adverbs] modify verbs, adjectives, or other adverbs.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       c35029db-66ae-4841-be1d-8aaf14313d0f
+   :END:
+[Prepositions] show relationships between words in a sentence.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       8aa07bbf-f8a0-4d4d-9857-b0049193cc7d
+   :END:
+[Conjunctions] join words or groups of words together.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       8ba89c10-4a12-4ba9-b12b-8cc5f8d89c6d
+   :END:
+[Interjections] command attention or express strong feelings.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       ebee0685-1110-41a2-9518-30ffe662c340
+   :END:
+Not all words have more than one use, but many can be used differently. The role 
+of the word in a sentence determines its part of speech.
+
+Notice the different uses of the word light in this sentence.
+Turn the light off and light the fire while I check the light meter for the photograph.
+
+The first light is a [noun]. It names something.
+The second light is a [verb]. It shows action.
+The third light is an [adjective]. It tells what kind of meter.  
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       49870534-9e0a-42d7-a5c1-de97c5085c3c
+   :END:
+Nouns are usually easy to identify because they name [persons], [places], [things], or [ideas].
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       a72950df-89e9-4612-90d7-419ab58dcafa
+   :END:
+Nouns that refer to any one of a group of the same items are [common] nouns.
+
+Nouns that refer to specific persons, places, or things are [proper] nouns. 
+[Proper] nouns always begin with [capital] letters.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       8e265d5b-6db3-48a5-bf92-343973614f61
+   :END:
+[Pronouns] are used in the place of nouns. The antecedent of a [pronoun] is the noun that the [pronoun] replaces.
+
+
+** Parts of Speech 						      :drill:
+   SCHEDULED: <2018-06-23 Sat>
+   :PROPERTIES:
+   :ID:       0a6eeda0-4445-4fae-b6d6-48c564bc146c
+   :DRILL_LAST_INTERVAL: 4.0
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 4.0
+   :DRILL_EASE: 2.5
+   :DRILL_LAST_QUALITY: 4
+   :DRILL_LAST_REVIEWED: [2018-06-19 Tue 20:45]
+   :END:
+Pronouns are necessary because the same [noun] is often referred to several times in the 
+same sentence or paragraph. Pronouns simplify sentences by making them less [awkward] and monotonous.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       1ce89063-10bd-4468-af43-68fecdf236bd
+   :END:
+Notice the repetition of nouns in this paragraph.
+
+Our family went on a trip to the beach. _The trip_ was fun. _The family and I_ went swimming. 
+_The family's_ next trip will be to the mountains. _That trip_ will be fun, too!
+
+Now look at this paragraph using pronouns.
+
+Our family went on a trip to the beach. [It] was fun. [We] went swimming. 
+[Our] next trip will be to the mountains. [It] will be fun, too!
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       97d87a3b-9959-48cf-868f-f37cb50d3ec9
+   :END:
+Most [verbs] express action. This means they show that a [subject] does something.
+Joe saw a tree.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       8c1eb946-d3a9-441b-87a4-2d3240815cbd
+   :END:
+A verb that does not express action expresses the condition of the [subject].
+Joe is kind.
+
+This verb connects Joe and kind but does not express action.  It is a [linking verb].
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       f860ea16-0b2f-4da2-9d8a-351dd13649f0
+   :END:
+It is not always possible to express everything about a noun with only one word.  
+A writer must have words that describe a particular item. This is the purpose of 
+an [adjective]. It describes or tells something about a [noun].
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       950a8943-ca26-41e9-a4cb-a0520c1b807e
+   :END:
+Look how [adjectives] modify the description of a cat.
+
+The cat cried.
+The large, hungry cat cried.
+The large, hungry, mean, striped cat cried.
+
+[Adjectives] tell which one, what kind, and how many about nouns and [pronouns].
+
+
+** Parts of Speech 						      :drill:
+   SCHEDULED: <2018-06-23 Sat>
+   :PROPERTIES:
+   :ID:       12450d09-be35-40cb-b528-602746269812
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.5
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-19 Tue 21:09]
+   :END:
+[Adverbs] also change or modify words. As the name implies, [adverbs] are added to verbs. 
+They change or modify verbs by telling when, [where], how, in what manner, or to what extent.
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       5f044412-7233-40ef-b650-46ef77e518ce
+   :END:
+Although [adverbs] are added to verbs, they do not have to be placed directly [beside] the verb in a sentence.
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       b91cf1ff-1d30-459b-90be-f78bca9106d6
+   :END:
+Adverbs can also change or modify [adjectives] or other [adverbs]. 
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       acb6d4e1-c98a-46bf-9332-2d95ff6b45f1
+   :END:
+Can you identify the adverbs that modify an adjective and an adverb in this sentence?
+
+Washington's men must have been really nervous as they rowed extremely quietly across the Delaware.
+
+[Really] is an adverb that modifies the adjective [nervous]. 
+[Nervous] is an adjective that modifies the noun [men].
+
+[Extremely] is an adverb that modifies the adverb [quietly]. 
+Remember, [quietly] modifies the verb [rowed].
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       06e8fe94-2708-45d7-8b54-1d7d7e0fab20
+   :END:
+[Prepositions] show the relationship of words to other parts of the sentence. 
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       2df0c9c9-b356-49ec-8369-1f8cd1dfdf71
+   :END:
+Prepositions usually relate to [nouns] or [pronouns]. 
+
+** Parts of Speech 						      :drill:
+   SCHEDULED: <2018-06-23 Sat>
+   :PROPERTIES:
+   :ID:       a6c6b899-dd25-4de7-a2c8-65076735593f
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.5
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-19 Tue 21:05]
+   :END:
+Prepositions always have an [object]. 
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       01f9b937-d83f-4226-8fc0-bf48b2dbf996
+   :END:
+The preposition and its object (and any words between the two) are called a [prepositional phrase].
+
+I walked _toward the house_.
+I walked _around the house_.
+I walked _through the house_.
+I walked _into the house_.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       25884774-8c11-4083-9d20-a1a185526431
+   :END:
+Words that join words or groups of words are called [conjunctions]. 
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       767a53d9-b6aa-484a-9681-29d9ad7e862d
+   :END:
+Words that [join] words or groups of words are called conjunctions. 
+
+There are three kinds of conjunctions:
+[coordinating] (and, or, but, nor, for, yet, so)
+[correlative] (both/and, not only/but also, neither/nor, either/or, whether/or)
+[subordinating] (Subordinating conjunctions will be discussed later in a lesson on clauses.)
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       b027b1fa-597d-427f-82f4-13d6564cb98d
+   :END:
+Our language would not be complete unless it offered the ability to express strong 
+or sudden emotion. [Interjections] serve that purpose as a part of speech.
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       12bb5357-7112-42c4-939e-d415bb66bab4
+   :END:
+Interjections are not related to the other parts of speech. The word interjection 
+comes from a Latin term that means "to throw between." Interjections are "[thrown into]" 
+a sentence, usually to express [emotions] such as joy, disgust, excitement, or enthusiasm. 
+
+They are sometimes called [exclamatory] words.
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       e83d8ad8-b945-4765-804f-3c1796f55220
+   :END:
+Interjections command attention. Strong interjections are followed by [exclamation marks] 
+to add emphasis. Mild interjections are followed by [commas] unless they come after the sentence.
+
+Listen, did you hear that? (Mild interjection)
+
+Did you hear that? Listen! (Mild interjection)
+
+Help! My house is on fire! (Strong interjection)
+
+
+** Parts of Speech 						      :drill:
+   :PROPERTIES:
+   :ID:       ac15805b-8fe8-4ad7-a9f3-05d3d3f70fe5
+   :END:
+Remember: Every word in the English language falls into at least one of the 
+[eight] [parts] of speech. If you understand the function of each word in a sentence, 
+the principles of grammar will be easy to master.
+
+Learn the parts of speech as you would learn simple mathematical facts. 
+You will rely on the use of these concepts throughout your life.
+
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       0ca2af1c-0700-49c0-b1f7-d25834c312a8
+   :END:
+A noun is the part of speech that names [people], [places], [things], or [ideas].
+[person]: Rachel
+[place]: Michigan
+[thing]: vegetable
+[idea]: anger
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       09b949ab-bea0-4b48-8972-7a784a8bbadb
+   :END:
+Identify each noun in the following sentences as a person, place, thing, or idea.
+
+Cartographers ([persons]) have created a grid system ([thing]) to help us find places ([places/things]) on maps ([things]).
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       b2a2322d-6240-4452-bc7b-78b07eda51ed
+   :END:
+Identify each noun in the following sentences as a person, place, thing, or idea.
+
+They drew horizontal lines ([things]) on the grid ([thing]) as lines ([things]) of latitude ([things]).
+
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       bede781e-fc7c-45fe-a117-8f7435c1afd3
+   :END:
+When a noun names any one of a group of the same items, it is called a [common] noun.
+
+These are examples of some [common] nouns:
+sky, day, job, youth, chair, tree, dog, table
+
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       c3b59395-96e1-4872-ae7f-0e7629e526c8
+   :END:
+If a noun names a particular person, place, or thing, it is called a [proper] noun. 
+A [proper] noun always begins with a capital letter.
+
+These are some examples of [proper] nouns:
+St. Bernard, Christmas Day, Lake Ontario, Spain
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       f8953f45-abc5-466e-9afa-9532af91b618
+   :END:
+Sometimes nouns are [common], and sometimes they are [proper].
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       0f72c644-5e21-4995-a913-c14d93b35eac
+   :END:
+Notice the common and proper nouns in this sentence.
+The lake ([common]) we're going to is Lake Ontario ([proper]).
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       81935faa-ffff-4d63-a7e8-f02fee055681
+   :END:
+There is also another classification for nouns.
+
+Nouns can be either [concrete] or abstract.
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       4663049f-1228-4b11-9183-449f6b838fc7
+   :END:
+Nouns can be either concrete or [abstract].
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       7e5d1a18-2b27-4cc5-b2ab-08ddcf4cdf3d
+   :END:
+[Concrete] nouns are nouns that can be seen, smelled, felt, tasted, or heard. 
+In other words, [concrete] nouns can be experienced by one or more of the five [senses].
+Rain fell on the red rose.
+
+
+** Nouns 1 							      :drill:
+   SCHEDULED: <2018-06-23 Sat>
+   :PROPERTIES:
+   :ID:       97769c1f-c639-4a0a-8673-5290f85ed861
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-19 Tue 20:49]
+   :END:
+Some nouns cannot be experienced by the five [senses].
+
+Nouns such as joy, hate, anger, happiness, rudeness, patience, and moderation are called [abstract] nouns.
+
+You can feel happy, but you can't touch happy.
+
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       d2d88701-de30-4c59-af78-c3307306a8b2
+   :END:
+Identify the nouns in this sentence as common or proper and concrete or abstract.
+
+Honesty, telling the truth, is an admirable quality.
+
+Honesty is a [common], [abstract] noun.
+Truth is a [common], [abstract] noun.
+Quality is a [common], [abstract] noun.
+
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       98f8b8b4-ef5e-40b9-b75d-39bfe84e53e4
+   :END:
+Here are some commonly used [abstract] nouns:
+love, rage, bravery, shame, guilt, curiosity, hate, courage, honor, sorrow, tact, 
+happiness, anger, insecurity, valor, shrewdness, shyness, cleverness, joy, fear, pride
+intuition, laziness, silliness
+
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       332fda63-db2f-48bb-804f-8c939cf67e5e
+   :END:
+Whether a noun is common or proper, concrete or abstract, it serves the same function in a sentence.
+
+A noun names [persons], [places], [things], or [ideas].
+
+
+** Nouns 1 							      :drill:
+   :PROPERTIES:
+   :ID:       f5306ff9-8ddc-47f0-82e4-9577ccd1169c
+   :END:
+A [noun] is a part of speech that names people, places, things, or ideas.
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       92f204e3-09a8-4d4e-808c-d10c618a17b4
+   :END:
+[Plural] nouns name more than one person, place, thing, or idea. Let's look at some of the basic rules for making nouns [plural].
+
+Add -s to most [singular] nouns to make them [plural].
+
+book(s)
+girl(s)
+store(s)
+
+** Nouns 2
+Make the following nouns plural:
+
+church [churches]
+box [boxes]
+waitress [waitresses]
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       7a9c84be-cb0c-4afe-b4d5-40a72fbff588
+   :END:
+Make the following nouns plural:
+
+turkey [turkeys]
+key [keys]
+toy [toys]
+story [stories]
+fairy [fairies]
+salary [salaries]
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       01b0ba92-90a6-4e82-9a4d-cd0f87982397
+   :END:
+Add [s] to nouns that end with o and have another vowel immediately before 
+the o to make them plural. Add [s] to musical terms that end in o.
+
+rodeo [rodeo(s)]
+solo [solo(s)]
+banjo [banjo(s)]
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       7f24ad4e-4fa0-4ed9-b8e1-e37f208742b3
+   :END:
+Test yourself. Write the plural form of each of these words.
+
+city [cities]
+state [states]
+address [addresses]
+piano [pianos]
+stereo [stereos]
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       a8576657-0238-49ba-8c8e-a3037cfe0baa
+   :END:
+Some nouns have special rules for forming their plurals.
+
+Add [-s] to many nouns that end in f, fe, or ff.
+
+cliff [cliff(s)]
+chief [chief(s)]
+safe [safe(s)]
+
+Some nouns change the f or fe to [v] and add -es.
+
+leaf [(leaves)]
+wife [(wives)]
+knife [(knives)]
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       6ab83bf6-1a21-4682-aaf2-836e4096451a
+   :END:
+Some nouns are the same plural as they are singular.
+
+deer
+Chinese
+moose
+
+
+** Nouns 2
+Add -s to nouns that end with ful.
+
+spoonful(s)
+basketful(s)
+cupful(s)
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       b661d347-8492-449b-920e-ac3a614a816c
+   :END:
+Make the most important word plural in compound nouns.
+
+father-in-law [fathers-in-law]
+attorney general [attorneys general]
+flowerpot [flowerpots]
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       e47f4410-2d50-43d5-b100-189cc47dd36b
+   :END:
+Simply add [-s] to numbers and letters to make them plural.
+3s    Bs
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       c8768b74-10c7-440d-9f0d-cb5db75296fe
+   :END:
+Write the plural form of these words.
+
+belief [beliefs]
+shelf [shelves]
+series [series]
+sister-in-law [sisters-in-law]
+20 [20s]
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       33c1f2de-5a02-45cb-869d-8a575d235e7b
+   :END:
+Nouns can also show ownership or possession. There is one basic rule for forming [possessive] nouns.
+
+Always add ['s] to nouns to make them [possessive] unless the noun is plural and already ends in s. In this case, add just an apostrophe.
+
+men [(men's)]
+John [(John's)]
+boys [(boys')]
+princess [(princess's)]
+bosses [(bosses')]
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       29dde366-da69-42bf-b218-58d6458054e3
+   :END:
+Decide whether these nouns are singular, singular possessive, plural, or plural possessive.
+
+women [(plural)]
+shirts [(plural)]
+child [(singular)]
+actress's [(singular possessive)]
+child's [(singular possessive)]
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       528ac247-afc7-475b-b4ad-cdcada0cddc6
+   :END:
+Decide whether these nouns are singular, singular possessive, plural, or plural possessive.
+
+men's [(plural possessive)]
+witnesses' [(plural possessive)]
+calves' [(plural possessive)]
+girls [(plural)]
+mouse's [(singular possessive)]
+
+
+** Nouns 2 							      :drill:
+   :PROPERTIES:
+   :ID:       93453c7d-d543-4809-acd7-20105cdbe031
+   :END:
+[Plural] nouns name more than one person, place, thing, or idea.
+
+
+** Nouns 2 							      :drill:
+   SCHEDULED: <2018-06-23 Sat>
+   :PROPERTIES:
+   :ID:       6a162164-26bc-4ab1-90c6-982572222a6d
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-19 Tue 20:47]
+   :END:
+Here are the basic rules for making nouns plural:
+
+Add [-s] to most singular nouns.
+
+Add [-es] to nouns ending in ch, s, sh, ss, x, or z.
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       27a24623-69f1-45b5-acf2-319a842f30d4
+   :END:
+You have learned that verbs show action or state of being.
+
+    Doctors use X-ray machines to find broken bones.
+
+The verb in this sentence shows [action].
+
+    A magnifying glass is a simple microscope.
+
+This verb shows [state] of [being].
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       2eaaa2d9-e055-4777-a1ab-83a5f632cbb7
+   :END:
+State of being verbs are also called [linking] verbs because they [link] the subject to another word.
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       5f4b4b7e-8d49-4175-a15d-d23870baa68b
+   :END:
+There are nineteen [linking] verbs. If you divide them into three groups, they are easy to remember.
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       f91de196-7032-4371-98fb-82c5314b2807
+   :END:
+There are seven _be_ verbs:
+be, am, is, are, was, were, [been]
+
+** Verbs 1
+The verbs that express the action of the five [senses] can also be used as [linking] verbs.
+look, smell, feel, taste, sound
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       8228614f-79e5-40ba-9e6a-42feddb0078d
+   :END:
+There are seven more linking verbs. 
+These verbs belong to an odd group that we can call by the acronym BRAGSST. 
+
+B = [become]      
+R = [remain]        
+A = [appear]    
+G = [grow]
+S = [seem]
+S = [stay]
+T = [turn]
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       6dcfd622-ac4a-4024-9196-8a5a574e6d88
+   :END:
+Every verb has [four] principal parts.
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       4f0c3e08-6995-4b3b-bc18-e20cd0a01572
+   :END:
+Every verb has four principal parts: [present], present participle, [past], and past participle.
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       6042e187-4519-4e41-8978-5d249894ceb4
+   :END:
+Every verb has four principal parts: present, [present participle], past, and [past participle].
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       746c0909-a421-4924-a3b0-c8e3ec13bf9d
+   :END:
+begin
+beginning
+began
+begun
+The [present] is the basic form of the verb.
+The [present] [participle] is the ing form of the present.
+The [past] ends in d, ed, t, n, or en. It never has a helper.
+The [past] [participle] always has a helper.
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       10f7de13-7ffd-42ba-a5ac-0479c69aeec7
+   :END:
+Sometimes a verb's past and past participle are formed irregularly by either 
+changing the spelling of the word or leaving the word in its basic form.
+
+| Present | Past Participle | Past   |
+|---------+-----------------+--------|
+| do      | [done]          | [did]  |
+| eat     | [eaten]         | [ate]  |
+| go      | [gone]          | [went] |
+| set     | [set]           | [set]  |
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       a2a21e04-9217-4ac4-a797-290ac60da8b6
+   :END:
+When a verb has two or more words, it is called a [verb phrase].
+
+John has gone.
+(two-word verb phrase)
+
+John will be going.
+(three-word verb phrase)
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       82128121-9396-4d82-b7e0-4d4aba0af93f
+   :END:
+The [last] verb in the verb phrase is the main verb.
+
+John has gone.
+[Gone] is the main verb. Has is a helping or [auxiliary] verb.
+
+John will be going.
+[Going] is the main verb. Will and be are helping or [auxiliary] verbs.
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       613efc29-301b-442b-b906-34d48ecc3ba7
+   :END:
+There are four groups of helping or auxiliary verbs. Every helping or auxiliary verb must come from one of these groups.
+
+The [be] group of helping verbs is: am, is, are, was, were, being, been. 
+These verbs are not linking verbs when they act as helping verbs, although they may help a linking verb.
+
+(was going = action verb phrase)
+(was becoming = linking verb phrase)
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       bd01799e-e886-42d3-9290-3a1379745202
+   :END:
+The [have] group of helping verbs = have, has, had.
+
+The [do] group of helping verbs = do, does, did.
+
+A modal auxiliary verb is used with a main verb to indicate necessity, obligation, 
+permission, or possibility. These include words such as can, could, shall, should, 
+will, would, may, might, must, and have to.
+
+Remember: These [four] groups are all of the helping verbs. There are no others.
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       e6d398e1-369e-4002-a76a-4db763386cf3
+   :END:
+What is the verb phrase in this sentence?
+
+You did not exactly tell the truth.
+
+The verb phrase is [did tell].
+
+[Not and exactly] do not fall into one of the four groups of helping verbs, so they 
+cannot be helping verbs, even though they come between the two parts of the verb.
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       078c959a-6628-422e-b96b-739287bbf13e
+   :END:
+There are some tricky verbs that you must learn. 
+_Sit_ (which means to [take a seat]) is often confused with _set_ (which means to [put or place]).
+
+The four principal parts of sit are:
+sit, sitting, sat, sat
+
+The four principal parts of set are:
+set, setting, set, set
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       963d6122-ff8f-4117-958d-41f2f1918817
+   :END:
+Which would be correct in these sentences?
+
+He (set, sat) on the edge of his chair.  [sat]
+
+(Set, Sit) the pie on the windowsill to cool.  [Set]
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       9fabf34f-b251-4f84-83b2-033c8ddd0348
+   :END:
+Another set of tricky verbs to watch for are lie and lay. 
+_Lie_ means to rest or recline. 
+_Lay_ means to put or place.
+
+The four principal parts of lie are: lie, lying, lay, lain
+The four principal parts of lay are: lay, laying, laid, laid
+
+(Lie, Lay) [Lay] the quilt on the bed before you (lie, lay) [lie] down.
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       953056fa-1369-4d44-a47b-9913ac475ca2
+   :END:
+Which would be correct in the following sentences?
+
+I have (lain, laid) the floor tile.  [laid]
+
+She cannot play because she is (laying, lying) down.  [lying]
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       e8ff4937-de53-48c8-a277-2d1cddb73a7e
+   :END:
+Rise and raise also often present a problem. 
+_Rise_ means to [go up without help]. 
+_Raise_ means to [lift something].
+
+The four principal parts of rise are:
+rise, rising, rose, risen
+
+The four principal parts of raise are:
+raise, raising, raised, raised
+
+
+** Verbs 1 							      :drill:
+   :PROPERTIES:
+   :ID:       10b60ccf-07e7-4ddd-93d5-f23346bc04a3
+   :END:
+Which word would be correct in these sentences?
+
+He (raised, rose) from his chair to protest. [rose]
+
+Four people (rose, raised) their hands. [raised]
+
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       a5d2ff03-7aee-4fe8-9005-e139e8f3acec
+   :END:
+Every verb has four principal parts:
+[present]
+[present participle]
+[past]
+[past participle]
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       80e1b036-bc46-422e-bcc6-81a2122512f7
+   :END:
+[Regular] verbs only change endings to form different tenses. The base word stays the same.
+
+| Present | Present Participle | Past    | Past Participle |
+|---------+--------------------+---------+-----------------|
+| work    | working            | worked  | worked          |
+| carry   | carrying           | carried | carried         |
+| slip    | slipping           | slipped | slipped         |
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       ceccd912-d422-401a-83a0-b23ad76487e9
+   :END:
+[Irregular] verbs change the spelling of the base word or do not change at all.
+
+| Present | Present Participle | Past | Past Participle |
+|---------+--------------------+------+-----------------|
+| fall    | falling            | fell | fallen          |
+| bid     | bidding            | bid  | bid             |
+| go      | going              | went | gone            |
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       b88442b7-d175-4b27-a33a-56f8d0b6fc39
+   :END:
+It is time for you to test yourself. 
+Name the four principal parts of these verbs; then tell if they are regular or irregular verbs.
+
+| Verb  | Principal Parts                  | Type        |
+|-------+----------------------------------+-------------|
+| write | write, writing, wrote, written   | [irregular] |
+| walk  | [walk, walking, walked, walked]  | regular     |
+| begin | [begin, beginning, began, begun] | [irregular] |
+| see   | [see, seeing, saw, seen]         | [irregular] |
+| open  | [open, opening, opened, opened]  | [regular]   |
+| know  | [know, knowing, knew, known]     | [irregular] |
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       9abb250b-16fb-4266-beb0-a98d674251d6
+   :END:
+The four principal parts of verbs are used to form the tenses. _Tense means time_. 
+
+There are three basic (simple) tenses. (present, past, future)
+
+** Verbs 2
+There are three basic (simple) tenses.
+
+| Tense           | Meaning                   | Example       |
+|-----------------+---------------------------+---------------|
+| [Present] tense | action now                | I [go].       |
+| Past tense      | action [already happened] | I went.       |
+| [Future] tense  | action [will happen]      | I [shall] go. |
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       5bf4547b-93fa-4786-852d-d2cc6f31b9e5
+   :END:
+Learn the following formulas to help you form the simple tenses:
+
+The [present] tense = the present part.
+I know your name.
+
+The [past] tense = the past part.
+I knew your name.
+
+The future tense = [shall/will] + the present part.
+I shall know your name.
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       d756044c-aad6-4faa-b05e-86b2f92983a3
+   :END:
+Use [shall] with the first person (I, we) unless you are showing determination or making a promise; then use [will].
+
+I [shall] go to the movie tonight.
+I promise I [will] go to the movie tonight.
+
+Use [will] with the second and third person (you, he, she, it, they) unless you are showing determination or making a promise; then use [shall].
+
+He [will] go to the movie tonight.  
+He promises he [shall] go to the movie tonight.
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       aa29da73-f3c4-4962-9b1c-c3f017a240e6
+   :END:
+There are three perfect tenses: present perfect, past perfect, and future perfect.
+
+The present perfect tense has two main functions. It expresses an [action] that began in the past and continues to the [present].
+I have gone to school all my life.
+
+It also expresses an action that is now complete but without any mention of when it was completed.
+I have eaten dinner.
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       12f8791a-5905-4662-99b5-033a305ac72f
+   :END:
+The past perfect tense expresses an action that happened in the [past] before another past [action].
+I had gone to school before the bus arrived.
+
+The future perfect tense expresses an action that will be [finished] before a stated time in the [future].
+I shall have gone to school by the time my sister wakes.
+
+
+** Verbs 2 							      :drill:
+   SCHEDULED: <2018-06-23 Sat>
+   :PROPERTIES:
+   :ID:       5ad49f04-9698-4dbb-aa94-c07878f76234
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-19 Tue 20:45]
+   :END:
+The present perfect tense = have/has + past participle.
+I have known.  
+He has known.
+
+The past perfect tense = had + past participle.
+I had known.
+
+The future perfect tense = shall/will + have/has + past participle.
+I shall have known.
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       0260d524-d26b-4c04-994d-d222de22a429
+   :END:
+[Conjugation] is a big word that means to list all the verb forms of a verb according to tense.
+
+[Conjugation] of the verb: _See_
+
+| Present           | Past             | Present perfect       |
+|-------------------+------------------+-----------------------+
+| We see.           | I saw.           | I have seen.          |
+| You see.          | You saw.         | You have seen.        |
+| They see.         | He, she, it saw. | He, she, it has seen. |
+| I see.            | We saw.          | We have seen.         |
+| You see.          | You saw.         | You have seen.        |
+| He, she, it sees. | They saw.        | They have seen.       |
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       355cfd19-af5c-42af-bcec-72df82aede6b
+   :END:
+Determine the tense of the following verbs in the sentences below.
+
+Scientists study living and nonliving matter. [study = present tense (present tense = present part)]
+
+They have learned that everything is made up of matter. [have learned = present perfect (present perfect tense = have/has + past participle)]
+
+They found that the basic building blocks of matter are atoms. [found = past tense (past tense = past part)]
+
+Further study has shown that the number of protons and electrons in an atom determines the element. [has shown = present perfect tense (present perfect tense = have/has + past participle)]
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       dce2bd55-0c93-48a4-a36f-f4a1b1dcb37a
+   :END:
+Since tense shows [time], every verb in a sentence or paragraph should normally be in the [same] tense.
+
+Scientists know living things depend on the existence of oxygen. (Both verbs are in the present tense.)
+
+Some (but very few) shifts in tense are necessary.
+
+Scientists know that they will learn more about life in the future.
+
+Know is present tense; will learn is future tense. This is a necessary [shift in tense].
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       34dc809b-b4d1-4598-8517-06424749dc37
+   :END:
+Are the shifts in tense in these sentences necessary?
+
+Living things are able to grow and will respond to stimuli.  [No]
+
+All living things reproduce and had performed certain chemical activities.  [No]
+
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       57158109-d46e-4ba8-bb17-4d53fb2f2511
+   :END:
+This sentence contains an (necessary, unnecessary) [unnecessary] shift in tense.
+
+All living things reproduce and had performed certain chemical activities.
+
+** Verbs 2 							      :drill:
+   :PROPERTIES:
+   :ID:       d47d5034-490e-4de0-b4fb-9f49e742d579
+   :END:
+Does this sentence contain a shift in tense?
+
+All living things reproduce and perform certain chemical activities.  [No]
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       5b0037f6-0bfc-439e-b805-fe47d0f82ac7
+   :END:
+The verb is the part of speech that expresses action or makes a statement about the condition of the subject.
+
+Most verbs [express action] and are called [action] verbs.
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       1a8b57f0-eb4e-42c4-9a0d-b7f623be31d1
+   :END:
+Some verbs make a statement about the condition of the subject. These verbs are [linking] verbs.
+
+[Linking] verbs do not show action. Instead, they act like the [links] (individual circles) in a chain. 
+
+They connect the subject to something that comes after the verb. 
+
+Sara is a student.
+
+Sara and student are the same person. Is links them together. Is does not tell anything Sara does.
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       ae70845a-f25a-493a-9150-27fb80b8f703
+   :END:
+Sara was lonely.
+
+In this sentence, lonely describes Sara. It is a special kind of adjective. 
+
+Was [links] the adjective (lonely) with the subject (Sara), but it does not tell anything that Sara did.
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       869c2fde-fd2b-47b5-a0f4-7a7ea556ad9a
+   :END:
+Jeff is in his room.
+
+Linking verbs can also connect a [prepositional] phrase telling where to the subject. 
+
+The prepositional phrase (in his room) tells the location of the subject (Jeff).
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       48178cbf-ae8f-4a71-a1f4-06137ab048eb
+   :END:
+A [transitive] verb always has a [noun] that receives its action.
+
+Robert threw the ball.
+
+The ball is the noun, the thing that was thrown. Ball receives the action of threw. Therefore, threw is transitive.
+
+In this sentence, ball is called a direct object. A direct object comes after a transitive action verb and receives the action.
+
+A direct object cannot be used after a [linking] verb. Since direct objects receive the action, they can only be used after [action] verbs.
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       10ad810d-d9ed-4661-b7b0-1c6731608fda
+   :END:
+Some action verbs do not have a direct object. They are called [intransitive] verbs.
+
+Jim sat down.
+
+The flower bloomed.
+
+In each of these sentences, the subject does an action, but the subject doesn't do the 
+action to something. These sentences do not have direct [objects], so the verbs are [intransitive].
+
+
+** Verbs 3 							      :drill:
+   SCHEDULED: <2018-06-23 Sat>
+   :PROPERTIES:
+   :ID:       58d1054c-4757-49da-a6a6-20995df9a80f
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-19 Tue 21:06]
+   :END:
+Which of these sentences has an intransitive verb?
+
+Jeremy ran all the way home.
+Jeremy plays the trombone.
+
+In the first sentence, [ran is intransitive. All the way home tells where or how much, but it doesn't tell what he ran.]
+
+In the second sentence, [plays is transitive because it has a direct object. Trombone tells what he plays. It receives the action of the verb.]
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       26f3ef2b-827b-45f1-8424-be91644e1dfc
+   :END:
+Are the verbs transitive or intransitive in these sentences?
+
+I dropped my pencil. [(transitive: the direct object is pencil)]
+
+Jill and Helen sing. [(intransitive: no direct object)]
+
+Every day Mike goes to the store. [(intransitive: no direct object)]
+
+Hannah ate her lunch. [(transitive: the direct object is lunch)]
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       c761bd48-18af-46e6-abc5-92191e73e514
+   :END:
+Remember that a [transitive] verb has a direct [object], a word that the action of the verb is done to. 
+[Intransitive] verbs do not have an [object].
+
+Also remember that you cannot have a direct object after a linking verb because linking verbs do not show [action].
+
+Are linking verbs transitive or intransitive?  [intransitive]
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       2273cd8c-2684-4967-8c63-888deb8f4ebf
+   :END:
+Linking verbs are [intransitive]. They do not show an action, so they cannot have direct objects.
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       181f43e3-666c-4712-b2ed-b9dda620ac14
+   :END:
+Let's review what you have learned so far about verbs:
+
+Verbs can be [action] or [linking].
+Linking verbs are always [intransitive].
+Action verbs may be [transitive] or [intransitive].
+[Transitive] verbs have a direct object.
+[Intransitive] verbs do not have a direct object.
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       91e34f32-814c-4f03-b033-23b56dfc2a06
+   :END:
+Now let's talk about another characteristic of verbs.
+
+Verbs can be used in the active voice or the [passive] voice.
+
+Tracy broke the dish.
+The dish was broken by Tracy.
+
+As you can see, these sentences mean the same thing, but they are written in different ways. 
+In the first sentence, the subject (Tracy) did the action of the verb (broke). 
+This is called active voice. 
+
+When the subject does the action of the verb, the verb is in [active voice].
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       3dd207bc-4916-41de-9b93-202ba09bd988
+   :END:
+Tracy broke the dish.
+The dish was broken by Tracy.
+
+In the second sentence, the subject (dish) does not do the action. Instead, the action happens or is done to the [subject].
+
+This is called [passive voice]. Whenever someone or something besides the subject does the action of the verb, the verb is in passive voice.
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       e24991e6-3b94-4079-9fa8-b72237a9dcd9
+   :END:
+The dish was broken by Tracy.
+
+Notice that the passive verb began with was and ended with the past participle.
+
+Passive verbs must have a be verb (am, is, are, was, were, been) and end with the past participle form of the main verb. 
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       78606eaa-5966-47cc-af69-2da5f85de24a
+   :END:
+The memo was typed by Ted.
+The phone was dialed by Sue.
+The students were seen by their teacher.
+Lunch was eaten at noon.
+The television was turned off.
+Jenny and Jill are driven to school.
+Rice is grown in Japan.
+
+The first three sentences tell [who] did the action. Sometimes sentences with passive voice verbs 
+tell who or what does the action of the verb. Usually this is in a [prepositional] phrase that begins with by.
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       3ebd2efd-5a75-483d-9cf6-c617159e6db3
+   :END:
+Remember:
+
+Verbs can be [action] or [linking].
+[Action] verbs can be transitive or intransitive.
+[Linking] verbs are always intransitive.
+
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       e53ad641-ea3e-466b-825a-5a53e9217e96
+   :END:
+Verbs can be in the [active] or [passive] voice.
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       c86aa1d8-2d47-4bca-9401-e0b47eb25c80
+   :END:
+When verbs are in the active voice, the [subject] does the action of the verb.
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       1ecc497d-55c9-49f1-a1d5-e70dae498592
+   :END:
+When verbs are in the [passive] voice, someone or something else does the action to the verb.
+
+** Verbs 3 							      :drill:
+   :PROPERTIES:
+   :ID:       ce3221b4-ae46-4094-b3ad-9babb84104c7
+   :END:
+Passive verbs always begin with a [be] verb and end with the past participle of the main verb (was seen, is seen, were seen).
+
+
