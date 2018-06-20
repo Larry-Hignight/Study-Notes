@@ -1,53 +1,61 @@
 _Language Arts Test Results_
 
 
-| Section                | Old Score | New Score |
-|------------------------+-----------+-----------|
-| The Writing Process    |       80% |           |
-| Parts of Speech        |       80% |           |
-| Nouns 1                |       70% |           |
-| Nouns 2                |       60% |           |
-| Verbs 1                |       80% |           |
-| Review Test 1          |           |           |
-| Verbs 2                |       60% |           |
-| Verbs 3                |       70% |           |
-| Verbs 4                |       70% |           |
-| Verbs 5                |       60% |           |
-| Pronouns 1             |       90% |           |
-| Review Test 2          |           |           |
-| Pronouns 2             |       70% |           |
-| Pronouns 3             |       60% |           |
-| Adjectives 1           |       70% |           |
-| Adjectives 2           |       80% |           |
-| Adverbs 1 1            |       00% |           |
-| Review Test 3          |           |           |
-| Adverbs 2              |       70% |           |
-| Prepositions           |       60% |           |
-| Conjunctions           |       70% |           |
-| Interjections 1        |       00% |           |
-| Sentences 1            |       60% |           |
-| Review Test 4          |           |           |
-| Sentences 2            |       70% |           |
-| Sentences 3            |       80% |           |
-| Sentences 4            |       50% |           |
-| Sentences 5            |       30% |           |
-| Noun Clauses           |       60% |           |
-| Review Test 5          |           |           |
-| Subject-Verb Agreement |           |           |
-| Verbals 1              |           |           |
-| Verbals 2              |           |           |
-| Verbals 3              |           |           |
-| Punctuation 1          |           |           |
-| Review Test 6          |           |           |
-| Punctuation 2          |           |           |
-| Punctuation 3          |           |           |
-| Punctuation 4          |           |           |
-| Punctuation 5          |           |           |
-| Punctuation 6          |           |           |
-| Review Test 7          |           |           |
-| Punctuation 7          |           |           |
-| Word Usage             |           |           |
-| Parallelism            |           |           |
-| Review Test 8          |           |           |
-| Final Exam             |           |           |
-		
+| Section                | Old Score | Flash Cards? | New Score |
+|------------------------+-----------+--------------+-----------|
+| The Writing Process    |       80% | In Progress  |           |
+| Parts of Speech        |       80% | In Progress  |           |
+| Nouns 1                |       70% | In Progress  |           |
+| Nouns 2                |       60% | In Progress  |           |
+| Verbs 1                |       80% | In Progress  |           |
+| Review Test 1          |           |              |           |
+|------------------------+-----------+--------------+-----------|
+| Verbs 2                |       60% | Ready        |           |
+| Verbs 3                |       70% | Ready        |           |
+| Verbs 4                |       70% | Ready        |           |
+| Verbs 5                |       60% | Ready        |           |
+| Pronouns 1             |       90% | Ready        |           |
+| Review Test 2          |           |              |           |
+|------------------------+-----------+--------------+-----------|
+| Pronouns 2             |       70% | Ready        |           |
+| Pronouns 3             |       60% | Ready        |           |
+| Adjectives 1           |       70% | Ready        |           |
+| Adjectives 2           |       80% | Ready        |           |
+| Adverbs 1              |       00% | Ready        |           |
+| Review Test 3          |           |              |           |
+|------------------------+-----------+--------------+-----------|
+| Adverbs 2              |       70% | Ready        |           |
+| Prepositions           |       60% | Ready        |           |
+| Conjunctions           |       70% | Ready        |           |
+| Interjections 1        |       00% | Ready        |           |
+| Sentences 1            |       60% | Scraped      |           |
+| Review Test 4          |           |              |           |
+|------------------------+-----------+--------------+-----------|
+| Sentences 2            |       70% | Scraped      |           |
+| Sentences 3            |       80% | Scraped      |           |
+| Sentences 4            |       50% | Scraped      |           |
+| Sentences 5            |       30% | Scraped      |           |
+| Noun Clauses           |       60% | Scraped      |           |
+| Review Test 5          |           |              |           |
+|------------------------+-----------+--------------+-----------|
+| Subject-Verb Agreement |           | Not Scraped  |           |
+| Verbals 1              |           | Not Scraped  |           |
+| Verbals 2              |           | Not Scraped  |           |
+| Verbals 3              |           | Not Scraped  |           |
+| Punctuation 1          |           | Not Scraped  |           |
+| Review Test 6          |           |              |           |
+|------------------------+-----------+--------------+-----------|
+| Punctuation 2          |           | Not Scraped  |           |
+| Punctuation 3          |           | Not Scraped  |           |
+| Punctuation 4          |           | Not Scraped  |           |
+| Punctuation 5          |           | Not Scraped  |           |
+| Punctuation 6          |           | Not Scraped  |           |
+| Review Test 7          |           |              |           |
+|------------------------+-----------+--------------+-----------|
+| Punctuation 7          |           | Not Scraped  |           |
+| Word Usage             |           | Not Scraped  |           |
+| Parallelism            |           | Not Scraped  |           |
+| Review Test 8          |           |              |           |
+|------------------------+-----------+--------------+-----------|
+| Final Exam             |           |              |           |
+|------------------------+-----------+--------------+-----------|
