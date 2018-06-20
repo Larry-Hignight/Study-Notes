@@ -1,0 +1,643 @@
+** Verbs 2 							      :drill:
+Every verb has four principal parts:
+[present]
+[present participle]
+[past]
+[past participle]
+
+** Verbs 2 							      :drill:
+[Regular] verbs only change endings to form different tenses. The base word stays the same.
+
+| Present | Present Participle | Past    | Past Participle |
+|---------+--------------------+---------+-----------------|
+| work    | working            | worked  | worked          |
+| carry   | carrying           | carried | carried         |
+| slip    | slipping           | slipped | slipped         |
+
+** Verbs 2 							      :drill:
+[Irregular] verbs change the spelling of the base word or do not change at all.
+
+| Present | Present Participle | Past | Past Participle |
+|---------+--------------------+------+-----------------|
+| fall    | falling            | fell | fallen          |
+| bid     | bidding            | bid  | bid             |
+| go      | going              | went | gone            |
+
+** Verbs 2 							      :drill:
+It is time for you to test yourself. 
+Name the four principal parts of these verbs; then tell if they are regular or irregular verbs.
+
+| Verb  | Principal Parts                  | Type        |
+|-------+----------------------------------+-------------|
+| write | write, writing, wrote, written   | [irregular] |
+| walk  | [walk, walking, walked, walked]  | regular     |
+| begin | [begin, beginning, began, begun] | [irregular] |
+| see   | [see, seeing, saw, seen]         | [irregular] |
+| open  | [open, opening, opened, opened]  | [regular]   |
+| know  | [know, knowing, knew, known]     | [irregular] |
+
+** Verbs 2 							      :drill:
+The four principal parts of verbs are used to form the tenses. _Tense means time_. 
+
+There are three basic (simple) tenses. (present, past, future)
+
+** Verbs 2 							      :drill:
+There are three basic (simple) tenses.
+
+| Tense           | Meaning                   | Example       |
+|-----------------+---------------------------+---------------|
+| [Present] tense | action now                | I [go].       |
+| Past tense      | action [already happened] | I went.       |
+| [Future] tense  | action [will happen]      | I [shall] go. |
+
+** Verbs 2 							      :drill:
+Learn the following formulas to help you form the simple tenses:
+
+The [present] tense = the present part.
+I know your name.
+
+The [past] tense = the past part.
+I knew your name.
+
+The future tense = [shall/will] + the present part.
+I shall know your name.
+
+** Verbs 2 							      :drill:
+Use [shall] with the first person (I, we) unless you are showing determination or making a promise; then use [will].
+
+I [shall] go to the movie tonight.
+I promise I [will] go to the movie tonight.
+
+Use [will] with the second and third person (you, he, she, it, they) unless you are showing determination or making a promise; then use [shall].
+
+He [will] go to the movie tonight.  
+He promises he [shall] go to the movie tonight.
+
+** Verbs 2 							      :drill:
+There are three perfect tenses: present perfect, past perfect, and future perfect.
+
+The present perfect tense has two main functions. It expresses an [action] that began in the past and continues to the [present].
+I have gone to school all my life.
+
+It also expresses an action that is now complete but without any mention of when it was completed.
+I have eaten dinner.
+
+** Verbs 2 							      :drill:
+The past perfect tense expresses an action that happened in the [past] before another past [action].
+I had gone to school before the bus arrived.
+
+The future perfect tense expresses an action that will be [finished] before a stated time in the [future].
+I shall have gone to school by the time my sister wakes.
+
+** Verbs 2 							      :drill:
+The present perfect tense = have/has + past participle.
+I have known.  
+He has known.
+
+The past perfect tense = had + past participle.
+I had known.
+
+The future perfect tense = shall/will + have/has + past participle.
+I shall have known.
+
+** Verbs 2 							      :drill:
+[Conjugation] is a big word that means to list all the verb forms of a verb according to tense.
+
+[Conjugation] of the verb: _See_
+
+| Present           | Past             | Present perfect       |
+|-------------------+------------------+-----------------------+
+| We see.           | I saw.           | I have seen.          |
+| You see.          | You saw.         | You have seen.        |
+| They see.         | He, she, it saw. | He, she, it has seen. |
+| I see.            | We saw.          | We have seen.         |
+| You see.          | You saw.         | You have seen.        |
+| He, she, it sees. | They saw.        | They have seen.       |
+
+** Verbs 2 							      :drill:
+Determine the tense of the following verbs in the sentences below.
+
+Scientists study living and nonliving matter. [study = present tense (present tense = present part)]
+
+They have learned that everything is made up of matter. [have learned = present perfect (present perfect tense = have/has + past participle)]
+
+They found that the basic building blocks of matter are atoms. [found = past tense (past tense = past part)]
+
+Further study has shown that the number of protons and electrons in an atom determines the element. [has shown = present perfect tense (present perfect tense = have/has + past participle)]
+
+** Verbs 2 							      :drill:
+Since tense shows [time], every verb in a sentence or paragraph should normally be in the [same] tense.
+
+Scientists know living things depend on the existence of oxygen. (Both verbs are in the present tense.)
+
+Some (but very few) shifts in tense are necessary.
+
+Scientists know that they will learn more about life in the future.
+
+Know is present tense; will learn is future tense. This is a necessary [shift in tense].
+
+** Verbs 2 							      :drill:
+Are the shifts in tense in these sentences necessary?
+
+Living things are able to grow and will respond to stimuli.  [No]
+
+All living things reproduce and had performed certain chemical activities.  [No]
+
+** Verbs 2 							      :drill:
+This sentence contains an (necessary, unnecessary) [unnecessary] shift in tense.
+
+All living things reproduce and had performed certain chemical activities.
+
+** Verbs 2 							      :drill:
+Does this sentence contain a shift in tense?
+
+All living things reproduce and perform certain chemical activities.  [No]
+
+
+** Verbs 3 							      :drill:
+The verb is the part of speech that expresses action or makes a statement about the condition of the subject.
+
+Most verbs [express action] and are called [action] verbs.
+
+** Verbs 3 							      :drill:
+Some verbs make a statement about the condition of the subject. These verbs are [linking] verbs.
+
+[Linking] verbs do not show action. Instead, they act like the [links] (individual circles) in a chain. 
+
+They connect the subject to something that comes after the verb. 
+
+Sara is a student.
+
+Sara and student are the same person. Is links them together. Is does not tell anything Sara does.
+
+** Verbs 3 							      :drill:
+Sara was lonely.
+
+In this sentence, lonely describes Sara. It is a special kind of adjective. 
+
+Was [links] the adjective (lonely) with the subject (Sara), but it does not tell anything that Sara did.
+
+** Verbs 3 							      :drill:
+Jeff is in his room.
+
+Linking verbs can also connect a [prepositional] phrase telling where to the subject. 
+
+The prepositional phrase (in his room) tells the location of the subject (Jeff).
+
+** Verbs 3 							      :drill:
+A [transitive] verb always has a [noun] that receives its action.
+
+Robert threw the ball.
+
+The ball is the noun, the thing that was thrown. Ball receives the action of threw. Therefore, threw is transitive.
+
+In this sentence, ball is called a direct object. A direct object comes after a transitive action verb and receives the action.
+
+A direct object cannot be used after a [linking] verb. Since direct objects receive the action, they can only be used after [action] verbs.
+
+** Verbs 3 							      :drill:
+Some action verbs do not have a direct object. They are called [intransitive] verbs.
+
+Jim sat down.
+
+The flower bloomed.
+
+In each of these sentences, the subject does an action, but the subject doesn't do the 
+action to something. These sentences do not have direct [objects], so the verbs are [intransitive].
+
+** Verbs 3 							      :drill:
+Which of these sentences has an intransitive verb?
+
+Jeremy ran all the way home.
+Jeremy plays the trombone.
+
+In the first sentence, [ran is intransitive. All the way home tells where or how much, but it doesn't tell what he ran.]
+
+In the second sentence, [plays is transitive because it has a direct object. Trombone tells what he plays. It receives the action of the verb.]
+
+** Verbs 3 							      :drill:
+Are the verbs transitive or intransitive in these sentences?
+
+I dropped my pencil. [(transitive: the direct object is pencil)]
+
+Jill and Helen sing. [(intransitive: no direct object)]
+
+Every day Mike goes to the store. [(intransitive: no direct object)]
+
+Hannah ate her lunch. [(transitive: the direct object is lunch)]
+
+** Verbs 3 							      :drill:
+Remember that a [transitive] verb has a direct [object], a word that the action of the verb is done to. 
+[Intransitive] verbs do not have an [object].
+
+Also remember that you cannot have a direct object after a linking verb because linking verbs do not show [action].
+
+Are linking verbs transitive or intransitive?  [intransitive]
+
+** Verbs 3 							      :drill:
+Linking verbs are [intransitive]. They do not show an action, so they cannot have direct objects.
+
+** Verbs 3 							      :drill:
+Let's review what you have learned so far about verbs:
+
+Verbs can be [action] or [linking].
+Linking verbs are always [intransitive].
+Action verbs may be [transitive] or [intransitive].
+[Transitive] verbs have a direct object.
+[Intransitive] verbs do not have a direct object.
+
+** Verbs 3 							      :drill:
+Now let's talk about another characteristic of verbs.
+
+Verbs can be used in the active voice or the [passive] voice.
+
+Tracy broke the dish.
+The dish was broken by Tracy.
+
+As you can see, these sentences mean the same thing, but they are written in different ways. 
+In the first sentence, the subject (Tracy) did the action of the verb (broke). 
+This is called active voice. 
+
+When the subject does the action of the verb, the verb is in [active voice].
+
+** Verbs 3 							      :drill:
+Tracy broke the dish.
+The dish was broken by Tracy.
+
+In the second sentence, the subject (dish) does not do the action. Instead, the action happens or is done to the [subject].
+
+This is called [passive voice]. Whenever someone or something besides the subject does the action of the verb, the verb is in passive voice.
+
+** Verbs 3 							      :drill:
+The dish was broken by Tracy.
+
+Notice that the passive verb began with was and ended with the past participle.
+
+Passive verbs must have a be verb (am, is, are, was, were, been) and end with the past participle form of the main verb. 
+
+** Verbs 3 							      :drill:
+The memo was typed by Ted.
+The phone was dialed by Sue.
+The students were seen by their teacher.
+Lunch was eaten at noon.
+The television was turned off.
+Jenny and Jill are driven to school.
+Rice is grown in Japan.
+
+The first three sentences tell [who] did the action. Sometimes sentences with passive voice verbs 
+tell who or what does the action of the verb. Usually this is in a [prepositional] phrase that begins with by.
+
+** Verbs 3 							      :drill:
+Remember:
+
+Verbs can be [action] or [linking].
+[Action] verbs can be transitive or intransitive.
+[Linking] verbs are always intransitive.
+
+** Verbs 3 							      :drill:
+Verbs can be in the [active] or [passive] voice.
+
+** Verbs 3 							      :drill:
+When verbs are in the active voice, the [subject] does the action of the verb.
+
+** Verbs 3 							      :drill:
+When verbs are in the [passive] voice, someone or something else does the action to the verb.
+
+** Verbs 3 							      :drill:
+Passive verbs always begin with a [be] verb and end with the past participle of the main verb (was seen, is seen, were seen).
+
+
+** Verbs 4 							      :drill:
+If someone is making progress, would you say that they are:
+
+going nowhere, going backward, or going ahead?  [going ahead]
+
+** Verbs 4 							      :drill:
+A writer needs tools that can show this progressive state to a reader.
+
+The tool that can indicate this is called a [progressive tense verb].
+
+** Verbs 4 							      :drill:
+Writers use [progressive] tense verbs to show that something is in the process of [happening] [now].
+
+** Verbs 4 							      :drill:
+Simply stated, progressive tense means continuing in [time].
+
+A progressive tense verb is formed by using a [be] verb and the present participle. 
+(The present participle is the [-ing] form of the verb.)
+
+** Verbs 4 							      :drill:
+Jill is walking home.
+
+Notice that the verb begins with a be verb, is, and ends with a [present] [participle], walking.
+
+** Verbs 4 							      :drill:
+Jill is walking home.
+
+The [progressive] verb is walking indicates that Jill is in the process of walking home now.
+
+** Verbs 4 							      :drill:
+I am working.
+
+He is leaving.
+
+We are walking.
+
+You are smiling.
+
+They are playing.
+Each of these sentences uses a verb in the [present] [progressive] tense.
+
+** Verbs 4 							      :drill:
+A verb plus -ing and a past tense form of to be puts a verb in the [past] [progressive] tense.
+
+I was searching for a door.
+
+We were using the computer.
+
+** Verbs 4 							      :drill:
+A [future] [progressive] tense verb is formed by using shall/will + be + the present participle.
+
+I shall be going to the park.
+
+Mary will be sending her gifts soon.
+
+** Verbs 4 							      :drill:
+Progressive verbs are almost always [action] verbs. Since they are action verbs, they can be used in the active or passive [voice].
+
+Here are some examples of active voice verbs in the present progressive tense:
+
+am working
+is playing
+are walking
+
+So, how would you write a passive [voice] verb in the progressive tense?
+
+am being taught
+is being eaten
+are being done
+
+** Verbs 4 							      :drill:
+These verbs are in the [passive] voice because the subject doesn't do the action of the [verb]. 
+Someone or something else does the action.
+
+** Verbs 4 							      :drill:
+I am being taught how to play tennis.
+(I don't teach; [someone teaches me].)
+
+The warm fresh bread is being eaten quickly.
+(Bread doesn't eat; [someone eats bread].)
+
+The chores are being done.
+(Chores don't do themselves; [people do chores].)
+
+
+** Verbs 5 							      :drill:
+You know that verbs can be either [action] or [linking] (state of being).
+
+** Verbs 5 							      :drill:
+Action verbs can be [transitive] (have a direct object) or [intransitive] (not have a direct object).
+
+** Verbs 5 							      :drill:
+Linking verbs are followed by a [noun], an [adjective], or a [prepositional] phrase that tells where.
+
+The direct [objects] (nouns or pronouns) that follow transitive verbs and the nouns or pronouns that follow linking verbs are called [complements].
+
+Complement comes from the word complete. These nouns and pronouns [complete] the verb because they are necessary.
+
+** Verbs 5 							      :drill:
+Direct objects are [nouns] or [pronouns] that answer who or what after the verb.
+
+Dr. James E. Lovelock developed the hypothesis that the earth is a living system.
+
+Dr. James E. Lovelock developed what? Hypothesis answers this question after the action verb developed. Hypothesis is the direct [object].
+
+** Verbs 5 							      :drill:
+Identify the action verb and direct objects in these sentences. _Ask whom or what after the verb_.
+
+As a living system, the earth provides the ingredients for survival.  [provides, ingredients]
+
+In turn, the living things create a stable environment.  [create, environment]
+
+This example contains an adjective [(stable)]. The adjective does not change the answer, because you are looking for a [noun]. 
+
+Objects are always [nouns] or [pronouns].
+
+** Verbs 5 							      :drill:
+Some sentences also have indirect objects. 
+
+_You will only find an indirect object in a sentence with a transitive verb_. 
+
+In other words, there must be a [direct] object in order for there to be an [indirect] object.
+
+Indirect objects come between the action (transitive) verb and the [direct] object. 
+
+Indirect objects answer to whom, to what, for whom, and for what. 
+
+** Verbs 5 							      :drill:
+Let's analyze a simple sentence.
+
+    Jason threw Richard the ball.
+
+First find the direct object (Answer: [ball]). 
+
+It is clear that Jason did not throw [Richard], so [Richard] is not the direct object.  
+
+Jason threw what? Jason threw the ball. Ball is the [direct object].
+
+** Verbs 5 							      :drill:
+Let's analyze a simple sentence.
+
+    Jason threw Richard the ball.
+
+Now you can look for the indirect object (Answer: [Richard]). 
+
+Jason threw the ball to whom? He threw the ball to [Richard]. Richard is the [indirect] object.
+
+Notice, too, that if you put one finger on the verb and one finger on the direct object, the indirect object is [between] them.
+
+** Verbs 5 							      :drill:
+Find the direct objects and indirect objects:
+
+Dr. Lovelock gave the scientists a new hypothesis to consider.
+Direct: [hypothesis]
+Indirect: [scientists]
+
+** Verbs 5 							      :drill:
+Find the direct objects and indirect objects:
+
+Dr. Lovelock also gave the world the electron capture detector.
+Direct: [detector]
+Indirect: [world]
+
+** Verbs 5 							      :drill:
+Find the direct objects and indirect objects:
+
+The device gives scientists information about the earth's atmosphere.
+Direct: [information]
+Indirect: [scientists]
+
+** Verbs 5 							      :drill:
+Predicate nominatives are nouns or pronouns that follow the linking verb and rename or 
+identify the subject of the sentence. They answer the questions who or what after the linking verb.
+
+Lovelock is a biologist.
+
+Lovelock is what? The noun biologist renames Lovelock and answers the question what after the linking verb is. 
+
+Biologist is the [predicate nominative].
+
+** Verbs 5 							      :drill:
+Find the predicate nominatives in these sentences.
+
+Lovelock is also an inventor.  [inventor]
+
+Data from the electron capture detector was the foundation for Rachel Carson's book Silent Spring.  [foundation]
+
+** Verbs 5 							      :drill:
+[Predicate] adjectives are adjectives that follow the linking verb and describe or modify the [subject] of the sentence.
+
+    Other scientists are unsure about Lovelock's hypothesis.
+
+Notice that [unsure] tells something about the scientists. It describes them. [Unsure] is a predicate adjective.
+
+** Verbs 5 							      :drill:
+Find the predicate adjectives in these sentences:
+
+Evolutionary biologists are particularly unhappy with Lovelock's hypothesis.  [unhappy]
+
+They remain certain that the hypothesis contradicts the laws of natural selection.  [certain]
+
+Note:
+You must be careful with the first sentence, because the word after the linking verb, particularly, does not describe [biologists]. 
+
+It is not a [predicate] [adjective].
+
+** Verbs 5 							      :drill:
+Finally, linking verbs can be completed by prepositional phrases telling where. What are those phrases in the following sentences?
+
+Dr. Lovelock was in the lecture hall.
+The biologists stayed in their laboratory.
+Mr. Williams is on the phone right now.
+
+Dr. Lovelock was in the lecture hall.
+The biologists stayed in their laboratory.
+Mr. Williams is on the phone right now.
+
+These prepositional phrases complete their linking verbs.
+
+** Verbs 5 							      :drill:
+Remember that linking verbs can be completed by 
+[predicate nominatives] (nouns or pronouns), [predicate adjectives], and [prepositional phrases] telling where.
+
+These are also called verb complements (where complements mean to [complete] the verb phrase).
+
+** Verbs 5 							      :drill:
+Let's review the rules for complements.
+
+Action verbs can have two kinds of complements or completers: [direct objects] and [indirect objects].
+
+A sentence cannot have an [indirect] object unless it has a [direct] object. 
+
+If there is an indirect object, it goes between the [verb] and the [direct] object.
+
+** Verbs 5 							      :drill:
+[Direct] objects are nouns or pronouns that answer whom or what after the [action] verb.
+
+** Verbs 5 							      :drill:
+[Indirect] objects are nouns or pronouns that come between the [action] verb and [direct object] and answer to whom, to what, for whom, or for what.
+
+
+** Pronouns 1 							      :drill:
+A [pronoun] is a word used in place of a noun. 
+
+** Pronouns 1 							      :drill:
+The [antecedent] of the pronoun is the noun that the pronoun stands for.
+
+Maria said she could help me.
+
+In this sentence, Maria is the [antecedent]. She is the pronoun that takes the place of Maria.
+
+** Pronouns 1 							      :drill:
+Maria said she could help me.
+
+Maria is called an antecedent. When you see ante (not anti-) at the beginning of a word, it means [before].
+
+Usually the antecedent comes [before] the noun. It is a lot like the word precede. The antecedent precedes the pronoun.
+
+** Pronouns 1 							      :drill:
+When a writer refers to himself or herself, he or she is writing or speaking in [first] [person].
+
+[First] [person] pronouns are:  I, me, mine, we, ours, us
+
+** Pronouns 1 							      :drill:
+When the writer's words speak to someone, the writing is in [second] [person].
+
+You and yours are the [second] [person] pronouns. You and yours are used for both the [singular] and the plural.
+
+You must eat the last carrot.
+
+You should move your cars to the parking lot.
+
+** Pronouns 1 							      :drill:
+You must eat the last carrot.
+
+You should move your cars to the parking lot.
+
+The first sentence is spoken to one person ([singular]).
+
+The second sentence is spoken to several people ([plural]).
+
+** Pronouns 1 							      :drill:
+
+These are [third] [person] pronouns: he, she, it, his, her, its, him, her, they, their, them, theirs
+
+These pronouns are used when the writer is speaking or writing about [someone].
+
+** Pronouns 1 							      :drill:
+Remember:
+
+First person refers to the [speaker].
+
+    I enjoy reading.
+
+Second person refers to the [person spoken to].
+
+    Do you like to read?
+
+Third person refers to the [person spoken about].
+
+    They like to read.
+
+** Pronouns 1 							      :drill:
+What are the antecedents to the pronouns in these sentences?
+
+My dog's name is Casady. She likes to run.  [Casady]
+
+Georgia has a new book. It makes her laugh out loud.  [Georgia]
+
+Some of the team lost their uniforms. They left them on the bus.  [team]
+
+Mikey ate his cereal. He likes it.  [Mikey]
+
+** Pronouns 1 							      :drill:
+The antecedent of a pronoun can appear anywhere in a [paragraph].
+
+However, until the antecedent is named, the reader can never be sure to which person or thing the pronoun refers.
+
+Try not to keep the reader in suspense. Place antecedents as [near] as possible to the pronoun.
+
+** Pronouns 1 							      :drill:
+In your writing, be sure to tell your readers whom or what you are talking about.
+
+    They were hungry and exhausted, but they knew that if their mission was to be a success, they must keep plodding on.
+
+This sentence never identifies _they_. The message of the sentence is unclear because no [antecedent] is named.
+
+** Pronouns 1 							      :drill:
+Find the antecedent below:
+
+They were hungry and exhausted explorers, but they knew that if their mission was to be a success, they must keep plodding on.
+
+Answer: [explorers]
+
