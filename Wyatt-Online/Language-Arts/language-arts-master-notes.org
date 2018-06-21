@@ -2211,7 +2211,7 @@ A [conjunction] is a part of speech that is used to join words or groups of word
 A conjunction can join [sentences], [clauses], [phrases], [nouns], or other [words].
 
 ** Conjunctions 						      :drill:
-Identify the type of conjunctions.
+Identify the conjunction and conjuntion type (noun, verb, adjectives, adverbs, clauses).
 
 Australia is a continent and a country. [nouns - continent, country]
 
@@ -2267,7 +2267,12 @@ Australia used to have laws forbidding Asians from living there, but those laws 
 ** Conjunctions 						      :drill:
 Correlative conjunctions are similar to coordinating conjunctions because they also join sentence parts of [equal] rank.
 
-Correlative conjunctions work in pairs. The pairs are both/and, either/or, neither/nor, not only/but also, and whether/or.
+Correlative conjunctions work in [pairs]. The pairs are both/and, either/or, neither/nor, not only/but also, and whether/or.
+
+** Conjunctions 						      :drill:
+[Correlative] conjunctions are similar to coordinating conjunctions because they also join sentence parts of equal rank.
+
+They work in pairs. The pairs are both/and, either/or, neither/nor, not only/but also, and whether/or.
 
 ** Conjunctions 						      :drill:
 Identify the correlative conjunctions below.
