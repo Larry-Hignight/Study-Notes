@@ -76,7 +76,7 @@ It is this process of evaluation and drawing conclusions that provides us with a
 ** Data Collection 						      :drill:
 Today's society uses [data] in a vast number of ways and in many professions.
 
-[Data] is another word for [information].
+Data is another word for [information].
 
 People interested in selling products collect [data] about what people buy.
 
@@ -92,7 +92,7 @@ These are only a few examples of the types of measurements scientists might make
 
 Most measurements made by scientists to gather data are expressed as [numbers] or other mathematical [figures].
 
-Here is an example of how the process of [collecting], [presenting], [calculating], [organizing], and [evaluating] data might work.
+Here is an example of how the process of [collecting], presenting, calculating, organizing, and [evaluating] data might work.
 
 Most people like to know what the weather is going to be the next day or even the next week.
 
@@ -355,7 +355,7 @@ There are three types of variables.
 
 1) [Manipulated] variable - what is purposely changed in an investigation
 2) [Responding] variable - what changes by itself because you changed something in the investigation
-3) [Variables] held constant - everything else in your investigation must be held constant, or kept the same
+3) Variables held constant - everything else in your investigation must be held constant, or kept the same
 
 ** Science Fair Project 					      :drill:
 Your step-by-step directions are like a recipe.  Anyone who reads them will be able to [duplicate] your investigation and get the same [results].
@@ -408,32 +408,43 @@ Ask yourself these questions:
 
 
 ** The Process of Science 					      :drill:
-How is scientific research done? Do new ideas replace old ones? Do scientists always agree? Does someone need to give his or her consent to be used as a research subject?
+How is scientific research done? Do new ideas replace old ones? Do scientists always agree? 
+
+Does someone need to give his or her consent to be used as a research subject?
 
 All of these questions and more will be answered in this lesson.
 
 ** The Process of Science 					      :drill:
+A scientist is a person who studies and explores one or more of the [branches] of science.
 
-** The Process of Science 					      :drill:
-A scientist is a person who studies and explores one or more of the branches of science.
 In this lesson, you will learn about some of the things scientists do during their research.
 
-Scientists usually follow the steps of the scientific method when they do research.
-This involves identifying a problem, making observations, forming and testing a hypothesis, coming to a conclusion, and reporting the findings.
-This is a long process that can sometimes take years to complete.
-Scientific knowledge is based on evidence; however, as new knowledge is gained, old ideas may change.
-Sometimes this is difficult for scientists because they do not always agree or interpret data the same way.
-Scientists use critical evaluation when looking at new ideas because it is a basic part of science.
+** The Process of Science 					      :drill:
+Scientists usually follow the steps of the [scientific] [method] when they do research.
 
-Science is the state of knowing facts about the world and testing information through the scientific method.
+This involves identifying a problem, making observations, forming and testing a hypothesis, coming to a conclusion, and reporting the findings.
+
+This is a long process that can sometimes take years to complete.
 
 ** The Process of Science 					      :drill:
-Scientific knowledge is always based on evidence.
-Evidence is something that shows proof.
-In science, every accepted idea must have evidence and be able to be proven.
-If other scientists are not able to duplicate a method and prove it, they will not know if it is valid or not.
+Scientific knowledge is based on evidence; however, as new knowledge is gained, old ideas may change.
 
-Experimental proof and evidence are what make scientific observations valid.
+Sometimes this is difficult for scientists because they do not always agree or interpret data the same way.
+
+Scientists use critical [evaluation] when looking at new ideas because it is a basic part of science.
+
+[Science] is the state of knowing facts about the world and testing information through the scientific method.
+
+** The Process of Science 					      :drill:
+Scientific knowledge is always based on [evidence]: It shows [proof].
+
+** The Process of Science 					      :drill:
+In science, every accepted idea must have evidence and be able to be proven.
+
+If other scientists are not able to [duplicate] a method and prove it, they will not know if it is valid or not.
+
+Experimental proof and evidence are what make scientific observations [valid].
+
 If there is a lack of evidence, scientists cannot find out if the theory is correct or not.
 
 ** The Process of Science 					      :drill:
@@ -441,95 +452,127 @@ Change in knowledge is going to happen.
 New ideas are going to be formed, and new observations are going to challenge popular theories.
 As new knowledge is gained, ideas about the natural world may change.
 
-Regardless of how well a theory explains a set of observations, it is possible that another theory will be created to better explain it.
+Regardless of how well a theory explains a set of observations, it is possible that another theory will be created to better [explain] it.
+
 Making improvements to ideas, and sometimes completely changing them, happens often in science.
 
 ** The Process of Science 					      :drill:
 Sometimes it is hard for scientists to accept a new theory regardless of how much evidence there is to support it.
+
 However, theories are judged by their results.
+
 If a new idea answers more questions and produces more results, it eventually takes the place of the old one.
 
-When new ideas are developed and tested, they go through critical evaluation by other scientists before they are accepted.
+When new ideas are developed and tested, they go through critical [evaluation] by other scientists before they are [accepted].
+
 The researching scientist must provide accurate reports and steps for others to read and follow.
 
 ** The Process of Science 					      :drill:
 Scientists carefully test, study, and evaluate the theory.
+
 Observations and experiments are repeated so the results can be evaluated.
 
-The scientific community will only accept an idea after it has been evaluated and tested many times by other scientists.
+The scientific community will only accept an idea after it has been [evaluated] and [tested] many times by other scientists.
+
 The more a hypothesis is tested and proven, the more confidence scientists have in it.
-Repeating a process many times and getting the same results validates the conclusion.
+
+Repeating a process many times and getting the same results [validates] the conclusion.
+
+** The Process of Science 					      :drill:
 When a hypothesis fails, the scientific community loses confidence in it.
 
 Sometimes scientists evaluate an idea or a procedure and disagree with it.
+
 Rather than rejecting it, they try to find ways to change it to try to make the idea better.
-Scientists gain knowledge and understanding from mistakes.
+
+Scientists gain knowledge and understanding from [mistakes].
 
 ** The Process of Science 					      :drill:
 The process of science depends on observations and theories.
-When scientists evaluate new ideas, they make new observations.
-Making new observations helps them learn and gain knowledge.
 
-As new theories and ideas develop, scientists acquire new information.
-As they evaluate and test this new information, they come to new understandings about the world.
+When scientists evaluate new ideas, they make new [observations] that helps them learn and gain knowledge.
+
+As new theories and ideas develop, scientists acquire new [information].
+
+As they evaluate and test this new [information], they come to new understandings about the world.
 
 ** The Process of Science 					      :drill:
-Sometimes scientists do not interpret data the same way.
+Sometimes scientists do not [interpret] data the same way.
+
 This can cause disagreements among the scientific community.
+
 Scientists work with each other to resolve their issues.
+
 They do this by collecting additional evidence to support or dispute the idea in question.
 
+** The Process of Science 					      :drill:
 Scientists sometimes disagree about the value of certain types of evidence.
+
 They may not believe it is relevant to the theory or important enough to base a decision on.
-Other times, scientists make assumptions in their testing.
-An assumption is what someone thinks, and it usually cannot be proven.
-Therefore, it cannot be backed up with evidence.
-However, if there is evidence that supports an assumption, scientists may accept it.
+
+Other times, scientists make [assumptions] in their testing.  An [assumption] is what someone thinks, and it usually cannot be proven.
+
+Therefore, it cannot be backed up with evidence.  However, if there is evidence that supports an [assumption], scientists may accept it.
 
 ** The Process of Science 					      :drill:
-Sometimes scientists disagree with evidence or data that is biased.
-Bias is a prejudiced outlook.
-Scientific data can be biased in how it is collected, interpreted, or reported.
+Sometimes scientists disagree with evidence or data that is [biased].
 
+[Bias] is a prejudiced outlook.
+
+Scientific data can be [biased] in how it is collected, interpreted, or reported.
+
+** The Process of Science 					      :drill:
 A scientist's race, gender, religion, or political opinions can affect his or her perception, and therefore affect what data is believed to be important.
+
 Scientists are expected to be aware of possible biases in their own work, as well as in the work of others.
+
 That is one reason scientists evaluate each other's work.
-If they detect biased data, they will question its validity.
+
+If they detect [biased] data, they will question its [validity].
 
 Different explanations can sometimes be given for the same data or evidence.
+
 It is not always possible to know which explanation is right.
 
 ** The Process of Science 					      :drill:
 Scientists do many different types of scientific research.
+
 Science that affects the well-being of humans must eventually be tested on human subjects.
-Scientists must follow ethical guidelines in testing.
-One of the most important rules is ensuring that proper consent is given.
+
+Scientists must follow [ethical] guidelines in testing.
+
+One of the most important rules is ensuring that proper [consent] is given.
 
 Each subject should be respected as a person who can make his or her own decisions.
+
 He or she must be fully informed of the purpose of the research.
 
 ** The Process of Science 					      :drill:
 Subjects should know with whom the researcher is affiliated, and who is funding the research project.
-This is necessary so the participants can be aware of any conflicts of interest they may have.
 
-Subjects should also be made aware of any procedures or methods they will be a part of.
-They must be told of all the potential risks and the expected benefits involved in the experiment.
+Subjects should be made aware of any procedures or methods they will be a part of.
+
+They must be told of all the potential [risks] and the expected [benefits] involved in the experiment.
+
 They should also be made aware of any stress or discomfort that may be experienced.
-Subjects should be allowed to ask questions and get clear answers from the scientists involved in the research.
-They should be told of any alternatives to their participation and know that it is their right to refuse to be a part of the research project.
 
-Subjects must also give their consent in writing.
-Sometimes oral consent is acceptable as long as there is a witness, but written consent is preferred.
+Subjects should be allowed to ask questions and get clear answers from the scientists involved in the research.
 
 ** The Process of Science 					      :drill:
-Special care must be given to human subjects who are not capable of making informed decisions on their own.
+Special care must be given to human subjects who are not capable of making [informed] decisions on their own.
 
-Children, people who are legally incompetent, and those who are physically or mentally incapable of giving consent can participate in a study as long as someone who is legally authorized gives consent in their behalf.
+Children, people who are legally incompetent, and those who are physically or mentally incapable of giving 
+consent can participate in a study as long as someone who is legally authorized gives consent in their behalf.
+
 However, these groups should never be used unless there is no alternative.
-Although it is necessary to use human subjects in order for science to progress, research involving humans has important ethical implications.
+
+Although it is necessary to use human subjects in order for science to progress, research involving 
+humans has important [ethical] implications.
+
 This is why having guidelines that protect human rights and health is so important.
 
 Scientific research is part of our daily world, and it will continue to be.
+
 It is important to understand the process researchers take to make scientific advancements.
 
 
@@ -2555,21 +2598,19 @@ In this lesson, you will learn about the differences between these simple organi
 You will also learn how viruses are different from living cells.
 
 ** Simple Forms of Life 					      :drill:
-
-** Simple Forms of Life 					      :drill:
-Viruses are microscopic organisms that are parasitic within living things and cause diseases in humans.
+Viruses are microscopic [organisms] that are [parasitic] within living things and cause [diseases] in humans.
 Viruses are different from other living things.
 
-Viruses can reproduce only within a living cell.
-A virus invades a living cell before it can continue to live.
-The invaded organism is called a host.
+Viruses can reproduce only within a living [cell].
+A virus invades a living [cell] before it can continue to live.
+The invaded organism is called a [host].
 
-Once a virus enters a host, it changes the instructions in the cell's nucleus so new viruses are produced.
+Once a virus enters a [host], it changes the instructions in the cell's [nucleus] so new viruses are produced.
 Eventually, the host cell bursts and releases the viruses which then invade other cells.
 
 ** Simple Forms of Life 					      :drill:
-A virus cannot grow or respond to outside stimuli.
-Viruses have no control over their movement outside a living cell.
+A virus cannot grow or respond to outside [stimuli].
+Viruses have [no] [control] over their movement outside a living cell.
 They can spread in the wind and travel in a sneeze, water, food, blood, or other bodily fluids.
 Viruses are everywhere.
 
@@ -2577,40 +2618,53 @@ There are many different types of viruses.
 Viruses can cause diseases such as polio, warts, herpes, shingles, respiratory infections, flu, fever blisters, and common colds.
 
 ** Simple Forms of Life 					      :drill:
-Bacteria are the most common types of living things.
-Bacteria are examples of monerans, which are members of the Kingdom Monera.
+[Bacteria] are the most common types of living things.
+[Bacteria] are examples of monerans, which are members of the Kingdom Monera.
 
-Bacteria are single-celled organisms that have a cell wall, but not a nucleus.
+** Simple Forms of Life 					      :drill:
+Bacteria are [single]-[celled] [organisms] that have a cell wall, but not a nucleus.
 They reproduce very quickly by splitting into two cells.
 
 ** Simple Forms of Life 					      :drill:
-Some bacteria are helpful to living organisms, while others are harmful.
- Bacteria in your stomach help you digest food.
-Bacteria are also used to decompose, or break down, garbage and waste products.
-
-Bacteria can cause many different types of diseases such as syphilis, tetanus, tuberculosis, whooping cough, and salmonella.
-A chemical substance called an antibiotic is often used as medication to kill bacteria that is causing an illness.
+Bacteria are single-celled organisms that have a cell wall, but not a nucleus.
+They reproduce very quickly by [splitting] into [two] cells.
 
 ** Simple Forms of Life 					      :drill:
-One kind of bacteria is called cyanobacteria, or blue-green bacteria.
- This type of bacteria is what you see as scum on the surface of ponds or other standing water.
-This scum is really a large mass of bacteria which is colored blue-green.
+Some bacteria are [helpful] to living organisms, while others are [harmful].
 
+** Simple Forms of Life 					      :drill:
+[Bacteria] in your stomach help you digest food.
+[Bacteria] are also used to decompose, or break down, garbage and waste products.
+
+** Simple Forms of Life 					      :drill:
+Bacteria can cause many different types of diseases such as syphilis, tetanus, tuberculosis, whooping cough, and salmonella.
+A chemical substance called an [antibiotic] is often used as medication to kill bacteria that is causing an illness.
+
+** Simple Forms of Life 					      :drill:
+One kind of bacteria is called cyanobacteria, or [blue]-[green] bacteria.
+This type of bacteria is what you see as scum on the surface of ponds or other standing water.
+This scum is really a large mass of bacteria which is colored [blue]-[green].
+
+** Simple Forms of Life 					      :drill:
 There are several different types of blue-green bacteria.
 In spite of the name, some blue-green bacteria come in different colors such as red, violet, or yellow.
-The matter in cells and tissues that gives color to bacteria is called pigment.
+The matter in cells and tissues that gives color to bacteria is called [pigment].
+
+** Simple Forms of Life 					      :drill:
+[Protozoans] are members of the Kingdom Protista.
+They are single-celled organisms that do not have cell walls.
 
 ** Simple Forms of Life 					      :drill:
 Protozoans are members of the Kingdom Protista.
-They are single-celled organisms that do not have cell walls.
+They are [single]-[celled] organisms that do not have cell walls.
 
-Protozoans are usually found in untreated water where they get food and oxygen.
+Protozoans are usually found in [untreated] [water] where they get food and oxygen.
 
 Most protozoans can move on their own toward food or better environmental conditions.
 They are like animals in this way.
 
 ** Simple Forms of Life 					      :drill:
-Protozoans are grouped by their methods of movement and the process by which they acquire food.
+Protozoans are grouped by their methods of [movement] and the process by which they acquire [food].
 Each group of protozoa is equipped with special structures for these purposes.
 
 The four phylum groups of protozoans are:
@@ -2621,112 +2675,172 @@ The four phylum groups of protozoans are:
 • sporozoans
 
 ** Simple Forms of Life 					      :drill:
-The amoeba is a common sarcodine.
+The [amoeba] is a common sarcodine.
 It has no specific shape because it is a small mass of cytoplasm surrounded by a membrane.
 It moves by using pseudopods (also known as pseudopodia), or false feet.
 
-Pseudopods move to surround food, trapping it and bringing it inside the amoeba.
+Pseudopods move to surround food, trapping it and bringing it inside the [amoeba].
 This forms a food vacuole to digest the food.
-Most amoebas are harmless to humans.
-However, amoebic dysentery is a severe diarrhea caused by an amoeba.
+
+** Simple Forms of Life 					      :drill:
+The amoeba is a common sarcodine.
+It has no specific [shape] because it is a small mass of [cytoplasm] surrounded by a membrane.
+
+However, amoebic [dysentery] is a severe diarrhea caused by an amoeba.
 This illness can be found where there are poor sanitation facilities.
 
 ** Simple Forms of Life 					      :drill:
 The ciliates phylum is more complex.
-Their entire cell is covered with hundreds of short, hair-like structures called cilia.
-The ciliate moves through the water by means of the cilia, using them like tiny oars.
+Their entire cell is covered with hundreds of short, [hair]-like structures called cilia.
+The ciliate moves through the water by means of the cilia, using them like tiny [oars].
 
-A paramecium is a common ciliate found in most ponds.
+** Simple Forms of Life 					      :drill:
+The [ciliates] phylum is more complex.
+Their entire cell is covered with hundreds of short, hair-like structures called cilia.
+The [ciliate] moves through the water by means of the cilia, using them like tiny oars.
+
+A paramecium is a common [ciliate] found in most ponds.
 These organisms feed on small protozoans and dead plants.
 
 ** Simple Forms of Life 					      :drill:
-Flagellates move by a long whip-like structure called flagella.
-Flagellates can live in water, in soil, and in some animals.
-Some flagellates are parasites.
+[Flagellates] move by a long whip-like structure called flagella.
+[Flagellates] can live in water, in soil, and in some animals.
+Some [flagellates] are parasites.
 A parasite is an organism living in or on another organism for the purpose of obtaining food.
+
+** Simple Forms of Life 					      :drill:
+Flagellates move by a long [whip]-[like] structure called [flagella].
+Flagellates can live in water, in soil, and in some animals.
+Some flagellates are [parasites].
+A [parasite] is an organism living in or on another organism for the purpose of obtaining food.
 
 One kind of flagellate lives in termites.
 Termites eat wood, and the flagellate digests the wood.
 The flagellate and the termite could not live without each other.
 
 ** Simple Forms of Life 					      :drill:
-The fourth phylum is sporozoa.
-All sporozoans are parasites that live in the blood or in the organs of animals.
+The fourth phylum is [sporozoa].
+All [sporozoans] are parasites that live in the blood or in the organs of animals.
 
-Malaria is a disease caused by a sporozoan.
+Malaria is a disease caused by a [sporozoan].
 It is carried from an infected person to a new host by a mosquito.
 
 ** Simple Forms of Life 					      :drill:
-The name algae is often used to refer to plant-like protists that have cell walls, contain chlorophyll, and make their own food; but they do not qualify as members of the plant kingdom.
+The name [algae] is often used to refer to plant-like protists that have cell walls, contain 
+chlorophyll, and make their own food; but they do not qualify as members of the plant kingdom.
 
 Protists are one-celled organisms, but some may form many-celled colonies.
-These algae are classified in the Kingdom Protista.
-The different types of algae are distinguished by color, method of food storage, and composition of cell walls.
+These [algae] are classified in the Kingdom Protista.
+The different types of [algae] are distinguished by color, method of food storage, and composition of cell walls.
 
 ** Simple Forms of Life 					      :drill:
+The name algae is often used to refer to plant-like protists that have cell walls, contain 
+[chlorophyll], and make their own [food]; but they do not qualify as members of the [plant] [kingdom].
+
+Protists are one-celled organisms, but some may form many-celled colonies.
+These algae are classified in the Kingdom [Protista].
+The different types of algae are distinguished by color, method of food storage, and composition of cell walls.
+
 Thousands of species of each type of algae exist.
 They are found in oceans, soils, freshwater, ponds, and streams.
 
-Plankton are found in both fresh and saltwater.
+[Plankton] are found in both fresh and saltwater.
 They float near the surface of the water and are made up of microscopic, plant-like and animal-like protists.
 Plankton provide oxygen and food to other organisms living in the water.
 
 ** Simple Forms of Life 					      :drill:
-One of the most common species of algae found in freshwater is the euglena.The euglena is pushed by a long flagellum.
-It has a red-orange eyespot used as a light detector to guide the euglena toward brightly-lit places.
+One of the most common species of [algae] found in freshwater is the euglena.The euglena is pushed by a long [flagellum].
+It has a red-orange eyespot used as a light [detector] to guide the euglena toward brightly-lit places.
 
-Euglena are plant-like because they have chloroplasts and can make their own food.
-They are animal-like because they can move from place to place on their own.
+Euglena are [plant]-[like] because they have chloroplasts and can make their own food.  (plant-like, animal-like)
+They are [animal]-[like] because they can move from place to place on their own.  (plant-like, animal-like)
 
 ** Simple Forms of Life 					      :drill:
-There are about 1,100 different species of red algae found in the oceans.
-When red algae reproduce very rapidly, they produce a red tide of toxic wastes that kills fish.
+There are about 1,100 different species of [red] [algae] found in the oceans.
+When [red] [algae] reproduce very rapidly, they produce a red tide of toxic wastes that kills fish.
 Animals can become ill if they eat shellfish that have absorbed these toxins.
 
-Diatoms are golden brown algae and one of the most common of all the unicellular organisms in the ocean.
+[Diatoms are golden brown algae and one of the most common of all the unicellular organisms in the ocean.
 Like plankton, they are one of the most important food sources for ocean animals.
 
 ** Simple Forms of Life 					      :drill:
-Slime molds can move like amoeba, and they can reproduce like fungi.
+[Slime] [molds] can move like amoeba, and they can reproduce like fungi.
 They live in damp soil or on rotting logs or leaves.
 
-Slime molds are usually brightly colored.
-Slime molds creep along the ground and engulf food particles.
+[Slime] [molds] are usually brightly colored.
+[Slime] [molds] creep along the ground and engulf food particles.
 When food is scarce, they become spore-forming bodies.
 These spores grow into new amoeba-like organisms.
 
 ** Simple Forms of Life 					      :drill:
-Fungi are members of the Fungi Kingdom and live as decomposers.
+[Fungi] are members of the [Fungi] Kingdom and live as decomposers.
 A decomposer is an organism that helps break down decaying plants and animals that have died.
-Mold, yeast, mildew, plant rust, smut, and mushrooms are all fungi.
+Mold, yeast, mildew, plant rust, smut, and mushrooms are all [fungi].
 
-Fungi cannot produce their own food.
+[Fungi] cannot produce their own food.
 They must absorb food through their cell walls.
-Some fungi acquire food from other living organisms, some live on dead matter, and others capture prey for food.
-Fungi reproduce by forming spores that can be blown over a wide area.
+Some [fungi] acquire food from other living organisms, some live on dead matter, and others capture prey for food.
+[Fungi] reproduce by forming spores that can be blown over a wide area.
 Each spore can grow into a new organism.
 
 ** Simple Forms of Life 					      :drill:
+Fungi are members of the [Fungi] Kingdom and live as decomposers.
+A decomposer is an organism that helps break down decaying [plants] and [animals] that have died.
+Mold, yeast, mildew, plant rust, smut, and mushrooms are all fungi.
+
+Fungi cannot produce their own food.  They must [absorb] food through their cell [walls].
+
+** Simple Forms of Life 					      :drill:
+Any fungus with a thread-like fuzzy appearance is called a [mold].
+[Molds] grow in warm, moist, dark places.
+They can also grow in cold temperatures.
+
+[Mold] is sometimes seen growing on old bread or on spoiled food in the refrigerator.
+
+** Simple Forms of Life 					      :drill:
 Any fungus with a thread-like fuzzy appearance is called a mold.
-Molds grow in warm, moist, dark places.
+Molds grow in [warm], [moist], [dark] places.
 They can also grow in cold temperatures.
 
 Mold is sometimes seen growing on old bread or on spoiled food in the refrigerator.
 
 ** Simple Forms of Life 					      :drill:
 Rusts and smuts are other types of fungi.
-They destroy grains meant to be sold to people for food.
+They destroy [grains] meant to be sold to people for food.
 This costs farmers thousands of dollars each year.
 
-Yeasts are single-celled sac fungi sometimes used to break down carbohydrates.
-This feature makes yeast important to the food industry.
-Yeasts are also used to make bread rise.
+[Yeasts] are single-celled sac fungi sometimes used to break down carbohydrates.
+This feature makes [yeast] important to the food industry.
+[Yeasts] are also used to make bread rise.
 
-Morels, truffles, and mushrooms are edible fungi.
+Morels, truffles, and [mushrooms] are edible fungi.
 Other fungi, such as ringworm and athlete's food, cause diseases in humans.
 
 ** Simple Forms of Life 					      :drill:
 As you have learned, there are many different types of simple life forms.
 
-These living things may be microscopic; however, they are very complex organisms.
+These living things may be [microscopic] (hint: very small); however, they are very complex organisms.
 They live in a variety of environments, move in many different ways, and serve different purposes.
+
+
+** Simple Forms of Life
+
+| Species / Common Name                       | Kingdom  | Phylum                                        | Single-Celled? | Cell Wall? | Nucleus? | Parasitic? | Reproduction                      | Movement                     | Note                                                                       |
+|---------------------------------------------+----------+-----------------------------------------------+----------------+------------+----------+------------+-----------------------------------+------------------------------+----------------------------------------------------------------------------|
+| Virus                                       |          |                                               |                |            |          | True       |                                   |                              |                                                                            |
+| Bacteria                                    | Monera   |                                               | True           |            |          |            | By splitting                      |                              | cyanobacteria, or [blue]-[green] bacteria (on ponds)                       |
+| Protozons (group - common protista)         | Protista | Sarcodines, Ciliates, Flagellates, Sporozoans | True           | False      |          |            |                                   | Yes                          | found in untreated water                                                   |
+| Amoeba                                      | Protista | Sarcodines                                    |                |            |          |            |                                   | pseudopods, false feet       | small mass of cytoplasm                                                    |
+| Paramecium (a common Ciliate)               | Protista | Ciliates                                      | True           |            |          |            |                                   | cilia (hair-like, tiny oars) | feeds on small protozoans and dead plants                                  |
+|                                             | Protista | Flagellates                                   |                |            |          | True       |                                   | flagella                     |                                                                            |
+| Sporozoa (common name)                      | Protista | Sporozoans                                    |                |            |          | True       |                                   |                              | causes malaria                                                             |
+| algae (plant-like protists)                 | Protista |                                               | True           | True       |          |            |                                   |                              | contains chlorophyll;  makes own food;  not a plant;  plankton             |
+| euglena (common species of algae)           |          |                                               |                |            |          |            |                                   | flagellum                    | red-orange light detector;  makes own food (chloroplasts)                  |
+| red algae                                   |          |                                               |                |            |          |            |                                   |                              |                                                                            |
+| diatoms (golden brown algae)                |          |                                               | True           |            |          |            |                                   |                              |                                                                            |
+| plankton (made of protists)                 |          |                                               |                |            |          |            |                                   |                              |                                                                            |
+| slime molds                                 |          |                                               |                |            |          |            | like fungi                        | like amoeba                  |                                                                            |
+| Fungi                                       | Fungi    |                                               |                |            |          |            | form spores that are blown around |                              | cannot produce it's own food;  decomposer, absorbs food through cell walls |
+| Mold (fungus w/ thread-like appearance)     |          |                                               |                |            |          |            |                                   |                              |                                                                            |
+| rusts, smuts, yeast, mushrooms (also fungi) |          |                                               |                |            |          |            |                                   |                              |                                                                            |
+
