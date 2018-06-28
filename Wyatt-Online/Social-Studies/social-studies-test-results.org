@@ -1,56 +1,59 @@
-_Social Studies Test Results_
+_Social Studies Test Results_  Last Updated:  6/28/2018
 
-| Section                                   | Old Score | New Score |
-|-------------------------------------------+-----------+-----------|
-| Introduction to U.S. History              |           |           |
-| European Exploration                      |           |           |
-| English Colonies                          |           |           |
-| Revolution in the Colonies                |           |           |
-| Foundation of Government                  |           |           |
-| American Portraits 1789 to 1825           |           |           |
-| A Nation Emerges                          |           |           |
-| American Portraits 1825 to 1849           |           |           |
-| Sectionalism and Slavery                  |           |           |
-| Social Reform in America                  |           |           |
-| American Portraits 1849 to 1877           |           |           |
-| America Moves Toward Civil War            |           |           |
-| Secession and Civil War                   |           |           |
-| Civil War 1861 to 1862                    |           |           |
-| Civil War 1863 to 1865                    |           |           |
-| American Portraits 1877 to 1889           |           |           |
-| Reconstruction                            |           |           |
-| Introduction to U.S. History              |           |           |
-| European Exploration                      |           |           |
-| English Colonies                          |           |           |
-| Revolution in the Colonies                |           |           |
-| Foundation of Government                  |           |           |
-| American Portraits 1789 to 1825           |           |           |
-| A Nation Emerges                          |           |           |
-| American Portraits 1825 to 1849           |           |           |
-| Sectionalism and Slavery                  |           |           |
-| Social Reform in America                  |           |           |
-| American Portraits 1849 to 1877           |           |           |
-| America Moves Toward Civil War            |           |           |
-| Secession and Civil War                   |           |           |
-| Civil War 1861 to 1862                    |           |           |
-| Civil War 1863 to 1865                    |           |           |
-| American Portraits 1877 to 1889           |           |           |
-| Reconstruction                            |           |           |
-| Native Americans                          |           |           |
-| The Frontier is Settled                   |           |           |
-| American Literature                       |           |           |
-| Politics and Economics in the Gilded Age  |           |           |
-| Industrial Growth                         |           |           |
-| Science and Technology                    |           |           |
-| Immigration and Labor Unions              |           |           |
-| American Portraits 1889 to 1909           |           |           |
-| Foreign Diplomacy 1844 to 1898            |           |           |
-| Populist Movement and Social Reform       |           |           |
-| Progressive Movement                      |           |           |
-| American Portraits 1909 to 1929           |           |           |
-| Foreign Diplomacy 1898 to 1914            |           |           |
-| Politics in the Progressive Era           |           |           |
-| Neutrality and a World War                |           |           |
-| The Roaring Twenties                      |           |           |
-| Politics and Economics in Postwar America |           |           |
-		
+
+|-------------------------------------------+-----------+--------+--------------+-----------+--------|
+| Section                                   | Old Score | Date-1 | Flash Cards? | New Score | Date-2 |
+|-------------------------------------------+-----------+--------+--------------+-----------+--------|
+| Introduction to U.S. History              |           |        | Scraped      |           |        |
+| European Exploration                      |           |        | Scraped      |           |        |
+| English Colonies                          |           |        | Scraped      |           |        |
+| Revolution in the Colonies                |           |        | Scraped      |           |        |
+| Foundation of Government                  |           |        | Scraped      |           |        |
+| American Portraits 1789 to 1825           |           |        | Scraped      |           |        |
+| A Nation Emerges                          |           |        | Scraped      |           |        |
+| American Portraits 1825 to 1849           |           |        | Scraped      |           |        |
+| Sectionalism and Slavery                  |           |        | Scraped      |           |        |
+| Social Reform in America                  |           |        | Scraped      |           |        |
+| American Portraits 1849 to 1877           |           |        | Scraped      |           |        |
+| America Moves Toward Civil War            |           |        | Scraped      |           |        |
+| Secession and Civil War                   |           |        | Scraped      |           |        |
+| Civil War 1861 to 1862                    |           |        | Scraped      |           |        |
+| Civil War 1863 to 1865                    |           |        | Scraped      |           |        |
+| American Portraits 1877 to 1889           |           |        | Scraped      |           |        |
+| Reconstruction                            |           |        | Scraped      |           |        |
+| Introduction to U.S. History              |           |        | Scraped      |           |        |
+| European Exploration                      |           |        | Scraped      |           |        |
+| English Colonies                          |           |        | Scraped      |           |        |
+| Revolution in the Colonies                |           |        | Scraped      |           |        |
+| Foundation of Government                  |           |        | Scraped      |           |        |
+| American Portraits 1789 to 1825           |           |        | Scraped      |           |        |
+| A Nation Emerges                          |           |        | Scraped      |           |        |
+| American Portraits 1825 to 1849           |           |        | Scraped      |           |        |
+| Sectionalism and Slavery                  |           |        | Scraped      |           |        |
+| Social Reform in America                  |           |        |              |           |        |
+| American Portraits 1849 to 1877           |           |        |              |           |        |
+| America Moves Toward Civil War            |           |        |              |           |        |
+| Secession and Civil War                   |           |        |              |           |        |
+| Civil War 1861 to 1862                    |           |        |              |           |        |
+| Civil War 1863 to 1865                    |           |        |              |           |        |
+| American Portraits 1877 to 1889           |           |        |              |           |        |
+| Reconstruction                            |           |        |              |           |        |
+| Native Americans                          |           |        |              |           |        |
+| The Frontier is Settled                   |           |        |              |           |        |
+| American Literature                       |           |        |              |           |        |
+| Politics and Economics in the Gilded Age  |           |        |              |           |        |
+| Industrial Growth                         |           |        |              |           |        |
+| Science and Technology                    |           |        |              |           |        |
+| Immigration and Labor Unions              |           |        |              |           |        |
+| American Portraits 1889 to 1909           |           |        |              |           |        |
+| Foreign Diplomacy 1844 to 1898            |           |        |              |           |        |
+| Populist Movement and Social Reform       |           |        |              |           |        |
+| Progressive Movement                      |           |        |              |           |        |
+| American Portraits 1909 to 1929           |           |        |              |           |        |
+| Foreign Diplomacy 1898 to 1914            |           |        |              |           |        |
+| Politics in the Progressive Era           |           |        |              |           |        |
+| Neutrality and a World War                |           |        |              |           |        |
+| The Roaring Twenties                      |           |        |              |           |        |
+| Politics and Economics in Postwar America |           |        |              |           |        |
+|-------------------------------------------+-----------+--------+--------------+-----------+--------|
+
