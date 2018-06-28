@@ -1,0 +1,599 @@
+** Simple Forms of Life                                               :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       9b1a8c38-d65c-4be3-8f1d-581b52a2f9a6
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 21:54]
+   :END:
+Many different simple forms of life exist that are neither plants nor animals.
+These include monerans, protozoa, algae, and fungi.
+How are these organisms similar to each other? What makes them different from plants and animals?
+
+In this lesson, you will learn about the differences between these simple organisms.
+You will also learn how viruses are different from living cells.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       9e472cad-8baa-4277-a66c-a0dac043e367
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 21:51]
+   :END:
+Viruses are microscopic [organisms] that are [parasitic] within living things and cause [diseases] in humans.
+Viruses are different from other living things.
+
+Viruses can reproduce only within a living [cell].
+A virus invades a living [cell] before it can continue to live.
+The invaded organism is called a [host].
+
+Once a virus enters a [host], it changes the instructions in the cell's [nucleus] so new viruses are produced.
+Eventually, the host cell bursts and releases the viruses which then invade other cells.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       63bdb928-7018-401f-a980-c5181f806f7f
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:38]
+   :END:
+A virus cannot grow or respond to outside [stimuli].
+Viruses have [no] [control] over their movement outside a living cell.
+They can spread in the wind and travel in a sneeze, water, food, blood, or other bodily fluids.
+Viruses are everywhere.
+
+There are many different types of viruses.
+Viruses can cause diseases such as polio, warts, herpes, shingles, respiratory infections, flu, fever blisters, and common colds.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       45f0c4a1-64d9-4fea-b5b1-900dda8f9d7a
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:38]
+   :END:
+[Bacteria] are the most common types of living things.
+[Bacteria] are examples of monerans, which are members of the Kingdom Monera.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       981eaf80-ca41-41ce-a9d9-b9b4180401cf
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 21:28]
+   :END:
+Bacteria are [single]-[celled] [organisms] that have a cell wall, but not a nucleus.
+They reproduce very quickly by splitting into two cells.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       ece46548-ee20-4af0-8be4-347cbb61a8d1
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 20:07]
+   :END:
+Bacteria are single-celled organisms that have a cell wall, but not a nucleus.
+They reproduce very quickly by [splitting] into [two] cells.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       2d2c4e7b-1579-445d-a78f-719e9114abae
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:43]
+   :END:
+Some bacteria are [helpful] to living organisms, while others are [harmful].
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       5bfdfea5-32b3-4591-a25e-c4b11eee8355
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 21:40]
+   :END:
+[Bacteria] in your stomach help you digest food.
+[Bacteria] are also used to decompose, or break down, garbage and waste products.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       4b84c3dd-823b-4137-8864-6880b7219334
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 21:41]
+   :END:
+Bacteria can cause many different types of diseases such as syphilis, tetanus, tuberculosis, whooping cough, and salmonella.
+A chemical substance called an [antibiotic] is often used as medication to kill bacteria that is causing an illness.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       efc54d8c-dd07-4467-8c30-68bb7cb2a898
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:40]
+   :END:
+One kind of bacteria is called cyanobacteria, or [blue]-[green] bacteria.
+This type of bacteria is what you see as scum on the surface of ponds or other standing water.
+This scum is really a large mass of bacteria which is colored [blue]-[green].
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       c8428adb-e543-4744-b483-a374fe46a7a0
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.5
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 20:16]
+   :END:
+There are several different types of blue-green bacteria.
+In spite of the name, some blue-green bacteria come in different colors such as red, violet, or yellow.
+The matter in cells and tissues that gives color to bacteria is called [pigment].
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-07-03 Tue>
+   :PROPERTIES:
+   :ID:       f0897f09-dc36-4585-a4e2-9599555a9db0
+   :DRILL_LAST_INTERVAL: 10.764
+   :DRILL_REPEATS_SINCE_FAIL: 3
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 4.5
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 4
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:39]
+   :END:
+[Protozoans] are members of the Kingdom Protista.
+They are single-celled organisms that do not have cell walls.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       a1c709f4-be59-4838-bd46-af7edd413262
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:43]
+   :END:
+Protozoans are members of the Kingdom Protista.
+They are [single]-[celled] organisms that do not have cell walls.
+
+Protozoans are usually found in [untreated] [water] where they get food and oxygen.
+
+Most protozoans can move on their own toward food or better environmental conditions.
+They are like animals in this way.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       20e7cee2-79c7-4953-b031-cda467e95724
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:42]
+   :END:
+Protozoans are grouped by their methods of [movement] and the process by which they acquire [food].
+Each group of protozoa is equipped with special structures for these purposes.
+
+The four phylum groups of protozoans are:
+
+• sarcodines
+• ciliates
+• flagellates
+• sporozoans
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       cf9675a8-3776-4031-8d0b-4a38af4bd12e
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:39]
+   :END:
+The [amoeba] is a common sarcodine.
+It has no specific shape because it is a small mass of cytoplasm surrounded by a membrane.
+It moves by using pseudopods (also known as pseudopodia), or false feet.
+
+Pseudopods move to surround food, trapping it and bringing it inside the [amoeba].
+This forms a food vacuole to digest the food.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       7761fb5d-f7ed-43ab-ab49-04d23199418b
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 2.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:48]
+   :END:
+The amoeba is a common sarcodine.
+It has no specific [shape] because it is a small mass of [cytoplasm] surrounded by a membrane.
+
+However, amoebic [dysentery] is a severe diarrhea caused by an amoeba.
+This illness can be found where there are poor sanitation facilities.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       60cc8e1e-abfe-496b-bd18-d13b64ee24e9
+   :DRILL_LAST_INTERVAL: 4.0
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 4.0
+   :DRILL_EASE: 2.5
+   :DRILL_LAST_QUALITY: 4
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:40]
+   :END:
+The [ciliates] phylum is more complex.
+Their entire cell is covered with hundreds of short, hair-like structures called cilia.
+The ciliate moves through the water by means of the cilia, using them like tiny oars.
+
+A paramecium is a common ciliate found in most ponds.
+These organisms feed on small protozoans and dead plants.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       12845343-7b7a-42c8-b29d-57e86e245113
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:44]
+   :END:
+[Flagellates] move by a long whip-like structure called flagella.
+[Flagellates] can live in water, in soil, and in some animals.
+Some [flagellates] are parasites.
+A parasite is an organism living in or on another organism for the purpose of obtaining food.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       c4bd0c47-05b8-4ddf-b1ca-0f1c5e74abf9
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 21:57]
+   :END:
+Flagellates move by a long [whip]-[like] structure called [flagella].
+Flagellates can live in water, in soil, and in some animals.
+Some flagellates are [parasites].
+A [parasite] is an organism living in or on another organism for the purpose of obtaining food.
+
+One kind of flagellate lives in termites.
+Termites eat wood, and the flagellate digests the wood.
+The flagellate and the termite could not live without each other.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       0a9a33d8-9a05-4497-881b-0b05ce5d51d8
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 2
+   :DRILL_FAILURE_COUNT: 1
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:48]
+   :END:
+The fourth phylum is [sporozoa].
+All [sporozoans] are parasites that live in the blood or in the organs of animals.
+
+Malaria is a disease caused by a [sporozoan].
+It is carried from an infected person to a new host by a mosquito.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       d3f3ffb8-43c6-469f-81ce-4ee2ad6bb7a5
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:48]
+   :END:
+The name [algae] is often used to refer to plant-like protists that have cell walls, contain 
+chlorophyll, and make their own food; but they do not qualify as members of the plant kingdom.
+
+Protists are one-celled organisms, but some may form many-celled colonies.
+These [algae] are classified in the Kingdom Protista.
+The different types of [algae] are distinguished by color, method of food storage, and composition of cell walls.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       5de818e3-2a15-41eb-bbc5-751dab444d49
+   :DRILL_LAST_INTERVAL: 4.0
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 4.0
+   :DRILL_EASE: 2.5
+   :DRILL_LAST_QUALITY: 4
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 21:54]
+   :END:
+The name algae is often used to refer to plant-like protists that have cell walls, contain 
+[chlorophyll], and make their own [food]; but they do not qualify as members of the [plant] [kingdom].
+
+Protists are one-celled organisms, but some may form many-celled colonies.
+These algae are classified in the Kingdom [Protista].
+The different types of algae are distinguished by color, method of food storage, and composition of cell walls.
+
+Thousands of species of each type of algae exist.
+They are found in oceans, soils, freshwater, ponds, and streams.
+
+[Plankton] are found in both fresh and saltwater.
+They float near the surface of the water and are made up of microscopic, plant-like and animal-like protists.
+Plankton provide oxygen and food to other organisms living in the water.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       ea71b1ef-55d7-4552-9b86-8e0fbe19312a
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:47]
+   :END:
+One of the most common species of [algae] found in freshwater is the euglena.The euglena is pushed by a long [flagellum].
+It has a red-orange eyespot used as a light [detector] to guide the euglena toward brightly-lit places.
+
+Euglena are [plant]-[like] because they have chloroplasts and can make their own food.
+They are [animal]-[like] because they can move from place to place on their own.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       e92f312e-1606-4be1-b9b4-d484364608f8
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:44]
+   :END:
+There are about 1,100 different species of [red] [algae] found in the oceans.
+When [red] [algae] reproduce very rapidly, they produce a red tide of toxic wastes that kills fish.
+Animals can become ill if they eat shellfish that have absorbed these toxins.
+
+[Diatoms are golden brown algae and one of the most common of all the unicellular organisms in the ocean.
+Like plankton, they are one of the most important food sources for ocean animals.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       c0ebeded-7bad-4bd4-ba7e-af3a39f6e560
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:44]
+   :END:
+[Slime] [molds] can move like amoeba, and they can reproduce like fungi.
+They live in damp soil or on rotting logs or leaves.
+
+[Slime] [molds] are usually brightly colored.
+[Slime] [molds] creep along the ground and engulf food particles.
+When food is scarce, they become spore-forming bodies.
+These spores grow into new amoeba-like organisms.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       8d660daa-bb75-48c6-b3e3-54affa266d02
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:46]
+   :END:
+[Fungi] are members of the [Fungi] Kingdom and live as decomposers.
+A decomposer is an organism that helps break down decaying plants and animals that have died.
+Mold, yeast, mildew, plant rust, smut, and mushrooms are all [fungi].
+
+[Fungi] cannot produce their own food.
+They must absorb food through their cell walls.
+Some [fungi] acquire food from other living organisms, some live on dead matter, and others capture prey for food.
+[Fungi] reproduce by forming spores that can be blown over a wide area.
+Each spore can grow into a new organism.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       1322addc-9966-4274-ada2-edb3c5554518
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:46]
+   :END:
+Fungi are members of the [Fungi] Kingdom and live as decomposers.
+A decomposer is an organism that helps break down decaying [plants] and [animals] that have died.
+Mold, yeast, mildew, plant rust, smut, and mushrooms are all fungi.
+
+Fungi cannot produce their own food.  They must [absorb] food through their cell [walls].
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       c38b3a9b-cfec-4eb4-a126-919f53fe6e23
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:44]
+   :END:
+Any fungus with a thread-like fuzzy appearance is called a [mold].
+[Molds] grow in warm, moist, dark places.
+They can also grow in cold temperatures.
+
+[Mold] is sometimes seen growing on old bread or on spoiled food in the refrigerator.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-26 Tue>
+   :PROPERTIES:
+   :ID:       c9c11f61-215a-4d02-a255-c65311e928a1
+   :DRILL_LAST_INTERVAL: 4.14
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 5.0
+   :DRILL_EASE: 2.6
+   :DRILL_LAST_QUALITY: 5
+   :DRILL_LAST_REVIEWED: [2018-06-22 Fri 19:37]
+   :END:
+ Any fungus with a thread-like fuzzy appearance is called a mold.
+Molds grow in [warm], [moist], [dark] places.
+They can also grow in cold temperatures.
+
+Mold is sometimes seen growing on old bread or on spoiled food in the refrigerator.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       aae50ebd-5abf-422e-8511-6e64d2bc7c25
+   :DRILL_LAST_INTERVAL: 3.86
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 3.0
+   :DRILL_EASE: 2.36
+   :DRILL_LAST_QUALITY: 3
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 20:06]
+   :END:
+Rusts and smuts are other types of fungi.
+They destroy [grains] meant to be sold to people for food.
+This costs farmers thousands of dollars each year.
+
+[Yeasts] are single-celled sac fungi sometimes used to break down carbohydrates.
+This feature makes [yeast] important to the food industry.
+[Yeasts] are also used to make bread rise.
+
+Morels, truffles, and [mushrooms] are edible fungi.
+Other fungi, such as ringworm and athlete's food, cause diseases in humans.
+
+** Simple Forms of Life 					      :drill:
+   SCHEDULED: <2018-06-25 Mon>
+   :PROPERTIES:
+   :ID:       1aefe74a-2fe1-4d3a-acac-44300bf5e941
+   :DRILL_LAST_INTERVAL: 4.0
+   :DRILL_REPEATS_SINCE_FAIL: 2
+   :DRILL_TOTAL_REPEATS: 1
+   :DRILL_FAILURE_COUNT: 0
+   :DRILL_AVERAGE_QUALITY: 4.0
+   :DRILL_EASE: 2.5
+   :DRILL_LAST_QUALITY: 4
+   :DRILL_LAST_REVIEWED: [2018-06-21 Thu 21:31]
+   :END:
+As you have learned, there are many different types of simple life forms.
+
+These living things may be [microscopic] (hint: small); however, they are very complex organisms.
+They live in a variety of environments, move in many different ways, and serve different purposes.
