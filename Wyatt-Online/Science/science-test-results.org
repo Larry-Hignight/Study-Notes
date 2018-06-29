@@ -19,19 +19,19 @@ _Science Test Results_  Last Updated:  6/28/2018
 |------------------------------------------+-------+--------+--------------+---------+-----------+--------|
 | Energy and Simple Machines               |   90% | 6/20   | Scraped      |       4 |           |        |
 | Electricity                              |   90% | 6/20   | Scraped      |       4 |           |        |
-| Motion                                   |       |        | Scraped      |       4 |           |        |
+| Motion                                   |   70% |        | Scraped      |       4 |           |        |
 |------------------------------------------+-------+--------+--------------+---------+-----------+--------|
-| Cells                                    |       |        | Scraped      |       5 |           |        |
-| Cells: Mitosis                           |       |        | Scraped      |       5 |           |        |
-| Classification of Organisms              |       |        | Scraped      |       5 |           |        |
-| Simple Forms of Life                     |       |        | Scraped      |       5 | ???       |        |
+| Cells                                    |   80% | 6/22   | Scraped      |       5 |           |        |
+| Cells: Mitosis                           |   80% | 6/22   | Scraped      |       5 |           |        |
+| Classification of Organisms              |   90% | 6/22   | Scraped      |       5 |           |        |
+| Simple Forms of Life                     |   70% | 6/22   | Scraped      |       5 |           | 6/22   |
 |------------------------------------------+-------+--------+--------------+---------+-----------+--------|
-| Ocean Life                               |       |        |              |         |           |        |
-| Living Things                            |       |        |              |         |           |        |
-| Evolution                                |       |        |              |         |           |        |
-| Extinction                               |       |        |              |         |           |        |
-| Green Plants                             |       |        |              |         |           |        |
-| Types of Green Plants                    |       |        |              |         |           |        |
+| Ocean Life                               |   70% | 6/27   | Scraped      |         |           |        |
+| Living Things                            |   90% | 6/27   | Scraped      |         |           |        |
+| Evolution                                |   80% | 6/28   | Scraped      |         |           |        |
+| Extinction                               |   90% | 6/28   | Scraped      |         |           |        |
+| Green Plants                             |   70% | 6/28   | Scraped      |         |           |        |
+| Types of Green Plants                    |       |        | Scraped      |         |           |        |
 | Systems of the Human Body                |       |        |              |         |           |        |
 | The Respiratory System                   |       |        |              |         |           |        |
 | Exercise and Nutrition                   |       |        |              |         |           |        |
