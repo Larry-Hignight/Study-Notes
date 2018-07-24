@@ -4,32 +4,15 @@ _Social Studies Test Results_  Last Updated:  6/28/2018
 |-------------------------------------------+-----------+--------+--------------+-----------+--------|
 | Section                                   | Old Score | Date-1 | Flash Cards? | New Score | Date-2 |
 |-------------------------------------------+-----------+--------+--------------+-----------+--------|
-| Introduction to U.S. History              |           |        | Scraped      |           |        |
-| European Exploration                      |           |        | Scraped      |           |        |
-| English Colonies                          |           |        | Scraped      |           |        |
-| Revolution in the Colonies                |           |        | Scraped      |           |        |
+| Introduction to U.S. History              |       60% | 6/27   | Scraped      |           |        |
+| European Exploration                      |       70% | 6/27   | Scraped      |           |        |
+| English Colonies                          |       70% | 6/27   | Scraped      |           |        |
+| Revolution in the Colonies                |       60% | 6/27   | Scraped      |           |        |
 | Foundation of Government                  |           |        | Scraped      |           |        |
-| American Portraits 1789 to 1825           |           |        | Scraped      |           |        |
+| American Portraits 1789 to 1825           |      100% | 6/27   | Scraped      |           |        |
 | A Nation Emerges                          |           |        | Scraped      |           |        |
 | American Portraits 1825 to 1849           |           |        | Scraped      |           |        |
-| Sectionalism and Slavery                  |           |        | Scraped      |           |        |
-| Social Reform in America                  |           |        | Scraped      |           |        |
-| American Portraits 1849 to 1877           |           |        | Scraped      |           |        |
-| America Moves Toward Civil War            |           |        | Scraped      |           |        |
-| Secession and Civil War                   |           |        | Scraped      |           |        |
-| Civil War 1861 to 1862                    |           |        | Scraped      |           |        |
-| Civil War 1863 to 1865                    |           |        | Scraped      |           |        |
-| American Portraits 1877 to 1889           |           |        | Scraped      |           |        |
-| Reconstruction                            |           |        | Scraped      |           |        |
-| Introduction to U.S. History              |           |        | Scraped      |           |        |
-| European Exploration                      |           |        | Scraped      |           |        |
-| English Colonies                          |           |        | Scraped      |           |        |
-| Revolution in the Colonies                |           |        | Scraped      |           |        |
-| Foundation of Government                  |           |        | Scraped      |           |        |
-| American Portraits 1789 to 1825           |           |        | Scraped      |           |        |
-| A Nation Emerges                          |           |        | Scraped      |           |        |
-| American Portraits 1825 to 1849           |           |        | Scraped      |           |        |
-| Sectionalism and Slavery                  |           |        | Scraped      |           |        |
+| Sectionalism and Slavery                  |       70% | 6/27   | Scraped      |           |        |
 | Social Reform in America                  |           |        |              |           |        |
 | American Portraits 1849 to 1877           |           |        |              |           |        |
 | America Moves Toward Civil War            |           |        |              |           |        |
