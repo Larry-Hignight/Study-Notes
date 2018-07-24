@@ -49,13 +49,11 @@ Decide what will come first, second, etc. The better you organize, the
 better your paper will be.
 
 ** The Writing Process 						      :drill:
-The second step is very important. Writing the [rough draft] is not easy, 
-but if you've organized your material well in the first step, it will 
-be much easier. The [outline] will provide a "road map" to follow as you write.
+The second step is very important. Writing the [rough draft] is not easy, but if you've organized 
+your material well in the first step, it will provide a "road map" to follow as you write.
 
-Speak in your own voice. This means to [write as you would talk]. Don't worry 
-about spelling, punctuation, or correct usage. Just get something on paper. 
-Use a pencil. Double space so that you can make corrections later.
+Speak in your own voice. This means to [write as you would talk]. Don't worry about spelling, punctuation, 
+or correct usage. Just get something on paper. Use a pencil. Double space so that you can make corrections later.
 
 ** The Writing Process 						      :drill:
 After you have prepared a rough draft, you are ready for the third step, [editing].
@@ -89,17 +87,16 @@ This step is called [proofreading].
 ** The Writing Process 						      :drill:
 Practice [proofreading] by correcting the errors in this sentence:
 
-Between you and I, their isn't but four errors in this here sentence.
+    _Between you and I, their isn't but four errors in this here sentence._
+
 Did you find all four errors? Check the next screen to see if your answers were correct.
 
 ** The Writing Process 						      :drill:
-Between you and I, their isn't but four errors in this here sentence.
+    _Between you and I, their isn't but four errors in this here sentence._
 
-Between is a preposition. [I] can never be the object of a preposition. 
-Change [I] to [me].
+Between is a preposition. [I] can never be the object of a preposition.  Change [I] to [me].
 
-Their is a possessive pronoun that does not belong in this sentence. 
-Change [their] to the introductory word [there].
+Their is a possessive pronoun that does not belong in this sentence.  Change [their] to the introductory word [there].
 
 ** The Writing Process 						      :drill:
 Between you and I, their isn't but four errors in this here sentence.
@@ -141,28 +138,36 @@ To use words as effective tools, you must know that all words can be classified 
 The eight parts of speech are [nouns], [pronouns], [verbs], [adjectives], 
 [adverbs], [prepositions], [conjunctions], and [interjections].
 
-This sentence contains words from all eight parts of speech. Can you identify them?
-Hey! My personal diary is not for your eyes or hers.
-
 ** Parts of Speech 						      :drill:
-Hey! My personal diary is not for your eyes or hers.
+This sentence contains words from all eight parts of speech. Can you identify them?
+
+    Hey! My personal diary is not for your eyes or hers.
 
 _Hey_ is an [interjection]. It shows strong feeling.
 
 _My_ is a possessive [pronoun] used as an [adjective]. It takes the place of my name.
+
 _Personal_ is an [adjective] that tells what kind.
+
 _Diary_ is a [noun]. It names the book.
+
 _Is_ is the [verb]. It is a be [verb] and does not show action.
 
 ** Parts of Speech 						      :drill:
 Identify the parts of speech used below:
 
 _Hey!_  My personal diary is not for your eyes or hers. [Interjection]
+
 _Not_ is always an [adverb] (even if it is contracted to n't).
+
 _For_ is a [preposition]. It shows the relationship of its objects to the rest of the sentence.
+
 _Your_ is a possessive [pronoun] used as an [adjective].
+
 _Eyes_ is a [noun]. It is the first part of the compound object of the preposition.
+
 _Or_ is a [conjunction]. It connects the two objects of the preposition.
+
 _Hers_ is also a possessive [pronoun]. It is the second object of the preposition.
 
 ** Parts of Speech 						      :drill:
@@ -246,13 +251,13 @@ A writer must have words that describe a particular item. This is the purpose of
 an [adjective]. It describes or tells something about a [noun].
 
 ** Parts of Speech 						      :drill:
-Look how [adjectives] modify the description of a cat.
+Below, [adjectives] modify the description of a cat.
 
-The cat cried.
-The large, hungry cat cried.
-The large, hungry, mean, striped cat cried.
+    The cat cried.
+    The large, hungry cat cried.
+    The large, hungry, mean, striped cat cried.
 
-[Adjectives] tell which one, what kind, and how many about nouns and [pronouns].
+They tell which one, what kind, and how many about nouns and [pronouns].
 
 ** Parts of Speech 						      :drill:
 [Adverbs] also change or modify words. As the name implies, [adverbs] are added to verbs. 
@@ -299,8 +304,11 @@ Words that join words or groups of words are called [conjunctions].
 Words that [join] words or groups of words are called conjunctions. 
 
 There are three kinds of conjunctions:
+
 [coordinating] (and, or, but, nor, for, yet, so)
+
 [correlative] (both/and, not only/but also, neither/nor, either/or, whether/or)
+
 [subordinating] (Subordinating conjunctions will be discussed later in a lesson on clauses.)
 
 ** Parts of Speech 						      :drill:
@@ -341,7 +349,7 @@ A noun is the part of speech that names [people], [places], [things], or [ideas]
 [idea]: anger
 
 ** Nouns 1 							      :drill:
-Identify each noun in the following sentences as a person, place, thing, or idea.
+Identify each noun in the following sentence as a person, place, thing, or idea.
 
 Cartographers ([persons]) have created a grid system ([thing]) to help us find places ([places/things]) on maps ([things]).
 
@@ -376,6 +384,8 @@ There is also another classification for nouns.
 Nouns can be either [concrete] or abstract.
 
 ** Nouns 1 							      :drill:
+There is also another classification for nouns.
+
 Nouns can be either concrete or [abstract].
 
 ** Nouns 1 							      :drill:
@@ -417,11 +427,7 @@ A [noun] is a part of speech that names people, places, things, or ideas.
 ** Nouns 2 							      :drill:
 [Plural] nouns name more than one person, place, thing, or idea. Let's look at some of the basic rules for making nouns [plural].
 
-Add -s to most [singular] nouns to make them [plural].
-
-book(s)
-girl(s)
-store(s)
+Add [-s] to most [singular] nouns to make them plural.
 
 ** Nouns 2 							      :drill:
 Make the following nouns plural:
@@ -475,9 +481,13 @@ knife [(knives)]
 ** Nouns 2 							      :drill:
 Some nouns are the same plural as they are singular.
 
-deer
-Chinese
-moose
+Identify the plural form of the following words:
+
+| car     | cars    |
+| deer    | deer    |
+| Chinese | Chinese |
+| knife   | knives  |
+| moose   | moose   |
 
 ** Nouns 2 							      :drill:
 Add -s to nouns that end with ful.
@@ -511,6 +521,8 @@ Nouns can also show ownership or possession. There is one basic rule for forming
 
 Always add ['s] to nouns to make them [possessive] unless the noun is plural and already ends in s. In this case, add just an apostrophe.
 
+Change the following names to their possessive form.
+
 men [(men's)]
 John [(John's)]
 boys [(boys')]
@@ -525,6 +537,7 @@ shirts [(plural)]
 child [(singular)]
 actress's [(singular possessive)]
 child's [(singular possessive)]
+actors' [(plural possessive)]
 
 ** Nouns 2 							      :drill:
 Decide whether these nouns are singular, singular possessive, plural, or plural possessive.
@@ -561,7 +574,7 @@ This verb shows [state] of [being].
 State of being verbs are also called [linking] verbs because they [link] the subject to another word.
 
 ** Verbs 1 							      :drill:
-There are nineteen [linking] verbs. If you divide them into three groups, they are easy to remember.
+There are two types of verbs:  [action] verbs and [linking] verbs.
 
 ** Verbs 1 							      :drill:
 There are seven _be_ verbs:
@@ -569,7 +582,6 @@ be, am, is, are, was, were, [been]
 
 ** Verbs 1 							      :drill:
 The verbs that express the action of the five [senses] can also be used as [linking] verbs.
-look, smell, feel, taste, sound
 
 ** Verbs 1 							      :drill:
 There are seven more linking verbs. 
@@ -593,10 +605,8 @@ Every verb has four principal parts: [present], present participle, [past], and 
 Every verb has four principal parts: present, [present participle], past, and [past participle].
 
 ** Verbs 1 							      :drill:
-begin
-beginning
-began
-begun
+Consider the forms of the verb begin:  begin, beginning, began, begun
+
 The [present] is the basic form of the verb.
 The [present] [participle] is the ing form of the present.
 The [past] ends in d, ed, t, n, or en. It never has a helper.
@@ -606,21 +616,19 @@ The [past] [participle] always has a helper.
 Sometimes a verb's past and past participle are formed irregularly by either 
 changing the spelling of the word or leaving the word in its basic form.
 
-| Present | Past Participle | Past   |
-|---------+-----------------+--------|
-| do      | [done]          | [did]  |
-| eat     | [eaten]         | [ate]  |
-| go      | [gone]          | [went] |
-| set     | [set]           | [set]  |
+| Present | Past   | Past Participle |
+|---------+--------+-----------------|
+| do      | [did]  | [done]          |
+| eat     | [ate]  | [eaten]         |
+| go      | [went] | [gone]          |
+| set     | [set]  | [set]           |
 
 ** Verbs 1 							      :drill:
 When a verb has two or more words, it is called a [verb phrase].
 
-John has gone.
-(two-word verb phrase)
-
-John will be going.
-(three-word verb phrase)
+John has gone.  (two-word [verb phrase])
+    
+John will be going.  (three-word [verb phrase])
 
 ** Verbs 1 							      :drill:
 The [last] verb in the verb phrase is the main verb.
@@ -663,7 +671,8 @@ cannot be helping verbs, even though they come between the two parts of the verb
 
 ** Verbs 1 							      :drill:
 There are some tricky verbs that you must learn. 
-_Sit_ (which means to [take a seat]) is often confused with _set_ (which means to [put or place]).
+
+  _Sit_ (which means to [take a seat]) is often confused with _set_ (which means to [put or place]).
 
 The four principal parts of sit are:
 sit, sitting, sat, sat
@@ -680,8 +689,9 @@ He (set, sat) on the edge of his chair.  [sat]
 
 ** Verbs 1 							      :drill:
 Another set of tricky verbs to watch for are lie and lay. 
-_Lie_ means to rest or recline. 
-_Lay_ means to put or place.
+
+  _Lie_ means to rest or recline. 
+  _Lay_ means to put or place.
 
 The four principal parts of lie are: lie, lying, lay, lain
 The four principal parts of lay are: lay, laying, laid, laid
@@ -697,8 +707,9 @@ She cannot play because she is (laying, lying) down.  [lying]
 
 ** Verbs 1 							      :drill:
 Rise and raise also often present a problem. 
-_Rise_ means to [go up without help]. 
-_Raise_ means to [lift something].
+
+  _Rise_ means to [go up without help]. 
+  _Raise_ means to [lift something].
 
 The four principal parts of rise are:
 rise, rising, rose, risen
@@ -2636,7 +2647,6 @@ A clause is a group of words that has a [subject] and a [predicate].
 
 Another type of clause is a [dependent] clause; it can have a subject and predicate but cannot stand alone.
 
-
 ** Sentences 3 							      :drill:
 Sometimes a sentence might have a compound subject or a compound verb; 
 or perhaps both, but it is still just a simple sentence, or [independent] clause.
@@ -2899,31 +2909,38 @@ The adjective clause always modifies the noun or pronoun that appears [directly]
 
 
 
+** Noun Clauses 						      :drill:
+[Subordinate] [clauses] can also be called dependent clauses. They cannot stand alone because they are considered to be sentence fragments.
 
-loading
-Subordinate clauses can also be called dependent clauses. Subordinate clauses cannot stand alone because they are considered to be sentence fragments.
+However, They play an important role in sentence structure because they usually define or further explain another word in the sentence.
 
-However, subordinate clauses play an important role in sentence structure because they usually define or further explain another word in the sentence.
+** Noun Clauses 						      :drill:
+Subordinate clauses can also be called [dependent] clauses. They cannot stand alone because they are considered to be sentence fragments.
 
-
-
-loading
-In other lessons, you have learned about adjective and adverb subordinate clauses. The third type of subordinate clause is the noun clause.
-
-Do you recall that adjective clauses function just as one-word adjectives do? They modify nouns and pronouns. Adverb clauses are used just as adverbs. They modify verbs, adjectives, or adverbs.
+However, They play an important role in sentence structure because they usually [define] or [further] [explain] another word in the sentence.
 
 
+** Noun Clauses 						      :drill:
+In other lessons, you have learned about adjective and adverb subordinate clauses. 
 
-loading
-You can probably guess, then, that noun clauses function just as one-word nouns do. Noun clauses can function as subjects or objects.
+The third type of subordinate clause is the [noun] [clause].
+
+Do you recall that adjective clauses function just as one-word adjectives do? They modify [nouns] and [pronouns]. 
+
+Adverb clauses are used just as adverbs. They modify [verbs], [adjectives], or [adverbs].
+
+
+** Noun Clauses 						      :drill:
+You can probably guess, then, that noun clauses function just as one-word nouns do. 
+
+Noun clauses can function as [subjects] or [objects].
 
 Do you know that Mexico City is the capital of Mexico?
 
 The noun clause is highlighted in the sentence above.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Do you know that Mexico City is the capital of Mexico?
 
 Because this noun clause begins with the relative pronoun that, it looks like an adjective clause.
@@ -2931,15 +2948,13 @@ Because this noun clause begins with the relative pronoun that, it looks like an
 However, the word right before the clause, know, is part of the verb.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Do you know that Mexico City is the capital of Mexico?
 
 Remember, adjective clauses modify the nouns directly in front of them. If there is a verb in front of the clause, it cannot be an adjective clause.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Noun clauses can function as the subject of an independent clause.
 
 What Hernando Cortes, the Spanish conquistador, did was capture the Aztec Empire.
@@ -2947,8 +2962,7 @@ What Hernando Cortes, the Spanish conquistador, did was capture the Aztec Empire
 The complete subject of this sentence, the noun clause, is highlighted. The sentence is talking about what Hernando Cortes did.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Noun clauses can function as direct objects in the independent clause.
 
 Cortes found that the Aztecs were highly skilled in building houses and temples.
@@ -2956,8 +2970,7 @@ Cortes found that the Aztecs were highly skilled in building houses and temples.
 This noun clause follows the action verb and answers the question what, just as a direct object does.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Noun clauses can function as objects of prepositions in the independent clause.
 
 Cortes' men were astonished by what they found in Mexico.
@@ -2965,8 +2978,7 @@ Cortes' men were astonished by what they found in Mexico.
 This noun clause is the object of the preposition by and answers the question what. Notice that the preposition is not part of the noun clause.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Noun clauses can function as predicate nominatives in the independent clause.
 
 Mexico City is what Cortes named the Aztec capital of Tenochtitlan.
@@ -2974,8 +2986,7 @@ Mexico City is what Cortes named the Aztec capital of Tenochtitlan.
 This noun clause follows the linking verb is and renames the subject Mexico City.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Noun clauses can begin with any of these introductory words: who, whose, whom, which, that, when, where, what, whatever, whoever, whomever, and whether.
 
 Since some of these words also introduce adjective and adverb clauses, you must decide carefully what job the clause does in the sentence.
@@ -2983,15 +2994,13 @@ Since some of these words also introduce adjective and adverb clauses, you must 
 Hint: The words what, whatever, whoever, and whomever only introduce noun clauses.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Let's look at four sentences to see if we can locate the noun clause and determine how it functions in each sentence.
 
 It may help you to look at the sentences and write your answer on paper before looking at the answer and the explanation.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Did you know that the soil beneath Mexico City is eighty-five percent water?
 
 The soil beneath the city is where they get their water.
@@ -3001,22 +3010,19 @@ Whatever water they take out causes the ground to sink.
 According to what some experts say, the ground sinks up to one foot in some places each year.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Did you know that the soil beneath Mexico City is eighty-five percent water?
 
 Know is an action verb. The word that introduces the noun clause. Since this noun clause receives the action of the verb, it functions as a direct object.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 The soil beneath the city is where they get their water.
 
 Look at the verb in the sentence again. Is is a linking verb. Therefore, the noun clause serves as the predicate nominative. It renames the subject, soil.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Whatever water they take out causes the ground to sink.
 
 The noun clause in this sentence begins with whatever.
@@ -3024,8 +3030,7 @@ The noun clause in this sentence begins with whatever.
 The noun clause acts as the subject of the verb causes.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 According to what some experts say, the ground sinks up to one foot in some places each year.
 
 The noun clause begins with what. The noun clause acts as the object of the preposition.
@@ -3033,15 +3038,13 @@ The noun clause begins with what. The noun clause acts as the object of the prep
 The preposition in this sentence is according to.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 Now that you can identify noun clauses and their functions, it is important that you be able to tell the difference between a noun clause and an adjective or adverb clause.
 
 The people of Mexico are concerned because there is a shortage of land for farming.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 The people of Mexico are concerned because there is a shortage of land for farming.
 
 This sentence contains an adverb clause. The clause modifies the adjective concerned.
@@ -3049,15 +3052,13 @@ This sentence contains an adverb clause. The clause modifies the adjective conce
 Remember, adverb clauses begin with a subordinating conjunction, (because), and they modify verbs, adjectives, or adverbs. These clauses answer the question how, when, where, to what extent, how often, and sometimes why.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 The people, who are extremely sick, are also in need of shelter.
 
 This sentence contains an adjective clause that begins with the relative pronoun who. Remember, an adjective clause modifies the noun that is written directly in front of it (people). They answer the question which one, what kind, or how many.
 
 
-
-loading
+** Noun Clauses 						      :drill:
 These clauses are really very simple to master. Just take your time and practice identifying clauses in writing that you read in different places.
 
 If you need to, review this lesson to make sure you can understand the differences between each type of clause.

@@ -28,14 +28,14 @@ _Language Arts Test Results_  Last Update: 6/28/2018
 | Adverbs 2              |       70% | 6/22   | Ready        |           |        |
 | Prepositions           |       60% | 6/22   | Ready        |           |        |
 | Conjunctions           |       70% | 6/22   | Ready        |           |        |
-| Interjections 1        |       00% | 6/22   | Ready        |           |        |
-| Sentences 1            |       60% | 6/22   | Scraped      |           |        |
+| Interjections          |       00% | 6/22   | Ready        |           |        |
+| Sentences 1            |       60% | 6/22   | Ready        |           |        |
 | Review Test 4          |           |        |              |           |        |
 |------------------------+-----------+--------+--------------+-----------+--------|
-| Sentences 2            |       70% | 6/22   | Scraped      |           |        |
-| Sentences 3            |       80% | 6/22   | Scraped      |           |        |
-| Sentences 4            |       50% | 6/22   | Scraped      |           |        |
-| Sentences 5            |       30% | 6/22   | Scraped      |           |        |
+| Sentences 2            |       70% | 6/22   | Ready        |           |        |
+| Sentences 3            |       80% | 6/22   | Ready        |           |        |
+| Sentences 4            |       50% | 6/22   | Ready        |           |        |
+| Sentences 5            |       30% | 6/22   | Ready        |           |        |
 | Noun Clauses           |       60% | 6/22   | Scraped      |           |        |
 | Review Test 5          |           |        |              |           |        |
 |------------------------+-----------+--------+--------------+-----------+--------|
