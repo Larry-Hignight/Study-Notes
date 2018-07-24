@@ -40,12 +40,12 @@ _Science Test Results_  Last Updated:  6/28/2018
 | Ecology                                  |  100% | 7/20   | Scraped      |         |           |        |
 | Biomes                                   |   90% | 7/20   | Scraped      |         |           |        |
 | Environmental Hazards                    |  100% | 7/20   | Scraped      |         |           |        |
-| Air Pressure and Wind                    |       |        |              |         |           |        |
-| Water in the Air                         |       |        |              |         |           |        |
-| Air Masses and Fronts                    |       |        |              |         |           |        |
-| The Forces of Weather                    |       |        |              |         |           |        |
-| Weathering                               |       |        |              |         |           |        |
-| Layers of the Earth and Volcanoes        |       |        |              |         |           |        |
+| Air Pressure and Wind                    |  100% | 7/23   | Scraped      |         |           |        |
+| Water in the Air                         |   80% | 7/23   | Scraped      |         |           |        |
+| Air Masses and Fronts                    |   80% | 7/23   | Scraped      |         |           |        |
+| The Forces of Weather                    |   90% | 7/23   | Scraped      |         |           |        |
+| Weathering                               |  100% | 7/23   | Scraped      |         |           |        |
+| Layers of the Earth and Volcanoes        |   90% | 7/23   | Scraped      |         |           |        |
 | Plate Tectonics                          |       |        |              |         |           |        |
 | Earthquakes                              |       |        |              |         |           |        |
 | The Earth's Rotation                     |       |        |              |         |           |        |

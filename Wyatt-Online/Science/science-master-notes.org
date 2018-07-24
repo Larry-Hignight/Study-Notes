@@ -4847,3 +4847,1083 @@ Everyone working together can make a difference in the environment. Working toge
 
 
 
+
+** Air Pressure and Wind 					      :drill:
+You look outside your window one morning and see the trees whipping around. You see bits of trash and leaves flying down the street. You know you are in for a windy day.
+
+What causes the wind? How is it measured? Why is the wind very strong on some days and gentle on others?
+
+These questions and many others will be answered in this lesson as it teaches you about the causes of wind, the factors that affect wind, and different types of wind that exist. This lesson will also teach you about air pressure.
+
+
+** Air Pressure and Wind 					      :drill:
+Wind is moving air. There are two types of winds.
+
+Local winds are winds specific to a local area. Local winds can blow from any direction and usually cover short distances. They typically form from air pressure differences within a local region.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Global winds blow from a specific direction and cover long distances. Global winds are divided by latitude across the globe into three belts. Air within these belts typically warms and rises at lower altitudes and begins to travel toward the poles until it cools enough to sink around the upper latitude. The three global wind belts are:
+
+Tropical Easterlies: 0o - 30o latitude
+Prevailing Westerlies: 30o - 60o latitude
+Polar Easterlies: 60o - 90o latitude
+
+
+
+** Air Pressure and Wind 					      :drill:
+A force is necessary for air to move.
+
+One force that causes air to move is the presence of different temperatures in the atmosphere. Temperature becomes a force when it affects air pressure.
+
+To understand wind, you must understand air pressure.
+
+
+
+** Air Pressure and Wind 					      :drill:
+The uneven heating of the earth causes an uneven heating of the air directly above the earth's surface, just like the heat vent in your home causes the air around it to become warmer than the rest of the air in the house. The uneven heating creates currents between cold and warm air.
+
+Cold air has more molecules per cubic inch than warm air. It is denser and has higher air pressure than warm air. The denser cold air sinks back toward the earth because it is heavier than the warm air underneath it.
+
+
+
+** Air Pressure and Wind 					      :drill:
+As cold air sinks, it moves under warmer air and lifts the warm air upward.
+
+As the warm air rises higher into the atmosphere, it begins to cool. The air molecules condense and begin to get heavier and denser. Then, they sink back toward the ground again. The process continues. The cycle of rising warm air and sinking cool air is called a convection cell.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Suspended particles and gases in the air have mass. The earth's gravity pulls these particles downward, causing pressure on the earth called air pressure.
+
+Atmospheric pressure is the pressure exerted by the atmosphere against the surface of the earth. Atmospheric pressure at sea level and at 0 degrees Celsius is called standard atmospheric pressure.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Air pressure at sea level is higher than on the tops of mountains because higher elevations have a smaller column of air pressing down than at sea level.
+
+A column of air is like a stack of books. Would a stack with ten books or two books be heavier? The stack with ten books would be heavier and put more pressure on the person holding them. The same is true for a stack, or column, of air.
+Air pressure is affected by the surface elevation, water vapor, and temperature.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Dry air has higher air pressure than air with a high water vapor content. As humidity in the air increases, the atmospheric pressure will decrease because water molecules have less mass than other gases in the air.
+
+Cold air has higher air pressure than warm air. The molecules in cold air are moving slowly and grouping together. Because the molecules are grouped closely together in cold air, a cubic inch of cold air will have more molecules than a cubic inch of warm air, making the air pressure higher.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Let's compare the factors that cause differences in air pressure.
+
+Cold air in the atmosphere, dry air, and air at sea level will have higher air pressures.
+
+Warm air in the atmosphere, humid air, and air at high elevations will have lower air pressure.
+
+
+
+** Air Pressure and Wind 					      :drill:
+The instrument used to measure atmospheric pressure is the barometer. The first barometer was invented in 1643 by Evangelista Torricelli.
+
+Torricelli filled a three-foot glass tube with mercury. The tube was inserted into a dish of mercury. The atmospheric pressure balanced the weight of the mercury column. As the air pressure increased or decreased, the mercury level would rise or fall.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Atmospheric pressure is measured by the inches of mercury in the sealed tube. At sea level and at 0 degrees Celsius, the column of mercury is 76 centimeters (about 30 inches) high.
+The aneroid (AN-uh-roid) barometer is used most commonly today. It is made by using a sealed can with most of the air removed.
+
+The sealed can expands or contracts according to the outside air pressure. These movements operate a needle that is read against a calibrated circular dial. The scale ranges from 71.1 to 78.7 centimeters (28 to 31 inches).
+
+
+
+** Air Pressure and Wind 					      :drill:
+Standard sea level pressure is a measure of air pressure for a given area converted to air pressure at sea level. This conversion allows air pressure readings to be consistent, no matter the elevation at which they are taken.
+
+The "standard sea level pressure" is 76 centimeters (29.92 inches). Pressure above 76 centimeters (29.92 inches) is considered to be high pressure. Pressure below 76 centimeters (29.92 inches) is considered to be low pressure.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Some barometers have scales in centimeters or millibars. The unit of atmospheric pressure most commonly found on weather maps is the millibar; 1013 millibars (mb) equals 76 centimeters.
+
+Barometers are used to predict the weather. When the barometer falls, it often indicates rain or storms are a possibility. When it rises, fair weather is usually on the way.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Pressure conditions can be shown on a map by means of an isobar.
+
+An isobar is a line connecting locations that have the same atmospheric pressure.
+
+
+
+** Air Pressure and Wind 					      :drill:
+When air heats, it becomes less dense and is pushed upward. As hot air rises, it begins to cool and become heavier. It falls toward the ground. These forces, or pressures, cause the wind to blow.
+
+The change in pressure measured across a given distance is called a pressure gradient.
+
+A pressure gradient force is a force that causes air to move from high pressure areas to low pressure areas.
+A steep pressure gradient is caused when a large pressure difference exists between a high and low pressure area. Steep pressure gradients cause strong winds. Winds in a tornado are an example of a steep pressure gradient.
+
+If the difference between atmospheric pressure is small or shallow, the force is gentler and the winds blow more gently.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Another force affecting wind is friction near the surface of the earth. There is friction between the ground and the molecules in the air above the surface.
+
+Friction causes wind near the surface of the earth to move more slowly than it does in the upper atmosphere. Land formations such as mountains cause friction.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Another major force that affects wind is the spinning of the earth. The earth's spin makes wind appear to curve as it blows across the surface. The apparent curving of wind caused by the rotation of the earth is called the Coriolis effect.
+
+In the northern hemisphere, the winds move clockwise out of areas of high pressure. The opposite is true in the southern hemisphere, where the winds move counterclockwise out of areas of high pressure.
+
+
+
+** Air Pressure and Wind 					      :drill:
+There is a general rule for the relation of wind to pressure in the northern hemisphere. Stand with your back to the wind. The high pressure area will be on your right side. The low pressure area will be on your left side.
+
+Wind circulates around low pressure areas. This can be seen happening with the winds in a tornado or a hurricane.
+
+
+
+** Air Pressure and Wind 					      :drill:
+An anemometer is an instrument that measures wind speed. An anemometer has several cup-shaped arms attached to an axle. The faster the wind moves, the faster the anemometer spins.
+
+The spinning cups produce an electric current that moves a needle on a gauge. The stronger the wind, the stronger the current and the farther the needle moves, giving a stronger measurement.
+
+
+
+** Air Pressure and Wind 					      :drill:
+A wind vane, or weather vane, is an instrument that indicates the direction the wind is blowing. One end of a wind vane is larger than the other end. When wind hits the wind vane, there is more force on the large end than on the small end. As a result, the large end is pushed away. Thus, the smaller end acts like a pointer showing the direction from which the wind is coming.
+
+A wind is named according to the direction from which it blows. A south wind blows from the south, a northwest wind blows from the northwest.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Winds in the upper atmosphere are measured using weather balloons. The weather balloons are released from the earth's surface and are tracked by meteorologists with the aid of radar. Meteorologists are scientists who study weather. The speed and direction of the balloons show the speed and direction of the winds.
+
+Winds in the upper atmosphere move at high speeds. These winds have fewer changes in direction than do winds nearer the surface of the earth.
+
+
+
+** Air Pressure and Wind 					      :drill:
+Much is happening with the air on a windy day. A pressure gradient is at work creating the movement of air from a high pressure area to a low pressure area.
+
+If the wind is strong, a large difference exists, creating a steep pressure gradient between the high and low pressures. If you are experiencing a gentle breeze, the pressure gradient is shallow.
+Winds can be local, occurring in just your region, or global, occurring across different latitudes around the globe.
+
+All wind is affected by air pressure. Air pressure is affected by surface elevation, moisture, and temperature.
+
+The next time it is windy at your house, see which direction the wind is blowing. Try to decide where the high and low pressure areas are located. Determine if the pressure gradient is steep or shallow, and share your knowledge with someone else.
+
+
+
+
+** Water in the Air 						      :drill:
+Water is one of the few substances found in three states of matter: solid, liquid, and gas. Matter is anything that takes up space and has mass.
+
+Solid water is found on the earth in the form of ice. Glacial ice contains water in a solid state. Liquid water is found on the earth in the form of lakes, ponds, rivers, streams, and oceans. Water may also be in the form of gas or vapor. Water vapor is found in the air in the lower part of the troposphere, which is the layer of atmosphere closest to the earth.
+In this lesson, you will study the different states of water. You will investigate forms of precipitation, see how the water cycle operates, and learn how humidity plays a part in the cycle.
+
+
+** Water in the Air 						      :drill:
+Water is always changing from one state of matter to another. The process by which water changes from a liquid to a gas is called evaporation.
+
+Heat energy from the atmosphere changes a liquid to a gas. When your clothes dry or a puddle dries up, the water in them has changed states from liquid to gas.
+
+
+
+** Water in the Air 						      :drill:
+Evaporation is considered a cooling process because it takes heat from the environment.
+
+For example, you perspire when you are very warm. Water condenses on your skin. When water evaporates from your skin, it feels cooler.
+
+Evaporation is related to transpiration. Transpiration is a process in which plants release water vapor back into the atmosphere through their leaves.
+
+
+
+** Water in the Air 						      :drill:
+Condensation changes gas to a liquid state. Usually, warm air can hold more water vapor than cold air. When warm air is cooled, the water vapor in the air condenses to liquid drops.
+
+An example of condensation is the water on the outside of a glass of cold water. Condensation is also the water droplets you find on the mirror after a hot shower or bath. The mirror was cool and the water vapor was warm.
+
+
+
+** Water in the Air 						      :drill:
+The dew point tells how much moisture is in the air. At a specific temperature, the more moisture in the air, the higher the dew point reading will be. Air that is humid contains a lot of water and can feel damp. Humid air always has a higher dew point than dry air.
+
+The dew point can be measured, or read, by a weather instrument called a hygrometer.
+Two conditions must be met for condensation to occur in nature. First, the air must be cooled to its dew point. Second, there must be some kind of solid surface.
+
+
+
+** Water in the Air 						      :drill:
+How does a hygrometer work?
+
+You can do this at home. Fill a shiny, polished metal cup halfway with water and insert a thermometer. Drop in an ice cube and stir. As the water cools the cup, a fine mist of water, or dew, will form on the outside of the cup. Read the temperature of the ice water. This gives the dew point reading. Then read the temperature outside the cup.
+You can use these readings to find the relative humidity in the air using a relative humidity table. Relative humidity is the comparison of the amount of moisture in the air to the amount of moisture the air can hold.
+
+
+
+** Water in the Air 						      :drill:
+Dew, frost, and fog all form when the temperature of the air is lowered to or below its dew point.
+
+Dew is condensed water vapor on a surface. Air cools during the night, causing water vapor to become liquid drops on plants and other surfaces.
+
+If the temperature is below freezing, frost forms on the surfaces. Frost is solid water in the form of ice crystals.
+
+
+
+** Water in the Air 						      :drill:
+Fog is made of tiny drops of water. It is a cloud on ground level.
+
+Fog forms when the temperature of the air above the ground drops rapidly. This happens usually at night while the ground is still warm from the day. This is why fog usually occurs in the mornings.
+
+
+
+** Water in the Air 						      :drill:
+Water moves from the surface of the earth into the atmosphere and back again in a balanced water cycle.
+
+A cycle has no end. It is continuous. The water cycle is balanced for the whole earth. The same amount of water that leaves the air in one form enters the air in another form.
+
+
+
+** Water in the Air 						      :drill:
+The water cycle includes evaporation from oceans, rivers, lakes, and other water sources.
+
+Water rises as gas, causing clouds to form. The water in clouds condenses into rain, sleet, hail, or snow and falls as precipitation. When water changes from a liquid to a vapor, it takes in energy.
+
+
+
+** Water in the Air 						      :drill:
+Precipitation is rain, hail, sleet, or snow falling to earth. Before this can happen, droplets in the clouds must increase in size. These droplets increase by colliding and combining with other droplets.
+
+At some point, the droplets will become too large and heavy to remain in the cloud. Gravity then pulls these larger droplets of water to earth as rain. The average raindrop contains about one million times as much water as a cloud droplet.
+
+
+
+** Water in the Air 						      :drill:
+When falling raindrops pass through an extremely cold layer of air, they freeze into small ice pellets called sleet.
+
+Rain, hail, sleet, and snow fall as fresh water. Some of this fresh water evaporates back into the atmosphere.
+
+
+
+** Water in the Air 						      :drill:
+Some of the precipitation becomes runoff into lakes, ponds, streams, rivers, or the oceans. Runoff is water that is not absorbed into the ground.
+
+Water that does soak into the ground is called groundwater. After an area receives and soaks up its limit of groundwater, the rest of the water becomes runoff.
+
+
+
+** Water in the Air 						      :drill:
+Runoff eventually finds its way into the oceans through rivers, creeks, or streams. Most of the moisture in the air evaporates from the oceans.
+
+Moisture that is in the air is called humidity. The amount of water vapor or moisture the air can hold is limited. This limit depends on the temperature of the air. Humidity is high when there is a large amount of moisture in the air. When the air contains all the moisture it can hold, it is saturated.
+
+
+
+** Water in the Air 						      :drill:
+Saturated air has humidity of 100%. It cannot hold any more water. For example, a sponge soaks up water easily, but it will reach a point that it cannot soak up any more. The sponge has reached its saturation point.
+
+Air also reaches this saturation point. If the temperature cools, water droplets enlarge and rain begins to fall.
+Relative humidity is a comparison of the amount of moisture in the air to the amount of moisture the air can hold. It is the percentage of saturation. Relative humidity changes as the temperature and moisture content change.
+
+
+
+** Water in the Air 						      :drill:
+Some regions of the earth are very dry. As a result, there is little humidity. These are desert areas. Other regions, such as the tropical rainforests of South America, are very humid year round. The plants and animals that live in these areas have adapted to humidity differently.
+
+Many animals and plants that live in desert areas have developed the ability to conserve water in their bodies. Many plants have waxy coats that conserve the small amount of water they receive.
+
+
+
+** Water in the Air 						      :drill:
+During the winter, the weather service gives the wind chill factor. The wind chill factor is the temperature bare skin feels due to the effect of the wind.
+
+Wind carries heat away from our bodies, making our bodies lose heat faster. When this happens, we feel colder.
+
+
+
+** Water in the Air 						      :drill:
+What causes wind?
+
+When air is warmed, the water molecules move farther apart, the gases become less dense, and the air pressure lowers.
+
+The opposite occurs when air is cooled. Air pressure is the force exerted on the earth by the weight of the molecules in the air. Wind occurs when air flows from high pressure areas to low pressure areas. The closer these two pressure areas are, the stronger the winds.
+
+
+
+** Water in the Air 						      :drill:
+When the weather is hot, high humidity makes us feel hotter because our perspiration evaporates at a slower rate. A breeze helps us feel cooler, because it makes perspiration evaporate faster.
+
+Did you know that you can find out how hot it is by counting cricket chirps? The next time you are outside on a warm sunny night, listen to the crickets. Count the number of chirps you hear in 15 seconds and add 40 to that number. This number will indicate the temperature around your feet in Fahrenheit degrees.
+
+
+
+** Water in the Air 						      :drill:
+You can measure rain with a simple rain gauge that can be made at home. All you need is a can, such as a coffee can. Place the can outside where it can catch rain. Then dip a plastic ruler in to measure how much rain fell.
+
+Go on the Internet and research which city in the United States has the most measurable precipitation. You may be surprised at the answer!
+
+
+
+** Water in the Air 						      :drill:
+Water in its various states is around us all the time. We cannot live without it, and it influences our lives on a day to day basis.
+
+The water cycle includes evaporation, condensation, and precipitation. The next time it rains, use a rain gauge to measure the amount of rain that fell. Do this monthly and compare your results. Which month had the most rain on a given day? Are you surprised?
+
+
+
+
+** Air Masses and Fronts 					      :drill:
+An air mass is a very large body of air that has similar humidity and temperature present throughout. It forms over a part of the surface of the earth where conditions rarely change.
+
+When an air mass remains over one area of the earth for a long time, it takes on the properties of that area. Air masses are classified by where they form.
+
+In this lesson, you will study air masses and how they cause weather changes. You will learn terms and definitions associated with weather, including prevailing winds, fronts, and cloud types.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Four types of air masses are generally the source of weather in the United States:
+
+• continental polar (cP) air mass
+• maritime polar (mP) air mass
+• continental tropical (cT) air mass
+• maritime tropical (mT) air mass
+
+Polar air masses are cold and can be dry or moist. Tropical air masses are warm and can be dry or moist. An air mass that forms over Canada is cold and dry. An air mass that forms over Mexico is warm and moist.
+
+
+
+** Air Masses and Fronts 					      :drill:
+An air mass that forms over dry land is called a continental air mass. Continental air masses are relatively dry.
+
+An air mass that forms over an ocean is called a maritime air mass and contains a great deal of humidity. An air mass that forms near the Tropic of Cancer or the Tropic of Capricorn is called a tropical air mass and is very warm.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Continental polar air masses form over Alaska and northern Canada. After a continental polar air mass has formed, the prevailing westerlies carry the cold, dry air mass to the south and east. Winds in the northern hemisphere tend to blow from areas of high pressure to areas of low pressure.
+
+Westerlies are winds named for the direction from which they blow. They are prevailing winds that move from the subtropical highs toward the poles.
+Much of the weather in North America is affected by westerlies. Prevailing winds are winds that are part of large patterns of circulation and come from the same direction.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Continental polar air masses cause cold waves over the central and eastern United States.
+As a continental polar air mass moves eastward, it passes over the water in the Great Lakes and over eastern mountains. The evaporation of water from the lakes brings moisture into the atmosphere. This causes snow to fall.
+
+Moisture is swept up into the higher altitudes of the mountains. This causes clouds to form at the tops of the mountains. More of the mountaintops can be seen when the moisture in the atmosphere is lowered.
+
+
+
+** Air Masses and Fronts 					      :drill:
+When a continental polar air mass moves over an ocean, it takes on the characteristics of the ocean. The cold air becomes warmer, which permits the air to absorb more moisture. The air mass becomes a maritime polar air mass that is cool and moist.
+
+Maritime polar air masses develop all year over both the northern Pacific Ocean and the northern Atlantic Ocean. These air masses move toward Europe. The same weather pattern occurs in Europe as it does in the United States.
+In summer, maritime polar air masses bring cooler temperatures to the eastern states and fog to many areas of California and other western states. Heavy snows and cold temperatures are produced by maritime polar air masses in the winter.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Maritime tropical air masses control much of the weather from the Rocky Mountains to the east coast of the United States.
+
+Warm, moist maritime tropical air masses form over the warm waters of the Atlantic and Pacific Oceans, the Caribbean Sea, and the Gulf of Mexico. Hurricanes form in this type of air mass.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Hurricanes are violent storms with swirling winds over 110 kilometers (68 miles) per hour. A hurricane lasts several weeks and moves from southeast of the United States toward the coastline. A hurricane may last six to ten hours over one area. Heavy rain, strong winds, and high waves can cause much damage to life and property.
+
+As a hurricane moves inland, the wind begins to slow down. Usually heavy rain continues for a time.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Hot, dry continental tropical air masses form over the world's subtropical deserts. These air masses are the hottest of all the air masses.
+
+During the summer months, these hot air masses form over the deserts of southwestern United States and northern Mexico. This brings dry, hot weather to the southwestern states.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Warm and cold air masses have different densities. They do not mix well. The boundary separating two air masses is called a front.
+
+The term front was first used in association with weather during World War I, when enemy armies collided with each other on the battlefront.
+
+
+
+** Air Masses and Fronts 					      :drill:
+A weather front that forms when a cold air mass pushes a warm air mass ahead of it is called a cold front.
+
+The cold front forces a warm front upward and over the top of the cold front.
+
+If the warm front has enough moisture in it, cumulus clouds and cumulonimbus clouds form. Violent weather is associated with cold fronts. Cool, fair weather is likely to follow.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Cumulus (KYOO-myoo-luhs) clouds look like cotton balls. They are fluffy and white with flat bottoms. They indicate good weather until they get much larger and dark at the bottoms.
+
+Cumulonimbus clouds form when cumulus clouds become dark and grow taller. These clouds are also called thunderheads because they often produce severe thunderstorms. A thunderhead is a tall cloud that flattens out on top somewhat like an anvil.
+
+
+
+** Air Masses and Fronts 					      :drill:
+A weather front that forms when a warm air mass pushes a cold air mass ahead of it is called a warm front.
+
+The warm front is the boundary that forms as it tries to move into the place of a cold air mass. As warm, moist air is lifted over the colder air mass, cirrus clouds appear.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Cirrus (SEER-uhs) clouds are feathery. They are formed very high in the atmosphere and are made of
+ice crystals. These high clouds are followed by stratus clouds.
+
+Stratus clouds are very low, flat clouds covering a large portion of the sky.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Eventually, nimbostratus clouds develop. Nimbostratus clouds are low- level, layered clouds that indicate rain. Precipitation occurs when air pressure falls.
+
+Air pressure is the force exerted on the earth by the weight of the molecules in the air. A barometer is an instrument that measures air pressure.
+
+Summer rain showers are often followed by hot, humid weather. When the precipitation stops, the air pressure rises.
+
+
+
+** Air Masses and Fronts 					      :drill:
+A stationary front is a weather front that is not moving. A stationary front may stay in an area for days.
+
+The weather of a stationary front is similar to that of a warm front.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Cold fronts move faster than warm fronts and can overtake them. This produces an occluded front.
+
+An occluded front is an interaction of two fronts and three air masses. It results when two cool air masses merge and force a warm air mass between them to rise. Many occluded fronts cause strong winds and heavy precipitation.
+
+When a front passes through an area, the air pressure drops. After the front passes, the air pressure rises.
+
+
+
+** Air Masses and Fronts 					      :drill:
+Air masses are large areas of air that take on the characteristics of the surface over which they form. The air masses studied in this lesson are ones that affect weather in the United States. There are other types of air masses.
+
+Changes in weather occur as different air masses move into an area. A front is the leading edge of an air mass. A front can be cold, warm, or stationary.
+You have an indication something is going to happen by looking at the different cloud formations and feeling the outside temperature changes.
+
+Watch the weather forecasts on television to hear what the meteorologists say about air pressure rising and falling. How is the air pressure affecting the daily change in the weather?
+
+
+
+
+
+** The Forces of Weather 					      :drill:
+Tornadoes, hurricanes, and thunderstorms are dangerous and destructive weather conditions. It is important to understand them in order to know what kinds of precautions need to be taken when one occurs.
+
+In this lesson, you will study the formation of these types of storms. You will learn about some of the different types of instruments, such as Doppler radar, used to measure storm conditions.
+
+
+
+** The Forces of Weather 					      :drill:
+Air pressure has a huge effect on the weather. Air pressure is the force exerted on the earth by the weight of the molecules in the air.
+
+Cool air masses that form over continents are called high pressure systems. A high pressure system is made up of cool, falling air located in the center with winds swirling around. The weather is usually fair with a high pressure system.
+A low pressure system is an area where the air pressure is lower than the areas around it. The weather is usually cloudy with precipitation present in one form or another.
+
+
+
+** The Forces of Weather 					      :drill:
+Low pressure systems that contain warm air are called cyclones. Within the cyclone, cooler air moves in to take the place of the rising warm air. The air currents begin to rotate and then spin. These currents spin counterclockwise in the northern hemisphere and clockwise in the southern hemisphere.
+
+Cyclones can be violent, rotating windstorms or tropical storms that produce stormy, rainy weather. Examples of cyclones include thunderstorms, tornadoes, and hurricanes.
+
+
+
+** The Forces of Weather 					      :drill:
+Tall cumulonimbus clouds, strong winds, heavy rains, lightning, and thunder describe a thunderstorm.
+
+A thunderstorm is produced by large columns of warm, moist air rising from the surface of the earth. The moist air cools and condenses to form tall cumulus clouds.
+
+Cumulus clouds are tall, fluffy, white clouds with flat bottoms seen in good weather but can indicate the start of strong winds and rains. In this case, the cumulus clouds become cumulonimbus clouds.
+
+
+
+** The Forces of Weather 					      :drill:
+A cumulonimbus cloud is a massive vertical cloud containing much moisture resulting from an updraft, a warm column of rising air in a cloud. These clouds are associated with thunderstorms.
+
+Ice crystals circulate on the updrafts, adding more layers of ice. When the
+ice becomes too heavy for the updraft, it falls to the ground in the form of
+hail. Heavy rain and hail pull cold wind down with them. This is the rush of cooler air that can be felt just before a thunderstorm.
+
+
+
+** The Forces of Weather 					      :drill:
+Rain continues until the entire cloud is a downdraft, cool air that falls rapidly downward to the ground.
+
+When warm, moist air stops rising and the rainfall becomes lighter or it stops raining, the air pressure begins to rise again.
+
+
+
+** The Forces of Weather 					      :drill:
+Positive and negative electrical charges build up in the clouds. Lightning occurs when these conditions are present. Lightning is a sudden spark of electricity between clouds or between the clouds and the ground. Lightning causes the air to heat and expand explosively resulting in thunder.
+
+Lightning is very dangerous. It kills more people than hurricanes or tornados. It can also start fires. This is why it is so important to find shelter when you hear thunder in the distance.
+
+
+
+** The Forces of Weather 					      :drill:
+A tornado is a violent cyclone.
+A tornado is a funnel of air extending down from a cumulonimbus cloud to the ground.
+
+A rotating, violent updraft forms the funnel shape of the tornado. Extremely low pressure is found at the center of a tornado.
+
+A tornado usually lasts only a few minutes. However, some tornadoes can last longer and travel many miles across land.
+
+
+
+** The Forces of Weather 					      :drill:
+A tornado is ranked on a scale called the Enhanced Fujita (EF) scale. They are assigned a rating ranging from F0 to F5, according to wind strength and the amount of damage caused.
+
+The "F" stands for Dr. Theodore Fujita, the scientist who developed the scale in 1971. The Enhanced Fujita was implemented in February 2007.
+
+An EF0 tornado causes the least amount of damage, while an EF5 is the most severe tornado possible.
+
+
+
+** The Forces of Weather 					      :drill:
+Hurricanes are not the same as tornadoes. Hurricanes begin over water and can move inland. They are violent cyclones with sustained swirling winds over 74 miles per hour. They can cause flooding, damage to property, and even loss of life. Hurricane winds have been known to reach speeds of 186 miles per hour or higher.
+
+Hurricanes are not formed by fronts. Instead, hurricanes form over tropical waters when air and water are warmest. Warm, moist air rises. Cool air takes its place.
+
+
+
+** The Forces of Weather 					      :drill:
+The rising, spinning, moist air produces cylindrical walls of cumulonimbus clouds. Water vapor feeds the spinning storm, and it becomes larger and stronger. As the water vapor condenses, heat is released and causes the rising air to become less dense.
+
+The earth's spinning causes the Coriolis effect. This makes wind appear to move in a westward direction, regardless of where it originated. It also causes winds to spin counterclockwise in the northern hemisphere.
+
+
+
+** The Forces of Weather 					      :drill:
+The surrounding air moves faster and faster as more water vapor condenses. Hurricane winds swirl around an eye.
+
+The eye of a hurricane has light winds and the weather is mostly clear and calm. Have you ever heard about "the eye of a storm"?
+
+
+
+** The Forces of Weather 					      :drill:
+Hurricanes are more destructive than tornadoes because hurricanes are larger and move more slowly. A hurricane may last six to ten hours over one area.
+
+Heavy rain, strong winds, and high waves can cause much damage. As a hurricane moves inland, the wind begins to slow down. Usually, heavy rain continues for a time.
+
+
+
+** The Forces of Weather 					      :drill:
+Because storms can be very destructive, weather forecasts can save lives and property. Meteorologists are individuals who study weather formations and predict future weather events. Weather predictions begin with measurements of the atmosphere.
+
+Over 8,000 weather stations around the world make weather observations each day at specific times. Various instruments are used to gather the data.
+
+
+
+** The Forces of Weather 					      :drill:
+Wind directions are measured by wind vanes. A wind vane is turned by the wind so it points into the wind. A wind blowing from north to south is called a north wind.
+
+In a low pressure system, winds blow in a counterclockwise direction. In a high pressure system, winds blow in a clockwise direction.
+
+
+
+** The Forces of Weather 					      :drill:
+An anemometer measures the velocity or speed of wind. An anemometer has small arms with small cups attached to the ends.
+
+The cups catch the wind, which spins the arms. Wind speed is measured by meters per second or miles per hour.
+
+A rain gauge measures precipitation. A rain gauge can be any container with straight sides. Rain collects in the container. In the United States, the measurement is reported in inches.
+
+
+
+** The Forces of Weather 					      :drill:
+Air pressure is measured by a barometer. A barometer is a glass tube that is closed on one end and filled with mercury. The open end is placed in a container of mercury.
+
+As air pressure decreases, the mercury falls. The mercury in the tube rises as air pressure increases.
+
+
+
+** The Forces of Weather 					      :drill:
+A more common barometer is an aneroid barometer, made of a small, airtight, metal box. The barometer has a needle that moves upward as the air pressure rises.
+
+Air pressure is measured in inches in the United States. Standard sea-level air pressure is 29.92 inches.
+
+
+
+** The Forces of Weather 					      :drill:
+Weather balloons are released into the atmosphere every twelve hours from hundreds of weather stations.
+
+The balloons carry instruments that radio back readings of temperature, humidity, and air pressure from the higher altitudes. Measurements of upper level winds are noted by the tracking of the balloons.
+
+
+
+** The Forces of Weather 					      :drill:
+Weather satellites provide pictures of clouds.
+
+Night photography records the heat given off by the clouds. Day photography uses sunlight. Satellite photography of the clouds shows low pressure systems and fronts.
+
+Meteorologists can pinpoint the beginning of storms, as well as track the path of storms.
+
+
+
+** The Forces of Weather 					      :drill:
+A radar antenna sends radio waves in all directions. When a radio wave is struck with raindrops or other precipitation, an echo is seen on a radarscope, an instrument used for viewing echoes. The location for the area of precipitation is identified.
+
+Doppler radar detects precipitation and the direction the wind is moving within a storm. The color on the Doppler screen indicates the intensity of the storm and the direction the storm is traveling.
+
+
+
+** The Forces of Weather 					      :drill:
+When all the data is compiled, weather maps are constructed. Isobars are lines on a weather map that connect weather stations that have the same air pressure. Isotherms are lines that connect stations that have the same temperature. Isotherms help to locate fronts.
+
+The unit of air pressure most commonly found on weather maps is called a millibar. It takes 1,013 millibars to equal 76 centimeters (29.92 inches).
+
+
+
+** The Forces of Weather 					      :drill:
+As you can see, thunderstorms, hurricanes, and tornadoes are powerful storms not to be taken lightly. Though they can bring much needed rain, they can also cause a great amount of damage.
+
+However, there are a variety of instruments that keep track of such storms and can send warnings, many times in advance of an approaching storm.
+The next time you have the opportunity to watch the weather forecast on TV, see if you have a better understanding of how weather forecasting works.
+
+
+
+
+
+** Weathering 							      :drill:
+Have you ever wondered how the Grand Canyon was formed or where soil comes from? Did you know the same processes are at work in the formation of both? The Grand Canyon and soil are both formed by weathering.
+
+This lesson will teach you about different types of weathering that occur on the earth's surface. It will also teach you about the three main types of rocks and how rocks are affected by weathering.
+
+
+
+** Weathering 							      :drill:
+Weathering is the breaking down and wearing away of the earth's rocks by the earth's atmosphere. Rocks change when they are exposed to air, water, temperature changes, pressure, bacteria, animals, and plants.
+
+Some rocks are made of one mineral, while others are a combination of several minerals. Most rocks are made from particles of other rocks.
+
+Knowledge of different rock types will help you understand the process of weathering.
+
+
+
+** Weathering 							      :drill:
+There are three main rock types: igneous, sedimentary, and metamorphic.
+
+Look at the meaning of the root words to determine the differences among the three rock types.
+
+
+
+** Weathering 							      :drill:
+The word igneous means fire. Igneous rock is formed when molten rock hardens and cools. This rock originates below the earth's surface.
+
+When the melted rock, or magma, is forced up to the earth's surface, it is called lava. Lava flows and volcanic ejections such as ash, dust, and cinder, are examples of magma that have reached the earth's surface.
+
+
+
+** Weathering 							      :drill:
+Rocks formed by cooling lava are called extrusive igneous rocks. The prefix ex- means out or outward. Therefore, extrusive means the rock has moved out from under the mantle or covering of the earth and onto the earth's surface.
+
+Basalt and obsidian are two examples of extrusive igneous rocks.
+
+
+
+** Weathering 							      :drill:
+Not all igneous rocks are formed from magma that reaches the earth's surface. Magma can also cool and form igneous rock within the earth.
+
+The heat and pressure within the earth force magma to move, causing some of it to enter the cracks of other rocks. Rocks formed in this way are called intrusive igneous rocks, because the magma "intrudes" into other rocks.
+
+
+
+** Weathering 							      :drill:
+Sometimes the heat is so intense the surrounding rock melts. At some places within the earth, the force is so great the surrounding rock breaks, crushes, folds, or is forced upward.
+
+Common intrusive igneous rocks are granite, quartz, potash, and feldspar. These are very hard rocks, because they were formed under intense pressure. Quartz is so hard that it resists weathering better than any other common mineral.
+
+
+
+** Weathering 							      :drill:
+The word sedimentary means to settle. A sedimentary rock is formed when mineral fragments, such as small pieces of shells, soil, older rocks, and dead plants and animals, settle in different layers. Over millions of years, these sediments accumulate and become cemented together. You can usually see the layers of sediment in these rocks.
+
+Shale, sandstone, coal, and limestone are a few examples of sedimentary rocks.
+
+
+
+** Weathering 							      :drill:
+The prefix meta- means to change, and morph means to have a form. Therefore, the word metamorphic means to change form.
+
+A metamorphic rock has changed from one kind of rock into another. Any type of igneous or sedimentary rock can become a metamorphic rock.
+
+
+
+** Weathering 							      :drill:
+Have you ever squeezed and mashed a slice of bread until it became a dough ball? The density and texture of the bread changed under the heat and pressure from your hands. This is similar to how a metamorphic rock is formed.
+Sedimentary or igneous rocks are changed into metamorphic rocks by heat and pressure deep within the earth. The heat and pressure are so intense they can actually change the size and shape of the grains within a rock, but they do not melt the rock. Changing the grains within a rock changes the rock's appearance, texture, crystal structure, and mineral content.
+
+Slate is an example of a metamorphic rock formed from the sedimentary rock shale.
+
+
+
+** Weathering 							      :drill:
+Rocks pass through a rock cycle. First, the magma melts and is forced upward or into other spaces. Then the magma cools and forms an igneous rock.
+
+Weathering and erosion occur, and sediments are broken apart by chemicals or physical actions. The sediments are then moved by wind, water, or other means. They compact and cement together to form a sedimentary rock. The heat and pressure of mountain building can change the rock to metamorphic rock, and the cycle continues.
+
+
+
+** Weathering 							      :drill:
+Weathering is the combined process in which rock is decomposed and disintegrated due to exposure at or near the earth's surface.
+
+Rocks change by two different processes:
+
+1) physical (mechanical) weathering
+2) chemical weathering
+
+These two processes can act together, although one may have more influence than the other.
+
+
+
+** Weathering 							      :drill:
+What is the difference between physical weathering and chemical weathering?
+
+Physical weathering breaks rocks apart without changing their chemical makeup.
+
+Chemical weathering changes the minerals that make up the rock.
+
+
+
+** Weathering 							      :drill:
+Physical weathering occurs when rocks are broken down by any kind of mechanical means.
+
+When water gets into spaces or joints in the soil or rock and then freezes, ice forms and expands the joint. When the ice melts, the expanded joint allows more water inside. More water can now enter the larger joint and then refreeze, starting the process over again.
+
+Even a hairline crack can become larger and larger until it can break apart huge boulders.
+
+
+
+** Weathering 							      :drill:
+Exfoliation is another form of physical weathering. Exfoliation is the peeling of large curved sheets from a rock. It is like peeling an orange. Exfoliation leaves dome-like hills and rounded boulders on the earth's surface.
+
+Exfoliation often occurs in granite. Granite is formed under great pressure within the earth. If granite is raised to the surface, it will expand due to the decrease in pressure. The expansion causes cracks or joints to form in the rock.
+Exfoliation occurs where the rock's joints are slightly curved, closely spaced, and parallel to the surface. A layer of rock peels off at these joints exposing the layer underneath.
+
+
+
+** Weathering 							      :drill:
+Plants can also break rocks apart. Have you ever seen trees and plants growing from what seems to be a solid rock boulder or wall?
+
+The plants probably began as a seedling in a tiny spot of dirt that was in a crack in the rock. As the plant grew, the pressure of the roots broke the rock apart. Over time, the rock changed into tiny grains of sand and then into soil.
+
+
+
+** Weathering 							      :drill:
+Soil is one product of weathering. Soil is being made constantly as bedrock breaks up. Bedrock is the layer of solid rock that is found under all soil.
+
+Soil is the result of boulders breaking into smaller and smaller pieces. When the smaller pieces combine with water, air, chemicals, dead plants, and animal remains, soil is formed.
+
+
+
+** Weathering 							      :drill:
+Topsoil is the upper surface of the earth's crust and is made of sand, silt, and clay mixed with decayed organic matter called humus.
+
+Topsoil is a vital resource, because it nourishes all plant life, which is the base of the food chain.
+
+
+
+** Weathering 							      :drill:
+Chemical weathering occurs when the minerals in a rock react to water, oxygen, and acids in the environment. New substances in a rock often result due to chemical weathering.
+
+Chemicals can be absorbed by rocks. Some rocks release chemicals into the soil. These chemicals can then be moved by water or wind to different locations.
+
+
+
+** Weathering 							      :drill:
+Do you think of water when you hear the word chemical? You may not think of water as a chemical, but it is the most important chemical weathering substance. Water reacts with chemicals in rocks to cause many different forms of chemical weathering.
+
+One form of chemical weathering is called leaching. Leaching occurs when water seeps into a rock or topsoil, then dissolves and washes away some of the minerals. When the minerals are washed away, the rock can begin to break apart.
+
+
+
+** Weathering 							      :drill:
+Hydration occurs when certain chemicals in a rock combine with water, causing a chemical reaction and the formation of a new substance.
+
+The concrete in your driveway was formed by hydration. Concrete is made from cement, a combination of ground and heated limestone, sand, clay and iron ore. When water is added to cement, a chemical reaction occurs causing heat that changes the original materials in the cement into another substance. The new substance hardens and becomes concrete.
+
+
+
+** Weathering 							      :drill:
+Oxidation is another form of chemical weathering. When minerals combine with oxygen in the air or water, they form a new substance called an oxide.
+
+Oxides may be yellow, orange, red, or brown. The oxide on copper is green in color, and the oxide on iron is red or rusty.
+
+Some soils and clays are stained by their oxide content.
+
+
+
+** Weathering 							      :drill:
+Water combined with or reacting to gases in the air can form acids that dissolve some minerals.
+
+Carbonic acid is formed when rain and groundwater combine with carbon dioxide. Carbonic acid dissolves limestone, forming caves and caverns.
+
+Other acids form in similar ways and are a major factor in chemical weathering.
+
+
+
+** Weathering 							      :drill:
+The rate of weathering of any material is determined by several factors. The size and number of joints a rock has is one factor. A second factor is the climate. Another important factor is the mineral content of a rock.
+
+Limestone is subject to chemical weathering and weathers easily in moist climates. Quartz is mostly immune to chemical weathering due to its hardness.
+Intrusive igneous rocks resist physical weathering because they are the hardest and densest of all rocks.
+
+Sedimentary rocks weather easily because they are formed under the least amount of pressure and heat.
+
+All rocks undergo changes as they progress through the rock cycle. The next time you pick up a rock, take a look to see if you can determine the type of rock it is and if it has undergone any form of weathering.
+
+
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Seismic waves are used by scientists in many ways. They help scientists understand the makeup of the earth's layers and are useful in studying the impact of volcanoes and earthquakes.
+
+This lesson will help you understand more about seismic waves, the earth's layers, and volcanoes.
+Have you ever been near a train when it passed by? Did you feel the vibrations coming from the ground?
+
+The vibrations of the train passed through the earth in a type of wave. Earthquakes and volcanoes also produce waves which pass through the earth. These waves are called seismic (SIZ-mihk) waves.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Seismic waves are detected and recorded by a seismograph
+(SIZ-muh-graf). Scientists know  earthquakes produce two categories of seismic waves at the same time: body waves and surface waves.
+Surface waves travel along the earth's surface at lower frequencies than body waves. Love and Rayleigh waves are types of surface waves.
+
+Body waves can travel through the earth's interior. Primary waves and secondary waves are types of body waves.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Primary waves (P waves) work like the waves in a slinky toy when you push on one end.
+
+These waves move by pushing and pulling on the matter they travel through.
+
+P waves can move through both solids and liquids. P waves travel at the highest frequency of all seismic waves.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Secondary waves (S waves) are only able to travel through solid rock. S waves travel perpendicularly to the direction of the wave's motion.
+
+If an S wave is traveling out, its wave motion will be up and down. If it is traveling up, its wave motion will be side to side.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Changes occur in waves as they pass through different materials. Using information about the speeds and changes of body waves, scientists have determined the earth is made up of four main layers: the crust, the mantle, the inner core, and the outer core.
+
+Scientists can determine if the material in each layer is liquid or solid by studying S and P seismic waves.
+
+P waves travel quickly when moving through a solid, and they slow down as they pass through a liquid.
+An S wave disappears completely when it reaches liquid. S waves are instrumental in letting scientists know which of the earth's layers are solid rock and which are liquid.
+
+Scientists have also determined the composition of these layers by studying the materials emitted from volcanoes. Through the use of observation, and by studying seismic waves, scientists have learned much about the composition of the earth's interior.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+The inner core, outer core, mantle, and crust are the four layers of the earth.
+
+Deep within the earth is the very heavy core. The core is made of a solid inner core and a molten outer core.
+
+The inner core begins at over 5,100 kilometers (3,170 miles) below the earth's surface. It is solid iron. The inner core has a radius of approximately 1,216 km (756 miles). This makes it slightly smaller than the moon.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Scientists reason the outer core is liquid iron and nickel. It is about 2,000 to 2,250 kilometers thick (1,240 - 1,530 miles). The temperature in the outer core ranges from 2,200º C to 5,000º C (3,990º F - 9,030º F).
+
+The core, including both inner and outer layers, has a radius of about 3,500 to 3,800 kilometers (2,180 - 2,360 miles). The core is similar in size to the planet Mars. The core makes up about one third of the earth's mass.
+Think of it this way. One third of all the material that makes up the earth is found in the core. However, the core represents only about 19% of the earth's volume.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+The next layer out from the core is the mantle. The mantle is the thickest of the earth's three layers, about 2,870 kilometers (1,780 miles). It makes up about two thirds of the earth's mass and 80 percent of its volume.
+
+Seismic waves suggest rocks can flow like liquid in the mantle. The mantle is made up of oxygen, silicon, iron, and magnesium. The upper part of the mantle consists mostly of magma, or melted liquid rock.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+The Moho is a boundary between the earth's crust and the mantle.
+
+A young scientist named Andrija Mohorovic found that seismic waves change speed a little below the earth's surface. He reasoned that the waves had to pass through a different substance which offered more resistance to cause this change. He theorized that the rock at this level had a different density from the crust above and the mantle below. This density boundary is now called the Moho, named after the young scientist who first made this discovery.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+The crust is the outside cover of the earth. It is a thin, solid layer of varying thickness.
+
+At the sea floor, the crust is from 4 to 7 kilometers thick. It is about 35 kilometers thick under the continents. Beneath mountains, the crust is as much as 70 kilometers thick.
+
+The crust only makes up about 1% of the earth's volume.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+The lithosphere (LIHTH-uh-sfeer) consists of the crust and the upper mantle. The crust forms the top of the lithosphere.
+
+The lithosphere is broken up into nine major plates. The plates drift on hot, molten magma in the mantle.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+The theory of plate tectonics is based on the idea that the earth's crust is made up of moving plates.
+
+Somewhere in the lower crust or upper mantle of the earth, there are pockets of molten magma. The temperature of the magma is between 500 degrees to 1,200 degrees Celsius. Because magma is hot liquid, it is less dense than the surrounding rock. It rises toward the surface of the earth with great force and either pushes the rock out of its way or melts it.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+As magma rises toward the surface of the earth, it may flow through a line of cracks called fissures. The magma may cool and harden into solid rock before it reaches the earth's surface.
+
+Sometimes magma may reach the surface through an opening in the earth's crust called a vent. This forms a volcano.
+
+A volcano is a vent through which gas, ash, and magma erupt onto the earth's surface.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+A volcano often has several vents. The vent is just one part of a volcano. Volcanoes have many different parts. A fumarole is a volcanic vent or opening which allows gas and smoke to exit.
+
+A round hole or pit around the vent is called a crater. When the sides of the crater collapse, or when the top of a volcano collapses or explodes, a caldera is formed where the crater once was. Calderas are usually steep-walled, basin-shaped depressions.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+When heat and pressure build up inside the earth, magma is pushed up through a pipe in the volcano to the vent.
+
+When magma reaches the earth's surface, it is called lava. When lava flows out of a vent, the volcano is said to erupt. If lava pours through a vent in the side of a volcano, it is called a lateral eruption.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+When a volcano erupts, it can release poisonous gases into the air which can kill living things. Volcanic eruptions typically spew very hot lava into the air.
+
+The lava hardens to form volcanic dust, ash, cinders, and bombs. Volcanic dust is very fine and can be carried hundreds of miles from the eruption by the wind. Volcanic ash is rock particles that measure .25 millimeters to 5 millimeters in diameter.
+Ash and dust can accumulate so deeply near the volcano that land and buildings are buried. Clouds of ash and dust can block out part of the sunlight and cause a cooling of the atmosphere far away from the site of the eruption.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+In 1815, the largest volcanic eruption in history occurred when Tambora erupted in Indonesia. It sent volcanic ash and dust 45 kilometers (28 miles) into the air. The weather was affected as far away as Europe and the United States.
+
+Volcanic ash in the atmosphere caused these regions to have unusually cool temperatures from late spring to early autumn. The cool temperatures caused crops to fail and resulted in a famine.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Volcanic cinders are rocks about the size of golf balls. When they are blasted from the volcano, they are molten. They harden as they travel through the air.
+
+When the cinders are very large, volcanic bombs are formed. These can be as large as boulders.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Volcanic eruptions are not all alike. Some eruptions are violent, and some are quiet.
+
+Whether violent or quiet, the way a volcanic eruption occurs is determined by the kind of magma and types of rocks found inside the vent. There are three types of volcanoes: cinder cones, shield volcanoes, and composite volcanoes or stratovolcanoes.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Cinder cones are formed from explosive eruptions of ash and cinders that build up around the vent. A tall, narrow mountain forms around the vent. A cinder cone is usually 800 to 1,000 feet in height.
+
+Cinder cones can occur as single volcanoes or in clusters around shield and composite volcanoes.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Stratovolcanoes, or composite volcanoes, begin with an explosion followed by quiet lava flows. These volcanoes are usually large, cone-shaped mountains formed by alternating layers of lava flows and volcanic ash.
+
+Stratovolcanoes can have a single vent or a cluster of vents atop their summits. The summit has a large dome-shaped crater.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Often the vent has been sealed by old hardened lava and gases trapped in the pipe. Thick magma further clogs the pipe.
+
+These actions cause a tremendous amount of pressure to build up. The pressure can build to such a great extent that the entire top of the mountain can be blown off in a violent eruption.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+In May 1980, Mount St. Helens in the state of Washington erupted along the side and near the top of a vent. This blast sent volcanic materials upward as well as to the side. It was a violent volcanic eruption.
+
+Mount Fuji in Japan is a mountain formed by a stratovolcano. It has an active volcano at its summit.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Shield volcanoes are volcanic mountains formed by layer upon layer of quiet lava flows.
+
+The magma within shield volcanoes is thin, so the vents do not become blocked. Very little pressure builds up in a shield volcano. Their eruptions are gentle, followed by a steady stream of thin, liquid lava.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Shield cone volcanoes usually cover a wider area than other volcanoes because the lava is thinner. Shield volcanoes form broad, flat mountains.
+
+The Hawaiian Islands are a group of shield cones which built up over a hot spot on the Pacific Ocean floor.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Mount Kilauea is located in Hawaii. It has been erupting for centuries and is the world's most active volcano.
+
+Kilauea eruptions have not been explosive. Rarely is anyone injured by its eruptions because the lava flows so slowly.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Volcanic activity and major earthquakes most often occur in three zones of the world.
+
+One area is called the Ring of Fire. This area is where the most active volcanoes on earth are found. The Ring of Fire extends from the Pacific Ocean coast along western North and South America, across the Pacific through New Zealand, Japan, the Philippines, Alaska, and back to North America. The San Andreas fault in California is part of this zone.
+A second zone extends across Asia into India. There are numerous earthquakes here.
+
+The third zone extends from Iceland to the middle of the Atlantic Ocean.
+
+
+
+** Layers of the Earth and Volcanoes 				      :drill:
+Volcanoes and the earth's layers are closely related. The gases emitted from a volcano give scientists a chance to know what types of gases are present inside the earth.
+
+Volcanic eruptions of magma allow scientists to study the composition of materials usually found in the earth's mantle.
+
+Seismic waves are further used to study and understand the makeup of the earth's interior.
+Even with all that scientists know about the earth's layers, less is known about the interior of the earth than about the sun.
+
+Perhaps one day you will become a scientist who helps further an understanding of the earth's layers. Your research could help people prepare for the various events that occur on the earth.
+
+
