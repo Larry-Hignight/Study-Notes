@@ -46,10 +46,10 @@ _Science Test Results_  Last Updated:  6/28/2018
 | The Forces of Weather                    |   90% | 7/23   | Scraped      |         |           |        |
 | Weathering                               |  100% | 7/23   | Scraped      |         |           |        |
 | Layers of the Earth and Volcanoes        |   90% | 7/23   | Scraped      |         |           |        |
-| Plate Tectonics                          |       |        |              |         |           |        |
-| Earthquakes                              |       |        |              |         |           |        |
-| The Earth's Rotation                     |       |        |              |         |           |        |
-| The Earth's Revolution                   |       |        |              |         |           |        |
+| Plate Tectonics                          |   80% | 7/23   | Scraped      |         |           |        |
+| Earthquakes                              |   80% | 7/23   | Scraped      |         |           |        |
+| The Earth's Rotation                     |   70% | 7/23   | Scraped      |         |           |        |
+| The Earth's Revolution                   |   70% | 7/23   | Scraped      |         |           |        |
 | The Moon                                 |       |        |              |         |           |        |
 | Constellations                           |       |        |              |         |           |        |
 | Advances in Technology                   |       |        |              |         |           |        |
