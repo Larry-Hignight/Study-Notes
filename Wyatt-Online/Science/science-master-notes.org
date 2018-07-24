@@ -2844,7 +2844,7 @@ They live in a variety of environments, move in many different ways, and serve d
 | rusts, smuts, yeast, mushrooms (also fungi) |          |                                               |                |            |          |            |                                   |                              |                                                                            |
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Water takes up the majority of our planet and is essential to all living things. This lesson will discuss the location of the oceans of the world and explain the composition of ocean water.
 
 You will discover what types of organisms inhabit various depths of the ocean and learn how different sea creatures live together in their environment.
@@ -2852,18 +2852,16 @@ You will discover what types of organisms inhabit various depths of the ocean an
 You will also learn about the water cycle and how it affects the earth.
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 
 
-
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 All living things must have water to live; however, water is a substance that most people take for granted.
 
 Freshwater is one of the earth's most important natural resources. More than 500 billion liters of water are used every day in the United States.
 
 
-
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Hydrologists are scientists who study water on land, in the air, and in oceans.
 
 Water is a polar covalent bond because the electron is shared unevenly.
@@ -2872,21 +2870,21 @@ As a result, water is an excellent solvent. A solvent is a substance into which 
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Ocean water covers about three quarters of the earth's surface and is a mixture of gases and solids dissolved in pure water.
 
 Ocean water is about 96% pure water. The other 4% consists of dissolved minerals. The most common dissolved mineral found in ocean water is sodium chloride, also known as salt. This is why ocean water is salty.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Even though 4% is a small percentage, ocean water is still too salty to be useful. It is too salty to drink or to use in a bath or shower. Ocean water cannot be used to water crops or in manufacturing.
 
 Desalination is the process of removing salts and other minerals from seawater. This is an expensive process. If the cost could be lowered, desalination could become an important source of freshwater.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 There are five major oceans on earth. Can you name them?
 
 The Pacific Ocean is located on the west coast of North America. The Atlantic Ocean is located on the east coast of North America. The Indian Ocean is found between Africa and Asia. The Arctic Ocean is north of North America. The Southern Ocean surrounds Antarctica.
@@ -2895,56 +2893,56 @@ These five oceans are connected to each other. Look at their locations on the ma
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Surrounded by ocean water are large continuous land masses called continents. The earth consists of seven continents: North America, South America, Europe, Asia, Africa, Australia, and Antarctica.
 
 Some portions of the continents' edges are actually under water. These parts are called the continental shelf.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 A saltwater marsh is an ecosystem with very shallow saltwater. A saltwater marsh is located where rivers empty into oceans.
 
 A coral reef is the underwater buildup of limestone skeletons from certain small animals called coral. These organisms do not live in waters colder than 18 degrees Celsius. Coral reefs are found only in the warmer waters of the Caribbean Sea and Pacific Ocean.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 The ocean is full of organisms that swim, drift, or crawl along the ocean floor. Organisms that drift with the ocean currents are called plankton.  Plankton are tiny floating forms of plants and animals. Some plankton are microscopic while others are much larger.
 
 Algae, seaweed, and jellyfish are all types of plankton. Plankton is the main food for many organisms, including whales, the largest organisms on earth.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Benthos are the sea creatures that live on the ocean floor. Some may also live on the shallow continental shelf.
 
 Some examples of benthos are oysters, clams, and mussels. Many benthos are used as food by humans.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Free swimmers are organisms that swim through a variety of depths in the ocean. Dolphins, whales, sea turtles, and fish are all free swimmers. They move through the ocean in search of food, shelter, and companionship.
 
 Ocean organisms depend upon each other for their survival.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 The food chain in the sea is just as important as the food chain on land. A food chain shows the movement of energy (in the form of food) from one organism to another.
 
 A food chain is made up of consumers and producers. A consumer is an organism that eats other organisms. A producer is an organism, usually a plant, which can produce its own food and provide food for other organisms.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 The ocean food chain begins with plankton. Phytoplankton, a very simple form of life, are eaten by zooplankton, small shrimp-like krill, and other animal plankton. Small fish feed on zooplankton and fish larvae.
 
 The next level of the food chain is the pelagic fish. These are fish which travel in large groups and often migrate long distances. Some pelagic fish are herring, mackerel, and tuna.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Marine mammals are at the top of the ocean food chain. Dolphins, seals, and whales are all marine mammals.
 
 Also connected to the food chain are bottom dwellers and dead organisms. The remains of dead organisms on the ocean floor are called ooze.
@@ -2953,14 +2951,14 @@ The sea is a rich source of food and minerals.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 The sun is the heat source for ocean water. Ocean water is warmer at the surface than at the bottom because the sun's heat and light cannot reach deep ocean depths. Ocean waves and currents mix the warm and cold water.
 
 The flow of water in a definite direction is called a current. There are ocean currents as well as currents in lakes, rivers, and streams.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Sunlight penetrates the ocean to about 200 meters. The area above this depth is called the photic zone.
 
 Sea animals that depend on sunlight, as well as green plants that undergo photosynthesis, must live within this zone.
@@ -2969,28 +2967,28 @@ Photosynthesis is the process by which green plants use sunlight to make food.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Below the photic zone is the bathyal zone. It begins at the continental shelf and extends downward about 2,000 meters.
 
 No sunlight reaches this zone. Squid, octopus, and a few large whales live here.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Even deeper is the abyssal zone. This zone could extend another 4,000 meters. Little food is found here, so there are few living organisms.
 
 The organisms that do live here are usually very small and very strange. Anglerfish and anoplogaster are two of the unique organisms found in the depths of the abyssal zone.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 About 3% of the earth's water is freshwater. Freshwater is found in ice or icecaps, moving water, and standing water.
 
 Most of the usable freshwater is found in rivers, streams, springs, ponds, lakes, and wetlands. Most living things require freshwater to live.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Freshwater is used over and over again. It moves in a continuous cycle known as the water cycle. There are three steps in the water cycle:
 
 evaporation
@@ -2999,19 +2997,19 @@ precipitation
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 During evaporation, the sun's heat energy causes the surface water on the earth to evaporate, or change from liquid into a gas. The gas form of water is called water vapor.
 
 Water evaporates from freshwater, oceans, the soil, and plants.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 During condensation, water vapor changes back to a liquid. The warm air rises and cools. This causes water droplets to form in clouds.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Precipitation forms when water droplets in the clouds become cool and get too heavy to remain in the air.
 
 Precipitation falls in the form of rain, snow, sleet, or hail.
@@ -3020,7 +3018,7 @@ The cycle begins again. A cycle has no end; it is a continuous process.
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 Because water is vital to all life on earth, it is very important that we not waste it. Here are a few conservation practices that we can follow:
 
 Wise people take quick showers, not full-tub baths.
@@ -3031,7 +3029,7 @@ Do not use running water to brush your teeth. Turn off the water and use only wh
 
 
 
-** Ocean Life  :drill:
+** Ocean Life 							      :drill:
 We are fascinated with deep water and the ocean because it is so large and mysterious. Thousands of interesting organisms live in ocean water in a variety of habitats.
 
 Water is essential to all living organisms, even to those that do not live in it. Water is needed for drinking, bathing, and cooking. It is used to water crops and in manufacturing. Water is a very important natural resource.
@@ -3040,68 +3038,68 @@ Water is essential to all living organisms, even to those that do not live in it
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 Have you ever wondered how so many living things are able to live together and survive? This lesson will discuss how behavioral adaptations and control systems increase an organism's chance for survival. We will also discover that living things respond to stimuli by changing their behavior patterns.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 Organisms are living things, and they are all around us. There are the obvious living things such as people, animals, and plants; but other living things include bacteria, fungi, and viruses.
 
 The surrounding environment affects these living things. They respond to a stimulus, which influences their activities and causes them to change their behavior. For example, if a cat is chasing a mouse, the mouse will respond by running away and hiding. The cat is the stimulus in this example.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 A behavior is an action that changes the relationship between a living thing and its environment. Organisms can respond to both external and internal stimuli causing a behavior to occur.
 
 Internal stimuli help an organism to survive. Hunger is an internal stimulus. Hunger must be satisfied with food which is necessary for the survival of living things. A polar bear knows to look for water to drink when it feels thirsty. Thirst is another example of an internal stimulus. Water is necessary for survival.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 Living things respond to external stimuli by changing their behavior. They respond due to a change in their environment or in reaction to other organisms. An example of an external stimulus is the reaction of an animal when it sees a predator, as in the cat and mouse example.
 
 Sometimes responses to stimuli are learned reactions, and sometimes they are innate. Innate responses are natural responses that an organism is created with.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 The nervous system allows an organism to do things such as gather food and escape from predators. Over time, organisms have become more complex, and their nervous systems have continued to advance.
 
 Most animals also have a sensory system that consists of taste, touch, sight, sound, and smell. These senses are necessary for the animals to remain aware of situations in their environment. The sensory system is useful in behaviors such as mating, nesting, food gathering, and communication.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 Animals and other organisms are confronted with various stimuli. They must be aware of the environment around them and be able to adapt. An adaptation is any trait that gives a plant or animal an advantage in its environment. The reason for adaptation is to increase an organism's chance for survival and reproduction.
 
 Adaptations are different for different species and can take thousands of years to evolve. When a species is no longer able to adapt, it will become extinct.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 Behavioral adaptations affect the way a living thing acts or behaves. Animals often use their instincts to determine how they should respond in certain situations.
 
 An instinct is a behavior that an animal is born with. Instincts help animals find food, raise their young, and protect themselves. Behavioral adaptations and instincts can increase an organism's chance for survival.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 Some animals "play dead" so they can trick their predators or prey. Predators will sometimes leave if they think their prey is dead. In reverse, a predator may play dead to entice an animal closer so it can then attack.
 
 Another example of behavioral adaptation is migration. Migration is the movement of an animal to a different place where there are better conditions such as food, shelter, and warmer temperatures. A bird flying south for the winter is an example of migration.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 Another behavioral adaptation is mimicry. Mimicry is displayed when a weaker animal copies the behavior of a stronger animal in an effort to survive.
 
 With the use of behavioral adaptations, organisms increase their chance of survival and the continuation of the existence of their species.
@@ -3110,21 +3108,21 @@ In addition to behavioral adaptations, living things have other internal control
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 As the seasons change and the temperatures get colder, some animals must protect themselves from the changing environment. These animals instinctively know that to avoid the lack of sunlight, food, and warmth, they must hibernate.
 
 These animals survive the harsh winter months by sleeping in a safe, warm place until springtime. During hibernation, they use very little energy and live off stored fat. If they did not hibernate, the lack of food and warmth would jeopardize their survival. Some animals that hibernate are bears, snakes, and squirrels.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 Have you ever seen an insect that blended into the tree branch that it sat on? Camouflage is another example of an internal control system that aids in the survival of an organism.
 
 Camouflage is a protective coloration that causes a living thing to blend into its background. This allows an animal to hide from its predators or to attack its prey.
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 Some lizards change colors depending on the surface on which they are sitting. When a lizard blends into its background, the insects it is waiting to capture cannot see it.
 
 Hibernation and camouflage are two internal control systems that increase the survival rate of some living things.
@@ -3136,7 +3134,7 @@ Many organisms have a brain that controls the nervous system. The nervous system
 
 
 
-** Living Things :drill:
+** Living Things 						      :drill:
 The nervous system allows an organism to do things such as gather food and escape from predators. Over time, organisms have become more complex, and their nervous systems have continued to advance.
 
 Most animals also have a sensory system that consists of taste, touch, sight, sound, and smell. These senses are necessary for the animals to remain aware of situations in their environment. The sensory system is useful in behaviors such as mating, nesting, food gathering, and communication.
@@ -3147,16 +3145,12 @@ Most animals also have a sensory system that consists of taste, touch, sight, so
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 This lesson will explain that organisms on earth today have adapted over time. You will learn that the earth today is the result of billions of years of evolution and that fossils show these changes.
 
 
 
-** Evolution  :drill:
-
-
-
-** Evolution  :drill:
+** Evolution 							      :drill:
 A History of Life on Earth
 
 Millions of different kinds of plants and animals live on the earth. Many millions more lived on earth in the past. Where did they all come from, and why have some died out and others lived on? Why have so many different forms of life developed on the earth?
@@ -3165,35 +3159,35 @@ Here is a brief and incomplete history of early life on earth and how it has cha
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 When the earth first formed, it was covered with erupting volcanoes, and the air was filled with poisonous gases. There was no liquid water. When the earth was a few hundred million years old, its surface finally cooled enough for water to collect and form oceans.
 
 Scientists believe the first life forms on earth were simple, single-celled organisms that lived more than 3 billion years ago. For more than a billion years, simple bacteria were the only form of life on earth. Some scientists think that these bacteria originated near deep-sea hydrothermal vents.
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 Evidence for this history is found in microfossils taken from South Africa and Australia. Microfossils are too small to be seen without using a microscope.
 
 Fossil records show that simple animals, such as jellyfish, were first seen in the ocean around 600 million years ago. Creatures such as hard-shelled trilobites appeared next around 520 million years ago. Then, fish with backbones were seen in the fossil record about 470 million years ago.
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 Mosses and ferns were first found in water according to the fossil record. Around 400 million years ago, mosses and ferns were found in fossils from land and were followed soon after by insects and small amphibians.
 
 In that same time, giant ferns and club mosses formed huge swampy forests. Dragonflies with wings two feet across flew among plants that grew fifty feet tall. These developed about 330 million years ago.
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 Reptiles appeared in the fossil record around 230 million years ago. Some of those reptiles were dinosaurs. Dinosaurs were on earth for around 160 million years before they became extinct. Small mammals that evolved into large plant eaters and predators appeared around 40 million years ago.
 
 Modern humans appeared in the Middle East and Africa around 130,000 years ago, but the history of humans goes back much farther than that.
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 What is clear from a history of life on earth is that life has changed over time. As life forms changed through history, many plants and animals became larger and stronger. Some of the very first forms of living things, like bacteria, are still on earth and are still changing.
 
 A Theory of Life Changes Over Time
@@ -3203,28 +3197,28 @@ Johann von Goethe (1749-1832) and Jean Baptiste de Lamarck (1744-1829) were two 
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 In 1858, Charles Darwin (1809-1882) and Alfred Wallace (1823-1913) separately presented theories to explain how and why new forms of life develop. Darwin became the most famous person to explain how organisms adapt over time.
 
 This idea is called the theory of evolution. Evolution is the process by which species gradually change over time.
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 A theory is a belief or idea based on information or knowledge people have about a subject. It is a carefully considered explanation that deals with  known facts. It is an opinion that a person offers as possibly true but not positively true.
 
 Darwin studied plants and animals from many parts of the world. He learned the number of offspring produced is greater than the number of offspring that survive. He reasoned that if all the offspring lived, the world would have too many plants and animals. This is called overproduction.
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 Only animals that were best able to escape predators and only plants strong enough to survive lived to become parents. Only the organisms best suited to their environment survived. Darwin called this process natural selection, or survival of the fittest.
 
 An adaptation is any trait that gives a plant or animal an advantage in its environment. A good example of adaptation is the saguaro cactus in the deserts of southwestern United States.
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 The saguaro cactus stem has folds that work like the pleats of an accordion. The stem of the cactus expands to store water when rain falls. Then the cactus and some animals use that stored water during the dry seasons.
 The plants and animals that survive have certain natural differences. These are called genetic traits or variations. These genetic variations are features that best help the plant or animal to survive.
 
@@ -3232,14 +3226,14 @@ A genetic variation could be whether the plant or animal was taller or shorter, 
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 The theory of evolution came about as Darwin watched species of finches that live in the Galapagos Islands. The word species is Latin for "appearance" or "kind." Darwin saw that some of the species of finches were like each other, but they were different from finches living in nearby South America.
 
 The theory he developed from watching the finches was that a single species of finch must have flown onto the Galapagos Islands from South America. Then, that species changed little by little as each generation adapted to life on the islands.
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 The large ground finch has a strong, wide beak that can crack open seeds. The large tree finch has a beak that can grasp and trap insects. The cactus finch has a long, pointed beak it uses to puncture the cactus plants.
 The vegetarian finch has a curved beak for taking large berries from a branch. The woodpecker finch uses a long, pointed beak to hold a twig. It uses the twig to pull the larvae of insects out of holes in the trees.
 
@@ -3247,7 +3241,7 @@ Darwin noticed that the finches could no longer mate and have offspring with the
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 Another Theory of Change: Mutation
 
 When some plants and animals have offspring, something unusual happens. Completely new features appear in the genetic material. These are called mutations.
@@ -3256,14 +3250,14 @@ Some mutations are harmful and cause the plant or animal to die. Some mutations 
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 A plant or animal that is supposed to be born with color being born without color is a harmful mutation. An animal with this mutation is called an albino. Predators usually kill these albinos easily because they do not blend with their surroundings very well.
 
 A useful mutation would be something that helps plants and animals blend into their surroundings. Another useful mutation would be for a fish with a flat fin on its tail to develop a curved fin. Curved fins on their tails help fish swim faster. They would then be able to get away from predators more easily.
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 Common Origins
 
 Many scientists believe that characteristics shared by all living things are the result of common ancestry. They believe that differences in living things are the result of adaptation to different environments.
@@ -3271,14 +3265,14 @@ For example, birds all have a common origin. Many scientists believe that all bi
 
 
 
-** Evolution  :drill:
+** Evolution 							      :drill:
 Some became nocturnal hunting birds like owls. Others became seed eaters or insect eaters. Some became fishing birds, and others became flightless birds, like the emu, ostrich, or penguin.
 
 Each species adapted to the environment and food available in that area.
 
 
 
-** Evolution :drill:
+** Evolution 							      :drill:
 Each species, whether a mammal, amphibian, insect, or plant, spread out into different environments and habitats and adapted as needed. This is why many different types of creatures exist in the world.
 
 Take some time to observe the different species that live around you and try to determine what might have caused that particular species to adapt from a previous species. What do you think the next adaptation might be?
@@ -3289,18 +3283,14 @@ Take some time to observe the different species that live around you and try to 
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 The dodo bird became extinct in the seventeenth century. Different species such as the sea turtle and the orca whale are now on the endangered species list. Why did the dodo become extinct? Why are some animals in this century in danger of dying out?
 
 This lesson will explain that many species have become extinct due to environmental changes. Some changes to our planet may be slow while others are quick. You will learn how these changes affect life on earth.
 
 
 
-** Extinction  :drill:
-
-
-
-** Extinction  :drill:
+** Extinction 							      :drill:
 It Takes Time
 
 The earth is constantly changing. Some changes are slow, and some are quick. The continents are moving, and there have been ice ages and areas of the earth that change from rainforest to desert. Mountains form, and ocean levels rise or dry up.
@@ -3314,35 +3304,35 @@ Of every 100 species that have ever lived, 99 are now extinct. A species that is
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 The only way we know some species existed is through fossil records. Sometimes huge numbers of species died or became extinct in a very short time. These events are called mass extinctions. Two of these periods of mass extinctions are very interesting, and the cause is not completely known.
 
 About 250 million years ago, approximately 90% of the species living in the ocean became extinct. Many land animals disappeared at the same time. This period is called the Permian extinction.
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 During this period, the earth's continents may have moved together to form the great landmass referred to as Pangaea. This continental movement would have changed the climate on land as well as the the ocean climate. The climate change could have caused mass extinctions.
 
 Another theory states that glaciers forming at the North Pole and South Pole caused the climate to cool. Other scientists think that volcanic eruptions in Siberia caused the climate to change. None of these theories have yet been proven to be the cause of the Permian extinction.
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 The Cretaceous extinction occurred approximately 140 million years ago. Fifty percent of all plant and animal groups died during a short period. This is the time when dinosaurs became extinct.
 
 Some scientists think a meteorite that was big enough to throw huge amounts of dust and water vapor into the atmosphere struck the earth. This would have caused a massive climate change. The whole world would have gotten much colder, and animals would have become extinct.
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 Dust and heavy clouds blocked the sunlight for years. Without sunlight, plants could not survive, and plant-eating animals died. Other scientists think that this extinction was caused by increased volcanic activity. This could also cause the same type of sudden climate change.
 
 Other extinctions have occurred because of sudden changes in the environment. Erupting volcanoes can kill all life in the area surrounding the volcano. Floods and tsunamis can wipe out life in an area. Forest fires destroy habitats that plants and animals need.
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 These are all naturally occurring events that may explain plant and animal extinctions. Mankind has also affected the earth and caused extinctions of plant and animal life.
 
 Five Major Causes of Extinction
@@ -3351,14 +3341,14 @@ There are five major causes of extinction: habitat loss, an introduced species, 
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 Most scientists believe that more than half the species in the world live in the rainforests. Humans are causing changes in the environment by cutting down forests that contain hundreds of thousands of species of life.
 
 Some scientists believe that as many as 150 species a day may be disappearing. That is about 50,000 species a year! Habitat loss is the major cause of extinction.
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 In 2005, 2.4 acres (about the size of two football fields) of tropical rainforest were destroyed every second. When the area a species lives in is changed so much that it can no longer survive, the result is habitat loss.
 
 Introducing a Species
@@ -3367,21 +3357,21 @@ Another cause of extinction is the introduction of another species into a habita
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 Sometimes a species enters a new habitat by accident. The Asian long-horned beetle accidentally entered the United States in 1996. It has infected and damaged millions of acres of hardwood trees. Forestry specialists are spending millions of dollars trying to get rid of this pest.
 
 Sometimes a species is brought to a new area on purpose. Starlings and house sparrows are birds from Europe that were brought over to North America and released. They have no natural predator here, and their populations have grown very large.
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 Starlings and house sparrows now eat the food or use the nesting space other native birds need to survive. They do not build their own nests but take over existing nests instead. Starlings push out the eggs or baby birds so they can use the nests for themselves.
 
 Bluebirds, swallows, wrens, robins, purple martins, and red-bellied woodpeckers are now fighting for survival. When the starlings and house sparrows were released, no one knew the damage that would be done by these European birds.
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 Pollution
 
 Pollution is harmful substances that are added into the water, air, or land. Acid rain caused by pollution in the air is killing vast amounts of plant and water life. Weed killers and insecticides have drained into streams and rivers. These chemicals kill the fish, and then predators eat the poisoned fish and die as well.
@@ -3389,14 +3379,14 @@ Oil spills kill plant and animal life in the ocean and on the shores. Cutting do
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 Population Growth
 
 The human population has more than doubled in the last twenty years. This increase in human population is called population growth. In 2006, there were 6.5 billion people on the planet. We need more and more food to eat and more space in which to live, so more forests are cut down and more land is cleared.
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 Each time people clear land for more houses or buildings, they destroy plant and animal life. Every year, plants and animals have less room to live in.
 
 Overconsumption
@@ -3405,7 +3395,7 @@ People are using natural resources faster than the resources can be replaced. Th
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 We are farming land and not giving it time to recover before more crops are planted. We are hunting animals until there are no more of them left.  Overconsumption can also mean overharvesting.
 
 How to Prevent More Extinctions
@@ -3417,7 +3407,7 @@ The Endangered Species Act was created to make selling or making products that c
 
 
 
-** Extinction  :drill:
+** Extinction 							      :drill:
 Many countries have created wildlife habitats to protect whole ecosystems. Today, there are about 7,000 wildlife preserves, refuges, and nature parks in the world. Captive breeding was begun so animals in danger of becoming extinct could be protected.
 
 You have learned that naturally occurring changes of the earth, whether fast or slow, can affect plant and animal life. You have also learned that people are changing the earth so quickly that they are causing the extinction of thousands of species each year.
@@ -3428,32 +3418,32 @@ You have learned that naturally occurring changes of the earth, whether fast or 
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Plants grow in every part of the world and in a variety of environments. Although different species require different growing conditions, most plants have the same requirements.
 
 In this lesson, you will learn how and from where plants capture their energy and transfer it to different organisms through food chains. You will also understand how plants make their own food. Finally, you will understand the processes of photosynthesis, transpiration, and respiration.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Plants are very important producers in our world. A producer is a living organism that makes or produces its own food. Plants produce their own food through a complex process called photosynthesis.
 
 Photosynthesis is the process in which plants make their food using the energy from the sun.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Green plants contain a chemical called chlorophyll that gives them their green color. Chlorophyll is stored in an organelle in a plant's cells called the chloroplast.
 
 The chlorophyll within the chloroplast absorbs light energy from the sun, which provides the energy the plant needs to make its food.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 During the summer months, the sun shines on the chlorophyll in the leaves.
 
 As fall comes and the leaves receive less light, the plant stops making chlorophyll. Over time, the green color of the leaves begins to fade, and bright red, orange, and yellow colors emerge.
@@ -3462,7 +3452,7 @@ Leaves have red, orange, and yellow pigments in them which become visible as the
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 The products of photosynthesis are glucose and oxygen.
 
 During photosynthesis, carbon dioxide is joined with water by the sun's energy to produce glucose, a type of sugar, for the plant.
@@ -3471,63 +3461,63 @@ The glucose changes the sugar into starches, fats, and proteins.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Plants are likely to give off greater amounts of oxygen during the day because there is more sunlight.
 
 If a plant is placed in the dark, photosynthesis will stop and the plant will die.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Animals, like humans, require oxygen to breathe. We could not exist without the oxygen plants produce. Plants require carbon dioxide to live. Plants could not exist without the carbon dioxide produced by animals.
 
 Therefore, plants need animals, and animals need plants for survival to continue.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Photosynthesis leads to another process called respiration. Respiration is the process through which organisms obtain and release energy.
 
 Phloem tubes carry oxygen and glucose from the leaves to all parts of the plant. Oxygen is used to break the glucose down into carbon dioxide and water. It also releases the energy known as ATP, which is stored in the glucose. ATP (adenosine triphosphate) is a substance present in living cells that provides energy for many different body processes.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Living things use energy produced by the sun. Animals eat plants, and the energy is passed on to them. Animals provide food for humans, and the energy is passed on one more time.
 
 A food chain shows the movement of energy (in the form of food) from one organism to another. A food chain is made up of consumers and producers.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 The sun provides energy for plants to grow. Plants are producers in the food chain. Plants make food. Any living thing that makes food using the energy of the sun is a producer.
 
 Animals cannot make their own food. Animals must consume food to receive energy. When plants or animals release energy from food, they help to recycle oxygen. Anything that eats other living things is called a consumer. A food chain can contain several different consumers.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Every organism competes for space and food. The food chain is an important process because this is the way nutrients and energy flow through a group of living organisms.
 
 This food chain is an example of how energy is passed from one organism to another. Food chains are essential for living organisms to continue their existence.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Grass is eaten by a grasshopper. The grasshopper is eaten by a frog. The frog is eaten by a snake. The snake is eaten by a hawk. This is an example of a food chain.
 
 Energy is passed on at each level of the food chain.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 People are also part of the food chain. Corn grows in fields, chickens eat corn, and people eat chicken and the eggs they produce. What plant parts do we eat directly that have stored energy?
 
 We may eat roots. Carrots and radishes are both vegetables that are actually part of the roots. We eat seeds, such as corn and peas. Broccoli is the flower part of a plant. We even eat leaves, such as lettuce and spinach. We eat many different types of fruit, such as pumpkin, bananas, oranges, tomatoes, and apples.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Why do some plants produce fruits and vegetables that are sweet while others do not?
 
 Phloem cells in the plant carry glucose from the leaf cells to the stems, roots, or fruits. Fruits taste sweet because sugar has been stored in their cells.
@@ -3536,7 +3526,7 @@ Some cells change the sugar to starch and store the starch. Potatoes and corn ar
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Water, carbon dioxide, and oxygen move in and out of leaves through the stoma. The stoma is an opening in the epidermis that allows air and water to pass in and out of the leaf.
 
 Transpiration occurs when water is lost through the plant's stoma. When the guard cells swell, they tell the stoma that the plant has enough water. The stoma opens, and water vapor is released into the atmosphere.
@@ -3545,7 +3535,7 @@ Unlike animals, plants do not have a continuous circulatory system.
 
 
 
-** Green Plants  :drill:
+** Green Plants 						      :drill:
 Plants need animals and people as much as we need plants. People and animals produce carbon dioxide when they breathe.
 
 Plants require carbon dioxide to live, and they produce oxygen. People and animals require oxygen to breathe.
@@ -3559,7 +3549,7 @@ Plants are essential for life on earth to continue.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 There are many different types of green plants, ranging from tiny, one-celled algae to the giant sequoia tree.
 
 What are some of the different ways plants are used? Some plants provide the food we eat such as berries, vegetables, fruits, and even some roots and leaves. Many medicines are made from plants. Fibers from plants are woven to make clothing. We even beautify our surroundings by planting flowers and trees. Plants are an important resource in our world.
@@ -3569,18 +3559,18 @@ This lesson will discuss the difference between vascular and nonvascular plants 
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Some green plants are called vascular plants. These are land plants that have roots, stems, and leaves and are able to carry water and food throughout the plant. Some examples of vascular plants are grasses, trees, sunflowers, and water lilies.
 
 Vascular tissue is special tissue that connects all parts of the plant, allowing it to transport nutrients and water throughout the plant's system.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 There are two types of vascular tissues in seed plants, the xylem (ZY-luhm) and the phloem (FLOH-ehm). These are special tube-like tissues located in the plant's roots, stems, and leaves.
 
 Xylem tubes carry water and dissolved minerals from the roots to the leaves.
@@ -3591,18 +3581,18 @@ Each plant needs both xylem and phloem tubes to survive.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Vascular cambium is the growth tissue that produces phloem and xylem in the stems of woody plants. The plant grows in diameter as the vascular cambium produces phloem and xylem cells.
 
 Capillary action is the upward motion of liquid in the thin tubes of the xylem which brings water to other parts of the plant.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Each year, new growth is deposited between the tree bark and the inner tissue of woody stems. This is called the annual growth ring.
 
 The year's weather and growing conditions will cause the ring to be wide or narrow. If growing conditions are good, the tree will grow a lot, and the ring will be wide. If conditions are poor, the ring will be narrow.
@@ -3611,14 +3601,14 @@ Annual growth rings can also be used to estimate the age of a tree.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Another type of stem is the herbaceous stem. Herbaceous stems are soft and flexible, and they die at the end of the season. Most herbaceous plants live only one season; however, some are perennials.
 
 Plants that live only one growing season are called annuals. Radishes, potatoes, corn, and petunias are all examples of herbaceous annuals.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Roots hold plants tightly to the earth. There are two kinds of root systems:
 
 • taproot
@@ -3628,14 +3618,14 @@ A carrot or a radish is an example of a taproot. A taproot is a main root that g
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Fibrous roots grow closer to the surface of the ground and spread out to collect water. There are many strands of fibrous roots that branch out. Many grasses and trees have fibrous roots.
 
 Fine root hairs grow on both types of roots. The root hairs help the roots absorb nutrients and water.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Green plants make their own food using energy from the sun in a process called photosynthesis.
 
 Photosynthesis occurs in the plant's leaves. The sun shining on the green leaves and carbon dioxide combine to produce the plant's food. Food produced during photosynthesis is used in plant cells during respiration.
@@ -3644,21 +3634,21 @@ Respiration is the process through which organisms obtain and release energy.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 The outer protective layer of a plant is called the epidermis. It is made up of a thin layer of cells. There is an upper epidermis and a lower epidermis.
 
 Openings in the lower epidermis and some in the upper epidermis allow air and water to pass into and out of the leaf. These openings are called stomas.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Surrounding each stoma is a guard cell. When the guard cell swells with water, it causes the stoma to open and release water to evaporation.
 
 The stoma tends to balance the water within the leaf. The process in which a plant gives off water through leaves is called transpiration.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Pines, spruces, and gingkoes are good examples of gymnosperms. Many of the shrubs used in landscaping around homes and buildings are also gymnosperms. Gymnosperm means "naked seed."
 Complex vascular plants have seeds. There are two kinds of complex vascular plants:
 
@@ -3669,36 +3659,1191 @@ Gymnosperms generally stay green all year and are usually referred to as evergre
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Angiosperms are flower-producing plants. They have a protective covering around their seeds.
 
 Angiosperm means "seed in a container." Most of the plants on earth are angiosperms.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Simple vascular plants such as ferns or horsetails do not produce seeds. These plants have a poor vascular system.
 
 These plants require a constant water supply and live in warm, moist, shady areas. Scientists believe that these plants were abundant about 300 million years ago when the earth was warmer. Many fossils of these plants have been found.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Nonvascular plants do not produce seeds either. They do not have true vascular tissues, roots, stems, or leaves. These plants include mosses and liverworts.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 Algae are also nonvascular plants. They are unicellular or multicellular organisms. There are three basic kinds of algae: green, brown, and red.
 
 Algae contain chlorophyll and make their own food. They live in many places such as tree trunks, ponds, and oceans.
 
 
 
-** Types of Green Plants  :drill:
+** Types of Green Plants 					      :drill:
 There are millions of different species of plants, each with their own special characteristics and traits. In this lesson, you became familiar with the difference between vascular and nonvascular plants. Vascular plants contain xylem and phloem, while nonvascular plants do not, because they lack roots, stems, and leaves.
 
 This lesson also revealed the characteristics of herbaceous stems and woody stems. Herbaceous plants are usually annuals, though some are perennials.
 Plants are everywhere in nature. Take a look out your window. Do you see vascular plants or nonvascular plants? Are there annuals or perennials growing in your flowerbed? Does the tree in your yard have a herbaceous stem or a woody stem? Are the flowers in the park angiosperms or gymnosperms?
+
+
+
+** Systems of the Human Body 					      :drill:
+Welcome to the wonderful world of the human body!
+
+The human body is made up of trillions of cells. The cells combine to form tissues that have similar functions. These tissues combine to form organs and organ systems. These systems work together to make a wonder of nature--the human body.
+
+This lesson will briefly discuss eleven of the systems in the human body as well as their major parts and functions.
+
+
+
+** Systems of the Human Body 					      :drill:
+Skeletal System
+
+The skeletal system is made up of bones. It provides a framework for the body, giving it shape and support. It is the place for the attachment of muscles. The skeletal system also provides protection for various internal organs including the heart, lungs, brain, and reproductive organs.
+
+The skeletal system consists of 206 bones. Bone is a dry, dense tissue made up of 25% water, 30% organic material, and 45% minerals such as calcium and phosphorus.
+
+
+
+** Systems of the Human Body 					      :drill:
+Most bones are filled with a substance called marrow which helps in the manufacturing of red blood cells and some white blood cells, as well as platelets.
+
+
+
+** Systems of the Human Body 					      :drill:
+Bones come in four main shapes:
+
+• flat bones, such as the sternum and the skull
+
+• short bones, such as the wrist and ankle bones
+
+• long bones, such as the humerus in the arm and the femur in the thigh
+
+• irregular bones, such as the ribs and vertebrae
+
+
+
+** Systems of the Human Body 					      :drill:
+Bones are connected in the body by both movable and immovable joints.
+
+Your finger is an example of a movable joint. Can you think of another?
+
+
+
+** Systems of the Human Body 					      :drill:
+Muscles that are attached to bones are called skeletal muscles. They are also voluntary muscles. Voluntary muscles are those which we can control.
+Muscular System
+
+The muscular system is made up of many muscles. Their function is to move body parts and to aid in digestion and circulation. There are three kinds of muscles: skeletal, smooth, and cardiac.
+
+Muscles make up almost 50% of a person's body weight. When muscles work, they contract, or become shorter and thicker, and move the bone to which they are attached.
+
+
+
+** Systems of the Human Body 					      :drill:
+Smooth muscles are called involuntary muscles. Involuntary muscles are those we cannot control.
+
+Examples of involuntary muscles include the stomach, intestines, lungs, and other internal organs. We cannot live without these muscles. These muscles are controlled by the nervous system.
+
+Heart muscle, called cardiac muscle, is found in the heart. The contractions in the heart muscle begin in the heart with help from the nervous system.
+
+
+
+** Systems of the Human Body 					      :drill:
+Nervous System
+
+The nervous system enables the body to react to the environment. It is made up of the central nervous system (spinal cord and brain) and the peripheral nervous system (all the nerve cells outside the central nervous system).
+
+The peripheral nervous system is what controls your voluntary and involuntary movements.
+
+
+
+** Systems of the Human Body 					      :drill:
+How does a nerve cell work?
+
+A nerve cell receives information from other nerve cells. It then processes that information and determines where to go next. Then it sends the information on to the next nerve cell, and continues this process until the message reaches the spinal cord and then the brain. It does all this within the blink of an eye or faster!
+The functional unit of this system is the neuron, or nerve cell. Without nerves, we would not be able to feel pain, heat, or any discomfort. Nerves and the brain tell us if it hurts to stub our toes or if something is too hot.
+
+
+
+** Systems of the Human Body 					      :drill:
+Integumentary (Skin) System
+
+The skin is the largest organ system in the human body. It consists of three layers: epidermis, dermis, and subcutaneous tissue (hypodermis).
+The epidermis is the outer layer of skin. The color of your skin is determined by cells in this layer. The dermis is the inner layer of skin. Here blood vessels, hair follicles, and sweat glands can be found. The subcutaneous tissue is below the dermis and consists of fat cells, blood vessels, and nerves.
+
+Did you know that your body sheds 2 to 3 billion skin cells each day?
+
+
+
+** Systems of the Human Body 					      :drill:
+It is important for you to take care of your skin and keep it clean, as well as protect it from harmful UV (ultraviolet) rays. Tanning beds and the sun emit UV rays that can damage the skin and result in a form of skin cancer known as melanoma.
+The integumentary system serves as a protective covering for vital organs. The skin regulates body temperature and provides a sensory covering for the entire body.
+
+Very few germs can penetrate unbroken skin. Skin protects underlying organs and tissue against injury as well as bacterial infection.
+
+
+
+** Systems of the Human Body 					      :drill:
+Digestive System
+
+The digestive system is made up of the mouth, esophagus, stomach, liver, pancreas, and intestines. The digestive system breaks down food for absorption into the blood, so it can be delivered to the cells.
+
+There are two stages in the digestive process. Mechanical digestion is the process that breaks down chewed food into small pieces. Chewing is the first step. Mechanical digestion begins in the mouth and prepares food for chemical digestion.
+
+
+
+** Systems of the Human Body 					      :drill:
+Chemical digestion is the process that chemically changes food into simpler substances. These simpler substances can be used by the cells. Both mechanical and chemical digestion begin in the mouth.
+
+The food is chewed and broken down as saliva, a chemical that wets the food, begins the process of chemical digestion. The tongue pushes the food to the back of the mouth where it is swallowed.
+
+
+
+** Systems of the Human Body 					      :drill:
+Food moves down a muscular tube called the esophagus to the stomach. The stomach is a muscular sac. It stores and helps digest food. Food stays in the stomach for about 4 to 6 hours.
+
+The stomach squeezes and churns the food to further break it into smaller bits. From the stomach, the food moves into the small intestine.
+
+
+
+** Systems of the Human Body 					      :drill:
+The small intestine, over 6 m long, is where the food is further digested and absorbed into the blood. Food takes about 5 to 8 hours to pass through the small intestine.
+From the small intestine, the unabsorbed food passes into the large intestine. The large intestine absorbs water from undigested food.
+
+Food will stay in the large intestine for about 8 hours, but no digestion is
+taking place.
+
+At the end of the large intestine is the rectum. The rectum stores solid wastes until they leave the body. These solid wastes are the final product of digestion.
+
+
+
+** Systems of the Human Body 					      :drill:
+Excretory System
+
+The excretory system consists of the kidneys, the lungs, and the skin. The function of the excretory system is to remove wastes from the body.
+
+As the body cells carry on their metabolic activities, waste materials are produced. The body must get rid of these products. The liver filters out solid particles of waste floating in the bloodstream.
+
+
+
+** Systems of the Human Body 					      :drill:
+Liquid from the body passes into the kidneys and is filtered. Any remaining nutrients are retained. The waste and urine are then passed out of the body through the ureters, bladder, and urethra.
+
+Without the release of urine, the body would poison itself. This is why dialysis is so important to people with kidney disease or kidney failure.
+The skin's sweat glands give off perspiration which contains water and some dissolved mineral salts. The lungs draw in oxygen and release the waste product carbon dioxide. This gas exchange occurs in the alveoli.
+
+The main organs of the excretory system are the kidneys. These are a pair of bean-shaped organs that are about 4 inches long and 2.5 inches wide.
+
+
+
+** Systems of the Human Body 					      :drill:
+Endocrine System
+
+The endocrine system is made up of glands. These various glands regulate chemical activity in the body.
+
+An endocrine gland is a gland without a duct. These glands secrete chemicals called hormones directly into the bloodstream. These hormones travel to and affect only the cells they are meant to target. They speed up, slow down, or turn off various tissues and organs.
+
+
+
+** Systems of the Human Body 					      :drill:
+Examples of endocrine glands are the pancreas and the pituitary, adrenal, sex, and thyroid glands.
+
+The pituitary gland is the "head gland," as it controls many of the other endocrine glands.
+
+The adrenal glands produce adrenaline. If you have ever been frightened or really excited, you have probably felt the adrenaline "running" through your body!
+
+The sex glands affect reproduction.
+
+
+
+** Systems of the Human Body 					      :drill:
+The thyroid gland controls growth and metabolism (speed of the body's chemical reactions and functions).
+
+The pancreas regulates body sugar with insulin.
+
+Problems arise when a gland malfunctions or fails. If too much growth hormone is produced, a person could be very tall. If there is too little growth hormone, a person could be very short. Other examples of hormone disorders include diabetes and acromegaly, a swelling of the hands and feet.
+
+
+
+** Systems of the Human Body 					      :drill:
+Reproductive System
+
+The reproductive system is made up of the ovaries in females and the testes in males. The function of the reproductive system is to produce reproductive cells.
+
+These cells are called gametes, or sex cells. Sex cells are produced by the process of meiosis which differs from normal cell division, or mitosis.
+In mitosis, two new daughter cells result from the original parent cell. These new cells contain the same number of chromosomes as the parent and are identical to each other.
+
+Mitosis is the process of cell division by which most cells keep dividing to form the organism.
+
+
+
+** Systems of the Human Body 					      :drill:
+In meiosis, four new cells result, each containing only half the number of chromosomes as the parent cell. These are the gametes, or sex cells.
+
+The ovaries in females produce egg cells. The testes in males produce sperm cells. The joining of the egg and sperm cells creates a fertilized egg, or zygote.
+Half the chromosomes in the zygote come from the sperm and half come from the egg. In humans, the zygote develops into a fetus, and after about 38-40 weeks of gestation, or growth, a baby is born.
+
+
+
+** Systems of the Human Body 					      :drill:
+Circulatory System
+
+The circulatory system is made up of the heart and blood vessels. It provides the force and the channels for the distribution of blood. The force is the heart pumping, and the channels are the veins and arteries.
+
+The blood carries food and oxygen to the cells and removes wastes.
+
+
+
+** Systems of the Human Body 					      :drill:
+Veins carry blood toward the heart, and arteries carry blood away from the heart.
+
+Capillaries are the tiny vessels that connect the veins to the arteries. Oxygen and carbon dioxide are exchanged in the capillaries.
+
+
+
+** Systems of the Human Body 					      :drill:
+The blood is the fluid portion of the circulatory system. Blood is made up of solids, cells, and plasma.
+
+Plasma consists of proteins and dissolved salts in water. Red blood cells carry oxygen from the lungs to all the body's cells. During this exchange, red blood cells pick up the waste carbon dioxide and carry it to the lungs to be exhaled. White blood cells destroy bacteria and help repair tissues.
+
+
+
+** Systems of the Human Body 					      :drill:
+Immune System
+
+Your body's line of defense against disease is your immune system. It fights off unwanted organisms such as bacteria and viruses which can cause disease.
+
+Different types of white blood cells, including lymphocytes and neutrophils, help in this fight by identifying dangerous substances in the body and by working to get rid of these substances before they can cause harm.
+Lymphocytes and neutrophils both come from bone marrow. Lymphocytes attack bacteria and viruses and "remember" them if the organisms invade the body again. Neutrophils attack bacterial and fungal infections.
+
+
+
+** Systems of the Human Body 					      :drill:
+Respiratory System
+
+The respiratory system consists of the nasal passages, pharynx, trachea, bronchi, and lungs. This system's main function is the exchange of oxygen and carbon dioxide, the process we call breathing.
+
+Air is inhaled through the mouth or nose and follows the nasal passage past the pharynx to the trachea. The trachea divides to form two bronchi, one going to each lung.
+The bronchi then branch off into the smaller bronchial tubes. At the end of the bronchial tubes are clusters of alveoli where the oxygen and carbon dioxide exchange takes place.
+
+
+
+** Systems of the Human Body 					      :drill:
+It is amazing how the systems of the body function independently as well as coordinate activities with other systems.
+
+To keep these systems working efficiently, you need to eat a well-balanced diet, exercise regularly, and get adequate rest.
+The next time you are at the grocery store, read the labels on some of the food products. See if you can think of which body systems the ingredients will help in keeping you strong and functioning.
+
+If you cut yourself, remember how the skin and immune systems are working to prevent disease.
+
+
+
+** The Respitory System 					      :drill:
+Asleep or awake, we never stop breathing as long as we live. The important function of the respiratory system is to deliver the oxygen we inhale to the blood and to get rid of carbon dioxide and other gases. The body's cells burn oxygen and glucose to produce energy and release carbon dioxide through the respiratory system.
+
+This lesson will study the parts and functions of the respiratory system. You will also discover the effects that smoking can have on your respiratory system.
+
+
+** The Respitory System 					      :drill:
+The respiratory system can be divided into the upper respiratory tract and the lower respiratory tract.
+
+The exchange of oxygen for carbon dioxide within the lungs is called respiration. The upper respiratory tract includes the nose and nostrils, mouth, throat, larynx, and the numerous sinus cavities within the head.
+
+Respiration begins as oxygen is inhaled. This usually occurs through the nose.
+
+
+
+** The Respitory System 					      :drill:
+Inhaled air (air that is breathed in) is filtered, moistened, and warmed as it passes through the nostrils, down the pharynx, and through the larynx (voice box) which contains the vocal cords.
+
+If you tend to breathe through your mouth at night, you may have noticed that you have a sore throat in the morning. This is because breathing through your mouth does not allow the air to be warmed and moistened in your nose.
+
+
+
+** The Respitory System 					      :drill:
+The cleaned and filtered air then passes to the lower respiratory tract. This tract includes the trachea (windpipe), the bronchi, and the lungs.
+
+The lungs contain the bronchial tubes and alveoli, which are air sacs.
+
+The inhaled air passes through the trachea, (a 4- to 5-inch semi-ridged tube) into the bronchi. The bronchi are the two main branches of the trachea. One branch goes to each lung.
+
+
+
+** The Respitory System 					      :drill:
+One bronchi goes to the left lung, and one goes to the right lung. The lungs are the organs where the exchange of gases takes place.
+
+In animals, these gases are oxygen and carbon dioxide. The oxygen is taken in to be used by the body cells, and the carbon dioxide is removed.
+
+
+
+** The Respitory System 					      :drill:
+Within the lungs, the bronchi divide into smaller branches called bronchial tubes. At the end of these tubes are tiny clusters of very small air sacs called alveoli.
+
+The alveoli have very thin cell membranes. It is here that oxygen from inhaled air passes into the blood, and carbon dioxide passes out of the blood.
+
+When we breathe out air, or exhale, the carbon dioxide and other gases are removed from the body as waste products.
+
+
+
+** The Respitory System 					      :drill:
+The action of inhaling and exhaling, called breathing, is assisted by the ribs, rib muscles, and the diaphragm (a large muscle in the chest area). When the rib muscles and the diaphragm contract, or get shorter, air rushes into the lungs because of air pressure.
+
+When these muscles relax, air is forced out by the change of lung size and pressure within the lung and chest cavity.
+
+
+
+** The Respitory System 					      :drill:
+To summarize, the respiratory system is responsible for the exchange of oxygen and carbon dioxide through a process called breathing.
+
+Air is inhaled through the mouth or nose. It goes through the trachea to the bronchi in the lungs. The bronchi branch into the smaller bronchial tubes. At the end of the bronchial tubes are clusters of alveoli where the oxygen goes into the blood and the carbon dioxide is exhaled from the body.
+
+
+
+** The Respitory System 					      :drill:
+Now, what happens to this process in people who smoke?
+Cigarettes are more than just paper and tobacco mixed together. Cigarettes contain many harmful chemicals, such as carbon monoxide (also found in car exhaust), arsenic (an ingredient found in rat poison), and nicotine (an addictive poison).
+
+Nicotine makes your body feel good. The more you smoke, the more your body will want or crave the nicotine. Some people think there is no harm in smoking on occasion or just trying it once. However, once you start, it is very hard to stop.
+
+
+
+** The Respitory System 					      :drill:
+Remember that the purpose of the alveoli sacs is to exchange oxygen and carbon dioxide.
+
+Each time smoke is inhaled, some of these sacs are destroyed. Unlike skin cells, alveoli sacs do not grow back, which means your lungs are damaged forever. This can make breathing difficult.
+
+Over time, if enough sacs are damaged or destroyed, you will not be able to exercise, play ball, or even walk without assistance.
+Inside the airways of the nose and lungs, the lining becomes red and puffy. More mucus is made to protect these areas. This can result in a "smoker's cough."
+
+Smokers can also develop colds and bronchitis more easily as a result of the irritation and mucus.
+
+
+** The Respitory System 					      :drill:
+You are probably aware of some serious health problems that can result from smoking, such as lung cancer, heart attacks, and emphysema. Other effects of smoking include yellowing of the teeth, bad breath, wrinkled skin, and a weakened sense of smell and taste.
+
+Did you know that people who do not smoke are also affected when they breathe in cigarette smoke? They are affected by secondhand smoke.
+People who are exposed to secondhand smoke have a greater risk of developing cancer, heart disease, lung disease, and respiratory problems such as pneumonia, asthma, and bronchitis.
+
+Hopefully, you now have a better understanding of the dangers of smoking and will consider this information seriously before starting a habit that could hurt you, as well as those around you!
+
+
+
+** The Respitory System 					      :drill:
+The respiratory system is just one of the many systems of the human body.
+
+Cells are grouped into tissues. Tissues are grouped into organs. Organs are grouped into systems. All of the systems of the body are designed to work together to provide an organism with everything it needs to perpetuate life.
+All of the systems depend upon each other. As you can see, breathing is an integral part of this network by supplying oxygen to the body and removing carbon dioxide. This is one of the many reasons why it is so important to not smoke!
+
+
+** Exercise and Nutrition 					      :drill:
+What are the benefits of exercise? Why is good nutrition important? How do food and exercise help people develop both mentally and physically? These questions and more will be answered in this lesson.
+
+This lesson will introduce the importance of exercise and nutrition. You will see how exercise influences all aspects of your health, both mental and physical. You will also learn how food provides your body with energy. It is necessary for health and development through different life stages.
+
+
+** Exercise and Nutrition 					      :drill:
+Most experts agree that a person should exercise for at least 30 minutes daily. Exercise can increase your energy and even make you feel better. It causes your body to produce endorphins. Endorphins are chemicals that make you feel happy. When people exercise, they sleep better and are more prepared to handle the challenges that a typical day brings.
+
+Exercise can soothe your mind and help you relax. It can even help with emotional issues like depression and self-esteem. Exercise can also improve your concentration and ability to focus.
+
+
+
+** Exercise and Nutrition 					      :drill:
+Exercising helps you to have stronger bones and muscles. It is also very good for the heart. Exercising lowers blood pressure and cholesterol levels.
+
+Exercising can help you feel better and look better too. Exercising burns calories and helps you lose weight or maintain a healthy weight. Exercising also helps you build muscle tone. Being healthy and looking your best can make you feel good about yourself.
+
+
+
+** Exercise and Nutrition 					      :drill:
+There are many different kinds of exercise that people can do. The three major categories of exercise are endurance, strength, and flexibility.
+
+Endurance is developed with regular aerobic exercise. Over time, you will be able to run faster or walk for longer periods of time without tiring.
+
+Aerobic exercise makes the heart beat faster and the person breathe harder. When someone regularly does aerobic exercise, the heart is strengthened and can deliver oxygen throughout the body more easily.
+
+
+
+** Exercise and Nutrition 					      :drill:
+Aerobic exercise can be fun for people of all ages. Some examples of aerobic activities are jumping rope, bicycling, basketball, soccer, skating, dancing, skiing, swimming, tennis, walking, jogging, and running.
+
+When you build strength, you become stronger and so do your muscles. Your joints are supported and you are protected from injury. Strength training allows you to be more active for longer periods of time without getting tired.
+
+
+
+** Exercise and Nutrition 					      :drill:
+Muscles burn more energy than fat, so building muscle can help you burn more calories and stay at a healthy weight.
+
+Lifting weights is not the only way to build strength. Other strength building activities are pushups, pull-ups, stomach crunches, biking, climbing, and rowing.
+Exercise also helps the body stay flexible. Flexibility means that your muscles and joints stretch and bend easily. Having flexibility helps keep the body from being injured while participating in other sports. With flexibility, one is less likely to sprain or strain a muscle.
+
+
+
+** Exercise and Nutrition 					      :drill:
+Flexibility is part of many different types of exercise programs and sports. Most people warm up before doing exercise by stretching. This keeps their muscles from getting injured. Gymnastics, martial arts, ballet, and yoga are all activities that involve flexibility.
+
+In 2005, the United States government redesigned the food pyramid to include a figure climbing stairs. The government wanted to communicate to the public that a healthy lifestyle does not mean simply eating the right foods; it also includes exercise. This new pyramid is called MyPyramid.
+
+
+
+** Exercise and Nutrition 					      :drill:
+The pyramid shows food groups organized in different colored stripes.
+
+• orange for grains
+• green for vegetables
+• red for fruit
+• yellow for fats and oils
+• blue for dairy
+• purple for meats, beans, and fish
+
+The widths of the stripes vary to show that some food groups should be eaten more often than others. The different colored stripes tell us that we should eat a variety of foods each day.
+
+
+
+** Exercise and Nutrition 					      :drill:
+Teens and children need to eat the right nutrients so that their bodies can grow. Those who are very active need to eat more than those who are not active.
+
+People should eat plenty of bread, cereal, potatoes, fruits, and vegetables. These types of foods provide fiber and vitamins, as well as energy.
+
+
+
+** Exercise and Nutrition 					      :drill:
+Eating moderate amounts of milk and dairy products, meats, eggs, beans, fish, and nuts is important. These foods give protein to help us grow. They also give important vitamins and minerals.
+
+Small amounts of foods such as butter, oil, and fried foods should be eaten. These are all very high in fat. Sweets such as cookies, ice cream, and sodas are high in fat and sugar. Although they do supply energy, they are high in calories and cause tooth decay.
+What a person eats is very important to his or her growth and development. Nutritious food not only makes a person healthier, it also provides a more positive outlook and improves concentration.
+
+If you ate dinner and then skipped breakfast the next day, it would be nearly 17 hours before your next meal! You would be hungry and have a hard time concentrating on the morning tasks. Eating three nutritious meals will give you enough energy to get through the day.
+
+
+
+** Exercise and Nutrition 					      :drill:
+American children, teens, and adults are becoming increasingly heavier. Many are almost completely inactive and eat unhealthy foods.
+
+Diseases such as diabetes, high blood pressure, and heart disease that were once seen only in adults are now being seen in children and teens.
+
+Because of these bad choices, America is becoming unhealthy. It is important that we understand how exercise and nutrition can benefit our health and our bodies.
+
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+What are the dangers of tobacco, alcohol, and prescription drug use? Can they really hurt you? What diseases and health problems do they cause? What factors can lead to addiction? All of these questions and more will be answered in this lesson.
+
+In this lesson, you will learn about the dangers associated with tobacco, alcohol, and prescription drug use. You will also find out why they are addictive.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Most people know that smoking is bad for them, but do you really know why? When a person smokes a tobacco cigarette, a chemical called nicotine enters the body. Nicotine is a toxic chemical and has many harmful effects.
+
+According to statistics, 90% of smokers began smoking before they were eighteen years old. Many people start smoking because they think it is cool and it makes them look older. If wrinkles, yellow teeth, and bad breath are cool, then they are right!
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Others smoke because they think it will help them relax. In reality, smoking actually causes the heart to beat faster. There is no good reason to start smoking. Tobacco does nothing good for the body. In fact, nicotine is a poison that the body tries to fight off.
+
+When people begin smoking, it usually takes several tries before they like it because of the bad ways their bodies react. New smokers often feel burning in their throat and lungs, they cough a lot, and some feel sick and even vomit.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Many adults who began smoking in their teens never planned to keep smoking. They might have planned to smoke only at parties or while with their friends. Unfortunately, nicotine is very addictive!
+
+Just like heroin and cocaine, nicotine is an addictive drug. It causes changes in the brain that makes the body feel like it must have the drug in order to survive. Addictive drugs make people feel good when they are using them and bad when they try to stop.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+When a person tries to get nicotine out of his or her body, the body reacts so badly that the person thinks they need the drug to feel better. Nicotine addiction is one of the most difficult addictions to break.
+
+The body responds immediately to the nicotine in cigarettes. Blood pressure and heart rate rise, arteries narrow, and blood flow from the heart increases. Carbon monoxide reduces oxygen in the blood, causing a difference between the amount of oxygen cells need and the amount of oxygen the blood can supply.
+As a person continues to smoke, carbon monoxide damages the artery walls. Over time, this causes the blood vessels to harden and narrow. Nicotine can cause changes in the blood that increase the chance for a heart attack.
+
+It is estimated that 8.6 million Americans have at least one serious illness caused by smoking. About 438,000 people die in our country each year because of their decision to smoke. More people die of lung cancer than any other type of cancer. Approximately, 90% of lung cancer deaths are from smoking.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Every time someone smokes a cigarette, his or her lungs fill up with smoke each time he or she inhales. This smoke contains over 4,800 chemicals, 69 which are known to cause cancer. People who smoke are literally filling their lungs with poisons. After time, the lungs are so filled with toxins that cancer begins to develop.
+
+Another common cancer associated with smoking is oral cancer. Oral cancer involves the mouth and pharynx.
+Smoking cigarettes, cigars, and tobacco pipes, as well as using smokeless chewing tobacco, can cause oral cancer.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+About 30,000 people are diagnosed with oral cancer each year. Of those 30,000, only half will be alive in five years. The high death rate is due to oral cancer not being discovered until late in its development. By then, the cancer has usually spread to other places in the body.
+
+COPD (chronic obstructive pulmonary disease) is a combination of chronic bronchitis and emphysema. There is no cure for COPD, and smoking is nearly always the cause. In normal breathing, air moves through the bronchial tubes and into the alveoli where oxygen transfers into the blood, and carbon dioxide transfers out.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+With chronic bronchitis, the lining in a person's bronchial tubes fills with mucus, blocks the tubes, and makes breathing difficult. With emphysema, the alveoli become stiff, stretch, and eventually break. A person with emphysema cannot hold enough air, and the body has difficulty with the oxygen and carbon dioxide exchange in the blood.
+
+Normal breathing becomes a struggle and consumes a lot of energy. Because emphysema develops gradually, by the time symptoms are noticed, irreversible damage has already been done. A person can have emphysema without having COPD. These are just some of the negative effects of tobacco use.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Like tobacco, alcohol is dangerous and has negative effects on the body. Even in small doses, alcohol affects the part of the brain that controls judgment. Alcohol makes people careless. It causes blurred vision, slurred speech, and impaired balance. This is why alcohol is involved in so many automobile accidents.
+
+Alcohol affects a person's temperament and mood. Some people react by becoming silly, others get emotional, and some become violent and aggressive. This is why many domestic violence situations are associated with alcohol.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Drinking large amounts of alcohol can suppress the part of the brain that controls breathing and cause a person to pass out. Approximately 1,000 people under the age of 15 are treated for alcohol poisoning each year. The body keeps absorbing alcohol even after the person is unconscious. During this time, a person can die while sleeping.
+
+Alcoholism is the condition that develops when a person becomes dependent on alcohol and continues to drink despite the consequences. An alcoholic is addicted to alcohol and continues to drink it even if he or she is being negatively affected.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Alcoholism can cause health problems, as well as social problems. It can cause problems in marriages and at work. It can also contribute to financial strain. Alcoholics often continue to drink in dangerous situations such as driving a car or operating machinery.
+Sometimes people create legal problems as a result of their alcoholism. These might include being arrested for driving while intoxicated, behaving badly in public, or physically hurting someone.
+
+People are intoxicated when they have so much alcohol to drink that their judgment or behavior is affected. A person can be intoxicated without being an alcoholic. Alcoholics usually do not have control over themselves; they just think they do.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Continued heavy drinking can cause health problems in the liver such as cirrhosis of the liver and liver cancer. A healthy liver is necessary for the body to function properly. The liver helps break down nutrients for the body to use.
+
+The liver also rids the body of toxins and filters out bad chemicals such as alcohol. Most of the alcohol a person consumes is actually absorbed in the liver. After years of drinking, the liver becomes damaged and is unable to properly function.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Another health risk associated with alcohol consumption is high blood pressure or hypertension. Thousands of people die every year as a result of complications from high blood pressure. Nearly 25% of Americans have high blood pressure. However, it is not always a result of alcohol consumption.
+
+Long-term hypertension can cause stroke, heart disease, and kidney failure. Many people take medications to control their blood pressure. When prescription drugs are mixed with alcohol, complications can occur.
+Prescription drugs are prescribed to patients by their doctors for certain health problems and are intended to be used specifically as the doctor directed. When prescribing medications, doctors consider a patient's medical history, allergic reactions, and any other medications he or she is taking. They also give instructions on how to take the medication and things to avoid, such as alcohol and other drugs.
+
+Some people think that using prescription drugs for recreational purposes is safer than street drugs, but they are wrong.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Taking prescription drugs that do not belong to you or sharing prescription drugs with a friend is breaking the law. There are many other dangers and health problems associated with this as well.
+
+Just one dose of an opioid (a narcotic derived from opium) used to treat pain relief, coughs, or diarrhea can lower a person's breathing rate and even cause death if taken in excess. This risk increases even more when it is mixed with alcohol or other drugs.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+The abuse of some ADHD drugs and other stimulants can cause seizures or heart failure if they are used incorrectly or by the wrong person. Stimulants are drugs that temporarily increase the body's functions. They are even more dangerous if they are mixed with other drugs, alcohol, or some cold medicines.
+
+Taking too much of a stimulant can cause irregular heartbeat, high fever, and paranoia. Stimulants are very addictive and can be a hard habit to break.
+
+
+
+** Tobacco, Alcohol and Prescription Drugs 			      :drill:
+Drug addiction is the most common result of prescription drug abuse and is the reason doctors are so careful about who they prescribe them to.
+
+Long-term abuse of prescription drugs can not only lead to addiction, but can also result in kidney or liver damage. In some cases, it can cause heart and blood pressure problems, as well as many other undesirable side effects.
+
+The abuse of tobacco, alcohol, and prescription drugs can leave a negative impact on your life forever.
+
+
+
+** Personal Safety 						      :drill:
+Have you ever been in a hazardous situation? Do you know what precautions to take to protect yourself?
+
+This lesson will explain the importance of personal safety in different situations.
+
+
+** Personal Safety 						      :drill:
+Life science investigates the effects that different hazards have on our lives. Everywhere you go you encounter potential hazards, dangers, or risky situations. In order to prevent injury, it is important to be aware of hazards and to understand how to behave safely in these situations.
+
+The choices you make affect your life. Sometimes bad choices can put you in a hazardous situation.
+
+
+
+** Personal Safety 						      :drill:
+In another lesson, you learned about the effects of alcohol and drugs. You learned about how they impair your judgment, senses, and reactions. These impairments have significant effects on someone who chooses to drive a vehicle under the influence of drugs or alcohol.
+
+Whether you are the driver or you ride in a car with someone who is under the influence of drugs or alcohol, you are putting yourself in a hazardous situation that can cause serious injuries or even death.
+
+
+
+** Personal Safety 						      :drill:
+Alcohol- and drug-related motor vehicle crashes kill someone every 31 minutes. Injuries occur every two minutes!
+
+Never drive if you have been drinking or have taken drugs. Be aware of who you are getting into a vehicle with. Many teenagers think they are invincible. In other words, they think something bad will never happen to them, but it can.
+
+The mixture of drugs, alcohol, and a motor vehicle is a combination for a serious hazard that can be avoided by making good choices.
+
+
+
+** Personal Safety 						      :drill:
+What about an overloaded electrical outlet? You may not even be aware that this is a danger. If there are too many cords plugged into one outlet, the circuits can draw too much current, overheat, and start a fire.
+Sometimes hazards are not as obvious and can go undetected until it is too late. Fires can begin without anyone being aware that there was a risk for a fire.
+
+Do you have an uncovered light bulb in your closet? If you throw clothing too close to the light bulb and it makes contact for a prolonged period of time, a fire can start! This hazard can be avoided by placing a protective fixture over the bulb.
+
+
+
+** Personal Safety 						      :drill:
+Smoking is the leading cause of fire-related deaths. Smokers are sometimes negligent with their cigarettes and cause house fires. This puts everyone in and around the house at risk for serious injury or death.
+
+Cooking is the leading cause of house fires in our country. Always keep towels and trash away from stovetops to avoid fire. Do not go to sleep or leave the house if you are cooking. Have a fire extinguisher nearby and have a plan in case an accident occurs.
+
+
+
+** Personal Safety 						      :drill:
+In 2003, fire departments responded to 400,000 house fires in the United States, which took the lives of over 3,000 people and injured thousands more. It is important to be aware of fire hazards and have a safety plan in place.
+
+Have a family plan and practice fire drills so that everyone knows what to do, where to exit the home or building, and where to meet once they have exited the home in case of a fire.
+
+
+
+** Personal Safety 						      :drill:
+Remember to escape as quickly as possible, leaving behind all belongings and closing doors behind you. Crawl along the floor, staying underneath the smoke. Most victims of fires die from smoke and toxic gases, not from burns.
+
+If you are unable to escape the building, close the doors and put blankets at the bottom to keep smoke from entering the room. If you are unable to escape through the window, open it and yell for help. You can even wave something out of the window to get the attention of others.
+
+
+
+** Personal Safety 						      :drill:
+Reproduction is an essential part of life science. All living organisms, including humans, reproduce. In fact, reproduction is one of our main purposes of existence.
+
+Reproduction occurs so that a species will continue to live. Reproduction is the process of an organism creating another living organism known as offspring.
+
+Without reproduction, a species would no longer exist and would become extinct.
+
+
+
+** Personal Safety 						      :drill:
+Because healthy bodies are more likely to successfully reproduce, good nutrition and exercise are important. Stay healthy by protecting yourself from contaminates that can hurt the body. Taking drugs, smoking, or drinking alcohol contaminates the body and can have negative effects on reproduction.
+
+When reproduction occurs, an embryo is created. An embryo is a baby. The embryo is implanted inside the female and grows for many weeks. The length of time depends on the species. A human female is pregnant for about 40 weeks. This period of development is called gestation.
+
+
+
+** Personal Safety 						      :drill:
+Pregnancy cannot occur from kissing, holding hands, dancing, or touching. In order for pregnancy to occur, sperm must be deposited near the egg so it can be fertilized.
+
+Couples should make a choice to protect themselves from pregnancy as well as sexually transmitted diseases. The first option is abstinence, which is avoiding sex altogether. Abstinence is the only birth control method that is 100% effective.
+However, there are other options that are less effective. Both males and females are responsible for protecting themselves.
+
+Another responsibility that comes with sexual relationships is protecting oneself from sexually transmitted diseases (STDs). These infections can be passed from one person to another through sexual contact and some bodily fluids. There are over 15 million cases of STDs each year. Teenagers and young adults are at the greatest risk.
+
+
+
+** Personal Safety 						      :drill:
+Sexually transmitted diseases can have a negative effect on reproduction. They can also be passed to an unborn baby and cause health problems after birth.
+
+While some STDs are treatable, many are not. Some can even lead to death. It is important to be aware of the dangers associated with STDs and protect yourself. Even kissing is not completely safe, because STDs such as syphilis and herpes can be spread through saliva.
+Like pregnancy, the best way to protect yourself from sexually transmitted diseases is abstinence. You are an individual, and you are responsible for keeping yourself safe. Every day you encounter hazardous situations. Be aware of the risks around you and protect yourself.
+
+
+
+** Ecology 							      :drill:
+Think about all the different living things on earth. There are people, plants, animals, and a variety of microscopic organisms. All these living things inhabit the earth together.
+
+How do they coexist? In this lesson, you will discover the differences between producers, consumers, and decomposers and how they all work together in a functioning food chain. You will also learn the differences between biospheres, ecosystems, communities, populations, and habitats in which different organisms live.
+
+
+
+** Ecology 							      :drill:
+From the deserts to the Arctic, nearly every part of the earth supports living organisms. No organism lives in isolation. Each organism is part of a linked system of living and nonliving things.
+
+Ecology is the study of the relationships between living organisms and their environments.
+
+Ecologists are people who study ecology. The suffix -ology means "study of."
+
+
+
+** Ecology 							      :drill:
+Organisms interact with each other in many ways. Most animals must compete with other animals and species for food, water, and space in which to live.
+
+Plants must compete with other plants for their share of sunlight, water, and space.
+
+Plants and animals exchange gases in the air so they can all survive.
+
+
+
+** Ecology 							      :drill:
+Life on earth is found in a zone called the biosphere, which means "living ball." The biosphere is the part of the earth inhabited by plants and animals. It is a living system with multiple levels of organization, all interdependent on each other.
+
+The biosphere is made up of the land, the ocean, and part of the atmosphere. The biosphere extends from the deepest part of the ocean where organisms live to the very highest parts of mountains where other organisms live.
+
+
+
+** Ecology 							      :drill:
+The biosphere is divided into ecosystems. An ecosystem is a self-supporting unit of interacting living things and their environment.
+
+Everything in an aquarium makes up an ecosystem. An ecosystem includes all the interacting parts of an environment, both biotic (living) and abiotic (nonliving).
+
+Ecosystems can be as large as an ocean or a prairie or as small as a drop of water or a teaspoon of soil.
+
+
+
+** Ecology 							      :drill:
+Living things are also organized into populations and communities.
+
+A population is a group of organisms from the same species that breed and live together in one area. A colony of penguins is a population.
+
+
+
+** Ecology 							      :drill:
+A population study includes the number of its members and the amount of space each member uses. A population study also includes the specific time and location of the study.
+
+The number of organisms in a population that occupy a given amount of space is the population density.
+
+On this graphic, the group of animals on the right has a greater population density than the group on the left because the same number of animals occupies a smaller area.
+
+
+
+** Ecology 							      :drill:
+Populations can be affected by birth rate, death rate, immigration, weather, and many other factors. The number of individuals of a population that could be produced under ideal conditions is the biotic potential of the population.
+
+Disease, predators, and food shortages are factors that limit a population from reaching its biotic potential.
+
+
+
+** Ecology 							      :drill:
+A community can include several populations of various animals. A community is made up of all the different populations living together in one place. A farm may be thought of as a community.
+
+The different populations of the farm community might include a farmer's family, cattle, horses, pigs, ants, mice, trees, different plants, and other species.
+The community is the biotic part of an ecosystem. Abiotic things, such as temperature, water, and soil, are part of the ecosystem but not part of the community.
+
+
+
+** Ecology 							      :drill:
+A habitat is the home for a population of living things. The environment provides the things a plant or animal needs to live, grow, and reproduce. Each species has its own habitat within an ecosystem.
+
+A habitat is like a neighborhood for an animal. A squirrel's habitat may be a tree, while the habitat of a fish will be the ocean, a lake, or a stream. The habitat must supply all the biotic factors an organism needs for survival. These needs include food, water, and shelter.
+
+
+
+** Ecology 							      :drill:
+Populations of living things can share a habitat, yet each organism has a specific function. The specific jobs organisms have are also known as their niche. Remember that an organism's habitat is where it lives. An organism's niche can be thought of as what it does. An organism's niche includes all the ways it will interact with the biotic and abiotic factors.
+
+The niche of a blue jay would be nesting in trees, giving off carbon dioxide, and eating seeds and berries.
+
+
+
+** Ecology 							      :drill:
+Many organisms can and do share the same habitat.
+
+Think of all the living things in a forest. In a balanced ecosystem, no two species have the same niche. Each animal and plant has its own role.
+
+When two species try to have the same niche, they are said to compete with each other. After a while, the species that is best suited for the environment will fill the niche, and the other will move away or disappear.
+
+
+
+** Ecology 							      :drill:
+Every organism competes for space and food. The food chain is an important process because this is the way nutrients and energy flow through a community.
+
+A food chain is a model that shows how energy is passed from one organism to another. Food chains are essential for living organisms.
+
+
+
+** Ecology 							      :drill:
+Grain is eaten by a mouse. The mouse is eaten by a snake. The snake is eaten by an owl.
+
+Here is another example. The same grain is eaten by a cow. The meat of the cow is made into a hamburger. The hamburger is eaten by a person.
+
+Energy is passed on at each level of the food chain. Food chains consist of producers, consumers, and decomposers.
+
+
+
+** Ecology 							      :drill:
+The sun provides energy for plants to grow. Plants are producers in the food chain. Plants make their own food. Any living thing that makes food using the energy of the sun is a producer.
+
+Animals cannot make their own food.  Animals must consume food to receive energy. When plants or animals release energy from food, they help to recycle oxygen. Anything that eats other living things is called a consumer. A food chain can contain several different consumers.
+
+
+
+** Ecology 							      :drill:
+Some living things known as decomposers receive energy from dead plants and animals. Decomposers are important links to the food chain. They feed on all producers, consumers, and animal wastes.
+
+Decomposers change the wastes, including dead animals and plants, into nutrients needed by producers, and they replenish the soil to be used by plants again.
+
+
+
+** Ecology 							      :drill:
+Some animals eat plants. Some animals eat other animals, and some animals eat both plants and animals.
+
+There are four different kinds of animal consumers.
+
+
+
+** Ecology 							      :drill:
+Herbivores (HURB-uh-vorz) are animals that get their energy by eating plants only. Can you think of some herbivores?
+
+Cows, horses, sheep, moose, deer, rabbits, and squirrels are all herbivores.
+
+
+
+** Ecology 							      :drill:
+Carnivores (KAR-nuh-vorz) get their food by hunting and eating other animals. These are the meat-eating organisms of the animal kingdom. Lions, cats, and dogs are all carnivores.
+
+Some carnivores, such as the lion, are predators that hunt for their prey. Lions stalk and eat other animals, such as the zebra, wildebeest, and antelope. When food is scarce, they even hunt larger prey, such as buffalo, rhinoceros, and elephant calves.
+
+
+
+** Ecology 							      :drill:
+Omnivores (OHM-ni-vorz) eat both plants and animals. Most humans are omnivores. Bears, chickens, pigs, and raccoons are also omnivores. They will eat almost anything.
+
+Some omnivores are scavengers and will eat dead or dying animals or other matter. Some examples of scavengers are vultures, earthworms, flies, and cockroaches.
+
+
+
+** Ecology 							      :drill:
+Take a look outside. What communities do you see? What populations make up those communities? What food chains are around you? All living things interact with other living things in one way or another.
+
+Living organisms are all over the earth in a variety of habitats, communities, populations, and ecosystems. Every organism is unique and requires different things from its environment.
+
+
+** Biomes 							      :drill:
+Think about all the different living organisms on the earth. There are people, plants, animals, and a variety of microscopic organisms. All of these living things inhabit the earth together.
+
+In this lesson, you will discover the variety of biomes on our earth, including the deciduous forests, rainforests, tundra, taiga, grasslands, desert, and polar biomes. You will also learn about the different plants and animals that live in each region.
+
+
+** Biomes 							      :drill:
+A large land area with similar abiotic conditions and similar biotic life forms is called a biome. It has a certain kind of climate in a specific place or geographic region.
+
+Abiotic means nonliving factors in an ecosystem, such as sunlight, precipitation, soil, and temperature. Biotic factors are the living organisms in an ecosystem. Each group of factors can act independently or interact together.
+
+
+
+** Biomes 							      :drill:
+Biotic and abiotic factors interact. For example, when there is a flood, soil is moved from one place to another, and the soil composition may be changed.
+
+A river may move in its banks, and as it interacts with the biotic factors, other systems may be changed. For example, the nests of birds that are usually near the old riverbed would be under water.
+
+
+
+** Biomes 							      :drill:
+Biotic factors may interact, as when predators eat their prey or when there is a close relationship between two organisms or different species.
+
+This is called a symbiotic relationship. Bees and flowers have a symbiotic relationship. The bee pollinates the flower, and the flower provides food for the bee.
+
+
+
+** Biomes 							      :drill:
+The latitude of an area determines the temperature of the area. The climate and soil conditions determine the kind and number of organisms that can live in a biome.
+
+Biomes are usually named by their dominant plant or position on the earth.
+
+
+
+** Biomes 							      :drill:
+There are seven major land biomes:
+
+• polar
+• tundra
+• coniferous forest (taiga)
+• deciduous forest
+• grassland
+• desert
+• tropical rainforest
+
+
+
+** Biomes 							      :drill:
+There are two polar biomes, Arctic and Antarctic. An ice cap lies over the Arctic Ocean.
+
+The temperatures may plunge to negative 40 degrees Celsius in these biomes. Although there is almost no rain or snow, there is ice. Winters are long and have little sunlight, and the winds are severe in these biomes.
+
+
+
+** Biomes 							      :drill:
+More than one hundred mosses, lichens, and small flowering plants grow in this frigid, desolate land. Gulls, walruses, and polar bears live on the Arctic coast. Bears and other animals like them can conserve food and energy when they hibernate for the winter.
+
+Seals, whales, and penguins live near or on Antarctica. An ice cap covers a large landmass in Antarctica. The land is extremely cold, and only a few plants live along the coast. Only bacteria and some small insects live inland.
+
+
+
+** Biomes 							      :drill:
+The tundra biome is cold and almost treeless. It has a small amount of topsoil that supports a few plants, such as grasses, mosses, lichens, and small shrubs, during the two months of summer.
+
+The tundra forms a belt across Asia, Europe, and North America. It is characterized by permafrost, a permanently frozen layer of ground.
+
+
+
+** Biomes 							      :drill:
+Reindeer are common sights in the tundra. Arctic foxes, wolves, snowy owls, hawks, eagles, and falcons are predators in the tundra biome. Lemmings, voles, and marmots are their prey.
+
+Ducks, geese, and a variety of other birds are plentiful in the tundra during the short summer. These animals will migrate south to warmer climates for the long, cold winter.
+
+
+
+** Biomes 							      :drill:
+The coniferous forest lies south of the tundra and is named for the coniferous trees that grow there.
+
+Conifers are trees with needle-like leaves. They produce seeds in cones and stay green all year. This is why they are also called evergreens.
+
+Fir, pine, and spruce trees are examples of coniferous trees.
+
+Yellowstone and Yosemite national parks are both in the coniferous forest biome in North America.
+
+
+
+** Biomes 							      :drill:
+Large tracts of coniferous forests cover the northern parts of North America, Europe, and Asia. Ecologists, scientists who study the relationship between living things, subdivide the coniferous forest in North America into three regions.
+
+From the northernmost to the southernmost, these are:
+
+the taiga
+the coniferous belt
+the southern pine forests (also called temperate forests)
+In the taiga, summers are warm, rainy, and humid. The temperatures get high enough to thaw the ground, so no permafrost exists, and trees can grow. The taiga extends across Alaska and northern Canada.
+
+
+
+** Biomes 							      :drill:
+Trees are widely spaced in the taiga because nutrients are scarce. The spruce and balsam fir are types of trees that can shed the heavy snows of winter because of the shape of their needles.
+
+Thick layers of moss and lichens grow on the ground. In spring, many colorful wildflowers bloom and fill the air with pleasant smells. Ducks and geese migrate to the taiga in late spring and remain until late autumn.
+
+
+
+** Biomes 							      :drill:
+The coniferous belt extends across most of Canada and the northern United States. It is sometimes called the "spruce-moose" belt because the two main species that live there are the spruce trees and the moose.
+
+The southern pine forests cover much of the southeastern United States. Because the climate is more temperate, population densities are higher, meaning more species of both plants and animals live there. Two examples of broadleaf trees in this area are the oak and magnolia trees.
+
+
+
+** Biomes 							      :drill:
+The deciduous forest biome is a forest in which the trees lose their leaves in the fall. There are four seasons in this biome. Winters are usually expected to be cold. Spring begins to warm the earth. Summers are hot, with a high level of precipitation. Fall becomes cooler, and winter soon begins again.
+
+The moderate climate and rich soil in this biome support vast numbers of plant and animal species. Much of this land has been cleared by people in order to farm more land or build cities.
+
+
+
+** Biomes 							      :drill:
+Deciduous trees have broad, thin leaves with a large surface. This allows the leaf to collect as much sunlight as possible. Dominant species are birch, elm, oak, willow, and maple.
+
+Deer, fox, raccoon, and squirrel are typical mammals found in this biome. Many bird species live in the deciduous forest in the summer and migrate to warmer places in the winter. Other birds, such as the cardinal and blue jay, live in the deciduous forest all year.
+
+
+
+** Biomes 							      :drill:
+The tropical rainforest biomes are located near the equator. Throughout the year, temperatures are high, and the climate is very wet. Rainforests are the source of over 50% of the world's rainfall. Plants grow better here than in any other biome. Trees grow between 60 and 130 feet tall.
+
+Plants in the rainforests produce plenty of food for consumers, animals that eat other living things. Tigers, leopards, and pythons are common predators. Insects, spiders, frogs, monkeys, and birds are common prey.
+
+
+
+** Biomes 							      :drill:
+The ant is the most numerous animal in the rainforest by far. Thousands of ants from up to forty different species may live on a single tree.
+
+In the rainforest, basilisk lizards can run on water, some bats have wingspans of nearly 6 feet, and the world's largest rodent, the capybara, can grow up to 100 pounds!
+
+A grass called bamboo can grow 100 feet tall. The largest flower, the rafflesia, weighs about 38 pounds. Many unique organisms live in rainforests.
+
+
+
+** Biomes 							      :drill:
+Prairies, steppes, savannas, veldts, and pampas are all names for the grassland biome. In North America, these areas are prairies; in Europe and Asia, they are steppes; savannas are found in East Africa, Australia, and parts of South America; veldts are in South Africa; and pampas are in South America. No matter what they are called, all grassland biomes are similar.
+
+Most grasslands are used for farming and grazing animals.
+
+
+
+** Biomes 							      :drill:
+Common wild animals of the grasslands are antelope, badgers, moles, ground squirrels, rabbits, hares, and gophers.  A large variety of birds also live in the grasslands. Many of the birds are predators who hunt and eat other animals. Some of these predators are hawks, eagles, and falcons.
+
+The grasslands in the United States and other areas grow beautiful wildflowers in the spring.
+
+
+
+** Biomes 							      :drill:
+It is the lack of precipitation, not the temperature, which makes a desert. With so little rain, only cacti and a few other plants can live in the desert biomes.
+Deserts are very hot during the day and very cool at night. Desert plants store water in their roots and stems and have very small leaves or thorns, so they do not lose much water to the dry air. Some have waxy limbs to help keep water from evaporating.
+
+Most desert animals sleep during the day and come out at night when it is cooler. Very few large animals live in the desert because large amounts of food and water cannot be found.
+
+
+
+** Biomes 							      :drill:
+Take a look outside. What kind of biome do you live in? What is the temperature like? What plants and animals live there?
+
+Living organisms are all over the earth in a variety of biomes. Every organism is unique and requires different things from its environment. The natural world around us is amazing to observe.
+
+
+** Environmental Hazards 					      :drill:
+Have you ever thought about your drinking water? Most sources of drinking water are polluted. The water from these sources must be treated with chemicals and filtered before it is safe to drink. What about the air we breathe? Factories release harmful chemicals into the air. People also harm the air with things they do. People can help reduce some of the pollutants by being aware of what causes them and knowing the harm they cause. They also need to be able to detect what pollutants are in the air, soil, and water in our communities.
+This lesson will explain about hazardous substances in the soil, water, and air around us and the importance of detecting these substances.
+
+
+
+** Environmental Hazards 					      :drill:
+In most large cities, the sky appears dark and hazy on a calm, sunny day. What causes this haze? It is caused from pollutants in the air.
+
+A pollutant is a substance that contaminates the environment. It can come from several different sources. Some industries generate dust and chemicals that are harmful to the air.
+
+
+
+** Environmental Hazards 					      :drill:
+People also add pollutants to the air. Cars, buses, trucks, trains, and planes all burn fossil fuels, fuel that is formed in the earth from plant or animal remains. Coal, oil, and natural gas are examples of fossil fuels.
+
+Soot, smoke, and ash also pollute the air. Pollution can also be caused by volcanoes, wind-blown dust, forest fires, and evaporation of chemicals.
+Smog is the major source of pollution around large cities. The word smog comes from combining the words smoke and fog. Smog is created when sunlight reacts with pollutants produced by burning fuels.
+
+Smog can cause health problems. It can irritate the eyes and make breathing hard for some people. Taking the bus or train instead of driving can help reduce smog.
+
+
+
+** Environmental Hazards 					      :drill:
+One of the most harmful parts of smog is ozone. Ozone that is in the stratosphere protects people from the sun's ultraviolet (UV) rays. When ozone is formed near the ground, it causes health problems. Ozone reduces breathing capacity, kills cells in the lungs, and makes people age faster.
+The ozone layer becomes thinner over each polar region during its spring season. This thinning of the ozone is called ozone depletion. This is usually caused by chlorofluorocarbons (CFCs).
+
+CFC is a pollutant gas used in cooling systems of refrigerators, freezers, and air conditioners. CFC rises slowly into the atmosphere until it reaches the ozone layer after leaking from an appliance. It reacts chemically with ozone and breaks apart the molecules.
+
+
+
+** Environmental Hazards 					      :drill:
+In Denver, Colorado, a "smog gun" is used to detect cars that are causing pollution. When a car exits the interstate, a beam of light is shot through a car's exhaust. The beam measures the wavelengths of light absorbed by the exhaust.
+
+A computer calculates the amount of carbon monoxide, nitrogen oxide, and hydrocarbon particles present. A video camera takes a picture of the license plate, and the driver can be contacted to repair the car's exhaust system.
+
+
+
+** Environmental Hazards 					      :drill:
+Ozone depletion may be allowing more UV rays to reach the earth. This could be causing an increase in skin cancer. Ozone depletion may also be harming other organisms. World governments and industries have agreed to stop using and making CFCs.
+
+The Environmental Protection Agency (EPA) has looked at the risks that are caused by vehicle pollution. They have made new laws that place limits on the amount of emission released from tailpipes and reformulated gasoline.
+The benefit of these changes is that between 1990 and 2020 the air toxins from vehicles should decrease by 75%.
+
+Acid rain is another form of air pollution. Acid rain forms from the burning of fossil fuels reacting with water in the atmosphere to form strong acids. The water vapor condenses on dust particles in the air to form droplets. These droplets combine to form clouds. The droplets form acid rain that falls to the ground as mist, rain, snow, sleet, or hail.
+
+
+
+** Environmental Hazards 					      :drill:
+Acid rain can cause plants and trees to die by washing away nutrients in the soil. It may also run off into ponds or lakes and lower the pH of the water. This can cause algae and microscopic organisms to die.
+
+If the algae and organisms die, fish that depend on them for food will also die. Acid rain can also damage the surfaces of buildings, cars, and statues.
+
+
+
+** Environmental Hazards 					      :drill:
+People can help prevent acid rain by using low-sulfur fuels and gases. The sulfur from burning coal and nitrogen oxide in vehicle exhaust are primary causes of acid rain. To help reduce air pollution, people should use the public transportation system, carpool to work or school, and use vehicles that do not produce too much pollution.
+
+
+
+** Environmental Hazards 					      :drill:
+The atmosphere may be trapping more heat and making the earth warmer. This rise in the average temperature caused by the greenhouse effect is called global warming.
+
+Global warming can cause several different changes on earth. The rainfall patterns could change and affect the kinds of crops that are grown in an area. The number of hurricanes and storms could also increase. Polar ice caps may melt and raise the sea levels, causing coastal flooding.
+
+
+
+** Environmental Hazards 					      :drill:
+The EPA has issued rules for major industrial sources, such as chemical plants, oil refineries, and steel mills. These industries cause risks to the environment. The new rules are projected to reduce annual air toxins by about 1.5 million tons. This is a great benefit to environmental laws.
+
+Pollution can also enter water. Air pollutants can drift into or from acid rain. Pollution on the land can be washed by rain into waterways. The rain can wash oil and grease from roads and parking lots into streams and rivers.
+Rain can also wash pesticides and fertilizers into lakes and oceans. Sometimes industrial waste is released into streams and rivers.
+
+Pollution also enters water from waste materials and litter that is dumped by people into lakes and rivers. Pesticides sprayed on farmland may wash into lakes and rivers.
+
+
+
+** Environmental Hazards 					      :drill:
+Surface water can be harmful to people who swim in it or drink it. It can also poison fish and other wildlife. The chemicals can harm the insects that fish and turtles eat. The shortage of food can cause animals to die.
+
+Some pollutants, such as mercury, can build up in the tissue of fish. Eating fish contaminated with mercury can harm people, birds, and other animals. Sometimes people are advised not to eat fish from polluted water.
+
+
+
+** Environmental Hazards 					      :drill:
+Raw sewage and excess fertilizers contain large amounts of nitrogen. When these are washed into lakes and ponds, they can cause algae to grow quickly.
+
+When the algae die, they are decomposed by large amounts of bacteria that use up most of the oxygen. Fish die from the lack of oxygen available in the water.
+Polluted water also enters the oceans from rivers and streams.
+
+Oil spills are another way that oceans are polluted. About 4 billion kg of oil are spilled into the ocean each year. Most of this oil comes from ships that use ocean water to wash out their fuel tanks.
+
+Polluted water can also occur when oil tankers wreck. Thousands of ocean organisms (birds, fish, and shellfish) die in an oil spill.
+
+
+
+** Environmental Hazards 					      :drill:
+Water pollution is usually detected in a laboratory. A small sample of the water is analyzed for different contaminants. Drinking water undergoes frequent testing to ensure it is safe for drinking. Living organisms, such as fish, can also detect water pollution. If their behavior changes or they begin to die, people know the water is polluted.
+
+Air pollutants can drift to the ground and water. The water can leave pollutants behind as it flows through the soil to cause soil pollution. Soil is also polluted when litter is tossed on the ground.
+
+
+
+** Environmental Hazards 					      :drill:
+What happens to trash thrown out each week by people? What do people do with old televisions, refrigerators, beds, and toys? This solid waste is usually dumped in landfills.
+
+Landfills are designed to seal out air and water. This helps prevent pollutants from leaking into soil in the surrounding areas. This also slows the normal decaying process. Food scraps and paper that normally break down quickly can last for years in a landfill. People can reduce the need for more landfills by reducing the amount of trash they produce.
+
+
+
+** Environmental Hazards 					      :drill:
+Hazardous waste is waste material that is harmful to human health or poisonous to living organisms. This includes dangerous chemicals such as pesticides and oil. It also includes radioactive waste from nuclear power plants, radioactive material used by hospitals to treat diseases, and substances used in nuclear weapon production.
+
+
+
+** Environmental Hazards 					      :drill:
+Many household chemicals, such as batteries, leftover paints, drain cleaners, and medicines can also be hazardous. These should never be poured down the sink, onto the ground, or into a storm sewer drain.
+
+Bioindicators are also used to detect pollution. Bioindicators are organisms such as lichens, birds, and bacteria that are used to monitor the health of the environment. Changes in these organisms may indicate a problem with pollution in the area.
+
+
+
+** Environmental Hazards 					      :drill:
+In the environment, the chance of something dangerous happening is called a risk. Each type of hazardous substance or pollution involves a different amount of risk.
+
+Risks have two parts: the chance that people will be exposed to the substance and the chance that being exposed will harm or injure the person.
+
+Environmental risk measures the chances that the environment will be harmed from the substance.
+
+
+
+** Environmental Hazards 					      :drill:
+There are factors that determine the risks associated with a hazardous situation. One factor is the damage the hazard could potentially cause. Another factor is the chance of the hazard spreading to other areas through water or wind and that people may come in contact with it.
+
+When the risks for a particular hazard have been identified, a study may be done to determine what benefits a cleanup may have. If it is determined that the benefits of a cleanup are greater than the risks involved, the cleanup will be done.
+
+
+
+** Environmental Hazards 					      :drill:
+Being aware of the environmental hazards in your area is important. You should also be aware of the risks that are involved. Hazardous waste can be released in the air, water, or the land. It can spread and cause greater health risks.
+If a small amount of a pollutant is released, it may be diluted. When it is diluted, it may not cause injury. A hazardous substance can cause injury or death to a person, plant, or animal when:
+
+• a large amount is released at once
+
+• a small amount is released many times at the same place
+
+• the substance does not become diluted
+
+• the substance is very toxic
+
+
+
+** Environmental Hazards 					      :drill:
+Contact with a hazardous substance is called exposure. The effects of exposure depend on how the substance was used and disposed of, the concentration of exposure, how the subject was exposed, and how long or often someone is exposed.
+Humans, plants, and animals can be exposed in several ways.
+
+Inhalation is breathing the vapors from hazardous liquids. Ingestion is eating fish, fruit, vegetables, or meat that has been contaminated. Small children can be contaminated from eating small amounts of soil or paint chips that contain lead. The most common way is by drinking contaminated water. Dermal exposure results when a substance comes in contact with the skin or is absorbed into the skin.
+
+
+
+** Environmental Hazards 					      :drill:
+People who are exposed to toxic air pollutants at high levels or long periods of time may be at an increased risk of developing cancer or experiencing other serious health effects. These health effects can include damage to the immune system, respiratory and reproductive problems, and neurological problems.
+
+Animals can also experience health problems if they are exposed to high quantities of pollutants over time.
+Be aware of the hazards and the risks in your area and pay attention to environmental laws that can help reduce pollution.
+
+Everyone working together can make a difference in the environment. Working together can benefit the environment by reducing the risks associated with hazards.
+
 
 
