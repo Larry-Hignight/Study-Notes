@@ -42,3 +42,6 @@ cnee --replay -f social-studies.xnl --time 1
 cnee --replay -f social-studies.xnl --time 1
 cnee --replay -f social-studies.xnl --time 1
 cnee --replay -f social-studies.xnl --time 1
+cnee --replay -f social-studies.xnl --time 1
+cnee --replay -f social-studies.xnl --time 1
+cnee --replay -f social-studies.xnl --time 1
