@@ -6649,3 +6649,844 @@ The tilt of the earth means different parts of the earth receive more direct sun
 The earth travels at different orbital velocities and will be closer to the sun at some points than at others. However, how directly the sun's light hits the earth has more to do with the earth's temperatures and seasons than its distance from the sun.
 
 Hopefully, you now have a better understanding of what causes the seasons to occur on the earth.
+;; This buffer is for text that is not saved, and for Lisp evaluation.
+;; To create a file, visit it with C-x C-f and enter text in its buffer.
+
+
+
+
+** Constellations  :drill:
+"One small step for man, one giant leap for mankind." These words were said by Neil Armstrong in 1969 when he became the first man to walk on the moon.
+
+The moon is the most studied of all objects in space. The moon is the earth's nearest neighbor. It is so close to the earth that its mountains and valleys are visible to the naked eye.
+
+This lesson explains different characteristics of the moon and some effects the moon has on the earth.
+
+
+
+** Constellations  :drill:
+
+
+
+** Constellations  :drill:
+On July 20, 1969, Neil Armstrong was the first person to step onto the moon. Since then, twelve United States astronauts have followed him. Manned missions to the moon have provided scientists the opportunity to study the makeup of the moon's surface and other geological features of the moon.
+
+Astronauts left instruments on the moon which allowed scientists to gather further data about the moon. This information assists scientists on earth in their research and study of the moon.
+
+
+
+** Constellations  :drill:
+Astronauts also brought back moon rocks to be studied. They were found to be slightly older than the rocks on earth. Scientists believe the moon came into being about the same time as the earth, about 4.6 billion years ago.
+
+The moon rocks were igneous rocks formed from lava. This indicates the moon's surface was once very hot and molten. It was covered with volcanoes. When the volcanoes erupted, lava filled the lower areas. Scientists estimate the volcanoes stopped erupting on the moon about three billion years ago.
+
+
+
+** Constellations  :drill:
+The areas in which lava once flowed appear as dark-colored plains on the moon's surface. Early astronomers believed the dark colored areas were seas. They named the dark regions on the moon maria (MAR-ee-uh), which is Latin for "seas."
+
+The light patches of the moon's surface are highlands know as terrae (TEHR- ee). Some highlands were created by craters. The craters were created by impacts from meteoroids, rocks which travel through space.
+The back side of the moon has more craters than the side which faces the earth. This side of the moon always faces away from the earth and receives the majority of the moon's meteoroid impacts.
+
+Some craters have lighter streaks or rays leading out from them. These rays are lighter material thrown out of the crater when it was formed.
+
+
+
+** Constellations  :drill:
+The moon has many craters because there is no atmosphere which can burn up the meteoroids before they hit the moon's surface.
+
+When meteoroids hit the moon, dust and debris from the moon's surface are spread into the air. As a result, a fine, dark gray dust covers most of the moon's surface.
+
+The lack of an atmosphere also means erosion on the moon is very limited. Unless new meteoroids hit the moon, the old craters stand untouched.
+The moon may not have an atmosphere, but it does have traces of different gases in the air.
+
+
+
+** Constellations  :drill:
+The lack of an atmosphere also means the moon experiences dramatic temperature differences between day and night. The daytime temperature can rise to more than 130o C (266o F) with nights as cold as -170o C (-274o F) or lower.
+
+Lack of an atmosphere is not the only difference between the moon and the earth. The moon has no water, and no sign of life has ever been found.
+
+
+
+** Constellations  :drill:
+The moon is smaller than the earth. The moon's mass is also less than the earth's mass. Its gravity is only one sixth the gravity on the earth.
+
+Divide your weight by six to know how much you would weigh on the moon.
+
+The moon, like the earth, also has a crust and a mantle. It probably has a small core that is possibly liquid, similar to the earth's core.
+
+
+
+** Constellations  :drill:
+Scientists are not sure how the moon was formed, but they have several hypotheses. Here are some of the most accepted hypotheses:
+
+1) The earth and moon came from the same material. The moon either split off from the earth or separated as the earth itself was forming.
+
+2) The moon formed far from the earth in another part of the solar system. Later, the earth's gravity "captured" it.
+3) The earth and moon are twin planets which formed at the same time.
+
+4) Material orbiting the earth collided with material orbiting the sun. The gravitational force of the orbiting matter pulled the material together, forming the moon.
+
+
+
+** Constellations  :drill:
+Regardless of how the moon formed, scientists do know the moon travels in an orbit around the earth and is the earth's only natural satellite. A satellite is a body that moves in an orbit around a larger body.
+
+The earth and moon orbit together around the sun. The moon spins on its axis at the same rate it orbits the earth. Therefore, the same side of the moon is always visible from earth.
+The moon passes through phases about once every 28 days. It also turns on its axis once during this time as it moves around the earth.
+
+
+
+** Constellations  :drill:
+The moon does not produce its own light. The light you see from the moon is actually a reflection of the sun.
+
+Sunlight reflects off the moon's surface toward the earth. As the sun's light progresses across the side of the moon visible to the earth, it creates phases.
+
+
+
+** Constellations  :drill:
+The moon moves through these phases: new moon, waxing crescent moon, first quarter moon, waxing gibbous moon, full moon, waning gibbous moon, last quarter, waning crescent moon, new moon.
+
+** The Moon  :drill:
+Half of the moon is always illuminated by the sun. When the sun is shining on the side of the moon that does not face the earth, the moon appears dark. This is called a new moon. The new moon represents the beginning of the phases.
+
+When the moon is waxing, the illuminated side of the moon visible from earth is getting bigger.
+
+
+
+** The Moon  :drill:
+After the new moon, light begins to move across the moon from right to left as seen from the earth. As a small part of the illuminated side can be seen, it is called a waxing crescent moon. This is the first visible phase.
+
+When half of the illuminated side can be seen, it is called a first quarter moon. After the first quarter moon, the illuminated part of the moon begins to take on a football shape. This is called a waxing gibbous (GIB-us) moon.
+
+
+
+** The Moon  :drill:
+Soon, all of the illuminated side of the moon can be seen from earth. This is called a full moon. The full moon is nine times brighter than the quarter moon, because sunlight is reflected more directly toward the earth at a full moon.
+
+After a full moon, the sunlit part of the moon that is visible from earth begins to get smaller. The moon is said to be waning at this time.
+
+
+
+** The Moon  :drill:
+The phases move from waning gibbous to last quarter to waning crescent and back to new moon again. Waning gibbous is the phase in which the moon once again takes on a football shape. During the last quarter, the left half of the moon appears illuminated. The waning crescent is the last phase of visible light appearing just before the new moon.
+
+At this point, the moon has traveled a full orbit around the earth, which takes about 28 days.
+
+
+
+** The Moon  :drill:
+The moon revolves around the earth from east to west in an elliptical orbit.
+An elliptical orbit means the moon is closer to the earth at some points in its orbit than at others.
+
+The moon is farthest from the earth at apogee (AP-uh-jee). At this point, the moon is about 400,000 kilometers (248,000 miles) away. The moon is nearest the earth at perigee (PEHR-uh-jee), when it is about 350,000 kilometers (217,000 miles) away.
+
+
+
+** The Moon  :drill:
+You know the earth travels around the sun, and the moon travels around the earth. At times, the moon is between the sun and the earth. At other times, the earth is between the sun and the moon. When the light from the sun is blocked, long shadows extend thousands of kilometers into space.
+Every shadow has two parts. The completely dark part of the shadow near the center is called the umbra. The lighter, less shaded outside area is called the penumbra.
+
+
+
+** The Moon  :drill:
+When the earth is between the sun and the moon, its shadow falls on the surface of the moon, causing a lunar eclipse.
+
+A total lunar eclipse occurs when the moon passes through the umbra of the earth's shadow. A partial lunar eclipse occurs when the moon passes through the penumbra of the earth's shadow.
+
+
+
+** The Moon  :drill:
+A solar eclipse occurs when the moon is directly between the sun and earth.
+
+A total solar eclipse occurs if the moon completely covers our view of the sun. This can only happen in the area where the moon's umbra hits the surface of the earth. A total eclipse affects only a small band across the surface of the earth.
+
+
+
+** The Moon  :drill:
+A partial solar eclipse occurs when the moon does not completely block the sun. A partial eclipse will occur in the penumbra of the moon's shadow.
+
+An annular solar eclipse occurs when the moon is at apogee and is too far from the earth for its shadow to hit the earth. The moon appears too small to completely cover the sun, so the outer edges of the sun are still visible. The outer edge of the sun forms a ring around the moon.
+
+
+
+** The Moon  :drill:
+The moon also has other effects on the earth.
+
+The gravitational pull of the moon affects the earth as it orbits around the earth. It pulls on the water in the earth's oceans causing them to rise and fall, creating tides.
+
+Each tide lasts about six hours. For six hours, the ocean level rises on the beach. For the next six hours, the ocean level falls on the beach.
+
+
+
+** The Moon  :drill:
+When the moon is in its full or new phases, both high and low tides are at extremes. This occurs because both the moon and the sun line up with the earth. The gravitational pull of both bodies occurs in the same direction. These extra high and low tides are called spring tides.
+High tides occur on the side of the earth facing the moon and on the opposite side of the earth. This occurs because the moon's gravitational pull causes bulges on the earth. Low tides occur between the bulges on each side of the earth.
+
+
+
+** The Moon  :drill:
+Neap tides are especially weak tides. Neap tides occur when the moon is in its first and last quarter phases.
+
+In these quarter phases, the sun's gravity and the moon's gravity pull at 90o angles. This works to cancel out some gravitational pull from each body, so the tides do not rise as high or drop as low.
+
+
+
+** The Moon  :drill:
+The moon is similar to the earth, because it has a crust and a mantle. The moon's crust is rock formed from lava. The moon spins on an axis and orbits around the earth.
+
+The moon is different from the earth because it has no atmosphere. The lack of an atmosphere causes temperature extremes between night and day. The lack of an atmosphere means the moon has no protection from the impacts of meteoroids. The moon has no water and does not experience erosion.
+The moon affects the earth because its gravitational pull causes tides in the earth's oceans. The position of the moon in relation to the earth and sun can cause eclipses.
+
+Even though the moon is the most studied object in space, scientists have not yet learned all there is to know about it, so research about the moon continues.
+
+
+
+
+** Constellations  :drill:
+
+
+** Constellations  :drill:
+Have you ever been outside at night and looked up to find the Big Dipper? The Big Dipper is one group of stars that forms a type of picture in the sky.
+
+Did you know many other pictures like the Big Dipper are present in the sky? People from all civilizations have looked at the night sky, found pictures in the stars, and even given them names.
+Today, these star pictures are called constellations, and they help scientists identify and place objects in the sky.
+
+In this lesson, you will learn more about the constellations, how they were named, and what purpose they serve for scientists today.
+
+
+
+** Constellations  :drill:
+
+
+
+** Constellations  :drill:
+An astronomer is a scientist who studies the universe and makes observations of the celestial phenomena. Astronomers use telescopes, satellites, and spacecraft to study and explore the universe.
+
+Astronomers refer to celestial objects as being on the celestial sphere. The celestial sphere is an imaginary sphere on which all objects in the sky seem to be located.
+Astronomy is the study of the motion, size, and makeup of the stars, planets, comets, galaxies, and other celestial objects. Celestial objects refer to objects found in the sky or heavens.
+
+
+
+** Constellations  :drill:
+Imagine the earth as being inside a giant ball, and all the objects in the sky which can be seen from the earth are located on the ball. This "ball," which surrounds the earth, would be the celestial sphere.
+
+All objects in the sky do not actually lie on the sphere because they do not exist at equal distances from the earth. The celestial sphere is useful because it allows astronomers to give each object in the sky a coordinate representing its position in the sky.
+
+
+
+** Constellations  :drill:
+The coordinate system allows astronomers to easily find objects and direct other astronomers to an exact location when new celestial phenomena are discovered.
+
+Objects in space are created when the force of gravity pulls particles of gas and dust together. If enough matter is pulled together and the pressure at the center of the matter is high enough, nuclear fusion will begin. Thus, a star is born.
+
+
+
+** Constellations  :drill:
+If there is less matter and pressure at the center is not high enough, nuclear fusion will not occur and a planet or some smaller object forms.
+
+Often the gas and dust are scattered enough so that gravity will not pull them together, but it will be strong enough to keep them from drifting apart. This loosely held cloud of dust and gas is called a nebula. Celestial objects often form within nebulae.
+
+
+
+** Constellations  :drill:
+Can you see the difference between a star and a planet by just looking at the sky?
+
+Planets are much nearer to the earth than the stars. Many planets are close enough to be seen as disks of light. They appear to move across the sky because they are so near the earth.
+
+Stars exist at such great distances from the earth that they do not appear to change positions from night to night.
+
+
+
+** Constellations  :drill:
+Every star belongs to a constellation, a group of stars which have been given a definite name. Constellations help locate and identify stars and other celestial objects.
+
+Some people have imagined the outline of a person or animal in the constellations.
+The constellations appear to move over time because of the rotation of the earth.
+
+If you lived at the equator, you would be able to see all the constellations over the course of a year. If you lived at one of the poles, some constellations would never be visible to you.
+
+
+
+** Constellations  :drill:
+Constellations have interested people for thousands of years. They have also been very useful. Constellations helped early sailors navigate across the oceans. In regions that do not experience much temperature difference between the seasons, constellations helped farmers know when it was time to plant or harvest crops.
+
+Today, constellations break up the sky into organized sections. They help astronomers identify stars, and they help locate celestial objects.
+
+
+
+** Constellations  :drill:
+Many constellations are named after ancient gods, heroes, or animals. The Greeks named 48 constellations. Many American Indians and other cultures have also named constellations.
+
+Because each culture assigned constellations to different groups, a star might appear in one grouping for one culture and in another grouping for another culture.
+
+In 1929, the International Astronomical Union put an end to any confusion by defining 88 official constellations that are recognized across all cultures. Many of the original Greek names for the constellations continue to be used.
+ 
+
+
+
+** Constellations  :drill:
+The constellations are organized so that every visible star in the celestial sphere is accounted for.
+
+Let's look at some of the major constellations and how they received their names.
+
+
+
+** Constellations  :drill:
+Part of a constellation you have probably found is the Big Dipper. The Big Dipper is in the constellation Ursa Major, or "Big Bear." The Little Dipper is in the constellation Ursa Minor, or "Little Bear."
+
+The Big Dipper and Little Dipper can be used to help locate the North Star, also called Polaris. This star can be used at night to determine which direction is north. The pointer stars at the end of the Big Dipper's bowl point to the North Star, which is located near the end of the Little Dipper's handle.
+
+
+
+** Constellations  :drill:
+Draco is a constellation in the northern hemisphere. According to mythology, Draco was a dragon responsible for guarding the golden apples that grew in Hesperides. Hercules wanted the apples so much that he killed Draco to get them. Now, Draco curls his great tail through the heavens.
+
+Meteor showers are common in this constellation. One of the strongest meteor showers, the Quandrantids, is usually visible in this constellation for a few hours around the third of January.
+
+
+
+** Constellations  :drill:
+Cygnus, the swan, lies near the heart of Draco and looks like a huge cross in the northern sky. Cygnus appears to split the Milky Way in half. This is an optical illusion caused by a dark nebula.
+
+Most cultures have looked at Cygnus as a bird, while some others believe that Cygnus is actually the Greek god Zeus. Some cultures believe Cygnus is Orpheus, the Greek musician who could calm wild animals and make people fall in love.
+
+
+
+** Constellations  :drill:
+Hercules is another famous constellation. Hercules was a well-known hero in mythology who had a mortal mother and the god Zeus as a father.
+
+Hercules undertook twelve tasks that led him on many adventures and exposed him to many dangers. As a reward for his bravery, Zeus made Hercules a god and gave him his spot in the heavens.
+
+
+
+** Constellations  :drill:
+Aquila, the eagle, is a constellation found below Cygnus and beside Hercules. Aquila was an eagle belonging to the great god Zeus. Aquila traveled back and forth to the earth retrieving people and objects for Zeus.
+
+Aquila is shaped like a diamond and contains a very bright star, Altair. Altair is a prominent star in that area of the sky. Altair is located in Aquila between the constellations Sagittarius and Cygnus.
+
+
+
+** Constellations  :drill:
+Some people think the constellation Sagittarius looks like a teapot sitting high in the heavens.
+
+Ancient Arabs saw ostriches when they looked at this group of stars. Other cultures say they saw a centaur, which is half man and half horse.
+
+If you look carefully, you may see Sagittarius aiming an arrow at the scorpion responsible for Orion's death.
+
+
+
+** Constellations  :drill:
+Scorpius is the scorpion that sits beside Sagittarius in the night sky. Some myths say that Scorpius was sent to sting Orion to death. The two constellations are now located at opposite ends of the sky to avoid any further trouble.
+
+Scorpius contains the star Antares, which means "heart of the scorpion." Antares is a red supergiant star. The constellation also contains the group of stars called the "Butterfly Cluster."
+
+
+
+** Constellations  :drill:
+Orion is one of the easiest constellations to find in the night sky. Simply look for the three stars that form his belt known as the belt of stars. Orion is the hunter of Taurus the bull and Lepus the hare. Taurus and Lepus are two of the animal constellations.
+
+Orion is said to have lost his first wife when she was exiled to Hades for bragging of her great beauty.
+
+
+
+** Constellations  :drill:
+Orion then fell desperately in love with another princess whose father refused to allow them to marry. Orion was punished for some of his deeds by blindness.
+
+Helios, the sun god, restored Orion's sight by letting the sun's rays strike his eyes. After regaining his sight, Orion lived on the island of Crete. Artemis, the goddess of the moon, fell in love with him. Unfortunately, as the result of an evil prank, Artemis caused Orion's death. She felt so guilty that she placed him in the sky as a constellation.
+
+
+
+** Constellations  :drill:
+Canis Major is the "great dog" of the sky. One legend says he was the hunting dog of Orion. He is placed in the sky, stalking Lepus, the hare.
+
+Another legend believes Canis Major could run with great speed. He raced against the fox, which was the fastest creature on earth at the time, and won. Zeus was so impressed with this victory that he placed the "great dog" in the sky to celebrate his victory.
+
+
+
+** Constellations  :drill:
+Locate Polaris once again. You will see a W-shaped constellation opposite the Big Dipper. This is the constellation Cassiopeia, named for the beautiful queen of King Cephus. She was a vain woman who boasted that her beauty was greater than any of the goddesses. As punishment, the gods forced her to sacrifice her daughter to a sea monster.
+
+Some legends depict Cassiopeia as being chained to the throne as further punishment for her boasting.
+
+
+
+** Constellations  :drill:
+How many constellations can you name? Isn't it exciting to learn the road maps of the skies? Some people look at the night sky and see nothing more than twinkling lights. By now, you should be able to look and think of legends, myths, adventure, excitement, history, joy, and sorrow.
+
+The more you discover about astronomy and the stories behind the stars, the more curious you are likely to become.
+
+
+
+
+
+** Advances in Technology  :drill:
+
+
+
+** Advances in Technology  :drill:
+Technology can be defined as the use of scientific knowledge to improve the quality of human life.
+
+Technology never stops. It improves items every day. Just compare the refrigerators of today with the ice boxes at the turn of the century.
+
+How about the improvements in the way pencils were sharpened 50 years ago? This lesson will discuss some of the latest developments in technology.
+
+
+
+** Advances in Technology  :drill:
+
+
+
+** Advances in Technology  :drill:
+Robots
+
+Many robots are at work in the United States. Robots are moving computers. They do everything from putting together cars to packing candy in boxes. A robot does a task by following directions stored in its computer memory.
+
+One of the most important uses for robots is in laboratories. Robots can work with substances that are dangerous to people.
+Robots can safely take the place of people in handling radioactive items, poisonous objects, and deadly bacteria. A robot's "hands" can make gentle and exact movements.
+
+
+
+** Advances in Technology  :drill:
+Of course, robots do not work alone. People send messages to the robots. Some robots have cameras. The camera gives the person at the controls a close-up view of what the robot is doing.
+
+Suppose you could design a robot. Think of a task you would like the robot to perform. What would your robot look like?
+
+
+
+** Advances in Technology  :drill:
+Alloys
+
+An alloy is a mixture of two or more metals.
+
+Alloys are often harder and stronger than one metal alone. Steel is an alloy made from iron, carbon, and other elements. It is stronger than any of its ingredients alone. Scientists are making certain alloys in space on the International Space Station. Under low gravity, scientists may make new alloys that cannot be made on the earth.
+
+
+
+** Advances in Technology  :drill:
+Scientists are also making new forms of ceramics. Ceramics are made from minerals such as clay and silica.
+
+Scientists are making ceramics stronger by adding certain metals to them. These new ceramics can withstand much greater heat and pressure without cracking.
+
+These new ceramics are being used in space shuttles and automobile engines.
+
+
+
+** Advances in Technology  :drill:
+Artificial Skin
+
+Sadly, over 15,000 people die each year from severe burns. A burn victim usually faces two main threats to life: infection and fluid loss.
+
+The skin of a healthy person keeps out disease-causing organisms and keeps body fluids inside. A person without skin covering lacks these life-preserving protections.
+
+
+
+** Advances in Technology  :drill:
+Many burn victims are able to have some of their skin replaced by grafts of their own skin. However, some people who have extensive burns may not have enough unburned skin to supply grafts. These people must have another source of skin.
+
+Laboratory scientists and medical doctors have now created a material that acts like skin. An artificial skin, or man-made skin, must have several important qualities.
+It must be both thin and elastic. It also must allow just the right amount of moisture to enter and leave the body.
+
+Artificial skin used today is nearly as good as real skin. It looks like moist, elastic pieces of paper towel. It has three main parts: cartilage from sharks, fibers from cowhide, and silicone.
+
+This "skin" behaves like skin but does not have hair or sweat glands naturally.
+
+
+
+** Advances in Technology  :drill:
+Computer Athletics
+
+Computer athletics is the use of computers to help athletes train. In labs, athletes are wired with sensors that are connected to computers. The athletes are filmed as they work out. Their movements are shown on the computer screens.
+
+The athletes and their trainers can spot what they are doing right or wrong and correct any problems.
+
+
+
+** Advances in Technology  :drill:
+Runners are getting help from computer shoes. First, the runner counts his or her running strides. Then, the runner wears the computer shoe for a run. After the run, the runner connects the shoe to the computer.
+
+The computer records the length of the run, the time it took, and how many calories were used during the run. The computer will also keep records in table and graph forms for athletes to use in assessment. Just imagine how much this will help in athletic training!
+
+
+
+** Advances in Technology  :drill:
+Oil Spills and Oil Slicks
+
+Scientists must constantly work to find ways to fight oil spills. An oil spill results in an oil slick, a layer of oil that floats on or near the top of the water. Slickbusters go to work at the scene to determine how much oil has been spilled and what kinds of wildlife are in the most immediate danger. They report on the area's water temperature and currents. They use computers to determine which way the slick will travel. This must all be done very quickly.
+
+
+
+** Advances in Technology  :drill:
+Special teams of workers begin the cleanup. Workers sometimes place pieces of absorbent material into the water. At other times, oil-eating enzymes are deposited into the water. Both of these procedures are effective in removing the polluting oil.
+
+When a spill occurs in calm waters such as a river or lake, workers set up booms. Booms are like barriers that are placed around the oil to keep it from spreading. Skimmers are used to skim oil off the surface. Pumps can suck the oily water away.
+
+
+
+** Advances in Technology  :drill:
+Radio Telescopes
+
+Astronomers use telescopes to study distant objects in space. Radio telescopes pick up radio waves from outer space. The telescope's giant dish collects and focuses the radio waves. Other parts of the telescope use these waves to produce signals. A computer then uses the signals to draw a picture of the source of the radio waves.
+
+A radio telescope has been successfully used to produce maps of quasars, or high-energy galaxies.
+
+
+
+** Advances in Technology  :drill:
+One quasar releases as much energy as 10 trillion suns. Quasars are very far away. Light coming from quasars takes 12 billion years to reach the earth.
+
+When you see light from a quasar, you are looking at light that began its journey to earth many years ago.
+
+
+
+** Advances in Technology  :drill:
+Arthroscopic Knee Surgery
+
+Sometimes cartilage or bones in the knee are damaged in sports, car wrecks, or some other type of accident. When surgery is needed, the doctor makes several small cuts in the knee.
+
+An arthroscope, a thin metal tube, is put into one incision. It has a light and a camera lens on one end. It sends pictures to a TV screen where the doctor can see the inside of the knee.
+Through another incision, the doctor inserts surgical tools. The doctor then uses the tools to repair the damage. This type of surgery is called arthroscopic knee surgery.
+
+When an arthroscope is used in place of regular knee surgery, the recovery time is reduced from two to four months to about two weeks.
+
+
+
+** Advances in Technology  :drill:
+Genetic Engineering
+
+Can you imagine plants that glow in the dark? This is just one of the strange and unusual things that have been created through genetic engineering, the scientific alteration of genetic material in a living organism.
+
+
+
+** Advances in Technology  :drill:
+The result is that there is now plenty of insulin for all who need it. It is also much less expensive than in the past.
+
+Genetic engineering has already made a big difference for diabetic people who must take doses of insulin every day.
+Genetics is not used only for creating odd things in life. Genetics has already made many important discoveries possible. Vital items, such as large amounts of insulin, have been produced through genetic engineering.
+
+By transferring the human gene responsible for the production of insulin to certain bacteria, scientists have managed to turn the bacteria into very high-producing insulin factories.
+
+
+
+** Advances in Technology  :drill:
+Due to advances in technology, the world is very different today than it was twenty years ago.
+
+Technology is constantly changing and improving the lives of all people. It is very important in the workforce, in the field of medicine, and in many other areas of human life.
+
+What kind of technology do you think we will see in the future?
+
+
+
+
+
+
+** Solving a Problem with Technology  :drill:
+
+
+
+** Solving a Problem with Technology  :drill:
+Technology is a collection of information that is used to solve a problem for people or fulfill a want or need. Our world is full of technology that saves and improves lives, provides entertainment, and makes tasks quicker and easier.
+
+Some technology is new, and some technology has been around a long time. Can you think of any technology that has been around a long time?
+
+
+
+** Solving a Problem with Technology  :drill:
+
+
+
+** Solving a Problem with Technology  :drill:
+Have you ever thought about your eyes and how well you can or cannot see something? Vision is the ability to see. If you have perfect vision you probably don't think about eyeglasses often.
+
+Doctors can measure a person's vision. Perfect vision is 20/20. This means a person who reads a chart twenty feet away has perfect vision. A measurement of 20/60 means a person must stand twenty feet from a chart to read what other people can read from sixty feet.
+
+
+
+** Solving a Problem with Technology  :drill:
+Some people are born with perfect vision. Age, nutrition, and stress can all contribute to changes in eyesight. There are many reasons why people do not have perfect vision.
+
+How does a person know if he or she has a vision problem? People born with vision impairment may not even know it. They think what they see, even if it's blurry, is normal.
+
+
+
+** Solving a Problem with Technology  :drill:
+An optometrist is a person who specializes in vision care. Optometrists have to attend optometry school and obtain a license to practice eye care. They are not the same as ophthalmologists who can also perform eye surgery for diseases and injuries.
+
+Hundreds of years ago, people did not have optometrists. A person with impaired vision had few corrective options.
+
+
+
+** Solving a Problem with Technology  :drill:
+There needed to be a technological solution for the problem of impaired vision.
+
+The solution was eyeglasses (usually called glasses), a device people could wear in front of their eyes to improve their vision.
+
+Glasses are common today. They are a technological solution to a problem. The technology of glasses has evolved over the centuries.
+
+
+
+** Solving a Problem with Technology  :drill:
+In 1,000 A.D., someone needed help to read.
+
+This unknown person invented a technology called a reading stone. The reading stone was a simple circle of polished stone placed over writing. The stone magnified the letters and helped a person see the writing.
+
+No one today knows exactly how inventors designed and created eyeglasses. However, examining eyeglasses tells us a lot about the design work of the inventors.
+
+
+
+** Solving a Problem with Technology  :drill:
+Reading stones were impractical for reading long scrolls of text. The stone had to be positioned perfectly over the letters. A single lens was a simple, but slow form of technology.
+
+Inventors identified several problems with this technology. They needed to design two lenses to place in front of both eyes. It was hard to read a book when half the letters were blurry and the other half were in focus. Two lenses for two eyes made more sense and would make reading faster.
+Designers also needed a way to hold the lenses together. Frames were designed to bind the two lenses together. Frames needed to be made of a sturdy material.
+
+
+
+** Solving a Problem with Technology  :drill:
+Inventors designed their products by identifying the problems and listing the criteria the product needed to meet. Criteria are rules or tests by which something is decided.
+
+Once the design problems were solved, inventors could implement their ideas. Materials were gathered, tested, and eyeglasses were assembled.
+
+We know by the final product that inventors of eyeglasses had met most of their design criteria.
+
+
+
+** Solving a Problem with Technology  :drill:
+Many historians believe glasses were invented in the 1200s. Two men from Italy, Salvino D'Armate and Alessandro di Spina designed a plan to make simple eyeglasses.
+
+Early versions of glasses were made of quartz, a type of stone. Eventually glass replaced the heavier quartz. Early frames for eyeglasses were made of bone, leather, or rope.
+
+
+
+** Solving a Problem with Technology  :drill:
+It isn't known if D'Armate and di Spina designed the original lenses and frames. They did implement a design for eyeglasses though, and presented it to the public. Placing glass lenses inside a simple frame made eyeglasses easy to use and easy to carry around.
+
+A few problems remained in the design of eyeglasses. Glasses sat on the bridge of the nose and constantly slid down the face.
+
+Glasses also cost a lot of money. Only the rich could afford them.
+
+
+
+** Solving a Problem with Technology  :drill:
+In 1440, Johannes Gutenberg invented the printing press. He made a dramatic impact on the technology of eyeglasses. Before the printing press, books were written by hand. The first books were expensive, and most people couldn't afford to buy them.
+
+Because of the printing press, books could be mass-produced. This made books cheaper to buy, and as a result more people could afford them. As more people owned books, the demand for glasses increased.
+
+
+
+** Solving a Problem with Technology  :drill:
+Over the years, people tried different ways to keep eyeglasses from slipping off their noses. In China, silk ribbons weighted with stones were tied to glasses.
+
+In 1730, Edward Scarlett developed a technological solution for slippery glasses. He designed and implemented stems for glasses. These stems hooked over the ears. By 1752, James Ayscough from Britain developed glasses with hinged stems.
+These additions were improvements to eyeglass technology.
+
+
+
+** Solving a Problem with Technology  :drill:
+Benjamin Franklin was a politician, writer, and inventor. As Franklin grew older, he realized he had developed a vision problem. Objects close and far away were beginning to blur.
+
+The ability to see only objects that are  near is called nearsightedness. The ability to see only objects that are far away is called farsightedness.
+
+Franklin needed help to see objects close and far away.
+
+
+
+** Solving a Problem with Technology  :drill:
+Franklin had several problems:
+
+•  he didn't want to carry two pairs of glasses
+
+•  he didn't want to constantly switch glasses
+
+•  he needed something easy to carry
+
+•  he needed to see close and distant objects
+He listed all the problems and evaluated them. Evaluate means to study a situation or problem and determine its value. Franklin needed to determine if his problems were worth the time and money it would take to solve them.
+
+
+
+** Solving a Problem with Technology  :drill:
+Franklin decided the problems were worth solving because it was important to see well. He had two vision problems, so he created two lenses and put them together in one frame. In 1784, he invented the bifocal lens.
+
+A bifocal is a type of lens with different magnification strengths. Half the lens helps a person see objects and writing that are close. The other half helps a person see objects farther away.
+
+Bifocals were a great improvement to an existing technology.
+
+
+
+** Solving a Problem with Technology  :drill:
+In 1887, contact lenses were invented. Contact lenses are spherical bits of glass or plastic placed directly on the cornea of the eye. Early contacts were heavy and covered the cornea and parts of the white of the eye. These contacts could only be worn for brief periods.
+
+Today, there is a variety of contacts on the market. Some are for extended wear, some are disposable, and others require daily maintenance.
+Some people like contacts because they do not alter a person's appearance. Sometimes contacts can actually improve a person's vision.
+
+
+
+** Solving a Problem with Technology  :drill:
+Today, eyeglasses are usually made from glass or plastic. Glass is heavier than plastic, but plastic tends to scratch more often.
+Laser surgery can also correct a person's vision. This type of technology can improve a person's vision permanently. However, laser surgery is expensive and can have serious consequences.
+
+Laser surgery could cause damage to a person's eyesight. Dry eyes, blurry vision, or even blindness can result from laser surgery. These effects are rare though, and laser surgery is usually a safe and reliable procedure.
+
+
+
+** Solving a Problem with Technology  :drill:
+Sunglasses are another innovation of eyeglass technology. Sunglasses protect the eyes from harmful ultraviolet (UV) radiation from the sun. Transition glasses are eyeglasses that change from a light lens to a dark lens when exposed to light. The dark lens protects the eyes from ultraviolet rays.
+
+In 1919, Foster Grant perfected his brand of sunglasses. He began selling them by 1929. Most sunglasses are nonprescription, which means they don't help to correct vision.
+
+
+
+** Solving a Problem with Technology  :drill:
+Special computer glasses have been developed to help eyes adjust for long hours in front of computer screens. These types of glasses protect against eyestrain and Computer Vision Syndrome.
+
+The technology of binoculars, microscopes, and telescopes advanced with innovations to eyeglasses.
+
+Binoculars have been beneficial in military operations and for recreational purposes.
+Microscopes are invaluable to the field of medicine, and powerful telescopes provide a tremendous understanding of space and the universe.
+
+
+
+** Solving a Problem with Technology  :drill:
+In America, nearly ninety-six million people wear prescription eyeglasses (2008). As vision care improves, costs increase. People spend more money to buy the newest technology.
+Health risks increase though, by wearing glasses. According to the National Electronic Injury Surveillance System (NEISS), emergency rooms in America reported 27,152 injuries related to eyeglasses over a period of two years.
+
+Many accidents result in broken eyeglasses. The broken glasses often cause cuts, bruises, and scratches to the face, head, or eyes.
+
+
+
+** Solving a Problem with Technology  :drill:
+While contacts lenses and eyeglasses are beneficial to many people, they can also have a negative impact on the environment. Most contacts are made of plastic. The manufacturing of plastics can pollute the environment.
+
+Solutions needed to clean, rinse, and store contact lenses are also packaged in plastic bottles. Many of these bottles wind up in landfills and are not biodegradable. Landfills can pollute land, air, and water.
+Many eyeglass frames and lenses are also made of plastic. These too can end up in landfills if they are not recycled.
+
+You can help the environment by recycling contact lens cases and solution bottles. You can also donate old eyeglasses to a nonprofit organization to be reused by those who cannot afford vision care.  
+
+
+
+** Solving a Problem with Technology  :drill:
+With all technology, there are benefits and costs. The technology of eyeglasses is no exception. Still, the benefits of this technology undoubtedly outweigh the costs.
+
+Glasses enable people to see better, which allows them to safely and effectively participate in daily activities.
+
+As different technology is invented in the future, eyeglasses will surely prove to be as adaptable and beneficial as they have been in the past.
+
+
+
+
+
+
+** Technology  :drill:
+
+
+
+** Technology  :drill:
+You often hear the words science and technology together. Do these two concepts really have anything to do with each other?
+
+In this lesson, you will learn the similarities and differences between science and technology and understand how people contribute to scientific and technological advancements. You will also discover what tools scientists use to develop technology and the methods they use in the development of technological designs.
+
+
+
+** Technology  :drill:
+
+
+
+** Technology  :drill:
+Although there is a relationship between science and technology, there are also differences. Science is the state of knowing facts about the world and testing those facts through the scientific method.
+
+The scientific method is an organized way of solving a problem. This involves identifying a problem, making observations, forming and testing a hypothesis, coming to a conclusion, and reporting the findings.
+Technology is created when scientific knowledge is used for the purpose of solving a problem. Technology is the tools people use to change the world around them.
+
+
+
+** Technology  :drill:
+Scientists contribute to advances in science and technology. A scientist is a person who is knowledgeable in a specific area of science and tries to find out how things work. They strive to understand the world better and to find ways to improve our lives.
+
+Throughout history, there have been many scientists who have done things to make our world a better place to live. In science and technology, they have been experimenting and inventing since the beginning of time, and still are today.
+
+
+
+** Technology  :drill:
+Science and technology are very broad subjects. There are many different careers connected to science that interest all types of people all over the world.
+
+Science and technology are sometimes thought of as two separate fields of study. However, they are actually very closely related and work together. Science must be used in order for technological devices or tools to be developed. Once a technological device is created, it can be used to learn more about science.
+
+
+
+** Technology  :drill:
+Satellites are technology that is built using scientific knowledge.
+
+Many different types of scientists are involved in the development of satellites. Material scientists are knowledgeable about what types of materials can withstand various temperatures and the exposure of the elements in outer space. They work with mechanical engineers to design and organize the assembly of the satellites.
+
+
+
+** Technology  :drill:
+Electrical engineers are knowledgeable about electronics and the transmission of data. Computer scientists specialize in programming and computational needs involved in the simulation of data.
+
+Aerospace scientists determine where satellites need to be located and how they should be positioned. This information is necessary so the satellites can follow an appropriate orbit in our galaxy to experience the proper gravitational field in orbit.
+
+
+
+** Technology  :drill:
+Science is responsible for all of the knowledge that is necessary to develop and design this technology known as satellites. In return, satellites are used to contribute to scientific knowledge.
+
+Satellites are sent out into space to help scientists collect a variety of information and send it to the desired place. They are used to transmit information such as telephone calls and television and internet signals. Satellites help lost people find their way by using global positioning systems (GPS).
+
+
+
+** Technology  :drill:
+Meteorologists use satellites to determine weather forecasts. Satellites help them see storms developing thousands of miles away in the middle of the ocean so they can prepare the public for bad weather before it arrives.
+
+
+
+** Technology  :drill:
+Geologists use satellites to see the earth from high above so they can make maps and study different parts of the earth's surface.
+
+Satellites have even helped some archeologists find ancient ruins lost deep in the jungle.
+
+
+
+** Technology  :drill:
+NASA uses satellites to study our planet and the other planets in the universe. Their satellites can see beyond our solar system and beyond our galaxy into the farthest areas of the known universe.
+
+These are all examples of scientific advancements that have been achieved because of the technological development of satellites.
+
+
+
+** Technology  :drill:
+When scientists begin to create new technology, what methods do they use to develop technological designs?
+
+First, they identify the problem that needs to be solved and determine if technology can help. Sometimes it is difficult for scientists to know if technology will solve the problem or not.
+
+They must establish a need for the technology. If there is not a need for it, the process may be discontinued.
+
+
+
+** Technology  :drill:
+The next step is to develop the technology. Once development is complete, it is evaluated to find its strengths and weaknesses. To evaluate means to check for accuracy.
+
+Scientists must also evaluate the solution to ensure that the costs will not outweigh the benefits. They determine if the design is practical and if the impact on society will be positive.
+Next, they implement the proposed design. To implement means to put it into practice and try it out.
+
+Finally, scientists assess the results of implementing the technological design to determine if it met the goals and criteria it was designed to do.
+
+
+
+** Technology  :drill:
+Much research and development goes into the design of technology. In addition, scientists use a wide variety of tools when they develop scientific and technological ideas. Where do these tools come from? Scientists use tools developed by technology!
+
+Satellites, microscopes, and computers are only a few of the tools scientists use as they develop technology and make new scientific advancements.
+
+
+
+** Technology  :drill:
+The microscope opened a completely new world of discovery in science. This one technological development allowed scientists to see what they had never seen before, and they began to understand the inner workings of the tissues that compose a human body.
+
+The computer has made it possible to calculate complex and intricate equations more quickly and accurately than any human could ever hope to achieve. Computer chips are used in nearly everything, including cars, cell phones, and even toys.
+
+
+
+** Technology  :drill:
+Scientific information is necessary to develop new technology. Technology helps gather information that reveals new scientific findings. This partnership between science and technology continues to evolve with time.

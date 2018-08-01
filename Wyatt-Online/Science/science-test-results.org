@@ -50,9 +50,9 @@ _Science Test Results_  Last Updated:  6/28/2018
 | Earthquakes                              |   80% | 7/23   | Scraped      |         |           |        |
 | The Earth's Rotation                     |   70% | 7/23   | Scraped      |         |           |        |
 | The Earth's Revolution                   |   70% | 7/23   | Scraped      |         |           |        |
-| The Moon                                 |       |        |              |         |           |        |
-| Constellations                           |       |        |              |         |           |        |
-| Advances in Technology                   |       |        |              |         |           |        |
-| Solving a Problem with Technology        |       |        |              |         |           |        |
-| Technology                               |       |        |              |         |           |        |
+| The Moon                                 |   70% | 7/27   | Scraped      |         |           |        |
+| Constellations                           |   90% | 7/27   | Scraped      |         |           |        |
+| Advances in Technology                   |   80% | 7/27   | Scraped      |         |           |        |
+| Solving a Problem with Technology        |   80% | 7/27   | Scraped      |         |           |        |
+| Technology                               |  100% | 7/27   | Scraped      |         |           |        |
 |------------------------------------------+-------+--------+--------------+---------+-----------+--------|
