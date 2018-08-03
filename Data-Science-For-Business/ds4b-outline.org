@@ -2,22 +2,22 @@ Data Science for Business
 by Foster Provost and Tom Fawcett
 Published by O’Reilly Media, Inc.
 
-* Preface
-** Deliberately avoided an algorithm-centered approach
-** Relatively small set of fundamental concepts / principles
-** Concepts / Principles that...
-** Underlie techniques for extracting useful knowledge from data
-** Serve as the foundation for well-known data mining algorithms
-** Underlie the analysis of data-centered business problems
-** Creation and evaluation of data science solutions
-** Concepts:  Similarity, Lift,
-** Mathematical details are relegated to optional “starred” sections
-** Two web pages for this book w/ errata, examples, additional info:
-*** Publisher’s page at http://oreil.ly/data-science
-*** Authors’ page at http://www.data-science-for-biz.com
+** Preface
+*** Deliberately avoided an algorithm-centered approach
+*** Relatively small set of fundamental concepts / principles
+*** Concepts / Principles that...
+*** Underlie techniques for extracting useful knowledge from data
+*** Serve as the foundation for well-known data mining algorithms
+*** Underlie the analysis of data-centered business problems
+*** Creation and evaluation of data science solutions
+*** Concepts:  Similarity, Lift,
+*** Mathematical details are relegated to optional “starred” sections
+*** Two web pages for this book w/ errata, examples, additional info:
+**** Publisher’s page at http://oreil.ly/data-science
+**** Authors’ page at http://www.data-science-for-biz.com
 
-* Chapter 1. Introduction: Data-Analytic Thinking
-** The Ubiquity of Data Opportunities  :drill:
+** Chapter 1. Introduction: Data-Analytic Thinking
+**** The Ubiquity of Data Opportunities 			      :drill:
 The terms “data science” and “data mining” often are used interchangeably,
 and the former has taken a life of its own as various individuals and
 organizations try to capitalize on the current hype surrounding it. At
@@ -29,7 +29,7 @@ As a term, “data science” often is applied more [broadly] than the
 traditional use of “data mining,” but data mining techniques provide
 some of the clearest illustrations of the [principles] of data science.
 
-** Example: Hurricane Frances  :drill:
+**** Example: Hurricane Frances 				      :drill:
 From a New York Times story from 2004:
 Executives at [Wal-Mart] decided that the hurricane offered a great
 opportunity for one of their newest data-driven weapons … predictive
@@ -40,16 +40,16 @@ Their goal was to identify unusual local demand for products: ‘We didn’t
 know in the past that strawberry [Pop-Tarts] increase in sales, like seven
 times their normal sales rate, ahead of a hurricane.'
 
-** Example: Predicting Customer Churn  :drill:
+**** Example: Predicting Customer Churn 			      :drill:
 Customers switching from one company to another is called [churn], and it is
 expensive all around: one company must spend on incentives to attract a
 customer while another company loses revenue when the customer departs.
 
-** Data Science, Engineering, and Data-Driven Decision Making  :drill:
+**** Data Science, Engineering, and Data-Driven Decision Making       :drill:
 [Data-driven decision-making] (DDD) refers to the practice of basing
 decisions on the analysis of data, rather than purely on intuition.
 
-*** DDD Continued
+**** DDD Continued
 The benefits of data-driven decision-making have been demonstrated
 conclusively. Economist Erik Brynjolfsson and his colleagues from
 MIT and Penn’s Wharton School conducted a study of how DDD affects firm
@@ -63,7 +63,7 @@ increase in productivity. DDD also is correlated with higher return on
 assets, return on equity, asset utilization, and market value, and the
 relationship seems to be causal.
 
-*** Drill  :drill:
+**** Drill Card 						      :drill:
 The sort of decisions we will be interested in in this book mainly
 fall into two types: (1) decisions for which [“discoveries”] need to be
 made within data, and (2) decisions that [repeat], especially at massive
@@ -73,7 +73,7 @@ in decision-making [accuracy] based on data analysis.
 The Walmart hurricane discovery is an example of [type 1]; Churn is an
 example of [type 2].
 
-*** Target  :drill:
+**** Target 							      :drill:
 In 2012, [Target] was in the news for creating a model to predict when
 customers were expecting a baby. By making such predictions, they would
 gain an advantage by making offers to soon to be parents before their
@@ -81,32 +81,32 @@ competitors. [Target] analyzed historical data on customers who later were
 revealed to have been pregnant and were able to extract information that
 could predict which consumers were pregnant.
 
-*** Drill  :drill:
+**** Drill Card 						      :drill:
 [Predictive models] abstract away most of the complexity of the world,
 focusing on a particular set of indicators that correlate with a [quantity
 of interest] (eg who will churn, who will purchase, who is pregnant).
 
-*** Drill  :drill:
+**** Drill Card 						      :drill:
 Business decisions are increasingly being made [automatically] by computers.
 
-*** Drill  :drill:
+**** Drill Card 						      :drill:
 Different industries have adopted automatic decision-making at different
 rates. The [finance] and [telecommunications] industries were early adopters.
 In the 1990s, automated decision-making changed the banking and consumer
 credit industries dramatically as massive-scale systems for managing
 data-driven [fraud] control decisions.
 
-*** Drill  :drill:
+**** Drill Card 						      :drill:
 As retail systems were increasingly computerized, merchandising decisions
 were automated. Famous examples include [Harrah's] casinos reward programs
 and the automated recommendations of Amazon and Netflix.
 
-** Data and Data Science Capability as a Strategic Asset  :drill:
+*** Data and Data Science Capability as a Strategic Asset 	      :drill:
 The prior sections suggest one of the fundamental principles of data
 science: data, and the capability to extract useful [knowledge] from data
 should be regarded as key [strategic assets].
 
-*** Signet  :drill:
+**** Signet 							      :drill:
 When Signet began randomly offering terms to customers for [data] acquisition
 the number of bad accounts soared. Signet went from an industry-leading
 “charge-off” rate (2.9% of balances went unpaid) to almost 6% charge
@@ -115,13 +115,13 @@ worked to build [predictive models] from the data, evaluate them, and deploy
 them to improve profit. Eventually, Signet’s credit card operation turned
 around and became so profitable that it was spun off to form [Capital One].
 
-*** Harrah's  :drill:
+*** Harrah's 							      :drill:
 [Harrah’s casinos] famously invested in gathering and mining data on
 gamblers, and moved itself from a small player in the casino business
 in the mid-1990s to the acquisition of [Caesar’s Entertainment] in 2005
 to become the world’s largest gambling company
 
-** Data-Analytic Thinking  :drill:
+** Data-Analytic Thinking 					      :drill:
 Analyzing case studies such as the churn problem improves our ability
 to approach problems “data-analytically.” Promoting such a perspective
 is a primary goal of this book. When faced with a business problem,
@@ -137,33 +137,33 @@ of big data. By 2018, the United States alone could face a [shortage] of
 million managers and analysts with the know-how to use the analysis of
 big data to make effective decisions.”
 
-** Data Mining and Data Science, Revisited  :drill:
+*** Data Mining and Data Science, Revisited 			      :drill:
 The [Cross Industry Standard Process for Data Mining], abbreviated
 [CRISP-DM] provides a framework for extracting useful knowledge from
 data to solve business problem using reasonably well-defined stages.
 
-*** Drill  :drill:
+**** Drill Card 						      :drill:
 The [Cross Industry Standard Process for Data Mining], abbreviated
 CRISP-DM provides a [framework] for extracting useful [knowledge] from
 [data] to solve business problem using reasonably well-defined [stages].
 
-*** Overfitting  :drill:
+**** Overfitting 						      :drill:
 If you look too hard at a set of data, you will find something
 but it might not generalize beyond the data you’re looking at. This
 is referred to as [overfitting] a dataset.
 
-*** Overfitting  :drill:
+**** Overfitting 						      :drill:
 The need to [detect] and [avoid] overfitting is one of the most important
 concepts to grasp when applying data mining to real problems.
 
-*** Overfitting  :drill:
+**** Overfitting 						      :drill:
 The need to detect and avoid overfitting is one of the most important
 concepts to grasp when applying data mining to real problems.
 
 The need to detect and avoid [overfitting] is one of the most important
 concepts to grasp when applying data mining to real problems.
 
-** Summary  :drill:
+** Summary 							      :drill:
 This book is about the extraction of useful information and knowledge
 from large volumes of data, in order to improve business [decesion-making].
 As the massive collection of [data] has spread through just about every
@@ -173,8 +173,8 @@ is a much smaller set of fundamental concepts compromising data science.
 These concepts are general and encapsulate much of the essence of
 data mining and business analytics.
 
-* Chapter 2. Business Problems and Data Science Solutions
-** From Business Problems to Data Mining Tasks  :drill:
+** Chapter 2. Business Problems and Data Science Solutions
+*** From Business Problems to Data Mining Tasks 		      :drill:
 A critical skill in data science is the ability to [decompose] a data-
 analytics problem into pieces such that each piece matches a known
 task for which tools are available. Recognizing [familiar] problems and
@@ -184,7 +184,7 @@ Despite the large number of specific data mining algorithms developed over
 the years, there are only a handful of fundamentally different types of
 tasks these algorithms address. It is worth defining these tasks clearly.
 
-*** TODO Table - Unfinished
+**** TODO Table - Unfinished
 
 | Task                                            | Desc |
 |-------------------------------------------------+------|
@@ -199,22 +199,22 @@ tasks these algorithms address. It is worth defining these tasks clearly.
 | Data Reduction                                  |      |
 | Causal Modeling                                 |      |
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Classification] and [class probability estimation] attempt to predict,
 for each individual in a population, which of a (small) set of [classes]
 this individual belongs to. Usually the [classes] are mutually exclusive.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Classification] and [class probability estimation] attempt to [predict],
 for each individual in a population, which of a (small) set of classes
 this individual belongs to. Usually the classes are [mutually exclusive].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 An example classification question:  “Among all the customers which
 are likely to respond to a given offer?” In this example the [two]
 classes could be called ["will respond"] and ["will not" respond].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 A closely related task is scoring or class [probability estimation].
 A scoring model applied to an individual produces, instead
 of a class prediction, a score representing the [probability] (or some
@@ -223,7 +223,7 @@ each class. In our customer response scenario, a scoring model would
 be able to evaluate each individual customer and produce a score of
 how likely each is to respond to the offer.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Regression (or “value estimation”) attempts to [estimate] or predict, for
 each individual, the [numerical] value of some variable for that individual.
 
@@ -232,80 +232,80 @@ use the service?” The property (variable) to be predicted here is
 service usage, and a model could be generated by looking at other,
 similar individuals in the population and their historical usage.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Informally, [classification] predicts whether something will happen, whereas
 [regression] predicts how much something will happen.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Similarity matching attempts to identify [similar] individuals based
 on data known about them.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Similarity matching] is the basis for one of the most popular methods
 for making product recommendations (finding people who are similar
 to you in terms of the products they have liked or have purchased)
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Clustering] attempts to group individuals in a population together by
 their similarity, but not driven by any specific [purpose]. An example
 [clustering] question would be: “Do our customers form natural groups
 or segments?”
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Co-occurrence grouping] (also known as frequent itemset mining, association
 rule discovery, and market-[basket] analysis) attempts to find associations
 between entities based on transactions involving them. An example [co-
 occurrence] question would be: What items are commonly purchased together?
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Clustering] looks at similarity between objects based on the objects’
 [attributes], while [co-occurrence grouping] considers similarity of objects
 based on their appearing together in transactions.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Co-occurrence of products in purchases is a common type of grouping
 known as [market-basket analysis].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Profiling (also known as [behavior] description) attempts to characterize
 the typical [behavior] of an individual, group, or population.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Profiling] is often used to establish behavioral norms for [anomaly]
 detection applications such as [fraud] detection and monitoring for
 [intrusions] to computer systems.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Link prediction] attempts to predict connections between data items,
 usually by suggesting that a [link] should exist, and possibly also
 estimating the strength of the [link]. [Link prediction] is common in social
 networking systems.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Link prediction can also estimate the [strength] of a link. We search
 for links that do not exist between customers and movies, but that
 we predict should [exist] and should be [strong]. These links form the
 basis for [recommendations].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Data reduction] attempts to take a large set of data and replace it
 with a smaller set of data that contains much of the important [information]
 in the larger set. The smaller dataset may be easier to deal with or
 to process. Moreover, the smaller dataset may [better reveal information].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Causal modeling] attempts to help us understand what events or actions
 actually influence others. For example, did the advertisements influence
 consumers to purchase? Or did the predictive models simply do a good
 job of identifying those consumers who would have purchased anyway?
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Techniques for causal modeling include those involving a substantial
 investment in data, such as [randomized] controlled experiments (eg,
 so-called [“A/B tests”]), as well as sophisticated methods for drawing
 causal conclusions from [observational] data.
 
-** Supervised Versus Unsupervised Methods  :drill:
+*** Supervised Versus Unsupervised Methods 			      :drill:
 The terms supervised and unsupervised were inherited from the field
 of [machine learning]. Metaphorically, a teacher “supervises” the learner
 by carefully providing [target] information along with a set of examples.
@@ -314,12 +314,12 @@ would not include the [target] information. The learner would be given
 no information about the [purpose] of the learning, but would be left
 to form its own conclusions about what the examples have in common.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Technically, another condition must be met for supervised data mining:
 there must be [data on the target]. It is not enough that the [target]
 information exist in principle; it must also exist in the [data].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Supervised] tasks require different techniques than unsupervised tasks do,
 and the results often are much more [useful]. A supervised technique is
 given a [specific purpose] for the grouping—predicting the target.
@@ -327,54 +327,54 @@ given a [specific purpose] for the grouping—predicting the target.
 similarities, but there is no guarantee that these similarities
 are [meaningful] or will be useful for any particular [purpose].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Acquiring data on the [target] often is a key data science [investment].
 The value for the target variable for an individual is often called
 the individual’s [label], emphasizing that often (not always) one
 must incur expense to actively [label] the [data].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Classification, regression, and causal modeling generally are solved
 with [supervised] methods. Similarity matching, link prediction, and
 data reduction could be [either]. Clustering, co-occurrence grouping, and
 profiling generally are [unsupervised]. The fundamental principles of
 data mining that we will present underlie all these types of technique.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Classification], [regression], and [causal modeling] generally are solved
 with supervised methods.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Similarity matching], [link prediction], and [data reduction] can be
 solved with either supervised or [unsupervised] methods.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 [Clustering], [co-occurrence grouping], and [profiling] generally use
 unsupervised methods.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Classification, regression, and causal modeling generally are solved
 with [supervised] methods.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Similarity matching, link prediction, and data reduction can be
 solved with [either supervised or unsupervised] methods.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Clustering, co-occurrence grouping, and profiling generally use
 [unsupervised methods].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Two main subclasses of [supervised learning], classification and regression,
 are distinguished by the type of target. Regression involves a [numeric]
 target while classification involves a [categorical (often binary)] target.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 Two main subclasses of supervised learning, [classification] and [regression],
 are distinguished by the type of target. [Regression] involves a numeric
 target while [classification] involves a categorical (often binary) target.
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 For business applications we often want a [numerical prediction] over a
 [categorical target]. In the churn example, a basic yes/no prediction of
 whether a customer is likely to continue to subscribe to the service
@@ -383,24 +383,24 @@ will continue. This is still considered [classification] modeling rather
 than [regression] because the underlying target is [categorical]. Where
 necessary for clarity, this is called [“class probability estimation.”]
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 A vital part in the early stages of the data mining process is (i) to
 decide whether the line of attack will be [supervised] or [unsupervised],
 and (ii) if [supervised], to produce a precise definition of a [target]
 variable. This variable must be a specific [quantity] that will be the
 focus of the data mining.
 
-** The Data Mining Process
-*** Drill  :drill:
+*** The Data Mining Process
+**** Drill 							      :drill:
 Data science is a [craft]. As with many mature crafts, there is a
  well-understood [process] that places a structure on the problem,
 allowing reasonable [consistency], [repeatability], and [objectiveness].
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 A useful codification of the data mining process is given by the
  [Cross Industry Standard Process for Data Mining] (CRISP-DM).
 
-*** Drill  :drill:
+**** Drill 							      :drill:
 A useful codification of the data mining process is [CRISP-DM] (abbv).
 
 *** TODO - Add illustration Figure 2-2.1 Figure 2-2.
