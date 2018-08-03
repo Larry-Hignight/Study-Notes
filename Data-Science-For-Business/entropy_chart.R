@@ -29,5 +29,7 @@ entropy_chart <- function(segments, entropy_f = function(x) if (length(x) == 1) 
     y.height <- round(max(entropy_measure) + .5, 0)
   }
 
-  barplot(height = entropy_measure, width = seg_len / sum(seg_len), space = 0, ylim=c(0, y.height))
+  seg_proportion <- seg_len / sum(seg_len)
+  barplot(height = entropy_measure, width = seg_proportion, space = 0, ylim=c(0, y.height))
+  sum(entropy_measure * seg_proportion, na.rm = TRUE)
 }
