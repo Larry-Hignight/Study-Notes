@@ -3,18 +3,18 @@ by Foster Provost and Tom Fawcett
 Published by O’Reilly Media, Inc.
 
 ** Preface
-*** Deliberately avoided an algorithm-centered approach
-*** Relatively small set of fundamental concepts / principles
-*** Concepts / Principles that...
-*** Underlie techniques for extracting useful knowledge from data
-*** Serve as the foundation for well-known data mining algorithms
-*** Underlie the analysis of data-centered business problems
-*** Creation and evaluation of data science solutions
-*** Concepts:  Similarity, Lift,
-*** Mathematical details are relegated to optional “starred” sections
-*** Two web pages for this book w/ errata, examples, additional info:
-**** Publisher’s page at http://oreil.ly/data-science
-**** Authors’ page at http://www.data-science-for-biz.com
+- Deliberately avoided an algorithm-centered approach
+- Relatively small set of fundamental concepts / principles
+- Concepts / Principles that...
+- Underlie techniques for extracting useful knowledge from data
+- Serve as the foundation for well-known data mining algorithms
+- Underlie the analysis of data-centered business problems
+- Creation and evaluation of data science solutions
+- Concepts:  Similarity, Lift,
+- Mathematical details are relegated to optional “starred” sections
+- Two web pages for this book w/ errata, examples, additional info:
++ Publisher’s page at http://oreil.ly/data-science
++ Authors’ page at http://www.data-science-for-biz.com
 
 ** Chapter 1. Introduction: Data-Analytic Thinking
 **** The Ubiquity of Data Opportunities 			      :drill:
